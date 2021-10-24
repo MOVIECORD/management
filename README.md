@@ -15,3 +15,4 @@ https://moviecord.github.io/management/all.xml
 - https://moviecord.github.io/management/naverpost_sem.xml
 - https://moviecord.github.io/management/naverpost_amanproject.xml
 - https://moviecord.github.io/management/naverpost_studiosanta.xml
+- https://moviecord.github.io/management/naverpost_different.xml
