@@ -1,0 +1,19 @@
+[naverpost_YNK]
+title = "네이버 포스트 ─ YNK엔터테인먼트"
+url = "https://post.naver.com/my.naver?memberNo=33175148"
+entrySelector = "ul.lst_feed li._cds.check_visible"
+titleSelector = "strong.tit_feed.ell"
+linkSelector = "div.text_area a.link_end"
+imageSelector = "div.image_area a img"
+contentSelector = "p.text_feed.ell"
+waitUntil = "networkidle"
+
+[naverpost_keyeast]
+title = "네이버 포스트 ─ 키이스트"
+url = "https://post.naver.com/my.naver?memberNo=29770009"
+entrySelector = "ul.lst_feed li._cds.check_visible"
+titleSelector = "strong.tit_feed.ell"
+linkSelector = "div.text_area a.link_end"
+imageSelector = "div.image_area a img"
+contentSelector = "p.text_feed.ell"
+waitUntil = "networkidle"
