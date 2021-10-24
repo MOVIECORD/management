@@ -11,3 +11,5 @@ https://moviecord.github.io/management/all.xml
 - https://moviecord.github.io/management/naverpost_sidushq.xml
 - https://moviecord.github.io/management/naverpost_h-and.xml
 - https://moviecord.github.io/management/naverpost_acefactory.xml
+- https://moviecord.github.io/management/naverpost_kkbyss.xml
+- https://moviecord.github.io/management/naverpost_sem.xml
