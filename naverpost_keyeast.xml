@@ -4,18 +4,9 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 14:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 15:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[초록우산 타고
-날아온 훈훈 요정ꢭ]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32615150&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32615150&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 24 Oct 2021 13:58:40 GMT</pubDate>
-            <content:encoded><![CDATA[아이들의 목소리에 귀 기울이는 초록우산의 #아이들의목소리 캠페인!ꢭ훈훈함ꢭ이 가득한 현장에 나타난배우 채정안#아이들의캠페인 홍보대사로 행사에 참여하게 되었는데요!위촉장도 받고,캠페인의 의미를 담은 퍼포···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjJfMjk4/MDAxNjM0OTEwMTc1MDU0.7vHFVhx7ZRXhYAXWKe6-GgtBAo3gsClPGKTPLTjdBpog.7ik-XZNEvTYZ9zOoFgIlZUPtiV7Y2uNgzPB94IEv3-cg.JPEG/IwmStkK7KzrIuwEflW1JCMdoKmfA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[SNL코리아에 뜬 대상 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32611689&amp;memberNo=29770009</link>
@@ -170,6 +161,14 @@
             <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
             <content:encoded><![CDATA[성큼성큼 다가오고 있는 가을,어떤 옷을 입어야 할지 고민된다면?✧가을 패션의 바이블✧가을의 인간화✲ﾟ*채정안 배우의 가/을/패/션 TIP을 단. 독. 공. 개. 합니다!다양한 컨셉안이 붙어 있는 이곳,얼굴을 가리고 있···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDhfMjY4/MDAxNjMxMDkzMjY0MTc5._hjRVxDic-c_JOTfB8twWh930VHfZHsNRosLp-t8thAg.IgvfGTmEp1DkzYjXP3Jr84FRXOEdhpTBJBlF7na1u04g.JPEG/Is-epzaX3zp1OA2pBZ8cdstnJs8I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프로 데뷔러의 세 번째 직업]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32324596&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32324596&amp;memberNo=29770009</guid>
+            <pubDate>Sun, 24 Oct 2021 15:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[상상에 상상을 더하는 것도 아니고 데뷔에 데뷔를 더하고 벌써 세 번째 데뷔를 앞둔 배우가 있다!?스타일리시한 편집장 ...이 아니고네이버 NOW. 이동휘가 만드는 보이는 매거진 쇼 &lt;Orange tag&gt;세상 사람들 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDdfMjEg/MDAxNjMwOTkwMzE1NDA1.YJlwC6MLufLd2Zl21-oHgzIJt54gIt6edQFr8Mk8eB8g.v1V2aFNbK1h33At6OA1lnflqsaFf1uJo5CWdQYipCIgg.JPEG/IWMQ-OlVkEvYGUXKKR5mfb2z7phQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
