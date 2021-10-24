@@ -107,3 +107,13 @@ linkSelector = "div.text_area a.link_end"
 imageSelector = "div.image_area a img"
 contentSelector = "p.text_feed.ell"
 waitUntil = "networkidle"
+
+[naverpost_kkbyss]
+title = "네이버 포스트 ─ 킹콩 by 스타쉽"
+url = "https://m.post.naver.com/my.naver?memberNo=35839671"
+entrySelector = "ul.lst_feed li._cds.check_visible"
+titleSelector = "strong.tit_feed.ell"
+linkSelector = "div.text_area a.link_end"
+imageSelector = "div.image_area a img"
+contentSelector = "p.text_feed.ell"
+waitUntil = "networkidle"
