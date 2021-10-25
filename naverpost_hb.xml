@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 03:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 04:30:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김지은] 검은 태양을 빛(낸)제이]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32606747&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32606747&amp;memberNo=3247896</guid>
+            <pubDate>Mon, 25 Oct 2021 04:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요.요원 여러분(0명)왔다네 왔다네 치비가 왔다네-!지난 토요일MBC &lt;검은 태양&gt;과 작별하며 눈물로 주말을 지세웠을 요원들을 위해서프ㄹrㅇi즈한 선물을 들고 왔습니다!! (총총총) 기다리는 시간조차 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjJfMjkx/MDAxNjM0ODg4NDE2NzUz.LUu1gLXUDWFWVlUNUJETUOdlVl6Y4pXE-E7AnBq5YE4g.jC1Ga79yCo6O6WMR62vlay_8bxtPzUQwAwT1JVRF31og.JPEG/I_VRI4I7EqMTJYobdywoocNtHxt4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘부터 제 최애는 [김재영] 배우가 아닙니다 (※단호주의※)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32534763&amp;memberNo=3247896</link>
@@ -159,15 +167,6 @@
             <pubDate>Sun, 24 Oct 2021 12:58:19 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요~ 여러분~! 치비가 시크 도도 걸크러시 포스 작렬하는 '한지은 배우'의 소식을 들고 왔습니다!! MU~YAHO☆지난 3월 10일 (수) 방송된 tvN 단막극 'EP. 안녕 도로시'에서 디지털 장의사 안도영 역을···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMTVfMjgw/MDAxNjE1NzcxNzUyNzkx.6Sg5uccec_U4etOiUTmXuWOTefdeJ4AMI7IuvJhfoeAg.SJz2hWvpXYIYQjkYiS5mpeIrBDXHY_4QmKg5j1ba-GMg.JPEG/IZ2OmMoupU3UqBXazY10HMiZTLbU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[차예련] 美의 여신 차프로디테, 
-현실판 아프로디테]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30898086&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30898086&amp;memberNo=3247896</guid>
-            <pubDate>Sun, 24 Oct 2021 12:58:19 GMT</pubDate>
-            <content:encoded><![CDATA[두-둥! 차예련 배우님이 &lt;Allure SKIN TRAINER&gt;로 선정되었습니다~! ヾ(◍˃̶ᗜ˂̶◍)ﾉ” ʸᵉᵃʰᵎ (우와아아아아아)&lt;그녀의 일상을 따라다니는 카메라&gt; 셀프 카메라와 관찰 카메라가 교차···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMDlfMjQ2/MDAxNjE1MjY0NzMwNTg5.JyoITdWSCN0ZZTehU0Qb3qpt5ljQZl1T0R4B_yidE5og.WMsRT7jR7U5u8sbVDhAO9r-E8WpViMfU6U77jIoAWtEg.JPEG/IcTGR_VIfwCOqRcqb2h6Om_i0lcI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
