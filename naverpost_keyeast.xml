@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 13:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 14:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초록우산 타고
+날아온 훈훈 요정]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32637793&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32637793&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 27 Oct 2021 14:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[아이들의 목소리에 귀 기울이는 초록우산 #아이들의목소리 캠페인!훈훈함이 가득한 현장에 나타난배우 채정안#아이들의목소리 캠페인 홍보대사로 행사에 참여하게 되었는데요!위촉장도 받고,캠페인의 의미를 담은 퍼···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjZfMjMx/MDAxNjM1MjM5ODExNDM4.tmifmiHD-QedZX_J194qZsodMXiszaPDuuhqwdOtrTIg.mWN_i_-mkMEtligFRL7-xxxL0K4ARbkKKPePREKoA8wg.JPEG/ITV6Hzlw76sQsrUFRL9uUCD5L9cQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예뻐서 킹받는다는 
 김동욱의 충격 근황]]></title>
@@ -163,14 +172,6 @@
             <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
             <content:encoded><![CDATA[헤어진 남자친구를 우연히 다시 만날 확률은? 그것도 일로 만나게 된다면? 그런데 진짜 그런 일이 일어나고야 말았습니다.나, 길선화 영화 로케이션 매니저 영화의 촬영지를 찾고 섭외하는 일을 한다.그런데 이 상황···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfMTg3/MDAxNjMxNzU5NjQwOTUx.wwELPHaS9cnWb6ffvUAD1PY69KNfFEyCFjmcxjcq2uIg.582Qnx94-f2cczZYIv5jT8aJuJwP9yF2Tt70eWn0n9cg.JPEG/IwWm14LKf17svQmTcBguepRPpdKY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BBO득한 조보아 비주얼 근황]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32379077&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32379077&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[평화로운 한강에금방이라도하늘로 뾰로롱~❁ 승천할 것만 같은˛ε천상계 비주얼з¸의 소유자가 나타났다고 하는데요! 키동이가 그 현장을 찾아가 봤습니다! 모두 심장 잘 붙들고 따라오세요~!반갑게 손 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTRfMjQg/MDAxNjMxNjA4MjEzODM3.ZtDn5OQmk7PF_i_UzgNM86FKa5mEgVg5_yL9GQCstgcg.3T-MpygSG_m7pLPwy3x2Ksy7vv4aXOvYPg4AwWD71Xwg.JPEG/Ir0m660vmpVuAYjGSDDLwzcEYiD8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
