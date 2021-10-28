@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 13:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 14:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 산타 화보 단독 공개]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32645708&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32645708&amp;memberNo=31542741</guid>
+            <pubDate>Thu, 28 Oct 2021 14:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[※단 독 공 개 ※ 여러분을 위해 준비한 건일 배우의 아주 '특별한' 화보깜짝 놀라시라고 비밀로 준비했어요(?) (자랑하고 싶어 안달)산타X박건일 특별하고 특별했던 콜라보 화보 컷은 물론 인터뷰까···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjhfMTE4/MDAxNjM1NDA5ODAyNDUz.KcXQZ21ohx3KpNykb66Vu-KaCl-09jy6u9GVv_nqrpEg.e-tG49ShLyQdwlOnyvZAiQ20woHVhdy9LSuwtkuju6Mg.JPEG/IhSrvAJhvdkd6HgNuSSMouYCL5eg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제작사 배 아프게 만든 배우]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32637800&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Oct 2021 14:00:23 GMT</pubDate>
             <content:encoded><![CDATA[눈 깜빡했더니 벌써 9월 (◕︵◕) "8월을 어떻게 보냈지?" 하는 여러분들을 위해 준비한! 쨘 ! 8月의 ★'화뉴스'브리핑★ 하나도 놓칠 수 없는 산타와 함께한 8월 정리하러 출바알♬Casting성오 배우의 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MzFfMTcy/MDAxNjMwNDE2ODg2MjAy.QQMHF6yfzL3dEd83GAOk-5fnsvm-zTT2H6ORuAkHRE0g.HeOBYr7xlrhZ_dhbwcvuxneLNl_YwOcvAN0pobMxcn4g.JPEG/IBD_7nL4DXkm40VC1Rb-zFg8vFy8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜로에 진심인 빌런]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32270115&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32270115&amp;memberNo=31542741</guid>
-            <pubDate>Sun, 24 Oct 2021 14:00:23 GMT</pubDate>
-            <content:encoded><![CDATA[타겟은 황정민 목적은 돈그리고 &lt;인질&gt; 100만 돌파! 더 더 더 드루와 드루와연기 혼을 불태운 작품을 알아봐주신 100만 관객의 선택 순둥순둥 본캐 류경수 배우의 100만 인증샷 (찡-긋)사실,,,꾸울꺼···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MzBfMjUw/MDAxNjMwMzMwNjMzMDYy.WkSQOngZY4dAJiCGD69zBnM7mk3miFUZR-AKREsdTBIg.ZC0FjQMv5okHthGl-jKVARVz5mCCsvOhcWjiUVuWu50g.JPEG/IjiBKcuUSOW4kjARe9u6_2qtzgT8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

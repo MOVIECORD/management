@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 13:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 14:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과거가 궁금하다면 [클릭]]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32645705&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32645705&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 28 Oct 2021 14:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 여러분~ 키동이에요 ㅎㅎ 지난주 MBC 금토드라마 &lt;검은 태양&gt;이 대장정의 막을 내렸습니다국정원 인물들의 중심으로서 극의 충격적인 전환점이 되었던 우리 서수연 팀장님은요1년 만에 만난 동료 지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjhfMjQy/MDAxNjM1NDE0NTA5NDAz.3F5lszyqdsaX25FyDErL0_TUT_1UZyap_VvQXiGoes0g.W4j5YDM27ObP3OwjDiYFR1rmb8ECvuS6MasGoHMlw9Ag.JPEG/IOQkJZzqQA8DBRasTkoReCNFYZ_c.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초록우산 타고
 날아온 훈훈 요정]]></title>
@@ -163,15 +171,6 @@
             <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
             <content:encoded><![CDATA[기억해내. 무슨 수를 써서라도 키동이 콘텐츠를 기억해내라고!!!!!탕-! 탕-! -여기까지^^- 여러분 안녕하세요~~키동입니다 화제의 MBC 금토 드라마 &lt;검은 태양&gt;의 범죄정보통합센터 서수연 팀장의 명대사로 시···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjFfMTMw/MDAxNjMyMjEyNDAwMDM3.OEHiVZnMBckYmSuwTc0WU8JpANZvcbCf907YRLxoUGUg.MgYvo5A8cTpjy8pVKgg45qo2J7sKu7gL0Ms03_kCr88g.JPEG/I3Fi3GStF1MgwL4dOv2xTmeikyxw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 남친과 우연히 
-마주쳤다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32387489&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32387489&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[헤어진 남자친구를 우연히 다시 만날 확률은? 그것도 일로 만나게 된다면? 그런데 진짜 그런 일이 일어나고야 말았습니다.나, 길선화 영화 로케이션 매니저 영화의 촬영지를 찾고 섭외하는 일을 한다.그런데 이 상황···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfMTg3/MDAxNjMxNzU5NjQwOTUx.wwELPHaS9cnWb6ffvUAD1PY69KNfFEyCFjmcxjcq2uIg.582Qnx94-f2cczZYIv5jT8aJuJwP9yF2Tt70eWn0n9cg.JPEG/IwWm14LKf17svQmTcBguepRPpdKY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
