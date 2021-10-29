@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 13:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 14:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연인이 살인범이라고 자백했다.]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32652836&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32652836&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 29 Oct 2021 14:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[엘리트 형사로 살아가던 어느 날,사랑하는 연인이내 아버지를 죽였다고 자백한다면?어지러운 퍼즐 속을 파헤쳐나가는 키플레이어, 형사 유희 역으로 돌아온 배우 고/아/성드디어 오늘! 첫 공개된 크라임 퍼즐사전 공···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjZfMjgx/MDAxNjM1MjQwNDI3MzM5.FdTkbrJXSBDVGRgtzqOJ4ZGTqwhg-B6g9lYjhptq-vcg.L8dhwqGn3qum84nwVyqSgUp3w1lXT2bT4rcpIgbOt0kg.JPEG/IhmOqZJR2UIfwh1ykhUsayJh6tJM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과거가 궁금하다면 [클릭]]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32645705&amp;memberNo=29770009</link>
@@ -163,14 +171,6 @@
             <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
             <content:encoded><![CDATA["찢었다!!"이 말밖엔 안 나오는 이번 &lt;얼루어&gt; 10월호!매진 자동 예약 매거진 커버도 역대급으로 탄생시킨 배우 패딩을 입어도 섹시하고,카리스마는 말해 뭐해이름만으로도 심장이 터질 것 같은독보···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMTA0/MDAxNjMyODc5ODAxMTU2.4YSi8FPqDX0btjSPOUkT1jB7K0pKho3s7Ty8iNW48zkg.L0DcpL3qLzlFbxw_QDuc32GURnWIz8neYouCCRPZMhUg.JPEG/I2gOWEuPVj-8jAMKvZWh78exWlXU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[속보] 소속 밝혀진 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32413142&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32413142&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[기억해내. 무슨 수를 써서라도 키동이 콘텐츠를 기억해내라고!!!!!탕-! 탕-! -여기까지^^- 여러분 안녕하세요~~키동입니다 화제의 MBC 금토 드라마 &lt;검은 태양&gt;의 범죄정보통합센터 서수연 팀장의 명대사로 시···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjFfMTMw/MDAxNjMyMjEyNDAwMDM3.OEHiVZnMBckYmSuwTc0WU8JpANZvcbCf907YRLxoUGUg.MgYvo5A8cTpjy8pVKgg45qo2J7sKu7gL0Ms03_kCr88g.JPEG/I3Fi3GStF1MgwL4dOv2xTmeikyxw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

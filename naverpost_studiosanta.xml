@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 13:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 14:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈망울이 '카페'인 배우]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32652837&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32652837&amp;memberNo=31542741</guid>
+            <pubDate>Fri, 29 Oct 2021 14:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[한가한 오후, 카페에서 커피 한 잔 완전 힐링 포인트 아닌가요?그런데 그런 은은향 향을 풍기는 작품이 등장했으니! 바로 카카오TV &lt;커피 한잔 할까요?&gt;박석(박호산 분)의 연인이자, 2대 커피의 단골 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjlfMjkz/MDAxNjM1NTE0NzA5ODgy.yPOYKJO3Ec1gRQ6s4Pxdw-XPapSGrraL4o37evBnmXwg.9-ivu6ThD5oxa-CLDiClqfEyni36TFaS7P6Dj-vaP1Qg.JPEG/IoBZbq1VdlNn1QNqU-afKknUW6vQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[속보] 산타 화보 단독 공개]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32645708&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Oct 2021 14:00:23 GMT</pubDate>
             <content:encoded><![CDATA[분명 구면인데... 매번 초면인 것 같은 배우가 있다?언제나 자유자재로 캐릭터를 변신하며 매 작품마다 색다른 모습을 보여주고 있는 류경수 배우!!장르가 류경수인 &lt;류경수표 캐릭터 변천사&gt;산타캠과 함께 살···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDJfMjkz/MDAxNjMwNTg3MTA3NTI0.sCIkqsFM4mJPRrOzAbjp7-WrSfsiYMrSOlgA_CebC0Eg.YIWavsj4_iJFkcKGSy1bGTZ-U2ZoKCTj3RqWNuMmuTkg.JPEG/I9HupIEdlqgftY_hF83zw-2_rP3E.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을이 기다려지는 이유]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32285729&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32285729&amp;memberNo=31542741</guid>
-            <pubDate>Sun, 24 Oct 2021 14:00:23 GMT</pubDate>
-            <content:encoded><![CDATA[눈 깜빡했더니 벌써 9월 (◕︵◕) "8월을 어떻게 보냈지?" 하는 여러분들을 위해 준비한! 쨘 ! 8月의 ★'화뉴스'브리핑★ 하나도 놓칠 수 없는 산타와 함께한 8월 정리하러 출바알♬Casting성오 배우의 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MzFfMTcy/MDAxNjMwNDE2ODg2MjAy.QQMHF6yfzL3dEd83GAOk-5fnsvm-zTT2H6ORuAkHRE0g.HeOBYr7xlrhZ_dhbwcvuxneLNl_YwOcvAN0pobMxcn4g.JPEG/IBD_7nL4DXkm40VC1Rb-zFg8vFy8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
