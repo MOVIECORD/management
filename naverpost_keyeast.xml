@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 13:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 14:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장르가 판타지인 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32656198&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32656198&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 30 Oct 2021 14:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[여기 바로 신비로운 능력을 가진 사람이 있습니다사실 사람이라고 확신할 수 없어요인간의 비주얼이 아니거든요그를 한 번이라도 보면 절대 잊을 수 없는 마법에 걸리게 되는데요몽환적인 분위기와 독보적인 아우라···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjlfMSAg/MDAxNjM1NDkzNTU0MjQw.krqnaxFaKxSJfZ5hYhztl5dlYVuQWAKvpGgTQV1QgmMg.CPJIuFEYD2qEaw2N-jdy6OxHCAO9umtnrg_ftntxsoEg.JPEG/IfFHHD_gvCnVSlf7Wws9NA50P8iM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연인이 살인범이라고 자백했다.]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32652836&amp;memberNo=29770009</link>
@@ -163,14 +171,6 @@
             <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
             <content:encoded><![CDATA[세포들판) 내 친구가 심각한 오지라퍼임.. 이해 가능한 부분?. . 얘가 평소엔 안그러거든? 근데 어느 순간 갑자기 눈이 팍-! 돌면 아무도 못 말려... 이상한 논리까지 들면서 나를 혼란스럽게 만든단 말이야.. ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDNfMTIy/MDAxNjMzMjM1ODcwNDc3.-aIAxyQaa3XtMMJWlNnxBCIa9sfD-nzFjitqSCv1Cp8g.C5I4G2AZD5OD3F-gYmfKi8fENl8REt69MZj0vWhnMn8g.JPEG/IUubYVFJA32oT_s--kAMcYpxxKHE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패딩을 입어도 섹시한 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32468771&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32468771&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
-            <content:encoded><![CDATA["찢었다!!"이 말밖엔 안 나오는 이번 &lt;얼루어&gt; 10월호!매진 자동 예약 매거진 커버도 역대급으로 탄생시킨 배우 패딩을 입어도 섹시하고,카리스마는 말해 뭐해이름만으로도 심장이 터질 것 같은독보···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMTA0/MDAxNjMyODc5ODAxMTU2.4YSi8FPqDX0btjSPOUkT1jB7K0pKho3s7Ty8iNW48zkg.L0DcpL3qLzlFbxw_QDuc32GURnWIz8neYouCCRPZMhUg.JPEG/I2gOWEuPVj-8jAMKvZWh78exWlXU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
