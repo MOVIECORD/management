@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 08:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 09:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[정수정] 확신의 매거진 커버상]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32655336&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32655336&amp;memberNo=51396641</guid>
+            <pubDate>Sat, 30 Oct 2021 09:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[반짝반짝 크리스탈처럼 빛나는 수정 배우를 본 순간핸디터에게 짜르르 온 FEEl정수정 is 확신의 매거진 커버상핸디터가 확신할 수 있었던 이유! 수정 배우가 매거진 '데이즈드' 10월 호 커버와 화보 주인공으로 변신···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjhfMjcw/MDAxNjM1NDI2Mzg4MDMx._m8qW0U40OwP0GpM8a3B_hcik1oFxL3KJoSXrO4Bm3wg.xMajvjzbqDM_ZRDXHHV_we2dYcwigPfMeh5Zb3onWhgg.JPEG/I92epymX455YDnQeb3617DmxzwQY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[천우희] OOO의 아이콘]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32584269&amp;memberNo=51396641</link>
@@ -161,14 +169,6 @@
             <pubDate>Sun, 24 Oct 2021 13:06:48 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 오늘도 행복한 소식을 들고온 핸디터에요~ KBS 2TV 월화드라마 '멀리서 보면 푸른 봄'이 종영한지 벌써 일주일이 지났어요. 강민아 배우가 없는 봄요일... 기운이 안나고, 축축 쳐지는 것만 같았다고요?···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjZfNjkg/MDAxNjI3Mjg2OTEzNTUw.x31MwayIMy5PJhRN8O3IKLzi8ijTdJSTcNIe-synbA8g.l1yHDRmz6KNrDHiUxzCXdLC5wV73ldd77Y8d0FpuhVgg.JPEG/IvGlD1uKwS1Kv7BbDl4ILwgnSM8c.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[강민아]가 지나온 청춘의 봄]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32014117&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32014117&amp;memberNo=51396641</guid>
-            <pubDate>Sun, 24 Oct 2021 13:06:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 핸디터입니다.여러분 모두.... 눈물샘... 안녕하신가요? 바로 어제(20일) 매주 월요일, 화요일 여러분과 함께했던 KBS 2TV '멀리서 보면 푸른 봄'이 막을 내렸잖아요~ (소빈이 못 보내ㅠ_ㅠ&amp;#···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjBfMTQ5/MDAxNjI2NzgzNzcxOTQy.90dQNKqRnE0gIsbZzQju2_aIEOugY1BkwXUvTx76jIwg.YOMXpCdfWD2vAxvfA7LoAcxG4Mn5n9G4ARRx8Tikcwcg.JPEG/I1UwW5L79701GHh2lnDYefxrscSE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
