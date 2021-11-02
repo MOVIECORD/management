@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 03:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 04:30:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[✿[차예련] 꽃이 피었습니다✿]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32665829&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32665829&amp;memberNo=3247896</guid>
+            <pubDate>Tue, 02 Nov 2021 04:29:19 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요!겨울 같은 가을인...11월의 첫 번째 포스트로!!보기만 해도 마음이 몽글거리고 따수우게 하는♥차.예.련. 배우님과 함께 찾아왔습니다!*먼저!!!!! 영상 출처 : @fypc_chayeryun (차예련_틱톡) "차!!"로 시···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDFfNjEg/MDAxNjM1NzUzMjk3NTM0.p7cdE1iWrR1LDJLnzFDiGO_5l1cv9_ucbK19Lqf37I8g.deWVi6u8KmNgkN1hDFs31BVHaof2Lb5W-fltHQ1g3-Eg.JPEG/ITLT8JtIfvcGLzog7T8UNNdRLdXc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김지은] 검은 태양을 빛(낸)제이]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32606747&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Sun, 24 Oct 2021 12:58:19 GMT</pubDate>
             <content:encoded><![CDATA[안뇽안뇽 여러분~ 치비가 특별한 소식을 들고 왔습니다!!!!바로 이이경 배우가 웹 예능 '로또왕'에서 킹핵폭탄골줘스지져스메카톤갓 예능감으로 유튜브계를 뒤집어놓고 있다는 소식입니다!'로또왕'은 '촉'이 좋은 배···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMjVfMTkx/MDAxNjE2NjU4NzYyNDc4.QxgIjjXSx8jMZYCAJGjv7MQYJaKp10EJqqT3UXBoBaUg.-wGAYIlTLiszOASgrc6DVtp8iO0uXcHHuW1r0OaGdZkg.JPEG/Ikf7VnMBTNMtvcQncgMeiYX8492w.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[한지은] 시크라는 것이 폭.발.했.다. '디지털 장의사'의 걸크러시 매력 모음.zip]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30950060&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30950060&amp;memberNo=3247896</guid>
-            <pubDate>Sun, 24 Oct 2021 12:58:19 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요~ 여러분~! 치비가 시크 도도 걸크러시 포스 작렬하는 '한지은 배우'의 소식을 들고 왔습니다!! MU~YAHO☆지난 3월 10일 (수) 방송된 tvN 단막극 'EP. 안녕 도로시'에서 디지털 장의사 안도영 역을···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMTVfMjgw/MDAxNjE1NzcxNzUyNzkx.6Sg5uccec_U4etOiUTmXuWOTefdeJ4AMI7IuvJhfoeAg.SJz2hWvpXYIYQjkYiS5mpeIrBDXHY_4QmKg5j1ba-GMg.JPEG/IZ2OmMoupU3UqBXazY10HMiZTLbU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
