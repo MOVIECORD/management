@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 07:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 08:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트]
+11월의 BH ON AIR]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32688050&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32688050&amp;memberNo=21724264</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:52 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDRfMjY2/MDAxNjM2MDExMjE5Nzcy.T2gRXWAn_wOMNDdCNTIKv3rwOv5bRzepaI_DnijaqSIg.T7ECncXa0v3p2wNKqzTFBoTmvvyMMe6tBl6TbII7e8kg.JPEG/IG3EMbG19oaUMoSc8LpxXnPMiYgA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 회사에 [진영] 대리님 있다.]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32587981&amp;memberNo=21724264</link>
@@ -167,14 +175,6 @@ HYO JOO]]></title>
             <pubDate>Sun, 24 Oct 2021 12:49:03 GMT</pubDate>
             <content:encoded><![CDATA[번쩍★ 섬광과 함께 찾아온 진영 이날 조명 하나도 안쳤잖아요 진영이 &gt;&gt;빛&lt;&lt; 이니까 밝게 내리쬐는 햇살 진영 빼꼼 내다보는귀욤 진영 쫑긋 경청하는집중 진영 하지만그중에서도 제일은 휴 놀래라 찐으···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjZfMjM3/MDAxNjIyMDIwODgxNjcx.uAbnIWcIYn9oO97gPinjGmUcWkIdWPKdtbWYi0yicSYg.2PKWd-ZnK9jjsS51qF0FTxnUGePhzHdE2Ia0zBZ-x68g.JPEG/IyNQpQlVqIRPPqiJXgMDGasiPXdU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BH엔터테인먼트]
-6월의 BH ON AIR ●]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31652974&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31652974&amp;memberNo=21724264</guid>
-            <pubDate>Sun, 24 Oct 2021 12:49:03 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MDNfNjYg/MDAxNjIyNjk3MjkwMzcw.8VOHqFIwR3_poYiqLdwGFtEycxNy4s24D8ncsahE8PYg.VDxLSejm2ppYezpSWfcKUFqxuEcgEevs_1jUYt8yxukg.JPEG/IXJw5HYHN9G8XfZu-bXuNvdZZR_0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
