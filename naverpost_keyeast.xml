@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 13:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 14:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 한강 안가는 이유]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32690105&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32690105&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 04 Nov 2021 14:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[저 키동,, 요즘 한강 안가잖아요아성 배우 사진만 봐도 이렇게 마음이 넓어지고 스트레스가 확 풀리고 눈도 맑아지고 정신도 맑아지는데굳이 한강을 왜 가요?장르물 장인, 연기 천재 배우 고아성이 첫 OTT 작품 '크···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDRfODQg/MDAxNjM2MDE2OTE2MzY4.Yrli1dKzQ82n-yONEwzMU8zhHhl4Q2wIraNkXebj3ywg.CF_a8VodSgc9u08Hea_Uy1wjv7ccvJfR-HAX3tKacsEg.JPEG/I7pOLIAkAs4VPwfbWYxJg0ei2Q6I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소속사 걱정하게 만드는 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32682640&amp;memberNo=29770009</link>
@@ -163,14 +171,6 @@
             <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
             <content:encoded><![CDATA[깊은 눈빛과사진을 뚫고 나오는 카리스마,압도적인 분위기로NEXT LEVEL 임을 온몸으로 보여준 채정안 배우의 BAZAAR 화보!A컷과 B컷의 경계를 나눌 수 없는~어나더레벨~의 현장으로 여러분을 안내합니다!한적한 해변···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDdfMTU1/MDAxNjMzNTg2OTIwMzQx.jQ6dsXpgtJ5dj0r6JX4t-W6XywypCenTxgzo1GOWMbgg.S5q28UrZ_cXftIMbjGIczKs2U3Qr_Mf67WMUfMY_1iQg.JPEG/Ia8JTctp1FfQ24uEFSef5cJoIRqE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반박불가 끼쟁이 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32511930&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32511930&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[치명적인 섹시함으로 온갖 화보를 찢고 다니는 배우가 있다?!카메라 앞에 서자 순식간에 바뀌는 표정과고차원적 포즈쉽게 소화할 수 없는 올백머리와 강렬한 색감의 의상까지 완.벽.소.화문가영은 화보도 찢고키동이···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDdfMTkx/MDAxNjMzNTg4NzMxMjcw.TDERMeiEpXzYOS29IZDTnTe_IWAjbbDLD28dXSLbwlgg.yVn_5HMfIs2h_b0gA7DX__ReNlA7xC75GbhtGwUOORgg.JPEG/IjrSkL4l1BIkfe2PiQXkbkD079Gw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
