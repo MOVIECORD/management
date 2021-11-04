@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 09:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 10:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 배우가 지구과학 선생님이라면]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32689232&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32689232&amp;memberNo=51396641</guid>
+            <pubDate>Thu, 04 Nov 2021 10:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[분명, 다큐멘터리라고 해서 TV를 틀었는데... "주지훈 배우가 거기서 왜 나와?" 하고 생각하셨다고요?네!! 맞습니다!!! 주지훈 배우가 처음으로 다큐멘터리 프리젠터로 나섰습니다.주지훈 배우의 다큐멘터···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDRfMjc0/MDAxNjM1OTU1NjE3MTgw.14EyPWnN6X9g3aF_1NMxEBBbZhTeIrrh8QO4TEsR2Ncg.etuGZfLzvn48b8H1_LOPrIdGzd0tW5tRlryGtin28A0g.JPEG/IgD2lgPiaJtnha7eIct5npSMYq68.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘의 선물 [곽동연]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32680255&amp;memberNo=51396641</link>
@@ -160,15 +168,6 @@
             <pubDate>Sun, 24 Oct 2021 13:06:48 GMT</pubDate>
             <content:encoded><![CDATA[오늘도 어김없이, 여러분의 안구 복지를 위해 핸디터가 가져온 선.물.영화진흥위원회의 글로벌 캠페인! '코리안 액터스200'에 H&amp;엔터테인먼트에서는 주지훈, 정려원, 정수정 배우가 함께했습니다.'코리안 액터스···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDhfMjM0/MDAxNjI4NDIzMjYzNjcz.bGMJxQNkvGnv6Y___2OLHvySJJdfJzrYu3SZRqDmWBUg.UfnVGZJpYDhhy9XM_s-m-vAlu-wLZuY_cZyWFpqic6Ag.JPEG/IQqBij_NCKB1XsVS7iqQQH02BGgo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[군인에서 경찰이 된 
-[정수정]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32062909&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32062909&amp;memberNo=51396641</guid>
-            <pubDate>Sun, 24 Oct 2021 13:06:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요~ 핸디터입니다!에이치앤드 포스트에 뜬 NEW! 보고 오늘도 주인공은 누구인지 궁금하신 분들 정말 많으실텐데요. 바로~사진 힌트 나갑니다.야무진 손끝만 봐도 알 수 있는!! 바로바로! 경찰대학교 입학한 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjhfMjAg/MDAxNjI3NDYwMjEzMjc3.6RMwd0sAymieKGcofLsuumqLjWikPvZwwQyqGSSYdY0g.RwtX7Zmouo6wOL8cO5LRIsSd-wEK3Vz5Ay3Camz6wKIg.JPEG/IC0dXw5nCDPZwVK_LfLDdk5N2lDY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
