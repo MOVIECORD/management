@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 13:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 14:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[「산타」의 정체가 궁금해?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32701319&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32701319&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 06 Nov 2021 14:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[너무 의심스럽고 귀여운 산타가 나타났다?!JTBC 토일드라마 &lt;구경이&gt; 최고의 씬스틸러 산타를 모르면 손해! 일단 너무 대형견 재질이라 취향저격인 것♥산타가 궁금해?훈훈한 비주얼과 우월한 피지컬로···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDZfMzMg/MDAxNjM2MTk1OTU1ODYw.Ckit8MZVjww-JbFalaGY4TfgB1Y9BSbL3qB8l4ZDZMsg.UnOOwtbkehLA9cIR4ucEUS-vFqj1xMZG_k527n8ZeJ8g.JPEG/IhD-h9XSEOEiJer1SvYRZLl4qH4w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청초함 끝판왕의 등장]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32697321&amp;memberNo=29770009</link>
@@ -162,14 +170,6 @@
             <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
             <content:encoded><![CDATA[다들 촉촉한 날들 보내고 계시나요? 너무나도 오랜만에 우리배우와 함께 찾아온 키동이입니다!( ⁎ᵕᴗᵕ⁎ )오랜만에 우리 배우 근황을 공개할 생각에 두근 거리는 마음을 안고 찾아간 우리 배우 촬영장!어김없···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTJfMTI5/MDAxNjM0MDA3MDUwMDcy.GojeT3QaMKqkMYXgdQI_OjoRP8PZteNRu14FlzgUkLkg.794XF1NdhdUhQSoSWIx10gYjChGujG4JqQV1Xxjy2Bsg.JPEG/ItcR7ccR6-Yg8UNtcmj3ycNEc1G8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 패셔니스타 고양이 갈로 데뷔]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32530060&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32530060&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[패셔니스타 고양이, 그게 바로 접니다.데뷔 n년차의 스킬이 느껴지는 시선 처리와앙증맞은 포즈로 집사님과의 케미까지 선보인패셔니스타 갈로의 데뷔기! 플러스! 갈로와 찰떡궁합을 보여준 동휘 배우의 데이즈드 화···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDhfMjg1/MDAxNjMzNjgxMjM4Nzg4.fzClVlEPhKf3nrWIXhXlKtZC36pVjbu1H1LyWbIfivAg.rPczD9OLVgSrzwg4dPQnMketwSBjlAZWFwG54ahj1nEg.JPEG/I8hrpi38XYBJbZkjyj2iQrtcnh2s.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
