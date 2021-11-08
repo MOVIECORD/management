@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 14:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 15:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제부터 6X7은 진웅]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32712534&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32712534&amp;memberNo=31542741</guid>
+            <pubDate>Mon, 08 Nov 2021 15:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[저게 지금 우리 나리가, 수사를 하겠다는 거냐 말겠다는 거냐?이언과 티격태격 할 때도 있지만그 누구보다 손발이 척척 맞는 이육구 中 '육칠' 로 화려하게(?) 돌아온!우리의 진웅 배우♥ 그리고 놓칠 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDhfMjgw/MDAxNjM2MzgyNjY2MTk5.emIm8nS8dC7kxn7JeBM7HV7PETnB0bBKFZUrHUOQi-sg.B2r4mmLltl98jFWTxy8hPVGoiZ4avSUXyCdi-KwsWyMg.JPEG/IfGAaX83mpBt19E_vyMF0qVolgs4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[육칠 꽃이 피었습니다♥]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32701317&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Oct 2021 14:00:23 GMT</pubDate>
             <content:encoded><![CDATA[민족 대명절 추석이 돌아왔습니다추석을 더욱더 재밌게 보내기 위한 ※ 필수 준비물 ※ 산타 아티스트들이 여러분들을 생각한 마음을 꾸욱꾸욱 눌러 담아 쓴 ❤언택트 추석 인사❤스크롤 ↓쭉쭉↓ 내릴 준비되셨···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjBfMjQ5/MDAxNjMyMTQ1MTA5MTQ3.-1W5UlS0MeflzezUJYR-tzydg7uE2NrrW0xaDAYb_Q0g.Z-7H3ox2lb31RsXO66FGhV7z-gZ8ZkxOxwhwuOhFNTMg.JPEG/IsiefZDiUHiRxThPIXwh0_eh4Tjg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 맘 인질 잡은 홍보요정]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32395271&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32395271&amp;memberNo=31542741</guid>
-            <pubDate>Sun, 24 Oct 2021 14:00:23 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;인질&gt; 롱런 흥행의 비밀 바로 바로, 내 맘 인질 잡은 '홍보요정'류경수 배우의 전천후 활약 "어디서 허락도 없이 그냥 가"라디오부터 무대인사, NOW까지 한번 쓰~윽 훑어보고 가셔야죱? 꼬우···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTdfMjQx/MDAxNjMxODU4ODg3MjE3.tR1E5-iHqhf2Hc8-NOEAs1de-wB1SccxY18jt3rIcr4g.hvfsYrIF6bNs8SmJt3IVKUIsikNKg8iYehi-is_10Igg.JPEG/IFQwuKFQOul1A1rlJixSnyidJNmU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
