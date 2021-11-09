@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 한아름컴퍼니 </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 07:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 08:28:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연기 말고 다른 것도 진심인 [허성태]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32717979&amp;memberNo=34451204</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32717979&amp;memberNo=34451204</guid>
+            <pubDate>Tue, 09 Nov 2021 08:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 한아름지기입니다~~ 오늘은 허성태 배우의 소식을 들고 찾아왔습니당~~ '오징어게임' 이후 다양한 곳에서 감사하게도 허성태 배우를 찾아 주셨는데요~~~ 최근 허성태 배우가 GQ와 인터뷰를 가졌습니다~~~···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDlfNjAg/MDAxNjM2NDI0MDA0NzU5.DOPYrc4iG-3e5n8E5N7K_knt47i5xgEa8FIy6qH50ekg.MHLjTjqO0MOrC0AxuE8PaxpkBQOeLpIXT0KZCYSyFX8g.JPEG/IinyoDh5_D8tWR02_9nGDGNWoKoA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[허성태]가 또?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32605093&amp;memberNo=34451204</link>
@@ -157,14 +165,6 @@
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31471400&amp;memberNo=34451204</guid>
             <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MTFfOTcg/MDAxNjIwNzAwNDY4NjMx.SuCgOPBHzkTIZmdjl7W_Swb8N8Bt814szMGqeg03yO8g.vDt5XqAPGEv8Ell1Mvb5InXlaYyp_n7WV_P8Hd3gCtQg.JPEG/IN-FSI0dhLaSLy_CoHRc1kEhwpDY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['연참3' 속 남자친구 등쌀에 코피 흘린 [이정빈]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31383379&amp;memberNo=34451204</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31383379&amp;memberNo=34451204</guid>
-            <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 한아름 지기입니다~~~ 오늘은 이정빈 배우의 소식을 들고 찾아왔는데요~~~ 바로 이정빈 배우가 지난 27일 KBS Joy '연애의 참견3'에 출연했습니다!!!! 지난 11월 방송 출연 이후, 또 한번의 '연참3' 출연···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjlfMjIz/MDAxNjE5Njc1NjAyNjQ2.XpngzDG6BHcTodtE8RdcEb_nCCj-EXX40AL1o_vPKDog.cfyE2XxxmVsIwIBh-s9jjsLi479m2ag8YCYcxw106qgg.GIF/IDaD1R2iWsuPW7cSDNAzAaUNW7uE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
