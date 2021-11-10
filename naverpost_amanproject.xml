@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 에이맨프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 23:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 01:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여기가 비주얼국
+[권나라]!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32680913&amp;memberNo=43803149</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32680913&amp;memberNo=43803149</guid>
+            <pubDate>Wed, 10 Nov 2021 01:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[부쩍 쌀쌀해진 가을이지만, 원본출처 : Esquire Korea 매거진 Esquire Korea 11월호에서또 한번 레전설 경신하며  원본출처 : Esquire Korea 우리의 눈과 마음 따뜻하게 만든 배우 '권나라' 첫 컷부터 하트가 빛나는···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDNfMTAy/MDAxNjM1OTI3MzM2ODE3.kXRdFhiQGkUGuACw8FCaesq2xcUGF1nt1j6uKtYVuWMg.59-BrKb2ghofTAV4StvPSrPknRcItFYeyUXqvP2N1fQg.JPEG/IPRb6mVO7Goc9kQ8ZdwnY3La86lY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모던 미드 센추리 
 [이종석]!]]></title>
@@ -164,14 +173,6 @@
             <pubDate>Sun, 24 Oct 2021 13:52:13 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 에이맨 지기입니다 :)!2021년 새해 신축년이 밝았습니다! 여러분 모두 새해 복 많이 받으세요 :)!!이번 2021년도 에이맨지기는 여러분의'나라'스런 생활을 위해열일할 계획입니다 ! KBS2 TV 월화드라마 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMDNfMjg5/MDAxNjA5NjYxMTk0MDI2.RCLA-_GLNZYYjmTkkSMDDYXGgcIE2hMj8aL1Uns2Ip0g.huD9Z882l1R5yieRq9g-xxZHdtbzqVqxpz_VAnJQToEg.JPEG/IvbRaW3CBM890VwIm66gbQ7wNydA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[권나라] 등장만으로 레전드 찍은 '다인이' 왔어요~' 권나라=사랑입니다♥(ft.암행어사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30328099&amp;memberNo=43803149</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30328099&amp;memberNo=43803149</guid>
-            <pubDate>Sun, 24 Oct 2021 13:52:13 GMT</pubDate>
-            <content:encoded><![CDATA[♥ 안녕하세요 에이맨 지기입니다 :) ♥!! 첫 방송부터 의미심장한 사건들과 빠른 전개로 시청자들에게 호평을 받은 KBS2 TV 월화 드라마 '암행어사'!여러분 '암행어사' 1, 2회 재밌게 보셨나요? 나···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMjRfMjEy/MDAxNjA4Nzk0MzE4MzQ5.Bl66A6hY8s-KE-j1fqIPtY52MelwUmIwjmabeZ-pHZIg.HqTSelYkgMwYS0lVcGhg1_AJHWh89UJSN6yWJXvg2H8g.JPEG/IcAEEWvnXyg87JA32432Pzlhx71g.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
