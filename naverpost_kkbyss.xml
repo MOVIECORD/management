@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 06:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 07:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[임수정]과 <멜랑꼴리아>의 운명적인 만남 ♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32722692&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32722692&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 10 Nov 2021 07:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기 입니다 :) 오늘은 기다리고 기다리던 바로 그날, (사진 출처: tvN) 배우 임수정 씨가 출연하는 tvN 15주년 특별기획 수목드라마 &lt;멜랑꼴리아&gt; 첫 방송 D-DAY (사진 출처: tvN) 타고난 수···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDlfMTEw/MDAxNjM2NDM5MjEyNzMw.nJFIFJaABZiDDuWfjoJ0yr_-HL5fAQSqJHQT1hvePc4g.QobWboXW0YvfdzTd8xGFgG7u7oCOp3cEPQaisegmEuAg.JPEG/IapmeXyI7px5A1CQ1WJ-24soinwg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엑시] 코튼캔디처럼 달콤한 입덕 요정♥]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32702740&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Oct 2021 13:20:31 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다! 공개된 이후 뜨거운 반응을 얻고 있는 넷플릭스 시리즈 &lt;D.P.&gt; &lt;D.P.&gt;를 N번 본 킹콩지기는요 ‘황장수’ 병장님을 생각하면 너무 무서워요 (사진 출처: 넷플릭스) 멀리서 쳐···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTNfMjE0/MDAxNjMxNDk4Mjc5NzU1.k6yXE7kCWkWh8gFUjn1L9UrtUVM6f2_SO2EZVxoPmxIg.sz33aQVrb9WK-KLus5bVJjuKLPzRpUPSl4SaDGdHJG8g.JPEG/ItAUF3mDoqNpNpKsD6KEFcyLwGkU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유연석] 슬기로운 정원생활]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32337061&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32337061&amp;memberNo=35839671</guid>
-            <pubDate>Sun, 24 Oct 2021 13:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다:)지난주 결방했던tvN &lt;슬기로운 의사생활 시즌2&gt;을기다리고, 또 기다리다 보니어느덧 본 방송 날이 찾아왔습니다! 그동안 가만히 있을 수 없었던 킹콩지기는정원쌤의 사진을한 장..···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDhfMjkw/MDAxNjMxMDkwOTQ1NzM5.iPcFZ8dkbCdHXkonzVolYEf64dwgkuTEbp5LkZpdyVAg.MdvmZ6wUuxGZMcTlNxV574Rv8J6DuiZw5M0XJ48tHMQg.JPEG/ILn_KZLsYeRS0ilpARHyscmpc0Fs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
