@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 13:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 14:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조폭 싸움에 지지않은 배우]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32723043&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32723043&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 10 Nov 2021 14:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 개봉하는 영화 '강릉'강릉 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모, 그리고 배신을 그린 범죄 액션조직의 2인자 길석과 친구 관계를 이어오고 있는 형사방현으로 찾아온, 에이스팩토리의 새···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTBfMjA4/MDAxNjM2NTExMTEwMTk2.vLiothY0gNwxwk4ff0NPJTWQR9yXLQQQAofceXqZbFkg.28Wqq50EZEfoYvywtBekLrQtQN3SYCHYtYa_aLlgMHAg.JPEG/IZi7I1UTcoGTS4Ed6yR_IZ2QrQwM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이규형은 사람을 물어,,]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32703129&amp;memberNo=44834478</link>
@@ -172,14 +180,6 @@
             <pubDate>Sun, 24 Oct 2021 13:13:58 GMT</pubDate>
             <content:encoded><![CDATA[웰컴백김아중 ♥'싱글즈' 화보로 인사를 전한 김아중'비밀의 숲' 시리즈 이수연 작가의 신작 '그리드' 촬영으로 바쁜 요즘화보 촬영 현장에서 만난 아중의 비하인드 사진을 공개합니다 ★왜인지 귀여운 아중의 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTNfMTgg/MDAxNjMxNTI5MjU2OTk1.FCrfqAShy2y2VIBCP2ZherIrVGtLmC4LNE5wAOqmoAog.gnT5fhp1mH1CzcvyxyB2lBnoAkJ30c_TjbIIUCQE00Yg.JPEG/ITKrYtB-rY4wsWG7U-7VTzrQfCc0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['하이클래스' 청일점 된 하준]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32323915&amp;memberNo=44834478</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32323915&amp;memberNo=44834478</guid>
-            <pubDate>Sun, 24 Oct 2021 13:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[tvN 새 월화드라마 '하이클래스'주연배우 중 단연 눈에 띄는'한 남자''대니 오'전직 캐나다 아이스하키 선수 출신HSC 국제학교 Gym Teacher아이스하키,, 체육선생님,,시청자 기다려지게 만드는 설렘 포인트 다수그런···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDdfMjM1/MDAxNjMxMDE0Nzk1ODMz.4RjkeLEHYnynXzxjiMZMNtw4s-K1IVdDF_boGsI1ySEg.LMf7WHLytZAnSLsUoiztTQx2EFH3GlZw8ms4VXwT2w0g.JPEG/IbDF4PUtLYNLmEds3WzY9ZF6ah88.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
