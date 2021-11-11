@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 14:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 15:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이렇게 충성스러운 당신 유죄]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32736420&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32736420&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 11 Nov 2021 15:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[나는, 이 나라 조선의 내금위장 윤형설왕 혜종의 호위무사이자 세자 휘의 모든 비밀을 알고 있지염려 말게나, 내 그 비밀은 죽어서까지 안고 갈터이니..그나저나 궐 안에 의심스러운 인물이 있어 내 요즘 통 잠을 이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTFfMTU4/MDAxNjM2NjIwNTgxNTcx.LZXNYss-jUYE6Dy7cYnarM7paEhjuzCEtTRXkEU5kPcg.7aoCi2Ax715OiJ3vCQm1exyhZUpyjZJ_LZuNF_ixoq4g.JPEG/I4JHd2zoxN0lYGjrKEIJz35E1ynY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잘 봐, 강한나의 인생 조언이다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32728698&amp;memberNo=29770009</link>
@@ -162,14 +170,6 @@
             <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
             <content:encoded><![CDATA[지난주 첫 방송한 궁중 로맨스 드라마 KBS '연모'에서천둥 번개를 뚫고 말을 달리고,위기에 빠진 세손을 구하고,몸을 아끼지 않는 결투를 펼친!호위 무사 '윤형설' 역의 김재철 배우!등장만으로도 든든함+신뢰감+멋···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMThfMTk1/MDAxNjM0NTM0MzMxMTkz.UqxdSIjiue2zO-3Hg95kGrG91Lz-L8mQNwHz3VFavaog.Na1j4i4ZumaiJpPg9XNgzrxYnV6U_dvhv5llP3NVdeQg.JPEG/I4p7w737HKFQNLEZl2siDI-mM55Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포츠Car 탄 김서형 목격담]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32569060&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32569060&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[언니 차 뽑았다, 널 데리러 가~♬세계적, 시대적, 파격적인 씨엪과 배우가 만났습니다! (씁씁하하- 심호흡 준비)요즘 패션을 대표하는 셀러브리티들이 총출동한 화제의 현장에서넘치는 존재감을 터트린 세젤···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTdfMTI4/MDAxNjM0NDc2OTkxNjk5.95X-vNd2ObGKEizn5LoIKHLysqrp1M76TNYVqoFgZ5Qg.AkvJUzfCww8ttOfyZDGLjumVI-yC5QFUdf7F4MmBSJcg.JPEG/IBgyipDfXkMC4s0DqIWMk5xAzCCg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
