@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 14:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 15:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 배우 나오면 무조건이지]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32744191&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32744191&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 12 Nov 2021 15:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[여러분~ 키동입니다! 요즘 극강의 서스펜스로 떡밥 회수하느라 바쁜 화제의 드라마가 있죠!?매주 금요일 오전 8시 올레tv와 seezn을 통해 만나볼 수 있는 진실 추격 스릴러 '크라임 퍼즐'날카로운 직감력을 가진 엘···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTFfMTcw/MDAxNjM2NjEyOTMzMjAw.GBCIw8ol-TzPmh36k3EZjUn5HVG6JzqEOwiW-SZNHIkg.-9-MZofAaslSNX_Slf__Rr7ni_KvCnz8WyV-9jeydn0g.JPEG/I2edIrSrGvZM5xuAUhzlMs9DLod0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이렇게 충성스러운 당신 유죄]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32736420&amp;memberNo=29770009</link>
@@ -161,15 +169,6 @@
             <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
             <content:encoded><![CDATA[인엽 배우 비주얼은 언제나 화창★★한데 날씨는 벌써 오돌오돌...!갑작스럽게 추워진 날씨에 살짝 옷 권태기가 왔나봐요,, 매번 입던 옷도 지겹구... ( ᴗ_ᴗ̩ )검 정 체 크 남방을 입었다가노 란 체 크 남방을···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjBfMjk0/MDAxNjM0NzEyNjEyNjA2.X08sjmQoQ97IUixunhnmAUxFOezFBshqfxxDL4_Aq5Eg.LimncORd3yrKb6tRAgPCIX4PNWoO0MC_XThLCLS8ZKMg.JPEG/IZt76yXt4GL3px_ZEiqMTwj031lQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조선시대 호위 무사 
-밀착취재.txt]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32584512&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32584512&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[지난주 첫 방송한 궁중 로맨스 드라마 KBS '연모'에서천둥 번개를 뚫고 말을 달리고,위기에 빠진 세손을 구하고,몸을 아끼지 않는 결투를 펼친!호위 무사 '윤형설' 역의 김재철 배우!등장만으로도 든든함+신뢰감+멋···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMThfMTk1/MDAxNjM0NTM0MzMxMTkz.UqxdSIjiue2zO-3Hg95kGrG91Lz-L8mQNwHz3VFavaog.Na1j4i4ZumaiJpPg9XNgzrxYnV6U_dvhv5llP3NVdeQg.JPEG/I4p7w737HKFQNLEZl2siDI-mM55Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
