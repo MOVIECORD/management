@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이맨프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 07:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 08:28:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ Seasons between us, from day to night ]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32742076&amp;memberNo=43803149</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32742076&amp;memberNo=43803149</guid>
+            <pubDate>Fri, 12 Nov 2021 08:27:47 GMT</pubDate>
+            <content:encoded><![CDATA[[ Seasons between us, from day to night ] D-20 2022년 이종석 시즌그리팅은 12월 1일 오후 4시부터 만나보실 수 있습니다. 항상 여러분의 관심과 지지에 감사드립니다! 2022 LEE JONG SUK Seasonal greetings wil···]]></content:encoded>
+            <enclosure url="https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fphinf.pstatic.net%2Fimage.nmv%2Fpost_2021_11_12_0%2F1345dd23-4390-11ec-9970-a0369ff94ec8_06.jpg%22&type=fb500_195" length="0" type="image//"/>
+        </item>
         <item>
             <title><![CDATA[여기가 비주얼국
 [권나라]!]]></title>
@@ -165,14 +173,6 @@
             <pubDate>Sun, 24 Oct 2021 13:52:13 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 에이맨 지기입니다 :)! 여러분 에이맨지기가 깊은 고민에 빠졌어요 지난주! KBS2 TV 월화드라마 '암행어사' 보셨나요? 요리조리 둘러보는 '귀염뿜뿜' 다인 잠 잘때도 이쁜 당신은 도덕책..♥ 나라 배우가 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTBfMjIy/MDAxNjEwMjU4ODIzODY2.-ZLKuFCPd3uYyddyiEmqxL9x5T715xBT9sQP0vFySXgg.A5KjsnaJ5iDCxPyFAyQ5MKG2pHXrvlrN-iN3yf6DpOUg.PNG/IbLKLOcSpRFlkp0tMi0IDxXJHbzY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[권나라] 홍홍♥홍다인♥데이 '조선판 부캐부자' 다인이 보러오세요]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30381462&amp;memberNo=43803149</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30381462&amp;memberNo=43803149</guid>
-            <pubDate>Sun, 24 Oct 2021 13:52:13 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 에이맨 지기입니다 :)!2021년 새해 신축년이 밝았습니다! 여러분 모두 새해 복 많이 받으세요 :)!!이번 2021년도 에이맨지기는 여러분의'나라'스런 생활을 위해열일할 계획입니다 ! KBS2 TV 월화드라마 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMDNfMjg5/MDAxNjA5NjYxMTk0MDI2.RCLA-_GLNZYYjmTkkSMDDYXGgcIE2hMj8aL1Uns2Ip0g.huD9Z882l1R5yieRq9g-xxZHdtbzqVqxpz_VAnJQToEg.JPEG/IvbRaW3CBM890VwIm66gbQ7wNydA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
