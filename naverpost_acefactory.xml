@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 13:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 14:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울 로맨스에 찰떡인 배우]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32742120&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32742120&amp;memberNo=44834478</guid>
+            <pubDate>Fri, 12 Nov 2021 14:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[겨울의 이주영을 좋아하세요?네완전사랑합니다.♥겨울 이주영♥ 만나러 함께 가시죠맑은 하늘에 눈이 내리고정글짐이 덩그러니 있는 이곳은주영의 광고 촬영 현장 ♥오늘도 주영은 텐션 UPUP눈빛···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMTUw/MDAxNjM2NzAxMzQxMzA3.ybzm7eezVca9aByLJ1iWkjS53RjKj-n0ukbtDn85a2cg.PoL5gJUVDUo3pNDgwhxsXLPD6DkeRuQgT0ewyXPVTtAg.JPEG/IbdyZVsxyeMb80q16so1Pl8rzKhI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조폭 싸움에 지지않은 배우]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32723043&amp;memberNo=44834478</link>
@@ -171,15 +179,6 @@
             <pubDate>Sun, 24 Oct 2021 13:13:58 GMT</pubDate>
             <content:encoded><![CDATA[HSC 국제학교Gym Teacher캐나다 아이스 하키 선수 출신으로주니어 아이스 하키 클럽 코치를 겸하게 된'하이클래스'대니 오 = 하준첫 출근부터 핫한 선생님하준이 대니 오로 시청자분들께 처음 인사하던 날'하이클래···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTRfMTc5/MDAxNjMxNjIwNjYyODA2.KOJtZ7G3HG2x4RPsOaYMRg7WTN6s3YAT_hADtQd3SGwg.URcNy_YU7o4qqGk1f_bhUNVnl2sbx0jLG4xfBazxJeAg.JPEG/IyFacrSGXkBWfL-zZMNkUP26x4iw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클라스 다른 김아중 
-화보 현장 공개]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32354396&amp;memberNo=44834478</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32354396&amp;memberNo=44834478</guid>
-            <pubDate>Sun, 24 Oct 2021 13:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[웰컴백김아중 ♥'싱글즈' 화보로 인사를 전한 김아중'비밀의 숲' 시리즈 이수연 작가의 신작 '그리드' 촬영으로 바쁜 요즘화보 촬영 현장에서 만난 아중의 비하인드 사진을 공개합니다 ★왜인지 귀여운 아중의 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTNfMTgg/MDAxNjMxNTI5MjU2OTk1.FCrfqAShy2y2VIBCP2ZherIrVGtLmC4LNE5wAOqmoAog.gnT5fhp1mH1CzcvyxyB2lBnoAkJ30c_TjbIIUCQE00Yg.JPEG/ITKrYtB-rY4wsWG7U-7VTzrQfCc0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

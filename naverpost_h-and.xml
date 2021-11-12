@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 13:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 14:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[정수정]이라는 장르]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32727253&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32727253&amp;memberNo=51396641</guid>
+            <pubDate>Fri, 12 Nov 2021 14:21:43 GMT</pubDate>
+            <content:encoded><![CDATA['정수정'이라는 장르가 새롭게 탄생된 매거진 'W Korea' 스페셜 에디션북 커버·화보 촬영장♥덮머♥ 뚜덩이를 보니 자연스럽게 떠오르는 수많은 장르들"찬 바람이 불어오지만 마음만큼은 따···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTBfNzkg/MDAxNjM2NTM2MzAwMjE2.TH1rVfNneS-adf7Bp9bkVHq1QNG_ugFMH5gtKObixmcg.9I1sJSdghC4qU3w9jiwUlcBjjsUhkr31JUIWDuTtZzQg.JPEG/IC5Z6fR8oCwvSR9j5sENTGO1pauk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[정인선] 너의 ♥가 되어줄게]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32682750&amp;memberNo=51396641</link>
@@ -160,14 +168,6 @@
             <pubDate>Sun, 24 Oct 2021 13:06:48 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 핸디터입니다.오늘은! 요즘 KBS 2TV 월화드라마 '경찰수업'에서 경찰대 신입생 오강희 역으로 맹활약 중인 정수정 배우의 소식입니다. 퍼펙트한 화보로 여러분의 마음을 '심쿵' 하게 만든 정수정 배우의···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTBfNDcg/MDAxNjI4NTczMzU3MTYz.WoAn2d1GunPMSKpe_2SW4zDVp2Z3_q-Cx7Y8GScRKYsg.pXrqBHExlGM8R8R79p6lsbphBjd3ze3PO-aRcmkMLkwg.JPEG/IlTm4E2UjDmANYoNvD1FMrjrHH70.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤박] 체이스 당신에게 치였쓰]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32147587&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32147587&amp;memberNo=51396641</guid>
-            <pubDate>Sun, 24 Oct 2021 13:06:48 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 포스트의 주인공! 1/ 월요일, 화요일 챙겨보는 드라마가 있다 2/ 1인 2역 이 배우 때문에 아주아주 심쿵한다 3/ 이 배우.. 이렇게 잘생겼었나? 스스로에게 반복해서 물어본다 4/ 이 배우 보려고 이 드라마 본다···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTBfMyAg/MDAxNjI4NjAzMTU4NDY4.10Y9uM8FI7olSuryOu2bblbLJ0W7eBqbii6o9l5XsiMg.eZWccBx8MVT_Pbp7sxWgClulJoCaswu44PyS6c7NmfYg.JPEG/IavsVHMUNPRRUP4_wfj5s0xPx9qw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
