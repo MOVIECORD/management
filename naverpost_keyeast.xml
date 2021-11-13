@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 13:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 14:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모든 게 의심스러운 드라마]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32747601&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32747601&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 13 Nov 2021 14:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[보기만 해도 감탄을 자아내는 드라마들을 만든 제작사 키이스트 에서 야심 차게 선보인 드라마!하드보일드 코믹 추적극 &lt;구경이&gt; 요즘 그 닉값 톡톡히 하는 중!첫 방송 이후 입소문이 나면서 연일 흥행가도를 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTFfMTkw/MDAxNjM2NjAwNzUwNTMz.K4tW8cU0ujkgY9TqdVyqPDU4XvJLGbHBLnfMwZ4tlucg.JlxlExVf3E1H-4xrO7pb2UDim9ykHo1IuEcEqbSVVDMg.JPEG/Iam9TsNtllDZxcicmo9tQBBuvTn0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 배우 나오면 무조건이지]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32744191&amp;memberNo=29770009</link>
@@ -161,14 +169,6 @@
             <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
             <content:encoded><![CDATA[나 패션에 살고 패션에 죽는 배사장지난 봄, 여름 남들 다 알게 활동했던 ♨뜨거운 악마 사장♨의 삶을 청산하고카 실장 따라 [옷 돌아이] 길을 걸어보려 한다...! *옷 돌아이; 옷을 굉장히 아끼고 사랑한다는 뜻사장···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjJfNTMg/MDAxNjM0ODkwNzk0ODcw.fLvz4hKhUC4ZtMx_CO2kjcCvkt44UVEFK34qjq53brog.UWn0YAowYAIq9SCSXkXCSKF7ja5gseQBbt2GbaPc2KMg.JPEG/Iq5fdGOx6p8jKWGmeE90ul9is4XE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필모에 추가해야 하는 황인엽 화보]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32592196&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32592196&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 24 Oct 2021 12:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[인엽 배우 비주얼은 언제나 화창★★한데 날씨는 벌써 오돌오돌...!갑작스럽게 추워진 날씨에 살짝 옷 권태기가 왔나봐요,, 매번 입던 옷도 지겹구... ( ᴗ_ᴗ̩ )검 정 체 크 남방을 입었다가노 란 체 크 남방을···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjBfMjk0/MDAxNjM0NzEyNjEyNjA2.X08sjmQoQ97IUixunhnmAUxFOezFBshqfxxDL4_Aq5Eg.LimncORd3yrKb6tRAgPCIX4PNWoO0MC_XThLCLS8ZKMg.JPEG/IZt76yXt4GL3px_ZEiqMTwj031lQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
