@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 03:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 04:31:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엑시] 프로 과몰입 유발러]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32749184&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32749184&amp;memberNo=35839671</guid>
+            <pubDate>Sun, 14 Nov 2021 04:30:21 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 지난주 첫 방송부터 리얼한 스토리와 다채로운 볼거리로 뜨거운 화제를 불러일으킨 JTBC 월화드라마 &lt;IDOL [아이돌 : The Coup]&gt; 그리고  (사진 출처: JTBC &lt;IDOL [아이돌 : ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMjQ3/MDAxNjM2NzA3ODkwMzA5.F2iTRNepX4nvkpvVAMCvA8SrOOXaDWTz_zw0WBlxmBwg.zvTTNpcrMeHAsHKXrMGZQpQ6lHPSrcqhq7U7lL0gjr8g.JPEG/IOHDmwt9ZFHzVtqHoKrc-DPbAuUc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유연석] 돌아온 연몬티♡]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32745462&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Oct 2021 13:20:31 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다:-)어제(16일, 목),시즌1부터 많은 사랑을 받았던&lt;슬기로운 의사생활 시즌2&gt;가어제(16일, 목) 막을 내렸는데요ㅠㅠ 우리 정원쌤, 뀨즈 없이 이제 어떻게 사나...아쉽고 또 아쉬운 마음···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfMjQ0/MDAxNjMxNzgzMDg2OTgx.GROLjWQG9G-eYVzjTBvejbZyg4PAzJyF69kNT8Fy7iEg.V14MgJ66wKkY7kotkMzfR3-tXVPsrV5yIZK7jmg4FLAg.JPEG/ItiV5pUM0ThDVm6LVydG4fz5ZhnI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KONGCEPT] 콩셉트 with 최희진]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32376467&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32376467&amp;memberNo=35839671</guid>
-            <pubDate>Sun, 24 Oct 2021 13:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[[KONGCEPT] 콩셉트 with 최희진▼ 메이킹 영상 보러 가기 ▼https://tv.naver.com/v/22452372 킹콩 by 스타쉽 공식 계정홈페이지- http://www.starship-ent.com/네이버TV- https://tv.naver.com/kingkongV LIVE- https···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTRfMTg4/MDAxNjMxNjAyMzk4MjA3.zM4W6tF_vogW8GMcPdiv3LKk-0U6rdvAggekrncN1-kg.V8kg9FVJjAwKMAt0vkwwaBT0SnxBuG-v7VN49BQcbmYg.JPEG/ILOIpTy0oHEiwtzz0LeMbh5gmYd0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
