@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 에이맨프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 01:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 02:36:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아름다운 우리 
+[권나라]!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32725853&amp;memberNo=43803149</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32725853&amp;memberNo=43803149</guid>
+            <pubDate>Mon, 15 Nov 2021 02:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 22일 새로운 화보로  원본출처 : Esquire Korea 우리의 곁을 찾아온 배우 '권나라' 여기가 비주얼국 [권나라]! [BY 에이맨프로젝트] 부쩍 쌀쌀해진 가을이지만, 원본출처 : Esquire Korea 매거진 Esquire Kor···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTBfMzAw/MDAxNjM2NTI0NjU4MDcz.39isZ5qR3HvztA_HQCZDJ8sjz4-jWPzbZ4GLTT2aO-Ag.ERL1p_m7xpoHgyO2npsQhFblS3UMQ7SrImv9iMT5pLAg.JPEG/I-YDc6sbT34wasqLWLU6imaZWnLk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[ Seasons between us, from day to night ]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32742076&amp;memberNo=43803149</link>
@@ -165,14 +174,6 @@
             <pubDate>Sun, 24 Oct 2021 13:52:13 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 에이맨 지기입니다!쉿! (뭔데 이래?)혹시 그 소문 들으셨나요?요즘 여러 고을에 우당탕탕 3인조가 출몰하곤 한다는데.. (美쳤습니까 휴먼.. ♥)그 중에서도 탈인간급 비주얼을 가진이분! 여자인지 남자인지···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTdfMTQg/MDAxNjEwODQwMjUyOTc2._DTATKj52i0hdnosBN9C455V1JoayocN9SnKnwQWXkwg.DWZWvj2_8uWtJwg4PGYKeLZqena7spRaVuhCWM9P43Ag.JPEG/IICGRf_KR6-1oPaiRD8LedYveQIw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[권나라] 뷰티풀 홍다인 vs 꽃도령 홍다인 이 대결 '찐' 역대급 ㅇㅈ?(ft.암행어사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30436061&amp;memberNo=43803149</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30436061&amp;memberNo=43803149</guid>
-            <pubDate>Sun, 24 Oct 2021 13:52:13 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 에이맨 지기입니다 :)! 여러분 에이맨지기가 깊은 고민에 빠졌어요 지난주! KBS2 TV 월화드라마 '암행어사' 보셨나요? 요리조리 둘러보는 '귀염뿜뿜' 다인 잠 잘때도 이쁜 당신은 도덕책..♥ 나라 배우가 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTBfMjIy/MDAxNjEwMjU4ODIzODY2.-ZLKuFCPd3uYyddyiEmqxL9x5T715xBT9sQP0vFySXgg.A5KjsnaJ5iDCxPyFAyQ5MKG2pHXrvlrN-iN3yf6DpOUg.PNG/IbLKLOcSpRFlkp0tMi0IDxXJHbzY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
