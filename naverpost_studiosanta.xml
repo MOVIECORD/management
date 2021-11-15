@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 14:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 15:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 핫한 그 형]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32759196&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32759196&amp;memberNo=31542741</guid>
+            <pubDate>Mon, 15 Nov 2021 15:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[당신 손끝에 달린 추리게임11월 29일 오후 4시 KaKao TV 바로, 강력계 형사 미스터LEE가 찾아옵니다!뽀짝 뽀짝 신입 사원부터 츤데레 남사친 → 톱스타 까지 오가더니!이번엔 4차원 매력의 강력계 형사 미스터Le···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTVfMTUw/MDAxNjM2OTg0MDg0MDUz.bn5hRwRiddjty1CL2HCIqapfmlsWMuw8EvK2Puzyo4cg.ePouQirQgEWyq1P39W7wmo45CC1U6RiClkZRtQpKykwg.JPEG/I8hwGAe_gGh-68uPLXh95017OrCo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애슬레져룩도 다희롭게]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32751244&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Oct 2021 14:00:23 GMT</pubDate>
             <content:encoded><![CDATA[시작과 동시 다채로운 매력을 발산하며눈가를 촉촉하게 적시기도 하고자동 미소 : ) 유발하는 귀여움도 보여주고다 들어줘야 할 것 같은 애교에 푹- 빠지게 하는♥ KBS 2TV &lt;신사와 아가씨&gt;의 //차 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDNfMjIw/MDAxNjMzMjY4NTMxMjgw.7h59A_R0B7aT26RODxb39exh15esaIeB6lrHwBGm6_Eg.QCPA4MeFbCdVbHNat6-sLPwgG_JpPE1-upZcPlndXYcg.JPEG/IWxk7jUso2-AZe-A5DW-uUolgvGA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월 불태울 소식]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32468772&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32468772&amp;memberNo=31542741</guid>
-            <pubDate>Sun, 24 Oct 2021 14:00:23 GMT</pubDate>
-            <content:encoded><![CDATA[9월 한 달 동안 잘 지내셨나요? ( *˘╰╯˘*) 날이 쌀쌀해져가는 요즘! HOT한 소식으로 찾아온! 쨘 ! 9月의 ★'화뉴스'브리핑★ 산타 아티스트들의 소식들 화뉴스 브리핑으로 체크해요⛦⛦Casting로맨스면 로맨스! ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MzBfMTIw/MDAxNjMzMDA5MDU0MTM5.Q92BeL89D153XSZSIC0TDeqOCEvoBbxgM0kj_W0XBx8g.aFifhGW4DN-E7dxld236psCIekLO2fFOer-v7j8EBEgg.JPEG/IgQSegaxF5Q0Q3XzTP-A0adODALA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
