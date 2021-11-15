@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 07:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 08:28:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KONGCEPT] 콩셉트 with 안소요]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32756443&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32756443&amp;memberNo=35839671</guid>
+            <pubDate>Mon, 15 Nov 2021 08:27:36 GMT</pubDate>
+            <content:encoded><![CDATA[[KONGCEPT] 콩셉트 with 안소요▼ 메이킹 영상 보러 가기 ▼https://tv.naver.com/v/23534959 킹콩 by 스타쉽 공식 계정홈페이지- http://www.starship-ent.com/네이버TV- https://tv.naver.com/kingkongV LIVE- https···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMjA5/MDAxNjM2NzE3NzM0ODc0.ixU3cWT-38rQ1989VW58gu9sbySWvYYCx4EriEMctpAg.MDrdFjx9TCehp9BM8kv1iTaYtvE3n4dFV_4BEWnRMlsg.PNG/IGb1DqgH4IxYKkDvSifLuw9GPhBw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엑시] 프로 과몰입 유발러]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32749184&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Oct 2021 13:20:31 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :) (사진 출처: 엘르) 오늘은 '엘르' 10월 호 화보를 통해 아름다운 비주얼을 뽐낸 배우 조윤희 씨의 소식을 전해드리려 하는데요! 그날 유니님이 얼마나 빛났냐면요 뜨거운 태양보다 더 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMjc4/MDAxNjMyODgyOTI2NTQ5.OYalzPdfT-oz6yKCg5kk6sBrTpig98E7zdFggYfIH5Yg.CyhOu3OjrtTZv45pAVqAOwm5qLk4G_YbNOUxfo55P10g.JPEG/IePyXTFAAaPNL6yDRlY9bQM_DeUA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유연석] 굿바이 정원, 굿바이 <슬기로운 의사생활>]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32390810&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32390810&amp;memberNo=35839671</guid>
-            <pubDate>Sun, 24 Oct 2021 13:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다:-)어제(16일, 목),시즌1부터 많은 사랑을 받았던&lt;슬기로운 의사생활 시즌2&gt;가어제(16일, 목) 막을 내렸는데요ㅠㅠ 우리 정원쌤, 뀨즈 없이 이제 어떻게 사나...아쉽고 또 아쉬운 마음···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfMjQ0/MDAxNjMxNzgzMDg2OTgx.GROLjWQG9G-eYVzjTBvejbZyg4PAzJyF69kNT8Fy7iEg.V14MgJ66wKkY7kotkMzfR3-tXVPsrV5yIZK7jmg4FLAg.JPEG/ItiV5pUM0ThDVm6LVydG4fz5ZhnI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
