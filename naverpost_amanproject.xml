@@ -4,17 +4,9 @@
         <title>네이버 포스트 ─ 에이맨프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 09:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 10:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[ Seasons between us, from day to night ] D-16]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32765074&amp;memberNo=43803149</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32765074&amp;memberNo=43803149</guid>
-            <pubDate>Tue, 16 Nov 2021 08:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[D-16 2022년 이종석 시즌그리팅은 12월 1일 오후 4시부터 만나보실 수 있습니다. 2022 LEE JONG SUK Seasonal greetings will be available at 4 p.m. on December 1th. Always thank you for all your interest and···]]></content:encoded>
-            <enclosure url="https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fphinf.pstatic.net%2Fimage.nmv%2Fpost_2021_11_16_0%2F13e40c45-46b5-11ec-b0b6-246e963a4708_06.jpg%22&type=fb500_195" length="0" type="image//"/>
-        </item>
         <item>
             <title><![CDATA[아름다운 우리 
 [권나라]!]]></title>
@@ -174,6 +166,14 @@
             <pubDate>Sun, 24 Oct 2021 13:52:13 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 에이맨지기입니다( •◡-)✧˖° ♡여러분 '암행어사' 다인이가 기록한 다모 일지가있다고 하는데요(쉿!)(저번주 부터 밀고 있음)이건 진짜 비밀이에요 ↓ (착한 사람 눈에 보임)↓(얘기하고 싶었던게 많았나봐요···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMjJfMTg2/MDAxNjExMjg4NzczNzE5.r0rLCigt88UhLJXC0jTGpasDEWsdtIgWKBZuQi88yz8g.uHLHtd1ngGWdiENdd_J_4apmp_-VkufFXahM4bRUjEcg.JPEG/IWlwZpELYxZQoqxXd0k0DntVV4R8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[권나라] 경이로운 암행어사의 홍일점 홍다인 (ft.암행어사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30499346&amp;memberNo=43803149</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30499346&amp;memberNo=43803149</guid>
+            <pubDate>Tue, 16 Nov 2021 10:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 에이맨 지기입니다!쉿! (뭔데 이래?)혹시 그 소문 들으셨나요?요즘 여러 고을에 우당탕탕 3인조가 출몰하곤 한다는데.. (美쳤습니까 휴먼.. ♥)그 중에서도 탈인간급 비주얼을 가진이분! 여자인지 남자인지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTdfMTQg/MDAxNjEwODQwMjUyOTc2._DTATKj52i0hdnosBN9C455V1JoayocN9SnKnwQWXkwg.DWZWvj2_8uWtJwg4PGYKeLZqena7spRaVuhCWM9P43Ag.JPEG/IICGRf_KR6-1oPaiRD8LedYveQIw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
