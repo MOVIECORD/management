@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 23:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 01:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박희순] 깜짝 선물인데 희순 중독에 좋대요]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32756151&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32756151&amp;memberNo=35839671</guid>
+            <pubDate>Tue, 16 Nov 2021 01:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :)최근 넷플릭스 시리즈 &lt;마이 네임&gt;에서 최무진 역으로 많은 분들의 마음을 뒤흔들어 놓은 배우 박희순 씨!선물 공개가 예정보다 늦어져 죄송한 마음에하드를 탈탈 털어온 오늘의*···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMTQy/MDAxNjM2NjgyMDA4NjU4.pfnEv7Ev58nJSP7ng1ryreVGk_NbK8wCq8E5N3t7mt4g.eDqY_QQuC4gHKcxnsUmzhOKQSwK8lXr3O5FyjaMRNtMg.JPEG/In2n0k0w_N8MufOmxKZbOkBoqWiY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KONGCEPT] 콩셉트 with 안소요]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32756443&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Oct 2021 13:20:31 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 배우 송하윤 씨의 NEW 프로필이 업데이트되었다는 소식에 킹콩지기가 다시 찾아왔습니다! (쨕쨕!) 청초한 모습부터  사랑스러움 다크한 아우라까지! 다채로운 A컷을 완성했는데요 그럼 팔색조 매력 넘치···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MzBfNDMg/MDAxNjMyOTgzMTI1NTA5.T7oDjU3CJqpzUQ8IXWhd9BRWUriKNmtks1vHjeWBO8sg.EG4dA8vwhyhHpkIFMiSlQklApsX8cTp6atYOaAKWEuUg.JPEG/IQ1ncsyRcbobZTXET59yIesJeJtk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[조윤희]와 햇살의 공통점]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32457790&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32457790&amp;memberNo=35839671</guid>
-            <pubDate>Sun, 24 Oct 2021 13:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :) (사진 출처: 엘르) 오늘은 '엘르' 10월 호 화보를 통해 아름다운 비주얼을 뽐낸 배우 조윤희 씨의 소식을 전해드리려 하는데요! 그날 유니님이 얼마나 빛났냐면요 뜨거운 태양보다 더 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMjc4/MDAxNjMyODgyOTI2NTQ5.OYalzPdfT-oz6yKCg5kk6sBrTpig98E7zdFggYfIH5Yg.CyhOu3OjrtTZv45pAVqAOwm5qLk4G_YbNOUxfo55P10g.JPEG/IePyXTFAAaPNL6yDRlY9bQM_DeUA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
