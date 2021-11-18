@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 14:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 15:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[28,800분 1위 드라마]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32783145&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32783145&amp;memberNo=31542741</guid>
+            <pubDate>Thu, 18 Nov 2021 15:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[공식 예고편을 시작으로 산타캠은 느꼈죠&lt;마이 네임&gt;에 과몰입 하게 될 모습을..아직 저처럼 과몰입 중인 여러분을 위해 준비한제작사 스튜디오 산타클로스 PICK! 놓칠 수 없는 명장면 속으로#고퀄_액션_명장···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMThfMTM1/MDAxNjM3MjE3OTk2NDE2.0pFam6Eh7gjDkSuxz_n1asNAweMeRDHjcU6BFJ8y-uUg.nmqMCfowuEJ9kJCsICwvqAKT9AQAp1yPmMgMWF6uWVsg.JPEG/IWMK3uyQzO1WzV5yW7yCDdylcjCg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 핫한 그 형]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32759196&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Oct 2021 14:00:23 GMT</pubDate>
             <content:encoded><![CDATA[지난 9월 30일 개최된 제25회 인디포럼(2021)수많은 독립 영화 작품을 소개하는 이곳에서 만난 이가 있었으니인디포럼 2021 개막식 사회를 맡은 우리의 '류경수' 배우경수 배우가 함께한 그 현장 놓칠 수 없···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTFfNzkg/MDAxNjMzOTU4MTI4MTIy.4SqFGxGp4218BsOfjo1TLqk6B1vr3Knq49Ns-oC7U9sg.xvEKDNDWOapu-mhpmgpT0Uw_07fc9ShzHmhASvD6Ri0g.JPEG/Id0lRMsmg4yI64PWmiSo92WzHj6k.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깜박이 없이 들어오는 매력부자]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32483982&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32483982&amp;memberNo=31542741</guid>
-            <pubDate>Sun, 24 Oct 2021 14:00:23 GMT</pubDate>
-            <content:encoded><![CDATA[시작과 동시 다채로운 매력을 발산하며눈가를 촉촉하게 적시기도 하고자동 미소 : ) 유발하는 귀여움도 보여주고다 들어줘야 할 것 같은 애교에 푹- 빠지게 하는♥ KBS 2TV &lt;신사와 아가씨&gt;의 //차 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDNfMjIw/MDAxNjMzMjY4NTMxMjgw.7h59A_R0B7aT26RODxb39exh15esaIeB6lrHwBGm6_Eg.QCPA4MeFbCdVbHNat6-sLPwgG_JpPE1-upZcPlndXYcg.JPEG/IWxk7jUso2-AZe-A5DW-uUolgvGA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
