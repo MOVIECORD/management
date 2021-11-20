@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ YNK엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 02:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 03:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김현주] 새로운 ‘지옥’에 오신 여러분 환영합니다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32789384&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32789384&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 20 Nov 2021 03:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[11월 19일 금요일 우리가 알던 것과는 차원이 다른 새로운 세상 ‘지옥’이 열렸습니다!오직 넷플릭스에서만 만나볼 수 있는 넷플릭스 시리즈 &lt;지옥&gt; 그리고이름만 봐도 설레는 그 이름 갓.현.주. a···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMTcw/MDAxNjM3MzExNDQ4NDA1.ef7PwKLB8bvzrjZvtGpNA-nFZw3s36mq0xI-VBeWZX8g.W74pt2YZC3pe076fUOl0NtUdkni3c97LBoVoEHrsy-Ag.JPEG/IU-9AaQT5d6AQmnrDeCDW_RwZOQ8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김현주] 한달 후, 11월 19일 당신은 '지옥'을 본다.]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32575888&amp;memberNo=33175148</link>
@@ -161,15 +169,6 @@
             <pubDate>Sun, 24 Oct 2021 12:48:30 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! YNK의 카메라 와엔캠입니다~♡ 어느새 훌쩍 다가온 2020년의 끄트머리! 어딘가로 떠나고 싶지만 쉽게 떠날 수도 없는 요즈음! 오늘 와엔캠이 여러분을 모시고 당도할 랜선 종착역은 바로!조선, 조선행입···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMDRfMTM1/MDAxNjA3MDYyMjYyMTcx.xhUBEHVwaf48po4WBTwHbBNsaix3gxj_FXyrec3tIpIg.hxQMQYt9sZ4tYKQQ1UH_c5LXa9iwgai2oiyUIWiufzMg.JPEG/IH9dJcEFbbphZvlFIsnL99Vjyq5Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신혜선] 꼼짝마! 내 마음 '도굴'하다가 딱 걸린 엘리트 큐레이터 
-: 포스터 촬영현장]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29870815&amp;memberNo=33175148</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29870815&amp;memberNo=33175148</guid>
-            <pubDate>Sun, 24 Oct 2021 12:48:30 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! YNK의 카메라 와엔캠입니다~♡ 낙엽이 우수수 떨어지는 이 가을.. 쓸쓸함을 웃음으로 달래고 싶은 이 가을에..! 여러분을 찾아온 오늘 포스트의 주인공은 누구일까요~?(빼꼼)(까꿍) 바로···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMDNfMTIz/MDAxNjA0Mzc4MjYxMDgy.HK71paINbZAEZE3dF90PuJhJJ_8FtmdKQlipMLiheT4g.jlXxMmjqALSRqZHUMmm_WvqSjHo0ijhHI6tnnCXTI-gg.JPEG/I9p1OF5db_A_LCbVo7i46qlwZcOM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
