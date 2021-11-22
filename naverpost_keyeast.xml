@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 14:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 15:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천 년의 첫사랑 비주얼]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32805249&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32805249&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 22 Nov 2021 15:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[사랑하는 여자의 얼굴이 변하지 않아요...1921년에도... 2004년에도....약 천년의 세월이 흘러도 변하지 않는 이 사람의 얼굴만큼이나그녀를 향한 제 마음도 변하지 않아요...앞으로 저는 어떡하면 좋죠..?키동은 어···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjJfMTk0/MDAxNjM3NTcyODcwOTAz.fqL5fybMQPqV2AXExyAkUCFj_x15DEY7e_MuBcEEuSMg.w6tNY9GQuO4WYeTFU7nHX6EBVgaKGkXVOfA0Ix1Bxi8g.JPEG/IbBsxR_FG7FZFXwubUVflwp2xKcI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[속보] 산타 코인(STC)이 강세✈️]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32794145&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Fri, 29 Oct 2021 14:19:58 GMT</pubDate>
             <content:encoded><![CDATA[엘리트 형사로 살아가던 어느 날,사랑하는 연인이내 아버지를 죽였다고 자백한다면?어지러운 퍼즐 속을 파헤쳐나가는 키플레이어, 형사 유희 역으로 돌아온 배우 고/아/성드디어 오늘! 첫 공개된 크라임 퍼즐사전 공···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjZfMjgx/MDAxNjM1MjQwNDI3MzM5.FdTkbrJXSBDVGRgtzqOJ4ZGTqwhg-B6g9lYjhptq-vcg.L8dhwqGn3qum84nwVyqSgUp3w1lXT2bT4rcpIgbOt0kg.JPEG/IhmOqZJR2UIfwh1ykhUsayJh6tJM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과거가 궁금하다면 [클릭]]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32645705&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32645705&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 28 Oct 2021 14:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 여러분~ 키동이에요 ㅎㅎ 지난주 MBC 금토드라마 &lt;검은 태양&gt;이 대장정의 막을 내렸습니다국정원 인물들의 중심으로서 극의 충격적인 전환점이 되었던 우리 서수연 팀장님은요1년 만에 만난 동료 지···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjhfMjQy/MDAxNjM1NDE0NTA5NDAz.3F5lszyqdsaX25FyDErL0_TUT_1UZyap_VvQXiGoes0g.W4j5YDM27ObP3OwjDiYFR1rmb8ECvuS6MasGoHMlw9Ag.JPEG/IOQkJZzqQA8DBRasTkoReCNFYZ_c.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
