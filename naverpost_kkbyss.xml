@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 07:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 08:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엑시]의 온앤오프 반전 매력]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32802557&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32802557&amp;memberNo=35839671</guid>
+            <pubDate>Mon, 22 Nov 2021 08:27:34 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)​​오늘은 ​엑시 씨가 출연하는​JTBC &lt;IDOL [아이돌 : The Coup]&gt; ​하는 날~!​ 그래서 준비했습니다( •͈ᴗ-)ᓂ-ෆ​​극 중 ‘코튼캔디’의 무사 컴백을 ​기원하는 마음을 담아 준비한​엑···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjFfNTkg/MDAxNjM3NDk1MjUyODk3.H8dp6fwJL2M-BwIe_DS5InU0lz91OdrJ0voM0efVze0g.BGmPVnWtc5_89L3_wXLXt1Zb-pxPvP-vt5n61y3S8PYg.JPEG/IsFIqpc_sXuuQo71o20TM9fGxftc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이루비] 제가 지목할 차세대 유망주는...]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32779244&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Oct 2021 13:20:31 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)​​ 오늘은 ​웹드라마 &lt;러브 인 블랙홀&gt;에서 ‘은하’ 역으로 활약 중인 ​설아 씨의 포스트로 찾아왔습니다!​ 설아 씨가 맡은 캐릭터 ‘은하’는 (사진 출처 : 웹드라마 &lt;러브 인 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDdfMTI5/MDAxNjMzNTg4NjQzMzk2.-ENI3d_WIgHQf1866FWuW4WQSOtTlDPThHJo_lUW30sg.tSctSKUPkEgIlReXQzS3sMyV_HZ5MlU1PtupxyuL_64g.JPEG/IGnddz45R0UfernPsZ24Ib9MvIb0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박희순] 마이 네임 is 희순박]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32483464&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32483464&amp;memberNo=35839671</guid>
-            <pubDate>Sun, 24 Oct 2021 13:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기 입니다 :) 투둠- 지난주 화제의 포스터가 공개되었다죠! 그거슨 바로  (사진 출처: 넷플릭스) 배우 박희순 씨가 출연하는 넷플릭스 시리즈 &lt;마이 네임&gt;의 앙상블 포스터 믿고 보는 세 배···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDFfMTI0/MDAxNjMzMDg2NTI4MzM3.gPioDYcLHDxjNMtvNZlMw6P7YvqOZOyQfvAvBWWvFcIg.hSEtXHmJHZf-ZbsCRCKoCkPYdOSHAadxyYDuGbs75rgg.JPEG/IkU1ywFXPe3zjf8BxBw4Bmq9_XaY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
