@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 09:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 10:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김재영] 내 맘 Savage]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32809330&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32809330&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 24 Nov 2021 10:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요!치비 입니다 ٩( ᐛ )و오늘은 재영 배우의&lt;보그&gt; 촬영장에 다녀왔는데요!벌써부터 손가락이근질근질하시다구요~?빠르게 오른쪽으로 휙-넘겨주세용!➜ ➝ ➞ ➟ ➡ (( 본격 외모 감상 Time☆ 시작합니다 )) ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfMjAz/MDAxNjM3NjQyMTU0MjU1.AbvxTr4XOfKap2C-X-uvSwvI6DPW7zeP0itax4BKJegg.iN8QonFE3PJooEUFwKBK7CEz-WMP__qZ4JPOn9oN5pgg.JPEG/I0I3Ww2MsET1Eq7vL4z6-PHUARWU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김재영]은 화보를 찢~어]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32755482&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Sun, 24 Oct 2021 12:58:19 GMT</pubDate>
             <content:encoded><![CDATA[록야~호! (신성록 배우님 봐서 그만큼 신나신다는 의미)드라큘라의 시대적 배경인 18세기. '조선'이라는 나라의 사람들은 머리에 '신성록'을 쓰고 다녔다고 합니다.그것이 현재 '갓'이라는 단어가 되었지 뭐···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjdfMTYg/MDAxNjE5NDg1OTQ4MjQ5.N6QgaVBHOUUL8ZRXFsKwKnu54IFGcf_pgfY16h_Vz50g.ekB6LJJ_PHB7ZsSX-PBGhR8oXkCDzE3Gxdv2IxkV2ZAg.JPEG/IBx57Sr3PGSFDF0PYcY56A6yamxk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HBing:에이치빙 MAY.2021]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31360127&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31360127&amp;memberNo=3247896</guid>
-            <pubDate>Sun, 24 Oct 2021 12:58:19 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 HB엔터테인먼트의 NEW 월간 컨텐츠를 들고 찾아온 치비 입니닷:) 앞으로 매달 첫째 주에는 HB엔터테인먼트 소속 배우들의 현재 진행(~ing) 중인 소식들을 모아서 전해드릴 HBing:에이치빙으···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MDNfMjQ5/MDAxNjIwMDIxODEzMzI4.TMsZehfvVogjm0XKfRaQCJYZoMlmcTr8Jtii1Oz2mJYg.C04d44bhv1QqQCZuIPAMdfBQ9RWEaGBtWCJXSB85PRYg.PNG/IM3U1sEUeOg1Fes42xbVXY7kLBTU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

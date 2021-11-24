@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 09:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 10:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무대요정 여니에게 주어지는 합격목걸이-*]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32787190&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32787190&amp;memberNo=32146648</guid>
+            <pubDate>Wed, 24 Nov 2021 10:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST]LEE YEON HEE♥10월 21일부터 시작된 연극 &lt;리어왕&gt;이 3주간의 대장정을 마치고 지난 일요일, 마지막 공연을 올렸는데요무대 위에서 반짝반짝 빛나던 연희 배우가 벌써부터 그리운 건 왜 일까요 ★ ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMTY0/MDAxNjM3MzAxNjEyNzk5.E2TCEelbXWxI-Hs8cEIPd2bvvkK8fuwUwYN80SsyNIYg.lX8TRN7H95hA__aXAOX0An1K-ES52eyni54IBdIqGA0g.JPEG/ItPLbQpu0n0qxbY3-idNZc_TVh6c.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비상이다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32636875&amp;memberNo=32146648</link>
@@ -160,14 +168,6 @@
             <pubDate>Sun, 24 Oct 2021 12:54:56 GMT</pubDate>
             <content:encoded><![CDATA[VAST POSTLEE YEON HEE바야흐로 찬 계절이 지나가고,따스한 봄 기운이 완연한 지금! 왠지 꽃향기에 취하고 싶은 지금!  연희배우가  꽃집을 차렸다는 소문이 있어  (수군수군 속닥속닥) 베스트리가 일일 파파라치로 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMTZfMTM5/MDAxNjE1ODcxNDE0MDYz.vdpRYT_r09qW3nkwd39Ig-AiVdWsO8DGlq3CNyIQ_Bkg.KuRmWdG4vdfV2HUVc0X8tlkx_RzlHtF7LBX__3b3AKYg.JPEG/IyFhLmupXxJiGym4DW1WFOvnjTTQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화보로 팬들의 마음을 오직 돌파한 현빈]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30862918&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30862918&amp;memberNo=32146648</guid>
-            <pubDate>Sun, 24 Oct 2021 12:54:56 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 베스트리입니다 덕메들이 저를 찾는 소리를 듣고여러분의 금요일을 더욱 행복하게 만들포스트와 함께 돌아왔어요 오늘의 주/인/공 더순이들이 24/7 보고 싶어 마지않는a.k.a 김태평양어깨현빈 입니다♥ 출···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMDRfMjk2/MDAxNjE0ODM5NDgyODYz.K_Mw0kIilsBgxYDc1zQn5jFC-YzUH74Fg1lbgtpQ7M8g.efMG3TmDsOCO7apmGZrBVjgripd6FiN3qYkajUXQPzQg.JPEG/ISD6f9Bm_MkylPb4D14RMt-ycP9g.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
