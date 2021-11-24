@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 13:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 14:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[키레이션] 올해 목표가 있다가 사라져버린 소속사]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32819727&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32819727&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 24 Nov 2021 14:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 올해 좌우명이 있다가... 사라진 키동입니다.↓↓ 이유 ↓↓↑↑ 이유 ↑↑ 올해 키동 목표 : 배우들 큐레이션 아니고, 키레이션(KEYration) 해주는 홍보 마스···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjJfMjk5/MDAxNjM3NTYyNDgyNjk0.zx52u1tR9qDwgBmWlkJM6Z4qAO2P4dnpkneLHJ_PK_0g.spxplGo2-aF5fCQBVOyZht6-3ozcq9AHfNg8-u9N6Tsg.JPEG/IpBc61gxZKHUv8hsV0646Dj1oCqk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천 년의 첫사랑 비주얼]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32805249&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Sat, 30 Oct 2021 14:19:30 GMT</pubDate>
             <content:encoded><![CDATA[여기 바로 신비로운 능력을 가진 사람이 있습니다사실 사람이라고 확신할 수 없어요인간의 비주얼이 아니거든요그를 한 번이라도 보면 절대 잊을 수 없는 마법에 걸리게 되는데요몽환적인 분위기와 독보적인 아우라···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjlfMSAg/MDAxNjM1NDkzNTU0MjQw.krqnaxFaKxSJfZ5hYhztl5dlYVuQWAKvpGgTQV1QgmMg.CPJIuFEYD2qEaw2N-jdy6OxHCAO9umtnrg_ftntxsoEg.JPEG/IfFHHD_gvCnVSlf7Wws9NA50P8iM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연인이 살인범이라고 자백했다.]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32652836&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32652836&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 29 Oct 2021 14:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[엘리트 형사로 살아가던 어느 날,사랑하는 연인이내 아버지를 죽였다고 자백한다면?어지러운 퍼즐 속을 파헤쳐나가는 키플레이어, 형사 유희 역으로 돌아온 배우 고/아/성드디어 오늘! 첫 공개된 크라임 퍼즐사전 공···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjZfMjgx/MDAxNjM1MjQwNDI3MzM5.FdTkbrJXSBDVGRgtzqOJ4ZGTqwhg-B6g9lYjhptq-vcg.L8dhwqGn3qum84nwVyqSgUp3w1lXT2bT4rcpIgbOt0kg.JPEG/IhmOqZJR2UIfwh1ykhUsayJh6tJM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
