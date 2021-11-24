@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 02:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 03:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어라... 나 김혜윤 시크한 모습 좋아하네?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32815301&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32815301&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 24 Nov 2021 03:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[시작부터 혜윤 배우님의 미소 공격에... 정신이 아찔해지셨다구요? 🚨삐빅🚨 정상입니다~시작부터 갓굴 뽐내는 혜윤 배우님의 비하인드 포스트가 무엇인지 궁금하시다구요? 바로 tvN 드라마 &lt;어사와 조이&gt;에서···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjJfMTQy/MDAxNjM3NTYwMzA1NjE3.Wbbe2DMw-fBFKhIUhGNY9VYZ8hcLDlVGjdiBj0X794sg.pac23QpjiDAuTax8qisN-uiFK6QoHDVs4UsQGv_hGi8g.JPEG/ImOiYQjT6KoiALBKIe3Mf2qWkauM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김혜윤_어사와조이_제작발표회_최종 컨펌.jpg]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32759150&amp;memberNo=28456565</link>
@@ -159,14 +167,6 @@
             <pubDate>Sun, 24 Oct 2021 13:02:45 GMT</pubDate>
             <content:encoded><![CDATA[오월의 끝자락 눈부신 햇살 아래 서 있었던 우리들, 설레었던 우리들2011년 5월 26일 여러분들께 찾아갔던 보이프렌드가2021년 5월 26일 데뷔 10주년을 맞이했습니다!!감동+웃음+눈물이 함께 한 20210526 특별한 날···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MDFfMjQ4/MDAxNjIyNTMzNTMzODM4.N4sjr2KpLDI4_1qnzc_XORz1UeIRSv74909W0uPODK0g.gRFDi99F7_KbN_7ntTkQnMjo4vX_RYJHVcg9D0ynklEg.JPEG/Im5UwaKVP2xwR1X6gfml7MZyR0nE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 구역의 분노유발자 오연서]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31590165&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31590165&amp;memberNo=28456565</guid>
-            <pubDate>Sun, 24 Oct 2021 13:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[비가 추적추적 내리는 어느날, 선글라스를 착용하고 머리에 꽃을 단 여성이 거리에 등장했습니다비가 와도 눈이 와도 날이 맑아도 머리에는 늘 꽃을, 햇볕없는 비오는 날에는 늘 선글라스를 착용하는 어디에서도 찾···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjZfODQg/MDAxNjIyMDE5NDU2MjM3.6_5wDKK35gPUA0sSzQq5iQ6Wce6LvUG8cdHnonsgki4g.oYHOCttSdyBWkCy-FfWuiPSs-gaL8Dn9-EFG1toqrAYg.JPEG/IEeWyqhfALqxi8XTT7ww-tIFCZqM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
