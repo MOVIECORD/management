@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 14:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 15:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드라마에서 눈치 보는 주연 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32827784&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32827784&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 25 Nov 2021 15:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[금토극 시청률 전체 1위! 국내 넘어 해외까지 큰 사랑을 받고 있는 SBS '지금, 헤어지는 중입니다'그 중 동그란 안경과 자유로운 느낌의 히피펌소노 디자이너라는 자부심과자기 감정에 솔직하고 할 말은 다 하는 성···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMTUz/MDAxNjM3ODI3OTQ5MTU4.p2sNcKLl21FYhBh0ikCRPM3_CJj3vflF11pKNTkEqvsg.YCEYt9VdSGyuYJHFoAn6i0VwTd27jqbXExxstiD9wtMg.JPEG/IaWeFu6I2TlLigKq1t-kb89xoTSE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[키레이션] 올해 목표가 있다가 사라져버린 소속사]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32819727&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Sun, 31 Oct 2021 14:19:30 GMT</pubDate>
             <content:encoded><![CDATA[코드 레드, 코드 레드! 폭발 사건으로 지금부터 출구를 봉쇄합니다이곳은 대한민국 국가정보원 코드 네임: WEST 수연지금까지 기밀로 숨겨 두었던 &lt;뫼비우스 : 검은 태양&gt; 서수연 요원의 진.짜 모습을 공개합···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMzFfMjcx/MDAxNjM1NjUxMDI4ODE4.0v28usr2kd4qVUPWuGqgri53ABv1VNcI0Jwtftu6g48g.C11QBBO0AMcEv-ZasynUjzrVGy-XUa-Yh7OPT_yUco4g.JPEG/IrEPSKC4AALVInZO5iZuxY8d8KKU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장르가 판타지인 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32656198&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32656198&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 30 Oct 2021 14:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[여기 바로 신비로운 능력을 가진 사람이 있습니다사실 사람이라고 확신할 수 없어요인간의 비주얼이 아니거든요그를 한 번이라도 보면 절대 잊을 수 없는 마법에 걸리게 되는데요몽환적인 분위기와 독보적인 아우라···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjlfMSAg/MDAxNjM1NDkzNTU0MjQw.krqnaxFaKxSJfZ5hYhztl5dlYVuQWAKvpGgTQV1QgmMg.CPJIuFEYD2qEaw2N-jdy6OxHCAO9umtnrg_ftntxsoEg.JPEG/IfFHHD_gvCnVSlf7Wws9NA50P8iM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

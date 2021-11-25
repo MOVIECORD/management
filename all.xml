@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 14:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 15:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,6 +170,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMTFfMjkx/MDAxNjA3NjczMzI1MDM3.IODUkpVveQRgY0Xh6UD7QmtiD68cAeUzk22OH3-j2vkg.fmRLGu57jF14t4A7XUFl7XUO7rY022oYlymRqFbB4Tsg.JPEG/Ifmdpowu4zTII6yAvM7p5v-kpYEE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[드라마에서 눈치 보는 주연 배우 (네이버 포스트 ─ 키이스트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32827784&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32827784&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 25 Nov 2021 15:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[금토극 시청률 전체 1위! 국내 넘어 해외까지 큰 사랑을 받고 있는 SBS '지금, 헤어지는 중입니다'그 중 동그란 안경과 자유로운 느낌의 히피펌소노 디자이너라는 자부심과자기 감정에 솔직하고 할 말은 다 하는 성···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMTUz/MDAxNjM3ODI3OTQ5MTU4.p2sNcKLl21FYhBh0ikCRPM3_CJj3vflF11pKNTkEqvsg.YCEYt9VdSGyuYJHFoAn6i0VwTd27jqbXExxstiD9wtMg.JPEG/IaWeFu6I2TlLigKq1t-kb89xoTSE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[키레이션] 올해 목표가 있다가 사라져버린 소속사 (네이버 포스트 ─ 키이스트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32819727&amp;memberNo=29770009</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32819727&amp;memberNo=29770009</guid>
@@ -322,14 +330,6 @@
             <pubDate>Sun, 31 Oct 2021 14:19:30 GMT</pubDate>
             <content:encoded><![CDATA[코드 레드, 코드 레드! 폭발 사건으로 지금부터 출구를 봉쇄합니다이곳은 대한민국 국가정보원 코드 네임: WEST 수연지금까지 기밀로 숨겨 두었던 &lt;뫼비우스 : 검은 태양&gt; 서수연 요원의 진.짜 모습을 공개합···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMzFfMjcx/MDAxNjM1NjUxMDI4ODE4.0v28usr2kd4qVUPWuGqgri53ABv1VNcI0Jwtftu6g48g.C11QBBO0AMcEv-ZasynUjzrVGy-XUa-Yh7OPT_yUco4g.JPEG/IrEPSKC4AALVInZO5iZuxY8d8KKU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장르가 판타지인 배우 (네이버 포스트 ─ 키이스트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32656198&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32656198&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 30 Oct 2021 14:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[여기 바로 신비로운 능력을 가진 사람이 있습니다사실 사람이라고 확신할 수 없어요인간의 비주얼이 아니거든요그를 한 번이라도 보면 절대 잊을 수 없는 마법에 걸리게 되는데요몽환적인 분위기와 독보적인 아우라···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjlfMSAg/MDAxNjM1NDkzNTU0MjQw.krqnaxFaKxSJfZ5hYhztl5dlYVuQWAKvpGgTQV1QgmMg.CPJIuFEYD2qEaw2N-jdy6OxHCAO9umtnrg_ftntxsoEg.JPEG/IfFHHD_gvCnVSlf7Wws9NA50P8iM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[연정훈] 오늘도 훈훈한 연정훈 배우가 왔훈 (네이버 포스트 ─ 935엔터테인먼트)]]></title>
@@ -2322,6 +2322,14 @@ VS
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTdfMTQg/MDAxNjEwODQwMjUyOTc2._DTATKj52i0hdnosBN9C455V1JoayocN9SnKnwQWXkwg.DWZWvj2_8uWtJwg4PGYKeLZqena7spRaVuhCWM9P43Ag.JPEG/IICGRf_KR6-1oPaiRD8LedYveQIw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한채영 인간세계 탐방 中 (네이버 포스트 ─ 스튜디오산타클로스)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32827786&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32827786&amp;memberNo=31542741</guid>
+            <pubDate>Thu, 25 Nov 2021 15:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[존재만으로 황홀함을 선사한다?그건 바로 한채영 배우를 보고 하는 말이라죠? 남다른 고급美 + 세련美 + 인형美(?) 다 모아놓았던 화보 현장 산타 보부상이 잔뜩 들고 왔습니다 각설하고, 바로 보실까요? ☞☞시···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMTgx/MDAxNjM3ODIyMTY1NDI3.noOY06Eo4SGSW1h39CF34zasvdryooGMkVjeY7Klf3wg.Xg7aUBskW6AZAk_ruaeaUUf1V93zGmBM5HbYTV2YetAg.JPEG/I8UzlqlE3nDWwh4KD3N07nxa5iHw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연기력 낭비한 배우 (네이버 포스트 ─ 스튜디오산타클로스)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32812644&amp;memberNo=31542741</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32812644&amp;memberNo=31542741</guid>
@@ -2472,14 +2480,6 @@ VS
             <pubDate>Sun, 24 Oct 2021 14:00:23 GMT</pubDate>
             <content:encoded><![CDATA[뜨거운 관심 속에 성료한 제 26회 부산국제영화제 특히, 신설된 온 스크린(On Screen) 섹션에 초청된 넷플릭스 시리즈 &lt;지옥&gt;반응 역시 HOT HOT 벌써 벅차오른다 ㅇㅅㅇ후하그리고, 그 곳에 바로 유지사···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTlfMzAg/MDAxNjM0NjI3NDkwMzE3.JWbXmMYyD0Dqoda3EJ8Q9jP1cPJgXgp-h6aMsGvsc80g.v-lPCJ2mC1YP05elMJK_cuT3EMBYJoPYHCYib3OusEMg.JPEG/Iedu7D5eYDseyMV8c83g-WI628OA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 지우 행복길만 걸어 (네이버 포스트 ─ 스튜디오산타클로스)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32565208&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32565208&amp;memberNo=31542741</guid>
-            <pubDate>Sun, 24 Oct 2021 14:00:23 GMT</pubDate>
-            <content:encoded><![CDATA[HOT하디 HOT한 넷플릭스 시리즈로 새 역사를 써내려 가고 있는 이때! 등장한 작품 넷플릭스 시리즈 &lt;마이 네임&gt;한소희 &amp; 박희순 &amp; 안보현 배우 라인업부터 이미 ♨과열양상♨배우들의 연기는 물론 &lt;···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTVfMTAy/MDAxNjM0MzA1MDE3NjYy.Yi1T3N6UYOBav2i01tER3fPWpSGQAA9sDpudSLPP7mwg.IU0RBtPTjEQt-CwpZjfH-ShVubNBoxypsTb-YVjIZ9wg.JPEG/I1tSViUwklhazFVK73Csfb689S4M.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이승일]'팽'할 수 없는 '절대그이' 전우상의 매력 (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
