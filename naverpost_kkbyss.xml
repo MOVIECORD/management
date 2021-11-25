@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 08:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 09:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오혜원] 언니와 매일 싸우는 여동생]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825370&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825370&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 25 Nov 2021 09:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다! 요즘 붙어 있기만 하면 싸우는 자매가 있다는 소문을 들었는데요 그 소문에 의하면... (사진 출처: tvN 15주년 특별기획 수목드라마 ‘멜랑꼴리아’ 영상 캡처) 언니가 동생이 직접 만든 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMjUw/MDAxNjM3ODEwMjkwMzcw.MlAGIpKe4FgkDjiP4VwjXULJvSw26isQgk5ZYKD1S0kg._vRTJp1-2uDr63YzJxhX5H1J1U5H0jmmSUL_vgbo5x4g.JPEG/I3ZgcrRfeIXYelm6_Nun6J5Mmykk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[임수정] 윤수쌤 128√e980 ♥]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32817246&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Oct 2021 13:20:31 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기 입니다 :D 바로 어제(15일, 금) 배우 박희순 씨가 출연하는 넷플릭스 시리즈 &lt;마이 네임&gt; 공개와 동시에 정주행 하신 분들이 많다는 소식에 찾아왔는데요  복수극의 중심에서 활약한 국내···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTVfMTMw/MDAxNjM0Mjc4NDkyNTA5.SMWULKQNMulmBMFRAMrW2NBdaAGv0rMXs7DnRvImmRQg.U2sDvUBiU7nvdwM3fMdUEHP4rGbuMvNtSxfcbF4n1WUg.JPEG/If-iFTmzlP6Ky9wUjPpND9fyYVC4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KONGCEPT] 콩셉트 with 손우현]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32558982&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32558982&amp;memberNo=35839671</guid>
-            <pubDate>Sun, 24 Oct 2021 13:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[[KONGCEPT] 콩셉트 with 손우현▼ 메이킹 영상 보러 가기 ▼https://tv.naver.com/v/22973496 킹콩 by 스타쉽 공식 계정홈페이지- http://www.starship-ent.com/네이버TV- https://tv.naver.com/kingkongV LIVE- https···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTVfMzAg/MDAxNjM0MjU5NjM4NTEw.UzsYSRpHRkIPnhY1d6YjzJHAlWx0O4HiB_qgNXhP9Eog.4kzjmN3Ei_PTnGEXYEpk-m-Kep3fFwFJUlRazaLItrUg.PNG/IOzMFIpnKC9ieURA2c0GIghbwM5s.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
