@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 14:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 15:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 경찰서 떠납니다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32834991&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32834991&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 26 Nov 2021 15:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[아니죠?...아닌 거죠..? 그럴 리 없잖아요..!!!아....정말..... 유희가 왜 그렇게 승민에게 되물었는지 이제야 이해가 가네요 믿을 수가 없어......금요일이 기다려지던 이유는 딱 하나였거든요(단호)- 내일···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMTA0/MDAxNjM3ODk1MTIwNjA5.yJSqpk3HrGmWBIUQ1tE-gd0FnL4ZB916e8UDpmipGMwg.0p3sIuZ5KYvzWUQu9rkuw01Hnfxu18VZELM2XdzexMwg.JPEG/I_fKOHByNQurMIUfPNLPCD_h-9L8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라마에서 눈치 보는 주연 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32827784&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Tue, 02 Nov 2021 14:20:34 GMT</pubDate>
             <content:encoded><![CDATA[665일, 약 1년 10개월 동안 매일 저녁 8시-10시를 책임져준 우리의 한디♥♥포근포근한 목소리로 볼륨 식구들에게 매일 저녁 "안녕" 하고 인사한 V♡LUME 한디지난 10월 31일(일)을 끝···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDJfNzEg/MDAxNjM1ODQ3NTEyNjA1.DCE4BImMSg6fUQ4-pK2lkgoHSlk9OST2d2lGBGKOcWog.djNgKbN6-GSDKXX7Z_cMgq1huoZUF46nwirXtunB6yUg.JPEG/IJMEKP_bIQ-Nxo1UptUbeTP0TtCg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코드네임: WEST수연]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32659864&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32659864&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 31 Oct 2021 14:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[코드 레드, 코드 레드! 폭발 사건으로 지금부터 출구를 봉쇄합니다이곳은 대한민국 국가정보원 코드 네임: WEST 수연지금까지 기밀로 숨겨 두었던 &lt;뫼비우스 : 검은 태양&gt; 서수연 요원의 진.짜 모습을 공개합···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMzFfMjcx/MDAxNjM1NjUxMDI4ODE4.0v28usr2kd4qVUPWuGqgri53ABv1VNcI0Jwtftu6g48g.C11QBBO0AMcEv-ZasynUjzrVGy-XUa-Yh7OPT_yUco4g.JPEG/IrEPSKC4AALVInZO5iZuxY8d8KKU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
