@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 13:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 14:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱어롱관 만들어야 한다고 말 나오는 영화]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32872437&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32872437&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 02 Dec 2021 14:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[15년이 지난 지금까지도 온갖 애드리브와 밈들의 노다지 명대사와 패러디들을 탄생시킨 영화 '타짜'15년 동안 마포대교는 더욱 단단해졌고 화투 패가 아닌 돈으로 칠 수 있는 당당함과 묻고 더블에 따따블로 갈 수 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDJfMTM1/MDAxNjM4NDM1NjgyMzEw.G6RNl2hKXC0J9HLx_uluhjrzDAKqt68SzX9SQ4u8wqIg.rtMT1Fpn9AoxhAYIQqFYmP-AmPbJzxs4m_QRehKfMCcg.JPEG/I8uovdQEdXMJQ2yLo855XAYfcOcY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홈마 취직했다는 소속사]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32865108&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Sat, 06 Nov 2021 14:20:00 GMT</pubDate>
             <content:encoded><![CDATA[너무 의심스럽고 귀여운 산타가 나타났다?!JTBC 토일드라마 &lt;구경이&gt; 최고의 씬스틸러 산타를 모르면 손해! 일단 너무 대형견 재질이라 취향저격인 것♥산타가 궁금해?훈훈한 비주얼과 우월한 피지컬로···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDZfMzMg/MDAxNjM2MTk1OTU1ODYw.Ckit8MZVjww-JbFalaGY4TfgB1Y9BSbL3qB8l4ZDZMsg.UnOOwtbkehLA9cIR4ucEUS-vFqj1xMZG_k527n8ZeJ8g.JPEG/IhD-h9XSEOEiJer1SvYRZLl4qH4w.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청초함 끝판왕의 등장]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32697321&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32697321&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 05 Nov 2021 14:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[여러분~ 키동입니다! 날씨가 많이 쌀쌀해졌네요 ㅠㅠ오늘은 찬 바람에 건조해진 날씨도 촉촉하게 만들어줄 것 같은박하선 배우의 비하인드로 돌아왔습니다!최근 새로운 모습으로 완벽한 캐릭터 변신을 보여줬던 하선 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDVfMjg4/MDAxNjM2MDk2NjA5Njk1._xBLfGW0s6btFHTn4T0ZE09LBzaxMrS_8dVo7OCdHFwg.5U4uJgt_kxFt8A-xer_q4PPVmZAcy4enHYlrJ2fOjCcg.JPEG/ICU1_JNg4U2MUHRSCQoZO8zRLyUE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
