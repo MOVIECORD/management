@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 한아름컴퍼니 </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 06:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 07:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피자 먹으랬더니 영화 찍은 [허성태]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32884841&amp;memberNo=34451204</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32884841&amp;memberNo=34451204</guid>
+            <pubDate>Sun, 05 Dec 2021 07:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 한아름지기 입니다~~ 오늘은 허성태 배우의 소식을 들고 찾아왔습니다~~ 허성태 배우의 최애 음식 중에 하나인 '피자' 광고 현장 사진을 가지고 찾아왔습니다~~ 이번 광고는 이병헌 배우와 함께 촬영하게···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfMTc2/MDAxNjM4MTc4MTA3MDIz.ytsVF5hL52ntwDAJEsfrQUmc1A0oayoyKeuikX2KFaog.1SOSE6OI9UJzic2GgFgeaI-4FMq-7LU6zbtgJncf8-gg.JPEG/ISNSFm9DDfdOte49YFYRr5RwSEzM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연기 말고 다른 것도 진심인 [허성태]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32717979&amp;memberNo=34451204</link>
@@ -158,13 +166,6 @@
             <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 한아름지기 입니다~~~ 오늘은 허성태 배우의 소식을 들고 찾아왔는데요~~~~바로 허성태 배우가 국내 자동차 브랜드의 광고 촬영을 하게 됐는데요!!!!! 오늘 그 영상이 공개됐습니다~~~~허성태 배우의 광···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MTFfMTk4/MDAxNjIwNzIwNjM2NzU2.f3eKx58ibTKtSfoiWIkkJ3VmB1k4tDFf43Y2Q7K8lrMg.jbvA0Rr_rWTELlGAz_9ggNK2cN6FshnblA0NR2bFyWMg.JPEG/ImrKFjOj-h-DPp5IRqmR_9tCZF8k.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이정빈]의 봄]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31471400&amp;memberNo=34451204</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31471400&amp;memberNo=34451204</guid>
-            <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MTFfOTcg/MDAxNjIwNzAwNDY4NjMx.SuCgOPBHzkTIZmdjl7W_Swb8N8Bt814szMGqeg03yO8g.vDt5XqAPGEv8Ell1Mvb5InXlaYyp_n7WV_P8Hd3gCtQg.JPEG/IN-FSI0dhLaSLy_CoHRc1kEhwpDY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
