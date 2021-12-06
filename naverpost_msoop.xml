@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 07:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 08:29:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫사랑 역주행 로맨스?
+‘최우식’에게 정주행 중♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32891587&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32891587&amp;memberNo=22903361</guid>
+            <pubDate>Mon, 06 Dec 2021 08:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[모두들 추운 겨울이라는데, 저의 마음속 피어나고 있는 이 설레는 꽃들은 뭘까요 그것은 바로 오늘 밤! 10시에 첫 방송하는 SBS 새 월화드라마 &lt;그 해 우리는&gt; 최웅에게 빠져드는 신호랄까남친짤 장인이라 불···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfNTAg/MDAxNjM4NzU5MTkwNDEx.AGuIiewIWY5ASo9JXInD4kM4vbWwunucqrGxVxP1nVgg.hbRG_txEVJVWtnQ3oDpuSgKKqXZ-qAb75cfmWlx4GZUg.JPEG/I8gOtuubf9zmJj0DTUzc0ZHLrizU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올겨울에도 ‘최우식’은 얼죽아!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32848006&amp;memberNo=22903361</link>
@@ -159,14 +168,6 @@
             <pubDate>Sun, 24 Oct 2021 12:46:25 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 여러분 ‍ 숲블리 또 왔습니다 ^_____^ 오늘은 tvN &lt;너는 나의 봄&gt; 다정이의 집에 다녀왔어요다정이의 집에 온 것을 환영해 ♡가영씨도 이곳에서 지낸다는 소문을 듣고 저희(숲블리와 여러분···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjZfMTIx/MDAxNjI3Mjk5MzQ0MzQw.7qohxsbYG86bLO3wf_w-TI_e2lkQs4omhla1WDaAxcYg.20zwhKR6XARD6EDfv-C1_sjxpA3W0F19hCG_Jttt75Ag.JPEG/IYyJItzN_FCM0GEjNwtbbiESrdG4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘서현진’이 분장에 진심이면 생기는 일.zip]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32019130&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32019130&amp;memberNo=22903361</guid>
-            <pubDate>Sun, 24 Oct 2021 12:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[날이 밝았습니다.. 모두들 저를 따라와 주세요..(?) . .안녕하세요 여러분! 숲블리입니다 모두 tvN ‘너는 나의 봄‘ 잘 보셨나요?? 날도 덥고,, 현진도 보고 싶고,, (?) 그래서 준비한! ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjFfMjcg/MDAxNjI2ODU3OTk5NTQy.aONldtZWUjtAla5EaLE1F9lNi5D-R0JtRYu5i7WqmgUg.1wHwVqSMClJArxjOoFFA6snrK0aRGDJGQGeFWuaCJCYg.JPEG/I9BDhVk8YFaZ0aqM7AED9fL1TGbY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
