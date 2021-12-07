@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 20:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 07:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BHENT] 12월의 BH온에어]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32898563&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32898563&amp;memberNo=21724264</guid>
+            <pubDate>Tue, 07 Dec 2021 07:22:14 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfOTEg/MDAxNjM4ODU2NTA2Mjg3.o4L1gkDGFCvn21JW9fxyEDEUgOVHfHbSS88Xn1bPIM4g.2qpJucQ6jB66diO3hfQsmK5PFDxnw9GzgPteJXEuGQAg.JPEG/IXH9kYLjvWSMbObffkpifzPQq-ck.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑에 형태가 있다면, [박지후]]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32816257&amp;memberNo=21724264</link>
@@ -166,15 +173,6 @@ HYO JOO]]></title>
             <pubDate>Thu, 02 Dec 2021 16:34:57 GMT</pubDate>
             <content:encoded><![CDATA[하-이 지아! 이지아 화보 비하인드포스팅 작성하다가 아름답고 이쁘고다 할 때마다키보드 내리쳐서 팀장님이 해피비 키보드 다시 사준 SSUL 푼다 콘셉트 듣는데 벌써 화보 같을 일? 누가 조각상 찍어오래! 인간 찍어···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MjJfMTM5/MDAxNjI0MzI4MzM5MTA0.4ac-BPYxdX_HMMW9Io4eiVwULFU7-SwnWv0EdlZTEZsg.Mn0Sb6Us5LJSstoPRpQbrFk4YNGqLxFq2Kzgs4bI3PUg.JPEG/IKtq8-HrwkyEFFCpTXIFq3yvJhfY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어컨 없어서
-[김고은] 사진 가져옴]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31838335&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31838335&amp;memberNo=21724264</guid>
-            <pubDate>Thu, 02 Dec 2021 16:34:57 GMT</pubDate>
-            <content:encoded><![CDATA[어머,,, 너무 좋은데 야... 큰일 났네 얘어이구 어쩐데어머 어머 얘 봐라 얘 봐라어이구 어이구 어이구 해피비 잡겠네화보 촬영 현장 갔더니 인간 샤넬 있어서우아하고 고급스러운 곤 모습에해피비는 그만 정신을 잃···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MjVfMjYw/MDAxNjI0NjA0MDYxMjcy.Ygsiy7UhxAnh5PsMqAgEW2_lxodl3Jk2vR8ym3pwhNIg.l4HPk3lG-T6BMWnWsZBXeZ7zgRneN5vWPOv4-og2luMg.JPEG/I1xSPg3-rqYPigFYtaWhIRYaRcMA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
