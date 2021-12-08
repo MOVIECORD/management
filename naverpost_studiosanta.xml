@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 14:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 15:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼박자 완벽한 그 분]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32909143&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32909143&amp;memberNo=31542741</guid>
+            <pubDate>Wed, 08 Dec 2021 15:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[짜릿하고 파격적인 드라마의 등장 JTBC &lt;공작도시&gt;그리고 그 중심엔 미술관 ‘아트스페이스 진’의 실장이자 성진家 둘째 며느리 윤재희 수애 배우화려한 안방극장 컴백에 제 가슴은 아직도 두근두근···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDhfNTAg/MDAxNjM4OTY5NzgyNzc2.y8gTagLcp6hzzok3HAsHdOCf_Mmk1pgNOfWsZ_6emJog.AxyfT_25dn5t1CvgQDR65r_JX0AthYer6OfPBFp8PTYg.JPEG/IxQSQPV5ig3kYvDsVNVQAxAHxtJ8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드카펫의 최대 수혜자]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32901777&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 28 Oct 2021 14:21:58 GMT</pubDate>
             <content:encoded><![CDATA[※단 독 공 개 ※ 여러분을 위해 준비한 건일 배우의 아주 '특별한' 화보깜짝 놀라시라고 비밀로 준비했어요(?) (자랑하고 싶어 안달)산타X박건일 특별하고 특별했던 콜라보 화보 컷은 물론 인터뷰까···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjhfMTE4/MDAxNjM1NDA5ODAyNDUz.KcXQZ21ohx3KpNykb66Vu-KaCl-09jy6u9GVv_nqrpEg.e-tG49ShLyQdwlOnyvZAiQ20woHVhdy9LSuwtkuju6Mg.JPEG/IhSrvAJhvdkd6HgNuSSMouYCL5eg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제작사 배 아프게 만든 배우]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32637800&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32637800&amp;memberNo=31542741</guid>
-            <pubDate>Wed, 27 Oct 2021 14:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 190여 개국 공개 이후 국내 1위 X 해외 상위권 랭킹 이어가고 있는 화제의 신작 &lt;마이 네임&gt;&lt;마이 네임&gt;을 더욱 빛나게 만든 이들이 있었으니,,! 제작사 '스튜디오 산타클로스'가 뽑은놓쳐서는 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjdfMTQw/MDAxNjM1MzE4MDM3MTQ3.ENYOpm0NjejuJXhJqjfD17llc1VQszMxzhb12Akiuxsg.10wRQKhjUWD0PkwJSQmM2gtTJ55VHOn7Jk4hyZuaBbsg.JPEG/IT-bFdAzc7cIM9YX0UJov5Q4XD2Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
