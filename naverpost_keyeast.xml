@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 21:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 22:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 제일 열일한 배우는?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32909289&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32909289&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 08 Dec 2021 22:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요  키이스트의 2021 연말 결산 콘텐츠 3탄으로 돌아온키레이션(KEYration) 해주는 홍보 마스터 키동이 입니다♥지난 포스트에서는'키이스트'='사진 맛ZIP'이라고 뽐내보았는데요사실 키이스트는 사진 맛집이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDlfMjIz/MDAxNjM4OTc3MDEzOTU4.S45oNcXu8HLKF8s1L-zlhDrD3LquLRZepXjGJXrTXG4g.2_GP4s5dZd4re71Ba6ECB6Js6m5HqlXOtCRI8cSZ6eIg.JPEG/IjcURnA5iS7LQvpD-Al-ZaBavt5k.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추리력이 코난급인 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32901773&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Thu, 11 Nov 2021 15:23:28 GMT</pubDate>
             <content:encoded><![CDATA[나는, 이 나라 조선의 내금위장 윤형설왕 혜종의 호위무사이자 세자 휘의 모든 비밀을 알고 있지염려 말게나, 내 그 비밀은 죽어서까지 안고 갈터이니..그나저나 궐 안에 의심스러운 인물이 있어 내 요즘 통 잠을 이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTFfMTU4/MDAxNjM2NjIwNTgxNTcx.LZXNYss-jUYE6Dy7cYnarM7paEhjuzCEtTRXkEU5kPcg.7aoCi2Ax715OiJ3vCQm1exyhZUpyjZJ_LZuNF_ixoq4g.JPEG/I4JHd2zoxN0lYGjrKEIJz35E1ynY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 봐, 강한나의 인생 조언이다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32728698&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32728698&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 10 Nov 2021 15:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[MZ 세대들의 취향을 완벽히 저격 탕탕 해버린 디지털 드라마 ''바이트 씨스터즈' 그 중 매력적인 비주얼과 통통 튀는 매력, 믿고 보는 연기력으로시청자들을 단박에 매료 시킨 매력적인 뱀파이어 한이나 역의 배우 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTBfMTk0/MDAxNjM2NTI1OTAwOTEw.G3D7DvAxclgCn3WQlc14OqJzKHpWCZtVEcUjk8ZPWG8g.1810h4h0oYni0JN9WP8s5-qB7xW8HJgdRL3uuZP3d2Ag.JPEG/INjxh3r7COTQMZaZpQFFARoRPAhk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
