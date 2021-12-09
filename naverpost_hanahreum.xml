@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 한아름컴퍼니 </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 08:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 09:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집안일의 신 '집신' [허성태]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32915095&amp;memberNo=34451204</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32915095&amp;memberNo=34451204</guid>
+            <pubDate>Thu, 09 Dec 2021 09:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 한아름지기 입니다~~~ 오늘은 허성태 배우가 모델이 된 라이프 스타일 브랜드 제품 촬영 현장 사진을 공개 합니다~~샤워기를 든 남자 허성태...이렇게 귀엽게 샤워기 들기 있기 없기?...'두더지 잡기' 생···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDhfMTk2/MDAxNjM4OTQzMDY4NTg4.rBv2kqyM2b7Bn0UKPTyMsS_tO8gvhRYvT9xo_fNikC8g.QZ4qmlwsNryEoN8miKfyT0lOw7OA5fegjLumtuMApuwg.JPEG/Ib5v-alnSJjmH5iglLas-XhfqYzI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피자 먹으랬더니 영화 찍은 [허성태]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32884841&amp;memberNo=34451204</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 한아름지기 입니다~~~~ 오늘은 홍서백 배우의 소식을 들고 찾아왔습니다~~~ 바로바로 홍서백 배우가 게임 광고 속 주인공이 되어 돌아왔습니다~~~~홍서백 배우는 광고에서 안전요원으로 등장했는데요~~~ ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjRfMjIw/MDAxNjIxODQwMTQzMDIx.9dOuA0q3Li5pUnHVxVaDVawF6qSID_j2ZpbNzWM1Lukg.HEGJU8dF054KygvMrD7CySH7Q56Yy_7mU_HyTzxaBjcg.JPEG/IYtTMUa68KMtjgBifvLCHg-32GVk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우로 완생의 삶을 살고 있는 [허성태]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31499862&amp;memberNo=34451204</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31499862&amp;memberNo=34451204</guid>
-            <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 한아름지기 입니다~~~ 오늘은 허성태 배우의 소식을 들고 찾아왔는데요~~~~바로 허성태 배우가 국내 자동차 브랜드의 광고 촬영을 하게 됐는데요!!!!! 오늘 그 영상이 공개됐습니다~~~~허성태 배우의 광···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MTFfMTk4/MDAxNjIwNzIwNjM2NzU2.f3eKx58ibTKtSfoiWIkkJ3VmB1k4tDFf43Y2Q7K8lrMg.jbvA0Rr_rWTELlGAz_9ggNK2cN6FshnblA0NR2bFyWMg.JPEG/ImrKFjOj-h-DPp5IRqmR_9tCZF8k.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
