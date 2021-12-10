@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 08:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 09:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱]은 BAD and CRAZY]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32921874&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32921874&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 10 Dec 2021 09:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다 :-) 배우 이동욱 씨가 출연하는 tvN 새 금토드라마 &lt;배드 앤 크레이지&gt; 동영상  버튼을 누르면 현재 화면에서 재생됩니다. [단독]승진에 눈 먼 류XX 형사! 메치기 당한 현장 공개···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfMTg3/MDAxNjM5MTAxMjc5MDc5.4_deyrvDCZ6rxC8gFzVw6Hb8pCgnCeeu92xLT3g4nQYg.ptutqnu1r605l4QgTsh5tfcUoY88QGdM84l6bceBwc8g.JPEG/Iqn57gG2E9eXdYKlJR_YDZSau8Gk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이광수]의 갭(GAP)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32914548&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 02 Nov 2021 07:22:37 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 오늘은​ 킹콩 by 스타쉽과 한식구가 된​ 배우 손우현 씨의 NEW 프로필 소식으로 ​ 찾아왔습니다​​시크에 댄디를 한 스쿱 넣고​청량미와 화사함을 한 스푼씩 더해 ​ 다양한 A컷을 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDFfMjk1/MDAxNjM1Nzc2NzU0MjUx.xZ3iwNmLeGMvy7rk8aUzjBttEtfZofBQ3jpnVeel9W8g.tGzb1ajNKDpOZdZQ4rQoHb9s_I98KFSow0lZonvWxM8g.JPEG/I_lg6WK9Dg8hvEfR3wnE2MGKQV8w.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[조윤희] 미술관 오픈합니다♥]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32634079&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32634079&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 27 Oct 2021 06:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :) 오늘은 요즘 너무나 열일 중인 배우 조윤희 씨의 ‘마리끌레르’ 화보 비하인드로 찾아왔는데요!한 폭의 명화 같았던 이번 화보...♥ 그날의 유니님을 담아보았습···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjdfMTIw/MDAxNjM1Mjk4MjkwOTc1.96Et3nNf4B65-ZMjYSz4tK-C_Mkfw9rcM5dYiS4Mfmog.ssdPxnQ3vJVgMgFiRffKgf_aLXJrlGw7cRQx1LNuorcg.JPEG/InlYuY25Lbm_vyItgKISYszUGRs8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
