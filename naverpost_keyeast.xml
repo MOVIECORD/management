@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 14:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 15:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퓨어VS섹시, 
+당신의 선택은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32924609&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32924609&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 10 Dec 2021 15:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 본업 열일 중인데 미모도 열일 중인 이 배우바로 꾸안꾸 패션의 정석! ❀선화 배우❀ 오늘은 작정하고 꾸민 화보 컷들 보여드릴게요~!아틀란티스 소녀가 절로 들리는 청초 비주얼부터 시선을 사로잡는 섹시한 콘···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfMjk4/MDAxNjM5MTAyMDQzODc1.2sRUiWBGkK5UP-gVWCcMe3Qq8uMIdrrpVil5HwQoS7Yg.NZAAC_eBcAhZdGwtUWKr-DSWt8rBGw4TIuvAVn8jcxAg.JPEG/I0O5OCLRW-x1qnxiwgc-Bt7anjRE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 제일 열일한 배우는?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32909289&amp;memberNo=29770009</link>
@@ -160,14 +169,6 @@
             <pubDate>Fri, 12 Nov 2021 15:23:24 GMT</pubDate>
             <content:encoded><![CDATA[여러분~ 키동입니다! 요즘 극강의 서스펜스로 떡밥 회수하느라 바쁜 화제의 드라마가 있죠!?매주 금요일 오전 8시 올레tv와 seezn을 통해 만나볼 수 있는 진실 추격 스릴러 '크라임 퍼즐'날카로운 직감력을 가진 엘···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTFfMTcw/MDAxNjM2NjEyOTMzMjAw.GBCIw8ol-TzPmh36k3EZjUn5HVG6JzqEOwiW-SZNHIkg.-9-MZofAaslSNX_Slf__Rr7ni_KvCnz8WyV-9jeydn0g.JPEG/I2edIrSrGvZM5xuAUhzlMs9DLod0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 충성스러운 당신 유죄]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32736420&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32736420&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 11 Nov 2021 15:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[나는, 이 나라 조선의 내금위장 윤형설왕 혜종의 호위무사이자 세자 휘의 모든 비밀을 알고 있지염려 말게나, 내 그 비밀은 죽어서까지 안고 갈터이니..그나저나 궐 안에 의심스러운 인물이 있어 내 요즘 통 잠을 이···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTFfMTU4/MDAxNjM2NjIwNTgxNTcx.LZXNYss-jUYE6Dy7cYnarM7paEhjuzCEtTRXkEU5kPcg.7aoCi2Ax715OiJ3vCQm1exyhZUpyjZJ_LZuNF_ixoq4g.JPEG/I4JHd2zoxN0lYGjrKEIJz35E1ynY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

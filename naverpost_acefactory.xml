@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 14:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 15:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고교 건축과 교사로 취직한 배우 근황]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32923245&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32923245&amp;memberNo=44834478</guid>
+            <pubDate>Fri, 10 Dec 2021 15:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[입시 경쟁이 아닌 다른 길을 선택한 아이들. 모호한 경계에 놓인 열여덟 청춘들의 꿈과 우정, 설렘의 성장기를 그린 드라마 '학교 2021'그리고 여기,풋풋한 학생들 사이 눈에 띄는 한 사람출근 첫날부터 극한의 공포···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfMTU2/MDAxNjM5MTMyNjgzMDYx.3_1kQSFQN0la49jA97tzQstTrJ3ArXwSYfLgm6CAJuEg.bthM1MSCvggEO2vpDgYo1VTvLQgB5P_x4xyVibZW-8og.JPEG/IPxD0piz8FfqI2sZyLKza15vnvTc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4년만에 교육부장관 비서관 됐습니다.]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32905653&amp;memberNo=44834478</link>
@@ -169,14 +177,6 @@
             <pubDate>Sun, 24 Oct 2021 13:13:58 GMT</pubDate>
             <content:encoded><![CDATA[요즘 화제의 드라마 SBS '원 더 우먼'한주그룹의 안주인이자한주家의 시어머니서명원 역의 배우 나영희깁스를 하고 있어도감출 수 없는 귀티는 기본인그저,,, 고상하고 우아한 줄 알았던 서명원이사실은,,,날카로운 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjFfNzUg/MDAxNjM0ODEwMjQ5MDk3.kHVHg9_5RbS8zosXZ7DHdoFaCVpSFGbYohgm9Jm6bDog.c4PrcvasWKLu12hE0YZCi3u8-mkeROMdwt_F85lqZZMg.JPEG/InufGqXUCqPUtAn11SqLwYTsZGa0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최성은, 십개월의 미래]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32598911&amp;memberNo=44834478</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32598911&amp;memberNo=44834478</guid>
-            <pubDate>Sun, 24 Oct 2021 13:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '시동'의 소경주 드라마 '괴물'의 유재이 넷플릭스 기대작 '안나라수마나라'의 윤아이 웨이브 오리지널 무비 '젠틀맨'의 김화진 . . . 주연길 걸으며 괴물 신인으로 불리는 배우 최성은그리고 절찬상영 중인 영···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjFfMTAx/MDAxNjM0ODEwMTYzNjc0.57pzaKI1r1P2Wo64qhlXFFlJddTp4olDFd1UtvUVGtgg._xB0TmbOMTvfUuJ7f74QRhfrR9CQAVy_lusMsdkx3O8g.JPEG/IbcFg7RjpQhp0Y6d5K_yBhYASI7o.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
