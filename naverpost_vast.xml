@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 09:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 10:26:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BACK TO THE HyunBin ♡]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32635683&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32635683&amp;memberNo=32146648</guid>
+            <pubDate>Fri, 10 Dec 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST]HYUN BIN♥여러분,제가 왜 현빈 배우를 좋아하는지 아시나요? 여기엔 엄청난 비밀이 숨겨져 있습니다 그 비밀, 여러분들께만 공유드릴게요 (쉿) 1. 손에 물만 묻혀도 분위기 있기 때문 2. 설거지하다가 돌···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjdfOTkg/MDAxNjM1MzE5OTAyMDQ0.dW2gTrlbMzdvKmNZw2DOlghx50eohV0ck2JIYgbrwywg.ltnr0RLO50UH8AjmcK5mzyszmiLWzN-7p4Bwy_HgXckg.JPEG/Iogrq-MnJO3yZfH-4mTzALg589cI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션이 무엇이냐고 물어본다면, 고개를 들어 '파니'를 보게하라]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32854896&amp;memberNo=32146648</link>
@@ -160,14 +168,6 @@
             <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST] HYUN BIN   [속보] 베스트리, '현빈 그만 좋아해' 선언 덕메들 안녕!다들 베스트리의 선언에 깜놀하셨을텐데요(괜챠나효...? 많이 놀랬죠...?)맞아요, 베스트리는 그만 좋아하기로 했어요현빈 오직 '그'···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MDZfMjEy/MDAxNjE3Njc1NzUwMzM0.lYVfmgxC2g98_nr6EmJy5b5q6EXPVJ_W0FEO7LUkfQEg.x1W8M4m_Lz13RlI5Uq90GIhYaRtmBvDAkteTAVpsajsg.JPEG/ITYeOhbhnXjU2qyiOkZTKRiHGJMA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원조 CF 스타의 귀환]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31028301&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31028301&amp;memberNo=32146648</guid>
-            <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[VAST POSTSTEPHANIE LEE 화려한 의상과 메이크업 소품들이 가득한이곳에 베스트리가 잠입한 이유는?   오늘의 주인공원조 CF스타 파니 의 새로운 광고 촬영 현장을 함께하기 위해서!  참!그리고 오늘 포스팅 속또 한···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMjJfMjcw/MDAxNjE2NDA3NTg3MzE5.nA5Wcu_NXTtYmDBH1bOvqPw9YvM3YetJhpL64O2sVpEg.ZXItgDUyRctMMREZYpgHoYc6mqvY8MEvRSGNb8kEQv0g.JPEG/Ih2_PYB_8BmM17y9HToII0b7y1d4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
