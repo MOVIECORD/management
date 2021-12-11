@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 13:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 14:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[정수정]이 있는 곳이 천국]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32926569&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32926569&amp;memberNo=51396641</guid>
+            <pubDate>Sat, 11 Dec 2021 14:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[눈을 감았다 떠도 앉았다 일어나도 자꾸만 생각나는정수정 배우의 매거진 'W Korea' 커버와 화보이번 커버와 화보는 유방암 인식 향상 캠페인 'LOVE YOUR W' 프로젝트 일환으로 진행돼 더욱 뜻깊은 의미를 담았는데···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTFfMTY5/MDAxNjM5MjA2NDgxODMx.BCxXWqdmRwtBoLQnAr3UTl5lbtyKuXJE1Qq2lhzEOLwg.AYCoZuYwUIR8M0kkHzST8x1UIdyXmgIqjhhH39nNy0Ig.JPEG/I9-uC7MNte4OTEbu8HvRM7Ve6Ves.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['지리산'으로 올래요?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32922771&amp;memberNo=51396641</link>
@@ -161,14 +169,6 @@
             <pubDate>Sun, 24 Oct 2021 13:06:48 GMT</pubDate>
             <content:encoded><![CDATA[선선한 날씨! 높아진 하늘! 가을이다 가을!! 올가을 최고의 조합을 추천하기 위해 돌아온 핸디터입니다!잠자던 홍익인간의 정신을 깨워 널리 알리고 싶은 올가을 최고의 조합 =손담비 배우 X 매거진 '마리끌레르' 화···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTVfMjcx/MDAxNjMxNjk1OTAyNTE0.HwOY-2KRW2faG9ziqnfm3DD_cXUOEPkyaylvbe3TYggg.ow4Jxk9DUT9ud_n2yZM7KziKt0Gae6BvQALypWbLovIg.JPEG/IsB_b3MwyMARZHUMv83Cw9hXCa50.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마음 속에 [곽동연] 들여놓으셨죠?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32307755&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32307755&amp;memberNo=51396641</guid>
-            <pubDate>Sun, 24 Oct 2021 13:06:48 GMT</pubDate>
-            <content:encoded><![CDATA[긴말 하지 않고, 오늘 핸디터가 여러분께 보여드릴 미공개 사진들!!!포스트의 주인공을 만나볼까요?이렇게 바.로. 아이컨텍하면 #감사합니다 #심장이쿵곽쿵곽곽동연 배우, 요즘 광고계의 대세인거! 아시죠? (남···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDNfMjkx/MDAxNjMwNjQxODc5NTUw.Rk4utTN-Fc9rpp_dSdVx4YF5aANJY4i0ss1Z3KSSgJwg.28u7a5Z6IZK5Hbr8Ss-_RAb_jAJQ6h8T9XExyXRSB4sg.JPEG/IUDYYpAHdbhG_1XAhi8yCbcfvfKU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
