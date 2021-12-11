@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 14:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 15:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 드라마 대체 뭔데?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32927760&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32927760&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 11 Dec 2021 15:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[실험적이고 신선한 연출 종합 선물 세트 같은 배우들의 열연 예측불가 떡밥들의 향연인 신선한 필력올해 본 드라마 중 최고매 회차 공개될 때마다 시청자들의 뜨거운 반응을 일으키고 있는 JTBC 토일드라마 '구경이'···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfMjA5/MDAxNjM5MTI5MjQzMTMx.1hxgpvuirto0A2cjmrcolhZQT2AFObIKBHrtTEowot8g.K6LIlJs5rCBAz-M65D4WeD-jyK1s6NrpBHHUYmqDJUwg.JPEG/IzoLr-RdlrUXlGLGGslKpT9N5NXc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퓨어VS섹시, 
 당신의 선택은?]]></title>
@@ -161,14 +169,6 @@
             <pubDate>Sat, 13 Nov 2021 14:19:52 GMT</pubDate>
             <content:encoded><![CDATA[보기만 해도 감탄을 자아내는 드라마들을 만든 제작사 키이스트 에서 야심 차게 선보인 드라마!하드보일드 코믹 추적극 &lt;구경이&gt; 요즘 그 닉값 톡톡히 하는 중!첫 방송 이후 입소문이 나면서 연일 흥행가도를 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTFfMTkw/MDAxNjM2NjAwNzUwNTMz.K4tW8cU0ujkgY9TqdVyqPDU4XvJLGbHBLnfMwZ4tlucg.JlxlExVf3E1H-4xrO7pb2UDim9ykHo1IuEcEqbSVVDMg.JPEG/Iam9TsNtllDZxcicmo9tQBBuvTn0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 배우 나오면 무조건이지]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32744191&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32744191&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 12 Nov 2021 15:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[여러분~ 키동입니다! 요즘 극강의 서스펜스로 떡밥 회수하느라 바쁜 화제의 드라마가 있죠!?매주 금요일 오전 8시 올레tv와 seezn을 통해 만나볼 수 있는 진실 추격 스릴러 '크라임 퍼즐'날카로운 직감력을 가진 엘···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTFfMTcw/MDAxNjM2NjEyOTMzMjAw.GBCIw8ol-TzPmh36k3EZjUn5HVG6JzqEOwiW-SZNHIkg.-9-MZofAaslSNX_Slf__Rr7ni_KvCnz8WyV-9jeydn0g.JPEG/I2edIrSrGvZM5xuAUhzlMs9DLod0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
