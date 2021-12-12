@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 14:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 15:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산타 없는 크리스마스? 실화인가요?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32931113&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32931113&amp;memberNo=29770009</guid>
+            <pubDate>Sun, 12 Dec 2021 15:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스가 오기도 전에산타가 떠났습니다ㅠㅠ이름 나이 과거 불문사람들 앞에서 목소리를 드러내지 않는 구경이(이영애)의 수상한 조수로모두의 호기심을 자극했던 산타몰래 구경이 음료에 무언가를 타는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTJfODYg/MDAxNjM5Mjk4NDMzOTQ1.niuF0X5f_U_kM5aFuEA5Ib44Njbxo8f8h3yU2VWTZsEg.MhI3FjTsAGM3arEhVFuTWj_HuFgzLBZpOf4tyI8ndgcg.JPEG/IhEuYP34CwLuPXZp5XNdTRnnS8qM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 드라마 대체 뭔데?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32927760&amp;memberNo=29770009</link>
@@ -161,14 +169,6 @@
             <pubDate>Sun, 14 Nov 2021 14:19:27 GMT</pubDate>
             <content:encoded><![CDATA[도대체 산타가 누구야? 처음 보는 배우인데 누구야? 큰일났다..산타가 너무 좋아JTBC 드라마 &lt;구경이&gt;에서 구경이(이영애) 조수로 HOT한 관심을 받고 있는 a.k.a 산타 배우 백성철 Baek Sung Chul순수···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTRfNjEg/MDAxNjM2ODk0NjgyODAy.m3twNCo6OIwn53mKqaoDLEbOlJhbLovS6A_udPTmCVUg.5pGqC4H15UCOb-ZIKRzPv-Gy_Rlhbbp3_VkV7y_LaTUg.JPEG/IEoFKLKjh3oJbvjKrJAUmLcDdY7M.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 게 의심스러운 드라마]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32747601&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32747601&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 13 Nov 2021 14:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[보기만 해도 감탄을 자아내는 드라마들을 만든 제작사 키이스트 에서 야심 차게 선보인 드라마!하드보일드 코믹 추적극 &lt;구경이&gt; 요즘 그 닉값 톡톡히 하는 중!첫 방송 이후 입소문이 나면서 연일 흥행가도를 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTFfMTkw/MDAxNjM2NjAwNzUwNTMz.K4tW8cU0ujkgY9TqdVyqPDU4XvJLGbHBLnfMwZ4tlucg.JlxlExVf3E1H-4xrO7pb2UDim9ykHo1IuEcEqbSVVDMg.JPEG/Iam9TsNtllDZxcicmo9tQBBuvTn0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

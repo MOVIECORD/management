@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 14:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 15:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여신님 하늘에서 내려오신 날]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32931114&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32931114&amp;memberNo=31542741</guid>
+            <pubDate>Sun, 12 Dec 2021 15:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[12월 2일.. 여신님 하늘에서,, 내려오신 날♥ 다들 ㄱ억하시죠..?주변을 환하게 만드는 아우라를 발산하며&lt;2021 Asia Artist Awards&gt; 내려온 주미 여신♥아름답다 아름답다 말하기도 이젠 입 아픈 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTJfMjcx/MDAxNjM5MzE5ODg1Mjk4.eEDTz1RjhgkTEoOFUBh817uZwA-0DZnSWMSBPwx2pjQg.toHqfLbg1GKhBCEYNWysQjtH2rie3TV9YcJ7rpRrfUgg.JPEG/ISs5nePMnNEwQZQGHDv2_7T5uTa4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 아이콘은 바로 나]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32927762&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 31 Oct 2021 14:21:11 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 날이 추워져겨울이 다가오는 지금준비해야 할 것이 있죠! 바로~ ! 쨘 !10月의 ★'화뉴스'브리핑★마음속을 훈훈하게채울 준비되셨다면↓↓ GO! GO! ↓↓ Casting 국내 최초 4D 웹드라마 &lt;미스터LEE&gt;에 이어플···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMzFfNDMg/MDAxNjM1Njg2NDk0MzYw.ewKs8LbatDwbfZZ7hnBkjBmVU6CtkwFWtgZWsfrJarkg.YlUklalsz7yfINXUqKJzS1RbnghepRlm39sKwZ5Eum0g.JPEG/IXhjj_zh8nd7QTNFfMxCipGPghbw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[속세로 내려오신 스님]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32656199&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32656199&amp;memberNo=31542741</guid>
-            <pubDate>Sat, 30 Oct 2021 14:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[ㅇㅅㅇ 허헛,,,!채신 스님께서 속세로 내려오셔서대한국수 마케팅팀으로 입사했다는 소식 ㅇㅂㅇ!!!빼꼼 이게 머선일!? 빼꼼 바로 티빙 오리지널 &lt;유미의 세포들&gt;에 한별 대리로 등장한 권승우 배우째깍 시간이 없습···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMzBfMTI1/MDAxNjM1NjAwNjE4ODE1.k2EbxlK-MXwcx1Mxauw2uphmuzCspAmfxBVDMU7uaDkg.4XUnMc84tfx6lNyNZILQhnqQgboiiRjlOHF7ne3zeB0g.JPEG/Iuk_LbsAl57TdSeM9S2xfb0nwZhk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
