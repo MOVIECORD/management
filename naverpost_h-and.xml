@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 13:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 14:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그동안 주지훈이 
+강현조라 행복했다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32929400&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32929400&amp;memberNo=51396641</guid>
+            <pubDate>Sun, 12 Dec 2021 14:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[현조 안녕!tvN 15주년 특별기획 '지리산'이 대단원의 막을 내렸습니다.최종회의 여운을 이어가기 위해 주지훈 배우의 '지리산' 마지막 촬영 현장을 담아왔습니다. ※ 결말에 대한 스포가 포함되어있습니다 마지막 회···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTJfMTc3/MDAxNjM5Mjg2Mzk3OTE4.RFs-QT-2dve5BI0PNIEocKTBYTZiD8owpXVm8_aMntUg.8-Qsr3vpZqLRhiOwetWZEoTypYPBlktksCFLlc3Ihv8g.JPEG/IKXSCQRWpZQIfRAyx5uuxPD2etN8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[정수정]이 있는 곳이 천국]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32926569&amp;memberNo=51396641</link>
@@ -161,14 +170,6 @@
             <pubDate>Sun, 24 Oct 2021 13:06:48 GMT</pubDate>
             <content:encoded><![CDATA['경찰수업'이 방송되는 월요일과 화요일이 아니어서 #경찰요일 당 떨어지는 것 같은 오늘! 이럴 때 필요한 것은 무엇이당? 정수정이당!존재 자체가 빛빛빛 정수정 배우가 오늘의 주인공입니다! 마치 크리스마스 선물···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MzBfMjQ0/MDAxNjMzMDEwMDE2MzEw.VJwu0K_2C-UYcI-d8z--wyvE1VZQDgqH0e_411Xo2v8g.HlD_pxzCyPSf8VNe1P4m9FC4C5QPgT0LDyWU9LHasLkg.JPEG/I0TEEFAo7NTcIM_loEnPa0vZBhJk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계절의 알림은 [손담비] 패션에서]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32377353&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32377353&amp;memberNo=51396641</guid>
-            <pubDate>Sun, 24 Oct 2021 13:06:48 GMT</pubDate>
-            <content:encoded><![CDATA[선선한 날씨! 높아진 하늘! 가을이다 가을!! 올가을 최고의 조합을 추천하기 위해 돌아온 핸디터입니다!잠자던 홍익인간의 정신을 깨워 널리 알리고 싶은 올가을 최고의 조합 =손담비 배우 X 매거진 '마리끌레르' 화···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTVfMjcx/MDAxNjMxNjk1OTAyNTE0.HwOY-2KRW2faG9ziqnfm3DD_cXUOEPkyaylvbe3TYggg.ow4Jxk9DUT9ud_n2yZM7KziKt0Gae6BvQALypWbLovIg.JPEG/IsB_b3MwyMARZHUMv83Cw9hXCa50.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
