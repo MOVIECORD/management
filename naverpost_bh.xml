@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 02:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 03:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한효주 <해피니스> 종영 기념 일문일답]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32917365&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32917365&amp;memberNo=21724264</guid>
+            <pubDate>Sun, 12 Dec 2021 03:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[해피니스TVING│tvN 금토 오후 10:402021.11.05. ~ 2021.12.11 Q. '해피니스’가 작감배의 조화가 완벽했던 웰메이드 드라마라는 호평을 받으며 종영을 맞았다. 종영 소감은? 영광이다. 좋은 팀과 좋은 캐릭터를 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDlfMTA2/MDAxNjM5MDYxMzMzODY2.6kUcTVNWdu2WHgWmkUL1m4nZ6vbl4U5WCfnwAbGFklkg.qj2tbTaGF3fZRoRjmio8SOs3E0GFWyYJSxlJvP3e29Mg.JPEG/IJhchMxdXmdALwnp5S19NFLtrOn4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[한효주] 행복 얼마큼 넣어드릴까요?
 ■■■■■ 가득이효!]]></title>
@@ -164,15 +172,6 @@ HYO JOO]]></title>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31904701&amp;memberNo=21724264</guid>
             <pubDate>Thu, 02 Dec 2021 16:34:57 GMT</pubDate>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDVfMjY0/MDAxNjI1NDcyMjI0NDMy.zY1hUojBje03QeARHZb1GWgxpz2CU4NfIitU439p6ygg.Qbp3fXsfr9xOsFRogIM2c6v-rEwTJqGH-g2pCd7kPqIg.JPEG/IPb_FdqxEdXVpyZrPRjJzg5OoDbw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입덕문 가온이가 열고
-탈덕문 [진영]이가 닫지.]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31856261&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31856261&amp;memberNo=21724264</guid>
-            <pubDate>Thu, 02 Dec 2021 16:34:57 GMT</pubDate>
-            <content:encoded><![CDATA[여기 아이돌 버금가는시범재판부가 있다고 해서 찾아왔다온! 거기 뒤태도 잘생긴 청년 당신이 바로시범재판부 '입덕 멤버'김가온? 우리 가온이는요...(feat. 엽기적인 그녀 ost) 이렇게 미소년 얼굴을 하구요... 질···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MjVfMSAg/MDAxNjI0NjExMzI1NzQz.aONyYsL3wfXHW9Kw55VTUfY_t9gL_qT_Iwx6vePvK3Ag.6qj9HlLluMcU0rMtyrBkICfPIZ0zij6Lg4FbHAJjvqog.JPEG/IcUUnYUHHluzWYKC4m5IymfIPRKs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
