@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 11:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 12:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주기적으로 봐야 하는 사랑스럽고 소중한 배우]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32945144&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32945144&amp;memberNo=28456565</guid>
+            <pubDate>Tue, 14 Dec 2021 12:36:09 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 오늘은 tvN 드라마 &lt;어사와 조이&gt; 8회 촬영 현장에 싸더지기가 다녀왔습니다! (다들 함성 대신 박수 쳐) 이날은 차말종과 결탁한 관리들을 찾기 위해 장부를 살펴보는 조이의 모습을 담아왔는···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTNfMjI4/MDAxNjM5MzY5NjA0MTI4.R2IHcYvikTB7xYEr_PXf-XPqhF-_w-lrVcsYmi07Uwsg._IluxK1aNnM96Qvkiob57oxYxAlHeuFxurptT6azWwYg.JPEG/I8sGQa0EY3xmCdcKgzrUNdpuXEhw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트러블메이커 세자빈 꼬옥 안아주면 돼...]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32881157&amp;memberNo=28456565</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 02 Dec 2021 16:35:25 GMT</pubDate>
             <content:encoded><![CDATA[수많은 소녀 팬들과 기자들이 모인 공항 입국장. 유명 스타가 입국하는 걸까요?땡!! 이곳은 바로 '그래서 나는 안티팬과 결혼했다' 촬영 현장입니다^^수많은 인파 속에서 후준의 열성팬 차유리 역을 맡은 송채윤 배···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MTFfMTA5/MDAxNjIzMzc4MjQ1OTgz.hhG0cirs_VMLUMVBDW_XlZ5ky7fijYDC4_UmTwhKlh4g.jb6WIurZXEQ96vRDgla8Uk9CUZsgp9PiIbStA214Qv4g.JPEG/Icc5cKh_6KYZI7Vt24aJY_-GBrm8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치명적인 매력이란 이런 것]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31663416&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31663416&amp;memberNo=28456565</guid>
-            <pubDate>Thu, 02 Dec 2021 16:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 십자가 소품 그리고 엄숙한 분위기가 흐르는 이곳.손만 봐도 멋짐이 가득한 오늘의 주인공 포착! 여러분 ! 누군지 궁금하시죠??바로 뮤지컬 배우 손준호입니다♡♡♡ 멋짐폭발 손 배우님의 매력에 퐁당 빠지실 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MDRfMTE5/MDAxNjIyNzc0OTcyMzk1.2rgavF4Dgc0VYEWDFNJ4119Cmsw0OIgxx7XFW4ectgsg.rhvWacXj4IRx_E-TtWcqmx_WhAsLZsp9L7tnWxo1VNMg.JPEG/Ia2u6tsCDp1mupGj7Rlw34oFB-b4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
