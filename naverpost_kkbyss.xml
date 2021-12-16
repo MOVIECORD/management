@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 07:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 08:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엑시]X엘=엘시]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32956106&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32956106&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 16 Dec 2021 08:28:12 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 매주 월, 화 밤 11시수많은 캔디들을 울고 웃게 만들었던JTBC &lt;IDOL [아이돌 : The Coup]&gt;이지난 화요일(14일) 막을 내렸는데요 (사진 출처: JTBC &lt;IDOL [아이돌 : The Coup]···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTVfNjkg/MDAxNjM5NTYzMzgzOTY2.RFdHzBriAYhumKkmsTnnNnbN_on7DDAMxWEp8KgAIS0g.vycHq_XxZAfqrJUu5AaYrNKGZDo0fRMqHdmrSvpu_bEg.JPEG/I81ah3Qz2tChFLvLJAs-7be5t-QY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KONGCEPT] 콩셉트 with 천영민]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32947714&amp;memberNo=35839671</link>
@@ -159,14 +167,6 @@
             <pubDate>Sun, 14 Nov 2021 04:30:21 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 지난주 첫 방송부터 리얼한 스토리와 다채로운 볼거리로 뜨거운 화제를 불러일으킨 JTBC 월화드라마 &lt;IDOL [아이돌 : The Coup]&gt; 그리고  (사진 출처: JTBC &lt;IDOL [아이돌 : ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMjQ3/MDAxNjM2NzA3ODkwMzA5.F2iTRNepX4nvkpvVAMCvA8SrOOXaDWTz_zw0WBlxmBwg.zvTTNpcrMeHAsHKXrMGZQpQ6lHPSrcqhq7U7lL0gjr8g.JPEG/IOHDmwt9ZFHzVtqHoKrc-DPbAuUc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유연석] 돌아온 연몬티♡]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32745462&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32745462&amp;memberNo=35839671</guid>
-            <pubDate>Sat, 13 Nov 2021 03:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요!반가운 소식으로 찾아온 킹콩지기입니다:)여러분, 드디어연몬티가 우리 곁으로 돌아왔습니다! [사진제공=쇼노트] 얼마나 기다렸다고요♡더욱 멋진 연몬티로 돌아온배우 유연석 씨의&lt;젠틀맨스 가이···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTNfMjY0/MDAxNjM2NzI5MzUxMjQ2.GNHT-loz7f0hSi5mR0Ycio0Pvi7xDC5rmoi9IY5H08Ug.jf8VQgTwC8IlHacbpmzSiYyGvg5QicqdX1KQKaVuNjcg.JPEG/IosjMTOpzPzQrGsrEvp1_wAtwsII.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
