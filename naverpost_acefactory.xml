@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 10:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 11:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[깜짝 개원 소식 알린 배우]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32979325&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32979325&amp;memberNo=44834478</guid>
+            <pubDate>Mon, 20 Dec 2021 11:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[여기의사 가운이 너무나도 익숙하신 분예를들면,,, 흉부외과 구동준,, 유레이즈미업 장원장,,(등등)같지만 이번에는 정신건강의학과 전문의최병모입니다수요일도 목요일도 아닌금요일에 찾아온최대훈 &amp;heart···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjBfMjQx/MDAxNjM5OTkxNzQ0OTYx.wuXK7s5-6H7_rpBOJWJDgS7gRNZYtOh2GgIjvYjO3eMg.sysqntKuKyMJ0AwO4htVa7tuhQvEM81DtZvnMpoipuog.JPEG/Ieb6HlpmyzsvN9htlvCKaFGlPjPY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[약혼남에서 파혼남 된 사연]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32951494&amp;memberNo=44834478</link>
@@ -166,16 +174,6 @@
             <pubDate>Mon, 01 Nov 2021 14:21:32 GMT</pubDate>
             <content:encoded><![CDATA[언제봐도훈훈한 투샷신다은♥임성빈 촬영 현장에 찾아간 ACE오늘도 텐션 업신난다은과게임에 진심인 임소장 의 꿀케미 ♥열심히 설명하고치열하게 맞추고 ㅎㅎㅎㅎㅎ환상호흡 선보이는부부케미 ♥언제···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDFfMjM2/MDAxNjM1NzU0NzI5MDky.30RAVyQa93fwEpGmReIx5ArBgQH50ns3yN6ee_TpBA8g.2XOpxHZKFwXRUB0pY-vYUGuWXqG4KFmAPcU9NDahhxAg.JPEG/IqAtOIfhqextEcA0DMIcg8F_yTI4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이준혁X이주영
-부산국제영화제 폐막식 
-현장 공개]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32613372&amp;memberNo=44834478</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32613372&amp;memberNo=44834478</guid>
-            <pubDate>Sun, 24 Oct 2021 13:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[제26회 부산국제영화제 폐막식 사회를 맡은 두 배우MC 준혁 - MC 주영 ♥영화의 전당에도 자리한 두 배우가 폐막식 사회자로 섰습니다 ★★★★★폐막식 사회 보기 전 먼저 만난 두 배우여기 방금 리허설 마치신 분···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjRfNzIg/MDAxNjM1MDM4NzkyMTY3.wjZSeIflE7RN-LjGdz0_FLXqobY72-RdenVChvhxiZMg.C7txIreD-30JveX3YTz5vzH16WV9hcUwHOCIdD-IBlEg.JPEG/IG663cvH_B4TgyUqhaq0b5_MHhbs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
