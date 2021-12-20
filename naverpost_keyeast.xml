@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 14:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 15:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장인 콜렉터가 분명한 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32980228&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32980228&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 20 Dec 2021 15:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[찍는 족족 A컷만 뽑아내는 진정한 화보 장인창 밖을 왜,, 그렇게 바라봐요? 눈빛만으로 서사 뚝딱 연기 장인눈만 감았을 뿐인데 잠자는 숲 속의 공주, 백설 공주, 온갖 디즈니 공주 다 불러내는 소환술 장인문가영 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTdfNjYg/MDAxNjM5NzIzNzY2OTg2.6zAx664hzz5lWKrxbHK0HqBDA_7Dh5u-O_2wZXKgx_cg.dZbVhhTJmrlXRNV1vjWCmpQegwISO8UWhwVPusB9iJEg.JPEG/IErLtRd8whYdq8MqNxVNc_eqSb5w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우에서 과학 수사대로 전향한 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32973133&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Sat, 20 Nov 2021 15:22:27 GMT</pubDate>
             <content:encoded><![CDATA[속보입니다.키이스트에 따르면 산타코인이 1120% 급등세를 보여 *산타코인(STC) = 백성철&lt;구경이&gt;의 열기가 전국 곳~곳~으로 뻗어 나가고 있다는 소식입니다.하지만, 산타코인의 최대 수혜자 키동 은 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjBfMjAw/MDAxNjM3NDA0MTYwNTY0.pEXW_vQFGLc6N1wl9abLGVyHMdd2COA3s26ghyFXK8Ig.O0RiJdugIlb83Gd8cRk5ynPtcCCcuEKtgErmmGoF4W4g.JPEG/I3HBUOXJ6mICNXjA6fTcbPn13l-s.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자꾸 바다 보러 가자고 하는 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32790760&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32790760&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 19 Nov 2021 15:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[이 움짤은즐거운 호캉스의 한 장면이 아닙니다...이것은 바로 요즘 제일로 hot한 '술꾼도시여자들' 한지연이 영양사에서 요가강사로 직업을 전향하게 된 이야기..오늘은 우리의 '사또' 지연이의 과거를 탈탈 털어보···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMiAg/MDAxNjM3Mjg1NDMwNDE0.oDYSWBhdK97vHfgRJZfjxjJxnKAK06YsQiP1Ccyexq0g.FYLjVyDshTuAz-cD4QXxO0vIA9UqHlenhgMOzJD-jSEg.JPEG/IvRpN0kjNiZEK2MT-r3Ey1VE03a8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
