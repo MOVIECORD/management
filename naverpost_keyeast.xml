@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 13:31:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 14:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 임금 반전 사생활 포착]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32994147&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32994147&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 22 Dec 2021 14:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 첫 방송을하고 월화극 시청률 1위에 오른 KBS 2TV 월화 드라마 '꽃 피면 달 생각하고'에서과거시험 현장에근엄하게 등장(두둥!)뭔가 불편한 기색과,의심 가득한 얼굴로용상에 앉은 임금 이강 역의 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfMjg2/MDAxNjQwMTU0NTMyMzg0.VubdDV35LFH1H-oa0HogaktQqaVQKO9xwjMqhLCUDdcg.fIJtHJaE7993g2NVMS2ZfvVJPCmhoTgCNWe12c3FC6Ag.JPEG/IuRBoPrZgevSWNDpvb3rKQccTh-w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장인 콜렉터가 분명한 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32980228&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 22 Nov 2021 15:23:57 GMT</pubDate>
             <content:encoded><![CDATA[사랑하는 여자의 얼굴이 변하지 않아요...1921년에도... 2004년에도....약 천년의 세월이 흘러도 변하지 않는 이 사람의 얼굴만큼이나그녀를 향한 제 마음도 변하지 않아요...앞으로 저는 어떡하면 좋죠..?키동은 어···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjJfMTk0/MDAxNjM3NTcyODcwOTAz.fqL5fybMQPqV2AXExyAkUCFj_x15DEY7e_MuBcEEuSMg.w6tNY9GQuO4WYeTFU7nHX6EBVgaKGkXVOfA0Ix1Bxi8g.JPEG/IbBsxR_FG7FZFXwubUVflwp2xKcI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[속보] 산타 코인(STC)이 강세✈️]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32794145&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32794145&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 20 Nov 2021 15:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[속보입니다.키이스트에 따르면 산타코인이 1120% 급등세를 보여 *산타코인(STC) = 백성철&lt;구경이&gt;의 열기가 전국 곳~곳~으로 뻗어 나가고 있다는 소식입니다.하지만, 산타코인의 최대 수혜자 키동 은 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjBfMjAw/MDAxNjM3NDA0MTYwNTY0.pEXW_vQFGLc6N1wl9abLGVyHMdd2COA3s26ghyFXK8Ig.O0RiJdugIlb83Gd8cRk5ynPtcCCcuEKtgErmmGoF4W4g.JPEG/I3HBUOXJ6mICNXjA6fTcbPn13l-s.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
