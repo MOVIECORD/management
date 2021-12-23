@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 09:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 10:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박이현] 비주얼 천재 그녀가 돌아왔'설'♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32957729&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32957729&amp;memberNo=32146648</guid>
+            <pubDate>Thu, 23 Dec 2021 10:25:29 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST]PARK E HYUN♥ 드디어 이날이 오네요 여러분께 비주얼 천재만재 이현 배우의 '류설' 소식을 들려드릴 날이!!! ©콬TV 화양고에서사랑스러움 TOP, 솔직한 매력 TOP 을 찍고 ©콬TV '주호 바라기'로 시청자들···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTZfODkg/MDAxNjM5NjQxODkzNjYx.fU-vW4DAUSLg96boMAs6StrcfpjBaJhRhHZLqqD_Udwg.3ayXDtEPp_6mBwL7SDEqr_TDLOAml-CKLFbqfnPXwNgg.JPEG/IXGpfdEpAkdiaUnmXSo-ngA-zE10.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BACK TO THE HyunBin ♡]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32635683&amp;memberNo=32146648</link>
@@ -160,14 +168,6 @@
             <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST]SHIN DO HYUN♥안녕하세요! 베스트리입니다오늘은봄이 되면서 두근두근한 여러분의 마음을더더더 간질거리게 만들美친 비주얼의 여배우, 신도현의 포스팅을 준비했습니다 알면 알수록 더 알고 싶어지는도현···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MTRfMTI1/MDAxNjE4Mzg4MDk5Mzg3.BhBni_xtJ1sDYjBZm-BoR44l7iQmQEKJHb5U2kq6KzUg.0jhbvE-Fg2w_3DlRFYb0BhEO4EswvaZRA9hN_I4zjGgg.JPEG/IIWqzjzVpT7VvZlfy7vdBsI9kS_U.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현빈, 그만 좋아하려구요]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31146254&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31146254&amp;memberNo=32146648</guid>
-            <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST] HYUN BIN   [속보] 베스트리, '현빈 그만 좋아해' 선언 덕메들 안녕!다들 베스트리의 선언에 깜놀하셨을텐데요(괜챠나효...? 많이 놀랬죠...?)맞아요, 베스트리는 그만 좋아하기로 했어요현빈 오직 '그'···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MDZfMjEy/MDAxNjE3Njc1NzUwMzM0.lYVfmgxC2g98_nr6EmJy5b5q6EXPVJ_W0FEO7LUkfQEg.x1W8M4m_Lz13RlI5Uq90GIhYaRtmBvDAkteTAVpsajsg.JPEG/ITYeOhbhnXjU2qyiOkZTKRiHGJMA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
