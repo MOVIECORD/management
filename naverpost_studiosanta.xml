@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 22:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 23:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작품에서 걸어 나온 수애]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33002086&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33002086&amp;memberNo=31542741</guid>
+            <pubDate>Thu, 23 Dec 2021 23:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[매 장면마다 작품 같은 비주얼로 눈 깜빡일 시간도 아까운 &lt;공작도시&gt; 속 수애 배우이런 은은한 분위기 아무나 못낸다구요 &gt;_&lt;우여곡절 끝에 서고의 열쇠도 손에 쥐고원하는 게 무엇인지 묻는 질문에 &amp;q···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjRfMjU2/MDAxNjQwMjk5NTk3MTY2.qW-SRogjY19f2XjYDsiW-lGzKXLW82eeuSKmd9Cv_HUg.krC8NnTEKph4eXHs-RFL7UYmpx429a48nCgFQfUpDaAg.JPEG/Iv_DpMqK8Zb1hT-DDAyAZhpPPizY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈빛서사 끝판왕]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32994353&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 18 Nov 2021 15:25:26 GMT</pubDate>
             <content:encoded><![CDATA[공식 예고편을 시작으로 산타캠은 느꼈죠&lt;마이 네임&gt;에 과몰입 하게 될 모습을..아직 저처럼 과몰입 중인 여러분을 위해 준비한제작사 스튜디오 산타클로스 PICK! 놓칠 수 없는 명장면 속으로#고퀄_액션_명장···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMThfMTM1/MDAxNjM3MjE3OTk2NDE2.0pFam6Eh7gjDkSuxz_n1asNAweMeRDHjcU6BFJ8y-uUg.nmqMCfowuEJ9kJCsICwvqAKT9AQAp1yPmMgMWF6uWVsg.JPEG/IWMK3uyQzO1WzV5yW7yCDdylcjCg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 핫한 그 형]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32759196&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32759196&amp;memberNo=31542741</guid>
-            <pubDate>Mon, 15 Nov 2021 15:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[당신 손끝에 달린 추리게임11월 29일 오후 4시 KaKao TV 바로, 강력계 형사 미스터LEE가 찾아옵니다!뽀짝 뽀짝 신입 사원부터 츤데레 남사친 → 톱스타 까지 오가더니!이번엔 4차원 매력의 강력계 형사 미스터Le···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTVfMTUw/MDAxNjM2OTg0MDg0MDUz.bn5hRwRiddjty1CL2HCIqapfmlsWMuw8EvK2Puzyo4cg.ePouQirQgEWyq1P39W7wmo45CC1U6RiClkZRtQpKykwg.JPEG/I8hwGAe_gGh-68uPLXh95017OrCo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
