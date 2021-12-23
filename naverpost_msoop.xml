@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 07:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 08:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[⚠️[공유]의 바다 탐사 중!⚠️]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32999239&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32999239&amp;memberNo=22903361</guid>
+            <pubDate>Thu, 23 Dec 2021 08:27:58 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 [공유] 대장님을 탐사하는 날- 공유항공국 탐사 대장 숲블리가 아~주 자세하게 보여드리겠습니다 밀착 탐사 기록 지금 공개!!두둥-!이곳은 우주항공국 최연소 탐사 대장 한윤재로 변신한 공유 배우의 넷플릭···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfMjg0/MDAxNjQwMTM3NzIxOTk5.KNJfllDCjZca1GckrH8UuTBGArypyHZBaRX3GXlCsNAg.I6tqGuBEIGWgxTP-AYrwJipxyaqQy2_JabjkWBxTBHMg.JPEG/IqSMjMM3psswSjOe_ECmv_cqTc4I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고딩 때 출연한 다큐가 역주행 했어요]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32987279&amp;memberNo=22903361</link>
@@ -160,14 +168,6 @@
             <pubDate>Sun, 24 Oct 2021 12:46:25 GMT</pubDate>
             <content:encoded><![CDATA[1분 1초가 아까우니 우리.. 우식 보러 가지 않을래요...?첫 등장부터 초록초록 풀잎 사이로 상큼하게 등.장.☆ 오늘 숲포스트에서 웃은요때로는 수줍수줍하게때로는 누워서,가끔은 센치한 감성과우월-한 기럭지 자랑···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDNfNzEg/MDAxNjI3OTU0NDc3MzQx.d-gmWohSXCXnLx2zeKkTxCSwhcvK3u-AncU3DyR7bXkg.xER6rfh6tVWTw0uiJP8bDP4LdqjsHiMEZ7hvLi18LVIg.JPEG/Ic-zMZJQLnd7vBmeCnZm-KiE6vGg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘남지현’의 마법 속으로 빠져 봅↗시다-★]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32074201&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32074201&amp;memberNo=22903361</guid>
-            <pubDate>Sun, 24 Oct 2021 12:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[여러분과 숲블리의 불금을 책임지고 있는 그녀! ‘마녀식당으로 오세요‘에서 열연 중인 지현 배우 덕분에 숲블리의 매일매일은 판타지로 가득 차있는데요-  마녀의 동업자이자 직원으로 여러분과 숲블리의 마음을 사···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjNfNjAg/MDAxNjI3MDM0Mjg0NDkz.0iDkYLCL9kZq-XIv2KQA8LyLg5-N5p0sPYqfVR6i4nAg.HMhXUfzAYEFv8WoE76J17qHp1jGjkYgT4G4pEB1xwpMg.JPEG/IJ-DXjnGcxHaJazXDEMw6lNlp70A.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

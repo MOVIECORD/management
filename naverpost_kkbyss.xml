@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 07:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 08:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이진] 판타지에서 온 NEW 프로필☆]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32997537&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32997537&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 23 Dec 2021 08:28:51 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 오늘은 다가오는 크리스마스만큼 기쁘고 설레는 소식으로 찾아왔는데요! 바로... 배우 이진 씨의 * ੈ✩‧₊˚NEW 프로필 업데이트* ੈ✩‧₊˚ 그래서 SWEET 이진부터 CHIC 이진 COOL 이진까지 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfNDAg/MDAxNjQwMTU5MzczOTEw.fDMIqTxb7TJ8xggqXL-Oh34OVqybxmlPaOPbyCA0Tukg.-ablgdWcOFRrC063kNg05DxTdWWPw-x6QBJePjk7iRIg.JPEG/Ij4WzgquoUrmjpKpPH8Yv-VTy94g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[임수정] 지윤수쌤 커리탈 사람 구함]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32990127&amp;memberNo=35839671</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 22 Nov 2021 08:27:34 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)​​오늘은 ​엑시 씨가 출연하는​JTBC &lt;IDOL [아이돌 : The Coup]&gt; ​하는 날~!​ 그래서 준비했습니다( •͈ᴗ-)ᓂ-ෆ​​극 중 ‘코튼캔디’의 무사 컴백을 ​기원하는 마음을 담아 준비한​엑···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjFfNTkg/MDAxNjM3NDk1MjUyODk3.H8dp6fwJL2M-BwIe_DS5InU0lz91OdrJ0voM0efVze0g.BGmPVnWtc5_89L3_wXLXt1Zb-pxPvP-vt5n61y3S8PYg.JPEG/IsFIqpc_sXuuQo71o20TM9fGxftc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이루비] 제가 지목할 차세대 유망주는...]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32779244&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32779244&amp;memberNo=35839671</guid>
-            <pubDate>Thu, 18 Nov 2021 08:28:24 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기 입니다 :) 오늘 킹콩지기가 지목할 차세대 유망주는... 두구 두구 두구 바로 신인 배우 이루비 씨 ♥ 반가운 얼굴을 만날 수 있었던 콘텐츠 촬영 현장으로 함께 떠나보시죠! MC 김준현 씨와 함께···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTdfMjg0/MDAxNjM3MTQ0NzQxODQy.UKj0Dzadnak8FXPELB9xLy4HUEoBR3Lj2Fp9TBoy4NIg.KDuG3oyIRlalom9AsLLThUNfgdnVEg6UaE8miNj4XvEg.JPEG/IKe4dSCT_a69PlYalyDkeqOmku1U.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
