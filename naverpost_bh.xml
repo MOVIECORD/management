@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 08:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 09:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리집 굴뚝으로 들어온 행운 [진영]]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32964527&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32964527&amp;memberNo=21724264</guid>
+            <pubDate>Fri, 24 Dec 2021 09:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요해피비입니다:)띵동♬ ※레전드 크리스마스 선물이 도착했습니다※ 눈이 부시게~아름다운 바닷,,,아니 녕긔 갑자기 화면이 밝아지는기적경험하고 싶으신가요? 지금바로가능 자...ㅈㅏㅁ시...왜 데이터가 안 터지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTdfNDcg/MDAxNjM5NzE4OTM0NzM3.4emD5OpBoRdC14ZEm2wejejeayXBbJizjafEcTVdhyEg.gSfkV_frYKCIKDpZ7ry7KZOzWUngryWDfM8HYXsVCnog.JPEG/IddDbf_yIx6MwqHWz4ydlClmjxXA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한효주 <해피니스> 종영 기념 일문일답]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32917365&amp;memberNo=21724264</link>
@@ -164,14 +172,6 @@ HYO JOO]]></title>
             <pubDate>Thu, 02 Dec 2021 16:34:57 GMT</pubDate>
             <content:encoded><![CDATA[지난 2019년 1월, 본시리즈 스핀오프 미국 드라마 &lt;트레드스톤&gt;의 캐스팅 소식을 알리며할리우드 진출의 신호탄을 쐈던한효주 깜짝 공개된 출연 배우들과의 인증샷에서도눈에 띄는 우리 효주 배우! 설렘을 가···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDZfMTQg/MDAxNjI1NTY0MzA2NzEw.1DK0cisE57WtsmrYtoGLTdprVs9u6iJsfl8obcDnuFMg.xlDfj0V5Oz14WG1th54G9K6mrEcsuz5i4QbEJJ7N-O4g.JPEG/IKhmlw53axCKFdpf9gPDnZnCVAcs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BH엔터테인먼트]
-7월의 BH ON AIR ●]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31904701&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31904701&amp;memberNo=21724264</guid>
-            <pubDate>Thu, 02 Dec 2021 16:34:57 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDVfMjY0/MDAxNjI1NDcyMjI0NDMy.zY1hUojBje03QeARHZb1GWgxpz2CU4NfIitU439p6ygg.Qbp3fXsfr9xOsFRogIM2c6v-rEwTJqGH-g2pCd7kPqIg.JPEG/IPb_FdqxEdXVpyZrPRjJzg5OoDbw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
