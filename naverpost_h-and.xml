@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 09:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 10:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,8 +16,7 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfMjE3/MDAxNjQwMTYzNDM1NTY0.gtDp17IUtY4UeCGqzGSUWjbfRDWJFKK_jJtiLefG5oEg.fw1_5tzbgTdwh1DgyE1FVms3D5HGX2rnwt7lf7U99KYg.JPEG/IFU4U4giwhwT9YzzQ0-HzOtQCIzY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['짜짜박박'인 프로필을
-탄생시킨 '윤박']]></title>
+            <title><![CDATA['짜짜박박' 윤박]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32966663&amp;memberNo=51396641</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32966663&amp;memberNo=51396641</guid>
             <pubDate>Fri, 17 Dec 2021 15:24:42 GMT</pubDate>
