@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 14:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 15:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리스마스 선물 같은 존재]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33010853&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33010853&amp;memberNo=31542741</guid>
+            <pubDate>Sat, 25 Dec 2021 15:24:33 GMT</pubDate>
+            <content:encoded><![CDATA['지옥'에 진심인 분 보러 오신 거라면, 잘 찾아 오셨습니다 넷플릭스 &lt;지옥&gt; 속 유지사제 류경수 배우가 오늘의 주인공라디오부터 넷플릭스 콘텐츠 촬영 그리고 &lt;지옥&gt; 포토존 방문까지! '지옥' 확실하···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjVfMjQ3/MDAxNjQwNDQzODE1MTMz.b2M94Pm-yjaV5eu-glWIKFz_R_pZwHdx-6kqJMAbTmAg.hMQnL7XTz-Lk4Vq6RgGQkAHPykVsFR1l_VG2q3k_k-sg.JPEG/IaTTI8wdFXF_8TqFA047UfvVqD54.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작품에서 걸어 나온 수애]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33002086&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 21 Nov 2021 15:24:30 GMT</pubDate>
             <content:encoded><![CDATA[쌀쌀한 계절이 성큼 와서 산타도 성큼 왔어요(?)바로 ✦태양✦처럼 빛나는 현경 배우와 함께요♥KBS 2TV 주말드라마 &lt;신사와 아가씨&gt;의 차 연실은 온데간데없는!❤우아함의 정석❤ 현경 배우의 화보···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjFfMjY2/MDAxNjM3NTAzMTA5OTMw.5kZD2ok2nV5vAmPpU5MOzn_SGx4QbxPlxkbb49psnvcg.4RVIzZb1M95tr6_HnmnmxrMVddcpYspB9ItchXABMxYg.JPEG/Ib6RqQNhIxTLVE-4qXPuG8ZuAbNE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[28,800분 1위 드라마]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32783145&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32783145&amp;memberNo=31542741</guid>
-            <pubDate>Thu, 18 Nov 2021 15:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[공식 예고편을 시작으로 산타캠은 느꼈죠&lt;마이 네임&gt;에 과몰입 하게 될 모습을..아직 저처럼 과몰입 중인 여러분을 위해 준비한제작사 스튜디오 산타클로스 PICK! 놓칠 수 없는 명장면 속으로#고퀄_액션_명장···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMThfMTM1/MDAxNjM3MjE3OTk2NDE2.0pFam6Eh7gjDkSuxz_n1asNAweMeRDHjcU6BFJ8y-uUg.nmqMCfowuEJ9kJCsICwvqAKT9AQAp1yPmMgMWF6uWVsg.JPEG/IWMK3uyQzO1WzV5yW7yCDdylcjCg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
