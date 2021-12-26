@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 04:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 05:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김범] 놀토 찐팬 성덕 되다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33012034&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33012034&amp;memberNo=35839671</guid>
+            <pubDate>Sun, 26 Dec 2021 05:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기 입니다 :D 어제(25일, 토) 크리스마스의 선물처럼 찾아온 배우 김범 씨와 tvN &lt;놀라운 토요일&gt; 동영상  버튼을 누르면 현재 화면에서 재생됩니다. 남다른 놀토 애청자 김범♡ 다시 돌아온 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjZfMjA0/MDAxNjQwNDgxODMxODk1.8266pkmj-IObfU7ZCKaj0ezCBg6xNVRkGiGV87D96Ggg.pvyT-S7tR_OERh82YOA3OP7QzsC1pIQEZVUqtrTcmS8g.JPEG/IhRyxIw9gm-3C5zZL3x9GI7RyrI8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱] 이제 알겠어, 내가 누군지]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33006745&amp;memberNo=35839671</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 25 Nov 2021 09:24:03 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다! 요즘 붙어 있기만 하면 싸우는 자매가 있다는 소문을 들었는데요 그 소문에 의하면... (사진 출처: tvN 15주년 특별기획 수목드라마 ‘멜랑꼴리아’ 영상 캡처) 언니가 동생이 직접 만든 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMjUw/MDAxNjM3ODEwMjkwMzcw.MlAGIpKe4FgkDjiP4VwjXULJvSw26isQgk5ZYKD1S0kg._vRTJp1-2uDr63YzJxhX5H1J1U5H0jmmSUL_vgbo5x4g.JPEG/I3ZgcrRfeIXYelm6_Nun6J5Mmykk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[임수정] 윤수쌤 128√e980 ♥]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32817246&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32817246&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 24 Nov 2021 08:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기 입니다 :) 배우 임수정 씨가 출연하는 tvN 15주년 특별기획 수목드라마 &lt;멜랑꼴리아&gt;에 빠져살던 킹콩지기는 한 가지 궁금증이 생겼어요 128√e980 = ?  그.래.서 이 식의 답을 알려줄 지···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfNzUg/MDAxNjM3NjYzNjUyODc0.VMUtNghPvzVWoT1ZkLRI_xhRixhamCgGzw_vbsyHnzgg.s_7ToiP4qNgHnH4XmTXoHwX45POBsDO-wEU1ffsXolQg.JPEG/IFHdpYV6UX_vs9xH5tkf6vBcpEe0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
