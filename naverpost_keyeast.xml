@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 14:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 16:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱글벙글 낯가리는 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33020857&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33020857&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 27 Dec 2021 16:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[차분한 성격에 나긋나긋한 말투낯선 존(ZONE)에 들어가면 파워 낯을 가리고 곧잘 충격을 먹을 것 같다구요!?트레이서ZONE 은 못 참지~!당연함. 포즈 아이디어가 계속해서 샘솟아성의 1컷 1폭소 유발 포즈 &amp;#···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjdfOTcg/MDAxNjQwNTk0ODg5MzQx.A2bmKx4mDBjJ5JYITYVMEScpjyJ7u5349OCzXHx72Xgg.i-Pal67kihmggqQArxF1x453aEAKwMU2Zey-WiKnjpgg.JPEG/I9PAyu_-3s7jgjijg3cRKv3xqQN0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 99년생 신인배우 비주얼.jpg]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33005097&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 25 Nov 2021 15:23:48 GMT</pubDate>
             <content:encoded><![CDATA[금토극 시청률 전체 1위! 국내 넘어 해외까지 큰 사랑을 받고 있는 SBS '지금, 헤어지는 중입니다'그 중 동그란 안경과 자유로운 느낌의 히피펌소노 디자이너라는 자부심과자기 감정에 솔직하고 할 말은 다 하는 성···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMTUz/MDAxNjM3ODI3OTQ5MTU4.p2sNcKLl21FYhBh0ikCRPM3_CJj3vflF11pKNTkEqvsg.YCEYt9VdSGyuYJHFoAn6i0VwTd27jqbXExxstiD9wtMg.JPEG/IaWeFu6I2TlLigKq1t-kb89xoTSE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[키레이션] 올해 목표가 있다가 사라져버린 소속사]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32819727&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32819727&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 24 Nov 2021 14:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 올해 좌우명이 있다가... 사라진 키동입니다.↓↓ 이유 ↓↓↑↑ 이유 ↑↑ 올해 키동 목표 : 배우들 큐레이션 아니고, 키레이션(KEYration) 해주는 홍보 마스···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjJfMjk5/MDAxNjM3NTYyNDgyNjk0.zx52u1tR9qDwgBmWlkJM6Z4qAO2P4dnpkneLHJ_PK_0g.spxplGo2-aF5fCQBVOyZht6-3ozcq9AHfNg8-u9N6Tsg.JPEG/IpBc61gxZKHUv8hsV0646Dj1oCqk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
