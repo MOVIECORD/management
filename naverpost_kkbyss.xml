@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 07:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 08:29:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이진] 오 마이 ‘이진’]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33024490&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33024490&amp;memberNo=35839671</guid>
+            <pubDate>Tue, 28 Dec 2021 08:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 오늘은 강렬+파격+과감한 스타일로 새로운 모습을 보여주며 [사진출처: '맥앤지나'] [사진출처: '맥앤지나'] [사진출처: '맥앤지나'] 팔색조 매력을 뽐낸 배···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjhfNzQg/MDAxNjQwNjU1NzA2NzA1.3FXf_mMXj7O13S4bJzZVQYOojYA-Vjy9uhO8jTk69KAg.ovyIukNxSpIPnEf5JSB3Prn5XO_z1scQVN557Q52q_8g.JPEG/ILwXEPxadv2PD5-0QdxKaivPKpyg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이승헌] 사랑둥이 인프제(INFJ)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33016319&amp;memberNo=35839671</link>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 01 Dec 2021 08:28:40 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기 입니다 :) 매주 수, 목요일 tvN 15주년 특별기획 수목드라마 &lt;멜랑꼴리아&gt;에서 임수정 – 지윤수 = 0 이라는 공식을 완성하며 활약 중인 배우 임수정 씨! 수정 씨의 비하인드 컷···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMzBfMjcg/MDAxNjM4Mjc1MzE1MjQ0.n30yHyObIg4wXqNn4AImMjnkZ5IH6OMxtJ2sjczcvbAg.Y-5p9FSZfbyK78wWNUbQQ6YpV7eumhI9y8iiSN3NVgsg.JPEG/IJpw-sBLurUEkoFtXTc390lTRTHo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전소민]의 갭 차이에 빠질 준비 완료 ♥]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32847364&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32847364&amp;memberNo=35839671</guid>
-            <pubDate>Mon, 29 Nov 2021 09:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다 오늘은 바로바로...! 배우 전소민 씨가 출연하는 채널A 10주년특별기획 월화드라마 &lt;쇼윈도:여왕의 집&gt;이 첫 방송하는 날 ♪  (사진 출처: 채널A) ‘아름답고 위험하며 한없이 위태···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfMTc1/MDAxNjM4MTExNjQ0NTcz.tS8ATCwQNlsg6K-E2vOG_U-OCGcrgmLqckr6H1XNPWcg.rfafIMFf45E9DS3C3AQmDS8S6aJ21Cyq8FMIcUd7zdAg.JPEG/I7PatLHZiEMP99xVWTtxqYVxY6KE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
