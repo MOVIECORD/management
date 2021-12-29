@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 14:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 15:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베로니카 수녀님의 진짜 모습]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33034323&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33034323&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 29 Dec 2021 15:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[제가 알고 있는 수녀님 한 분은요대대로 전해 내려오는(?) 전설 같은 소문도 줄줄이 꾀고 있고요생각보다 인플루언서한테 관심도 많아요 "저도 미도 씨 팔로워에요~히힛"그리고 사과 하나에도 쉽···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjlfNDkg/MDAxNjQwNzQxODY4MjEw.qgfXBg2txmB_CY_iMprqefMMNLr3uxwNoa5KEzygjCog.ZFnec-Mey_kzEU3pX3Ugq3uN9VvkhjO1xymaMQ2hMt0g.JPEG/IV0bL9j_WFE8rlfg8EADMdkIMtSY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싱글벙글 낯가리는 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33020857&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 26 Nov 2021 15:23:43 GMT</pubDate>
             <content:encoded><![CDATA[아니죠?...아닌 거죠..? 그럴 리 없잖아요..!!!아....정말..... 유희가 왜 그렇게 승민에게 되물었는지 이제야 이해가 가네요 믿을 수가 없어......금요일이 기다려지던 이유는 딱 하나였거든요(단호)- 내일···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMTA0/MDAxNjM3ODk1MTIwNjA5.yJSqpk3HrGmWBIUQ1tE-gd0FnL4ZB916e8UDpmipGMwg.0p3sIuZ5KYvzWUQu9rkuw01Hnfxu18VZELM2XdzexMwg.JPEG/I_fKOHByNQurMIUfPNLPCD_h-9L8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마에서 눈치 보는 주연 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32827784&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32827784&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 25 Nov 2021 15:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[금토극 시청률 전체 1위! 국내 넘어 해외까지 큰 사랑을 받고 있는 SBS '지금, 헤어지는 중입니다'그 중 동그란 안경과 자유로운 느낌의 히피펌소노 디자이너라는 자부심과자기 감정에 솔직하고 할 말은 다 하는 성···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMTUz/MDAxNjM3ODI3OTQ5MTU4.p2sNcKLl21FYhBh0ikCRPM3_CJj3vflF11pKNTkEqvsg.YCEYt9VdSGyuYJHFoAn6i0VwTd27jqbXExxstiD9wtMg.JPEG/IaWeFu6I2TlLigKq1t-kb89xoTSE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
