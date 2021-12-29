@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 12:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 13:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연말 드레혜윤 최고여요...]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33033910&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33033910&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 29 Dec 2021 13:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[싸-하! 여러분... 연말 드레혜윤을 기억하시나요..?왜 연말만 되면 드레혜윤... 드레혜윤... 하면서 울잖아요 그래서 올해도 어김없이 여러분에게 드레혜윤의 모습을 보여드리기 위해 싸더지기가 찾아왔습니다2021년···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjFfMjQ3/MDAxNjQwMDc0MzEzODUw.2cUZRIlgdM7vqSPA9YascTuzlVFZnAzveIp_eVzBX78g.lDYZw6RgroDPzeCJxIcxlN-qNYaFh87W4ROaPkh5YfAg.JPEG/IeSF8crgMY8-rTKyYnQvEOjoqcAY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[황 과장과 함께 동계 워크숍 갈 사람~♡]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33009255&amp;memberNo=28456565</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 02 Dec 2021 16:35:25 GMT</pubDate>
             <content:encoded><![CDATA[모두가 분주한 촬영 현장촬영 준비 중에 한창인 이분! 누구일까요?바로 배우 김혜윤입니다^^이곳은 혜윤 씨의 광고 촬영 현장인데요우리 혜윤 씨는 왼쪽으로 봐도!오른쪽으로 봐도!줌으로 땡겨 봐도! 완.벽.한 미모♡···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MTZfMTg3/MDAxNjIzODI3NzYwODE5.XudEsp2h1Gl1Lr65SzkOFVUPON9q_THCmrrF_-uPKlEg.yRvdf-qiLE1OCRcbOkUHFWZsp3apB-UpWqdLpFuzdMcg.JPEG/In3VCXUhcgDgIxlbrK_Fj30fo970.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진행까지 '퍼펙트'한 만능재주꾼]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31751953&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31751953&amp;memberNo=28456565</guid>
-            <pubDate>Thu, 02 Dec 2021 16:35:25 GMT</pubDate>
-            <content:encoded><![CDATA["코디가 어려운 분들은 주목!"평소 남다른 패션 센스로 주목 받고 있는 EXID 혜린혜린은 최근 '그립'에서 그리퍼로 활동을 시작했는데요거침없는 진행 실력에 깜짝! 제품 설명부터 맞춤 코디까지♡ 첫방인···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MTVfMjUg/MDAxNjIzNzI1MDIyNjc5.pBQP2WSVAbicUUtYq_ojesgz2YWZxTXOEF_rgBEHlrog.KJ1Eb3Ngag4aNRQXyhufUTrWEd8G8gOnTqnXJzZkK0Ug.JPEG/IZzUGmbn-wzJO4P-ScObgu3mmGN4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
