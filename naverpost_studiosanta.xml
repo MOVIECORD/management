@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 22:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 23:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얼굴이 관전포인트]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33041747&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33041747&amp;memberNo=31542741</guid>
+            <pubDate>Thu, 30 Dec 2021 23:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC &lt;공작도시&gt; 회를 거듭할 수록 꿀잼력 무한 상승 중그 중에서도 관전포인트라 하면! 바로 윤재희, ♥수애 배우♥ 8회에서도 반전을 거듭하며 숨 쉴 틈 없는 러쉬 그리하여 산타 보부상이 비하···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfMjUw/MDAxNjQwOTA0NDE0ODgy.9PMmkML998pWih99sfz7smgKPXs_x4F4kTL6diD1C34g.XHU4M9-FbWQXM9PxVKarBl239N9wAgSgEPiACmShwtog.JPEG/IoHpp4xn6mX-dUZTP9xbWneIXm1w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수심 100M 눈빛의 주인공]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33034326&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 01 Dec 2021 15:25:51 GMT</pubDate>
             <content:encoded><![CDATA[과연,,따라올 자가 있을까요? 한번 보면 잊히지 않는 강렬함카리스마계 대부 김윤석 배우 그리고 끝판왕 아귀&lt;타짜&gt; 디지털리마스터링 재개봉으로 다시 만날 수 있게 됐습니다! 와아아아아아 명작을 극장에서 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDFfMjc0/MDAxNjM4MzY5ODYzNzI4.-jvIOv5FR-uYkhhYefDNRRQMUmKA8uNmgXZaL1aXp3sg.awaaN3LvpW6e2AfZTxUOGVEFWtKxIQ7kqXwK6Qdt8Bog.JPEG/I5dMKeaGfXEaJZs17BEFUcvuLM5M.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비가 오면 생각나는 그 사람]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32852927&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32852927&amp;memberNo=31542741</guid>
-            <pubDate>Tue, 30 Nov 2021 05:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[사.망.사.건에 휘말려 용의선상에 올라버린 주인공이 있다는 소식에 출동한 산타 (두둥두둥 두루루루 두둥두둥) 바로~바로!미스터리 로맨스 웹드라마 &lt;미스터LEE&gt; 4D 추리극이라니! 벌써부터 두근두근···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMzBfMjQ3/MDAxNjM4MjQ4MTIzMzQy.TrA0Df-6Gv7QnmiS5JwokcPiBYp0cdFiM47O_SUoPkQg.hX3joisQNyYcM211RTT08RL10zoF-4xvdV32EzFippAg.JPEG/Iu2Efw1oireOKWhEIaa309lbecbE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
