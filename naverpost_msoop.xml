@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 07:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 08:29:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘수지’라는 명화]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33039178&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33039178&amp;memberNo=22903361</guid>
+            <pubDate>Thu, 30 Dec 2021 08:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[여러분, 오래 기다리셨습니다. 드디어 수지 배우가 숲 포스트로 찾아왔습니다. 준비되셨나요?시작부터 쏘 골져스 여신 미모에 눈부셔~ 선글라스 쓰며 입장스카프를 헤어 장식으로, 너무 예쁘지 않나요? ♥&amp;hea···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjhfMTg4/MDAxNjQwNjcxODk2Mjg3.IbuzXy90Xb0jTp4dUACqIsU2s0OJ6T2MRRZiiCo5lsIg.pHLTWe7JsPU28n9vqgrnSuMJ-sBhaLC6m3euzspUPAEg.JPEG/IiESkFwQ5kn2jIrJOASIyeN3MmLM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[⚠️[공유]의 바다 탐사 중!⚠️]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32999239&amp;memberNo=22903361</link>
@@ -160,14 +168,6 @@
             <pubDate>Sun, 24 Oct 2021 12:46:25 GMT</pubDate>
             <content:encoded><![CDATA[티빙 오리지널 '마녀식당으로 오세요'로 숲블리와 여러분을 판타지의 세계로 인도한 우리의 지현 배우! 요즘 숲블리는 매주 불금을 남젼과 함께하는데요..오늘은 남젼의 색다른 모습을 기다린 여러분들을 위한 뽀너···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDRfMjk5/MDAxNjI4MDQxNzQ1NDQ1.EiWKXXAcIEUPjWDN-25GdHe8zzhk7GusuicASeMZr88g.ipHedY7jQ-9XSNvwdvBOHvWncxsfJpXoyycn7tRjo_Ag.JPEG/ICyCuHQcz0HSyxh18ppmz2mmLDLs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나랑 '우식' 보러 갈래..?♥]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32095557&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32095557&amp;memberNo=22903361</guid>
-            <pubDate>Sun, 24 Oct 2021 12:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[1분 1초가 아까우니 우리.. 우식 보러 가지 않을래요...?첫 등장부터 초록초록 풀잎 사이로 상큼하게 등.장.☆ 오늘 숲포스트에서 웃은요때로는 수줍수줍하게때로는 누워서,가끔은 센치한 감성과우월-한 기럭지 자랑···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDNfNzEg/MDAxNjI3OTU0NDc3MzQx.d-gmWohSXCXnLx2zeKkTxCSwhcvK3u-AncU3DyR7bXkg.xER6rfh6tVWTw0uiJP8bDP4LdqjsHiMEZ7hvLi18LVIg.JPEG/Ic-zMZJQLnd7vBmeCnZm-KiE6vGg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
