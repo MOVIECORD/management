@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 06:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 07:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화제의 배우 소속사]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33044830&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33044830&amp;memberNo=44834478</guid>
+            <pubDate>Sun, 02 Jan 2022 07:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 열일로 난리 난 배우 소속사,믿고 보는 배우들이 한 데 모여있는 곳 안녕하세요에이스팩토리입니다 ;)열일하는 우리의 ACE 배우들이 꾸미는 다이어리♥ 2022 ACE 다꾸 대전 ♥ 강신효 김동휘 김영민 나영희 남기···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfMjEz/MDAxNjQwOTMyOTYzNjY4.ebj2RuBqX-RpsexHBfu00_98eZSpe90rbHS2MEFnm2Qg.MuTPpODV4OL5wC2nm8jlxtiXA7Qoruy47XIJ-sOe-aog.JPEG/Io5CW4OYoKIta5amZTiNAIL8qZFw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['멜랑꼴리아' 과몰입 유발자 최대훈]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33046250&amp;memberNo=44834478</link>
@@ -168,15 +176,6 @@
             <pubDate>Fri, 12 Nov 2021 14:21:51 GMT</pubDate>
             <content:encoded><![CDATA[겨울의 이주영을 좋아하세요?네완전사랑합니다.♥겨울 이주영♥ 만나러 함께 가시죠맑은 하늘에 눈이 내리고정글짐이 덩그러니 있는 이곳은주영의 광고 촬영 현장 ♥오늘도 주영은 텐션 UPUP눈빛···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMTUw/MDAxNjM2NzAxMzQxMzA3.ybzm7eezVca9aByLJ1iWkjS53RjKj-n0ukbtDn85a2cg.PoL5gJUVDUo3pNDgwhxsXLPD6DkeRuQgT0ewyXPVTtAg.JPEG/IbdyZVsxyeMb80q16so1Pl8rzKhI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '강릉', 
-조폭 싸움에 지지않은 박성근]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32723043&amp;memberNo=44834478</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32723043&amp;memberNo=44834478</guid>
-            <pubDate>Wed, 10 Nov 2021 14:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 개봉하는 영화 '강릉'강릉 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모, 그리고 배신을 그린 범죄 액션조직의 2인자 길석과 친구 관계를 이어오고 있는 형사방현으로 찾아온, 에이스팩토리의 새···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTBfMjA4/MDAxNjM2NTExMTEwMTk2.vLiothY0gNwxwk4ff0NPJTWQR9yXLQQQAofceXqZbFkg.28Wqq50EZEfoYvywtBekLrQtQN3SYCHYtYa_aLlgMHAg.JPEG/IZi7I1UTcoGTS4Ed6yR_IZ2QrQwM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
