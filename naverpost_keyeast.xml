@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 21:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 22:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[등장하자마자 예쁘다로 도배된 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33051828&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33051828&amp;memberNo=29770009</guid>
+            <pubDate>Sun, 02 Jan 2022 22:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[새해부터 또 나만 나이 먹었나 싶게변치 않은 비주얼로 브라운관을 찢은 배우가 있다?! 사진 제공= 빅오션이엔엠, 슈퍼문 픽쳐스 풀뱅 앞머리를 해도 귀엽고,올림머리도 찰떡으로 소화하는 깡지 (°◡°♡).:｡ 지난 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfODAg/MDAxNjQwOTM0OTkwMjAw.Bf5Qvh6V6kKb8gk-G78Q1uWv_hby__524W3sLeKUKxUg.wcscbIvMVlN3LN9mAqJsZJAVnvD2bxILyj-or9p4hocg.JPEG/InzXUTVmSc0wdVeVKrag8HMCuAk4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021년 '갓생'산 한선화]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33039353&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Tue, 30 Nov 2021 15:23:44 GMT</pubDate>
             <content:encoded><![CDATA[친구들 만나려고 아버지 차를 잠깐 빌렸는데 (..근데 이제 그 차가 휴차인 아버지 택시..)갑자기 누가 내 차에 타는거임..휴차라고 얘기하니까 승차거부니 신고니,, 뭐니 하면서 안내리길래어쩔 수 없이 가···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMzBfMTc2/MDAxNjM4MjYxNDk0NjYz.NNYS0NwUXC1SXgGgeN_9cAKwyw7TDLk8E2vc9FPeAO4g.PxEdM2GgOahun40pgKlVD7JPVmm_ymjy27B-MMcDrC8g.JPEG/IREYp24hpUSQhLN4UwLGG-AyopCo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[술친구 필요하신 분?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32842096&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32842096&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 28 Nov 2021 14:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[매주 금요일마다 시청자들의 안주를 정해주는 우리의 술친구 티빙 '술꾼도시여자들'의 모든 에피소드가 공개되었습니다!아직 안 보신 분? 그 눈, 뇌 삽니다봤던 분도, 아직 못 보신 분들도, 모~두 정주행 기원하며 '···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjhfMTQ1/MDAxNjM4MDgyNzE0NDcy.fzTZn0Cq0VUWhRf2eTTs-u04iSG-4ZCTrLEYS_L2bh4g.wc8MCWZ5Zs-qas_HrbpXJKyM08SESS4mUCeWeoIhKVMg.JPEG/IHMxXIy2uV9hbsOXHNyFQlCndkgE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
