@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 09:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 10:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보-여줄게 완전히 달라진 '최우식']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33065494&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33065494&amp;memberNo=22903361</guid>
+            <pubDate>Tue, 04 Jan 2022 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[각이 살아있는 발끝단정하게 모은 고운 손 (a.k.a 섬섬'웃'수)보기만 해도 듬직한 어깨오늘 숲 포스트의 주인공 눈치... 채셨나요? . . . 네, 바로바로 180도 달라진 모습으로 돌아온 우리의 '웃'리스마 우···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDRfMjgy/MDAxNjQxMjg1MzQxMzk4.NIjIKaXn2sjvxg5d0Wys9pLkWjMZ9BY9tl_1ahDh27sg.Xw8SRznx1NiTgwk36UveRPbWdFPfsXxuuXDjnC6y_hIg.JPEG/I1iENW3gs6nWmujgkI-pGxRaL4sU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘수지’라는 명화]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33039178&amp;memberNo=22903361</link>
@@ -160,14 +168,6 @@
             <pubDate>Sun, 24 Oct 2021 12:46:25 GMT</pubDate>
             <content:encoded><![CDATA[오늘 포스트에는 숲블리가 초대한 스페셜 초대손님 두 분이 함께하실 예정입니다! 첫 번째로 인사드릴 분은 진행이면 진행! 게임이면 게임! 차세대 만능 MC로 이름을 알릴 …MC 현진입니다!그리고 MC 현진과 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTBfNzAg/MDAxNjI4NTY0NDcwODU1.fB9VQx6-eJmEE5IThaQ5gV8pmlJU2AX8bHxc57wyTgcg.0rsXVuVz2Vd3Gr7-c2qY0NJj7COKhJcNpCHGUWVlt3Ag.JPEG/IRxLLVioYyUgPHvmTzVxYObzEyjc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['남지현'과 함께하는 놀이 한마당(얼쑤~♬)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32118621&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32118621&amp;memberNo=22903361</guid>
-            <pubDate>Sun, 24 Oct 2021 12:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[티빙 오리지널 '마녀식당으로 오세요'로 숲블리와 여러분을 판타지의 세계로 인도한 우리의 지현 배우! 요즘 숲블리는 매주 불금을 남젼과 함께하는데요..오늘은 남젼의 색다른 모습을 기다린 여러분들을 위한 뽀너···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDRfMjk5/MDAxNjI4MDQxNzQ1NDQ1.EiWKXXAcIEUPjWDN-25GdHe8zzhk7GusuicASeMZr88g.ipHedY7jQ-9XSNvwdvBOHvWncxsfJpXoyycn7tRjo_Ag.JPEG/ICyCuHQcz0HSyxh18ppmz2mmLDLs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
