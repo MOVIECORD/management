@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 09:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 10:26:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹툰 찢고 나온 주인공]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33071241&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33071241&amp;memberNo=31542741</guid>
+            <pubDate>Wed, 05 Jan 2022 10:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[웹툰에서 툭, 하고 튀어나와 모두를 깜!짝! 놀라게 한우리의 현주 배우가 NEW 캐릭터로 찾아왔습니다!"시켜줘... 백수" 심금을 울리는(?) 카피와 위와는 상반되는 텅텅 빈 냉장고그리고 힘 없이 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDVfMzEg/MDAxNjQxMzY3NTU5NDUz.mY3Ww3-LWq8QM7KsbQywhR9uaJDs9wb53yNzX2okXb8g.Idlwcxhj7lb176spZCIRFmMMQtSADlGAbZ0a7FCPxmIg.JPEG/IDred8xLevoxV-VH4n0yqMznQEdI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[놓치면 후회할 소식]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33050017&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 07 Dec 2021 15:26:41 GMT</pubDate>
             <content:encoded><![CDATA[지난 2일 훈훈함으로 2021 Asia Artist Awards 를 물들인 이가 있었는데,,비주얼 폭발이란 "이런 것이다" 를 보여준 우리의 건일 배우 ♥매일 매일이 새롭고 짜릿한 건일 배우의 '갓비주얼'과 함께···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfMTE1/MDAxNjM4ODUxMzA0ODM1.5Z-L2vnB_fXJ1GWDWpENzdTKMNGKHQDo2LEGuFR0cQUg.8XuBUc592xqcX6D8PxSBVI4fa1XPlldb2pjlKCb4-agg.JPEG/IeMFsJ_VluKfo4yOJBccvUqhk5B4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추위 만병 특효약★]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32894416&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32894416&amp;memberNo=31542741</guid>
-            <pubDate>Mon, 06 Dec 2021 15:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[추운 겨울 강추위를 물리쳐줄! ༼ : ౦ ‸ ౦ : ༽ HOT한 소식으로 돌아온! 쨘 ! 11月 ★'화뉴스'브리핑★ 후끈후끈하게 만들었던 11월 소식 속으로 GO! GO! GO!Casting남자에게 병적으로 지기 싫어하는 여자의 전쟁 같은 로···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfNiAg/MDAxNjM4MTgwMjQzMTk2.TpcrHCSYeoFLnI-MsBqjiCUEyX0E5_lX2U_KqSKy2bog.nO7NGZ_QGLnnnvb0P7yA_0VWV1WqgRycwG3A_gqQLVsg.JPEG/IlHF3HsdE3w5N9VU7wpBaWx9OaaU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
