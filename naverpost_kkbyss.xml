@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 05:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 06:31:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김범] <고스트 닥터> 승탁이는 못 말려]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33070108&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33070108&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 05 Jan 2022 06:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[하이 여러분 (^_^)/ 킹콩지기입니다 (사진 출처: tvN &lt;고스트 닥터&gt; 영상 캡처) 오늘은 tvN 월화드라마 &lt;고스트 닥터&gt; 속 고승탁 인사법으로 시작해 봅니다 (오해 금지)이렇게 엉뚱 발랄한 승탁이로 완.···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDVfMTgz/MDAxNjQxMzUwMzQ4NDI3.gclLNBvzmovTvwF4YTmldp0V9i6XJCc1rNbNuwz44D4g.pYnmthdoZ7ij3oqsCQA1mEJlvcMlnWLYg7XiSuj4qSAg.JPEG/ITFgygZLtqNq9Y_KFLbf4-leGNhY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱] 노숙자 분장에 진심인 남주 어때]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33051618&amp;memberNo=35839671</link>
@@ -159,14 +167,6 @@
             <pubDate>Sat, 11 Dec 2021 02:39:53 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 카카오TV &lt;다시, 플라이&gt; 속 한빛예술고등학교에서 열린 ‘제30회 한빛예술제’  그곳에 ‘아이돌’이라는 꿈을 위해 뭉친 학생들이 나타났다는 소식에 킹콩지기가 한 걸음에 다녀왔···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfMjgy/MDAxNjM5MTM1NjU0NDMw.azG1brO_9Ds14fTmEueCjvIVFUZsXqydL1OnoKliH58g.3OjnLT1TN7g0OOnpYfpjHJ2KdYjilJPiEgsNTHReSLkg.JPEG/I92DbZMPqb21eRToqpr20azZtC9Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이동욱]은 BAD and CRAZY]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32921874&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32921874&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 10 Dec 2021 09:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다 :-) 배우 이동욱 씨가 출연하는 tvN 새 금토드라마 &lt;배드 앤 크레이지&gt; 동영상  버튼을 누르면 현재 화면에서 재생됩니다. [단독]승진에 눈 먼 류XX 형사! 메치기 당한 현장 공개···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfMTg3/MDAxNjM5MTAxMjc5MDc5.4_deyrvDCZ6rxC8gFzVw6Hb8pCgnCeeu92xLT3g4nQYg.ptutqnu1r605l4QgTsh5tfcUoY88QGdM84l6bceBwc8g.JPEG/Iqn57gG2E9eXdYKlJR_YDZSau8Gk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
