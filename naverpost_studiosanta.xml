@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 22:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 23:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 수애가 사는 그 도시]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33074273&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33074273&amp;memberNo=31542741</guid>
+            <pubDate>Wed, 05 Jan 2022 23:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 HOT한 그 도시 들어보셨나요?특히나 수애 배우(=윤재희)가 사는 도시라하여 어마어마한 고급짐 내뿜는다는데요? 바로 JTBC &lt;공작도시&gt; 오늘은 윤대표님이 이설(이이담 분)과 터뜨리는 묘···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDVfMjE5/MDAxNjQxMzY4Njc4ODE5.Yue4EFmFqN6SdqT7ba3EGIpRMD19um4PyImu2VQkYTAg.FhsrJ8xDT5bh2PtxCOKH_1AGE66dsaIJicDK_L39IlUg.JPEG/IeltcHCQbpoXGgiXhxzQ_Pcjw94U.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웹툰 찢고 나온 주인공]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33071241&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 08 Dec 2021 15:25:41 GMT</pubDate>
             <content:encoded><![CDATA[짜릿하고 파격적인 드라마의 등장 JTBC &lt;공작도시&gt;그리고 그 중심엔 미술관 ‘아트스페이스 진’의 실장이자 성진家 둘째 며느리 윤재희 수애 배우화려한 안방극장 컴백에 제 가슴은 아직도 두근두근···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDhfNTAg/MDAxNjM4OTY5NzgyNzc2.y8gTagLcp6hzzok3HAsHdOCf_Mmk1pgNOfWsZ_6emJog.AxyfT_25dn5t1CvgQDR65r_JX0AthYer6OfPBFp8PTYg.JPEG/IxQSQPV5ig3kYvDsVNVQAxAHxtJ8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드카펫의 최대 수혜자]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32901777&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32901777&amp;memberNo=31542741</guid>
-            <pubDate>Tue, 07 Dec 2021 15:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2일 훈훈함으로 2021 Asia Artist Awards 를 물들인 이가 있었는데,,비주얼 폭발이란 "이런 것이다" 를 보여준 우리의 건일 배우 ♥매일 매일이 새롭고 짜릿한 건일 배우의 '갓비주얼'과 함께···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfMTE1/MDAxNjM4ODUxMzA0ODM1.5Z-L2vnB_fXJ1GWDWpENzdTKMNGKHQDo2LEGuFR0cQUg.8XuBUc592xqcX6D8PxSBVI4fa1XPlldb2pjlKCb4-agg.JPEG/IeMFsJ_VluKfo4yOJBccvUqhk5B4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
