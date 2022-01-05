@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 11:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 12:39:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,8 +33,7 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTVfMTY2/MDAxNjM5NTU4NzkzMzU5.z6EKZ4qARnVhYBzzaO0Vts7GxqbIt7lWoRIaSYfOgBEg.BilRmKGbYlWEXSbv3f2UAGWnLJwvzgPOOLGi-wpHYL8g.JPEG/I2MCn8vTJqj2nEmsugeYg9jGPGII.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모든 게 
-유죄인 배우]]></title>
+            <title><![CDATA[모든 게 유죄인 '천우희']]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32954956&amp;memberNo=51396641</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32954956&amp;memberNo=51396641</guid>
             <pubDate>Thu, 16 Dec 2021 03:23:56 GMT</pubDate>
