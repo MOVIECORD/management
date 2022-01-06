@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 22:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 23:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미술관 말고 비주얼 대표]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33081242&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33081242&amp;memberNo=31542741</guid>
+            <pubDate>Thu, 06 Jan 2022 23:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC &lt;공작도시&gt; 속 미술관 대표 윤재희로 비주얼 대표하고 계신 수애 배우이번주 이설(이이담 분)의 과거 사연을 알게 되면서 복잡 미묘한 감정 서사 폭발 (꿀잼력 무한 상승 中) 10회 감정의···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDdfODYg/MDAxNjQxNTA5MjgwMDc0.qL65f3KBN9_jAlfqthPCc-WAUFmqrOwj_0NHWMOXYA0g.kQwexVEaDKkYkdwN3YflXkD5We057XuoxLjDDBZDq18g.JPEG/IGc8OTNrDOoNUV7B2zbudUXp3Wvk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 수애가 사는 그 도시]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33074273&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Dec 2021 15:25:30 GMT</pubDate>
             <content:encoded><![CDATA[방송 이후 후끈후끈 반응 오고 있는 JTBC 수목드라마 &lt;공작도시&gt; 다들 본방사수 하셨나요~?윤재희=수애 배우美친 연기+美친 비주얼에 수, 목이 어떻게 간지 모르겠는 지경이라구요 이렇게 여운이 길 땐 뭐다? 비···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDlfOTgg/MDAxNjM5MDYwMjc4Nzc2.2yZLCirnxGYtxz5yhJq0mi75J61ovhtFo4ZTuNyIh80g.u5efq5Sr7JBuRJONMzqvOMpoNh4CAiQQKv2YlpPSPBMg.JPEG/INWMpNlpN00cw95LGlm3dDXADQ9w.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼박자 완벽한 그 분]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32909143&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32909143&amp;memberNo=31542741</guid>
-            <pubDate>Wed, 08 Dec 2021 15:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[짜릿하고 파격적인 드라마의 등장 JTBC &lt;공작도시&gt;그리고 그 중심엔 미술관 ‘아트스페이스 진’의 실장이자 성진家 둘째 며느리 윤재희 수애 배우화려한 안방극장 컴백에 제 가슴은 아직도 두근두근···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDhfNTAg/MDAxNjM4OTY5NzgyNzc2.y8gTagLcp6hzzok3HAsHdOCf_Mmk1pgNOfWsZ_6emJog.AxyfT_25dn5t1CvgQDR65r_JX0AthYer6OfPBFp8PTYg.JPEG/IxQSQPV5ig3kYvDsVNVQAxAHxtJ8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
