@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 21:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 22:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옷으로 밥벌이하는 주연 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33089753&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33089753&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 08 Jan 2022 22:24:37 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 옷과 사랑에 빠져 옷과 함께 열심히 밥벌이 중인 더 원의 안선주입니다.  저는 패션 회사 'THE ONE'의 탑 브랜드 소노 디자인팀 대리로 소노 브랜드 의상들의 디자인 패턴부터 옷감과 색상, 디테일한 부···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDdfNzQg/MDAxNjQxNTQ1OTI0ODYx.O4mdfDqcjxaXj91ggghEGY7aVXNVBORzzBJoc1WZnQwg.fEClrdsmuuQ5fRZ7AGdRLUn0e-TeiMyZuBJZNmOCTNgg.JPEG/I6QiVRYfefq-y8TE_sVBA7Iz2its.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이직이 체질인 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33087106&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 06 Dec 2021 15:24:07 GMT</pubDate>
             <content:encoded><![CDATA[최근 시상식에 순백의 여신이 등장했다는 게 사실이에요 여러분?!!인어공주 같은 드레스 라인 발끝부터 우아한 자태곱디 고운 섬섬옥수긴 흑발 웨이브에 얼핏 보이는 타투가 인상 깊은 뒷모습살짝만 봐도 아.름.다.···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfMTcw/MDAxNjM4NzkwNzQ2NzEx.xpFXwGkalIQumM6GDcqUnJx6f0lfXnmnnxiw_y-N1Lcg.uZjvD73w9zAWPwmZtrqOObkj1c17qmeF4pjI44YPGGog.JPEG/I83_QRjU28UVkNx9XuPr2PZYl4ss.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정변의 좋은 예]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32879785&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32879785&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 03 Dec 2021 15:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[커다란 눈망울과 오뚝한 콧날 날 때부터 완성형 미모에 남다른 끼를 자랑한 이 아이는 커서실력에 비주얼까지 다 갖춘 슈퍼 루키가 됩니다.SM루키즈를 거쳐 &lt;하이바이, 마마!&gt;로 연기자 데뷔, &lt;바람과 구름···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDNfMjcy/MDAxNjM4NTM0NDcwODQ2.mwPIoLraeN24tSLMGe0s288utxeLyaaBTBJrh5VU60gg.0Dkq1c3v2ER-9nMHGPdHvgMx0YgOhpePgXOE5RDbhUwg.PNG/IcRW8OLeCiRF-9dw_6g_eV3kvYEM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
