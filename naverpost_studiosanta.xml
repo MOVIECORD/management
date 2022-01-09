@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 23:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 01:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선물처럼 특별했던 시간]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33091133&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33091133&amp;memberNo=31542741</guid>
+            <pubDate>Sun, 09 Jan 2022 01:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[2020 SBS 연기대상 [프로듀서상]이란 뜻깊은 수상 소식을 알리며2021년 시작을 알렸던 주원 배우♥이번엔 2021 SBS 연기대상 에서선물 같았던 특별한 시상자로 2022년의 시작을 또 한 번 알렸는데! 다들 놓치···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDlfMTYw/MDAxNjQxNjg4NzU4NTY1.ddRSPwnLVRU_hwI8Z_37XAMkAXokL9BSz5krKY7aukEg.xKhlIsd2BYOISAMmFHIOklVhgAQFIqnraRKc8qd3EaEg.JPEG/IaTDWoRfKGrP_r93xvuTiAgCvl4w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미술관 말고 비주얼 대표]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33081242&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 11 Dec 2021 15:24:15 GMT</pubDate>
             <content:encoded><![CDATA[2021 아시아 아티스트 어워즈(2021 AAA)에서 대세 of 대세를 확인 시킨류경수 배우 등판드라마 &lt;이태원 클라쓰&gt;에 이어 &lt;도시남녀의 사랑법&gt; 올해 개봉한 영화 &lt;인질&gt; 그리고 넷플릭스 &amp;l···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfMjMz/MDAxNjM4ODUzMzA0NDA1.iqLa_V4Tgk8onFjtxKKrLQ0pisQqtNz45uJFekdm09gg.Ko62dESt1yIEYkTsC5kDmvd6N1HvfuKl_MrZngeqo0gg.JPEG/IDykv6Dp7R8GJkIo8nFb4A0CeJ9U.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독공개] 재벌가 48시]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32917286&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32917286&amp;memberNo=31542741</guid>
-            <pubDate>Thu, 09 Dec 2021 15:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[방송 이후 후끈후끈 반응 오고 있는 JTBC 수목드라마 &lt;공작도시&gt; 다들 본방사수 하셨나요~?윤재희=수애 배우美친 연기+美친 비주얼에 수, 목이 어떻게 간지 모르겠는 지경이라구요 이렇게 여운이 길 땐 뭐다? 비···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDlfOTgg/MDAxNjM5MDYwMjc4Nzc2.2yZLCirnxGYtxz5yhJq0mi75J61ovhtFo4ZTuNyIh80g.u5efq5Sr7JBuRJONMzqvOMpoNh4CAiQQKv2YlpPSPBMg.JPEG/INWMpNlpN00cw95LGlm3dDXADQ9w.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
