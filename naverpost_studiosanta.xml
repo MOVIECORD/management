@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 14:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 15:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제 이상형이에요♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33107414&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33107414&amp;memberNo=31542741</guid>
+            <pubDate>Tue, 11 Jan 2022 15:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[이이담.. 도대체 당신은,, 뭔데 내 맘을 흔드는 건데 ♥ JTBC &lt;공작도시&gt; 속 김이설로 매주 수,목 브라운관을 매료 중인 이이담 배우표 이설 서사그래서 준비한 '미스터리' 이설의 순간순간 1. 어딘가 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTFfMjAg/MDAxNjQxOTEyMjUzMDc1.oyr1oYUoo63t4R-WQluTbx12vWG2a5ohH6VCyPhkEssg.0wNh3PlOzASgbssDcBdqih0re1Z-lbxZfZKdwkridzwg.JPEG/IaASFNzF0RkFNqbsQrSOwY31X7fM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선물처럼 특별했던 시간]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33091133&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 12 Dec 2021 15:24:15 GMT</pubDate>
             <content:encoded><![CDATA[12월 2일.. 여신님 하늘에서,, 내려오신 날♥ 다들 ㄱ억하시죠..?주변을 환하게 만드는 아우라를 발산하며&lt;2021 Asia Artist Awards&gt; 내려온 주미 여신♥아름답다 아름답다 말하기도 이젠 입 아픈 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTJfMjcx/MDAxNjM5MzE5ODg1Mjk4.eEDTz1RjhgkTEoOFUBh817uZwA-0DZnSWMSBPwx2pjQg.toHqfLbg1GKhBCEYNWysQjtH2rie3TV9YcJ7rpRrfUgg.JPEG/ISs5nePMnNEwQZQGHDv2_7T5uTa4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 아이콘은 바로 나]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32927762&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32927762&amp;memberNo=31542741</guid>
-            <pubDate>Sat, 11 Dec 2021 15:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[2021 아시아 아티스트 어워즈(2021 AAA)에서 대세 of 대세를 확인 시킨류경수 배우 등판드라마 &lt;이태원 클라쓰&gt;에 이어 &lt;도시남녀의 사랑법&gt; 올해 개봉한 영화 &lt;인질&gt; 그리고 넷플릭스 &amp;l···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfMjMz/MDAxNjM4ODUzMzA0NDA1.iqLa_V4Tgk8onFjtxKKrLQ0pisQqtNz45uJFekdm09gg.Ko62dESt1yIEYkTsC5kDmvd6N1HvfuKl_MrZngeqo0gg.JPEG/IDykv6Dp7R8GJkIo8nFb4A0CeJ9U.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

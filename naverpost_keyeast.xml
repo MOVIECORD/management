@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 14:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 15:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매력 '취'사량인 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33107411&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33107411&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 11 Jan 2022 15:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[나 키동쓰, 오늘은 연기, 예능, 춤 뭐 하나 못 하는 게 없는 배우 자랑하러 옴 (편하게 음슴체로 쓰겠음)매력이 넘쳐서 흐르다 못해 취하게 만든다는 매력 '취'사량인 이 배우가,SNL 코리아 호스트로 출연했···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTFfNjUg/MDAxNjQxODgxNDE0NDAz.r4rBrCw8QWRNdO7OQmuU4Fptwn5n4_s4bUuIeEAvO9Yg.nBEYwz5sWRq-clw35fJzb-hUCYD3GuZ3RJ-KY_zJiGYg.JPEG/IuplrAjQ5dFnNWbIT0pvFcAnfTbc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옷으로 밥벌이하는 주연 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33089753&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Tue, 07 Dec 2021 15:25:05 GMT</pubDate>
             <content:encoded><![CDATA[빈궁마마가 낳은 쌍생 여아를 온전히 모셔야하는 중책을 맡은 왕의 호위무사 윤형설 역으로 예사롭지 않은 첫 등장한 김재철 배우왕실의 핏줄을 살려야한다..! 살려야한다!세자 휘가 여인이라는 사실을 알고 있지만 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfMzkg/MDAxNjM4ODczNDgyMTgy.iRoEqNUpQAx1082z1wk60pLUu4WzqXPZ8v8-4x2aqzcg.nXi0dg1nqGfPH5LysWkmhnD7x7FzUXmBC56OyFLbnBcg.JPEG/IG1WxwSnGprhRDbEc7-U68DkzUK0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시상식 출몰한 순백의 여신]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32894412&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32894412&amp;memberNo=29770009</guid>
-            <pubDate>Mon, 06 Dec 2021 15:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[최근 시상식에 순백의 여신이 등장했다는 게 사실이에요 여러분?!!인어공주 같은 드레스 라인 발끝부터 우아한 자태곱디 고운 섬섬옥수긴 흑발 웨이브에 얼핏 보이는 타투가 인상 깊은 뒷모습살짝만 봐도 아.름.다.···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfMTcw/MDAxNjM4NzkwNzQ2NzEx.xpFXwGkalIQumM6GDcqUnJx6f0lfXnmnnxiw_y-N1Lcg.uZjvD73w9zAWPwmZtrqOObkj1c17qmeF4pjI44YPGGog.JPEG/I83_QRjU28UVkNx9XuPr2PZYl4ss.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
