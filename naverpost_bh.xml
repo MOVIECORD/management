@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 08:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 09:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트] 1월의 BH온에어]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33112400&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33112400&amp;memberNo=21724264</guid>
+            <pubDate>Wed, 12 Jan 2022 09:23:15 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTJfNjYg/MDAxNjQxOTc0NTE0NDI2.smhHl5aHsQpBZYHcMSHtLH7d1hMgue7F4WlGTQtIlwkg.1dd7s1j1tnVqyQvgrK6v_h9UHX7oZoQoPSxj0zlfahMg.JPEG/I1J7shYDDcA0lMTOmc6yEk7C_Tio.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이진욱에게 절대 사라지지 않는 단 한 가지.]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33007710&amp;memberNo=21724264</link>
@@ -163,14 +170,6 @@ DIVE 하고 싶다.]]></title>
             <pubDate>Thu, 02 Dec 2021 16:34:57 GMT</pubDate>
             <content:encoded><![CDATA[여기 한 사람이 있습니다요즘 진영 배우와 매분 매초를 함께하는 그 사람울형아 제가 다 담아올게요해피비에게 초근접 진영이라는 선물을 주고 간 그본격 진영 배우 매니저의 진영 실물 짤 모음. zip보물 같은 사진···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDlfMTkz/MDAxNjI1ODAwMzE4MTA5.NKYi4vt_fbwu5vjoXxqoS66OL9DMHobRPF3Usq2U3Hwg.8cXTK6Mw8zgyuWBgxlshlmCTq0NlxDeUbMmCsfH3ePIg.JPEG/IKLgEjaMQqtDX2ki6SqwgbGRenjg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카리스마가 인간으로 태어난다면.]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31811033&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31811033&amp;memberNo=21724264</guid>
-            <pubDate>Thu, 02 Dec 2021 16:34:57 GMT</pubDate>
-            <content:encoded><![CDATA[해피비 버스 타고 출근하는데"기사님 두 명이요" "이봐 혼자 타면서 왜 두 명인가?" "제 마음속에 한효주라는 사람이 살아요" "이봐 꽃은 돈 안 받아" 꽃보다 아름다운 울 효♥비하인드 풉니다 어두움을 뚫고 나오는&amp;···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MjJfMjIz/MDAxNjI0MzIzODc2MjU5.I075tavc7h0BbPRZ82D25Wt9UaRBYMf78mzj0BEwJsYg.O9J4YgbMOPFArpOmhSjHtixuw6mB5EB2QOtti_1VWvMg.JPEG/IU_pOTRftdxFRiexpPjvD4tptIhc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

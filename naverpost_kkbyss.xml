@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 08:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 09:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김범] 내가 고승탁으로 보이니...?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33112336&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33112336&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 12 Jan 2022 09:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 금방 돌아온 킹콩지기입니다 ^_^ 킹콩지기가 재빠르게 포스트를 들고 올 수밖에 없는 이유 바로 핵잼 꿀잼 대유잼 tvN 월화드라마 &lt;고스트 닥터&gt;에서 고승탁 그 자체에 빙의된 듯한 김범 씨의 비하···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTJfMjE0/MDAxNjQxOTUyNzU2NjU4.BeUkHLBtUk9OctZLPsrWQQknRbOKHvEKm5UTidNsihEg.zluetl01OLSiuai6FLl_K81KKiwNq458wUEdf7PGsekg.JPEG/IJLUaqlHkeKDBlggxIHTTr_sWd6U.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김범] 보이스랑 비주얼이 좀, 아니 많이 되는 의사]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33098080&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 16 Dec 2021 08:28:12 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 매주 월, 화 밤 11시수많은 캔디들을 울고 웃게 만들었던JTBC &lt;IDOL [아이돌 : The Coup]&gt;이지난 화요일(14일) 막을 내렸는데요 (사진 출처: JTBC &lt;IDOL [아이돌 : The Coup]···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTVfNjkg/MDAxNjM5NTYzMzgzOTY2.RFdHzBriAYhumKkmsTnnNnbN_on7DDAMxWEp8KgAIS0g.vycHq_XxZAfqrJUu5AaYrNKGZDo0fRMqHdmrSvpu_bEg.JPEG/I81ah3Qz2tChFLvLJAs-7be5t-QY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KONGCEPT] 콩셉트 with 천영민]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32947714&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32947714&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 15 Dec 2021 08:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[[KONGCEPT] 콩셉트 with 천영민▼ 메이킹 영상 보러 가기 ▼https://tv.naver.com/v/24077798 킹콩 by 스타쉽 공식 계정홈페이지- http://www.starship-ent.com/네이버TV- https://tv.naver.com/kingkongV LIVE- https···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTRfMjg4/MDAxNjM5NDcwMjMzNDE2.dnIxt5l5IjuFxJOswuMrnCa8v1ztxuzxM72KgxPxXUQg.F6z--wAxOvIgPdCMhPcOvvpgVGAdgbLmaOtTtVASdpQg.PNG/ITFyRPiLa1Vssq7sX-Qz0MxkCEIA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
