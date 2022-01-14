@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 02:44:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 03:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 아들 졸업 축하해❤️]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33124012&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33124012&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 14 Jan 2022 03:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 키동이에요. 아들램 졸업식 갔다왔어요~ 본격 내새끼 자랑 타임!!ㅋㅋㅋ아들 이름은 '김진곤'이고, 이번에 눌지과학기술고를 졸업했답니다 :) 기념사진도 찰칵! 기럭지로는 아주 전교 1등!!크으으~~뽀시···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTRfNjYg/MDAxNjQyMTIxMjM2NjQ2.IoDHyHxeYby9oC87pClwYQ0TBcDQTFKccuzTkMeURpgg.Hx7NmKWcUzOUZFcfHrS9wKKU5QVdrMJiadCV6q7WJV4g.JPEG/IMJByUvJzDW_cuzQ3A6Jti_yd754.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잘 봐, 우도환 제대 포스트다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33115089&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 10 Dec 2021 15:23:55 GMT</pubDate>
             <content:encoded><![CDATA[요즘 본업 열일 중인데 미모도 열일 중인 이 배우바로 꾸안꾸 패션의 정석! ❀선화 배우❀ 오늘은 작정하고 꾸민 화보 컷들 보여드릴게요~!아틀란티스 소녀가 절로 들리는 청초 비주얼부터 시선을 사로잡는 섹시한 콘···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfMjk4/MDAxNjM5MTAyMDQzODc1.2sRUiWBGkK5UP-gVWCcMe3Qq8uMIdrrpVil5HwQoS7Yg.NZAAC_eBcAhZdGwtUWKr-DSWt8rBGw4TIuvAVn8jcxAg.JPEG/I0O5OCLRW-x1qnxiwgc-Bt7anjRE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[키레이션3] 올해 제일 열일한 배우는?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32909289&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32909289&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 08 Dec 2021 22:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요키이스트의 2021 연말 결산 콘텐츠 3탄으로 돌아온 키레이션(KEYration) 해주는 홍보 마스터 키동이 입니다♥ 지난 포스트에서는 '키이스트'='사진 맛ZIP' 이라고 뽐내보았는데요 사실 키이···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDlfMjIz/MDAxNjM4OTc3MDEzOTU4.S45oNcXu8HLKF8s1L-zlhDrD3LquLRZepXjGJXrTXG4g.2_GP4s5dZd4re71Ba6ECB6Js6m5HqlXOtCRI8cSZ6eIg.JPEG/IjcURnA5iS7LQvpD-Al-ZaBavt5k.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
