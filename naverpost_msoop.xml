@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 06:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 07:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 뭐해? 나? 최우식!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33133120&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33133120&amp;memberNo=22903361</guid>
+            <pubDate>Sun, 16 Jan 2022 07:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[문이~ 열리~네요~♪우식 내 맘속으로~ 들어~오죠~♬ 안녕하세요 여러분! 오랜만에 &lt;그 해 우리는&gt; 포스트입니다 :D오늘 양손 가득(?) 선물을 들고 왔습니다!찍었다 하면 화보보고만 있어도 웃음을 유발···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTRfMjQx/MDAxNjQyMTUxNDY0ODc3.rtTB4KF7ktF7bfmqTPqSE6AdAn0yOILUMXEfQL36o_sg.4whPQ2I_IX5Fj6IB4uQNv2_9Np9JU8Vyi6nPji1COgsg.JPEG/ICAWddaA13aQMJtzzxNflBBMPkLU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울이 좋은 이유 ღ공유ღ]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33086104&amp;memberNo=22903361</link>
@@ -160,14 +168,6 @@
             <pubDate>Sun, 24 Oct 2021 12:46:25 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 여러분 :)오늘은 어떤 특별한 사진이냐고요?헉..! ㅇㅁㅇ서현진!?우리가 아는 다정이는 어디 가고..!카리스마 현진이..!깜짝 변신해서 나타난우리가 몰랐던색다른 모습의 서현진이 왔다!!!!!!!!청초해 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MThfMTA5/MDAxNjI5MjU0Njc4NjIx.gG8dHzs9jFD3dsk0ONYaNeYDdpvpLPVOT5QqIhpJFGkg.DHB5Hx19aBw3aFXmyKF-6jiW1rBZQcGNbX3HGrqUSl0g.JPEG/I1vySxsycGh2bge7w1D0bq9i7Vy0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남지현] 이 막방 반댈세!! ‘마녀식당’ 갈 파티원 모집합니다(1/n)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32167109&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32167109&amp;memberNo=22903361</guid>
-            <pubDate>Sun, 24 Oct 2021 12:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[5주 동안 여러분과 숲블리의 마음을 흔들어놓고 이렇게 떠나다뇨 ㅠ____ㅠ숲블리는 이 막방 반대입니다! 그런 의미에서 남젼x진의 행적을 쫓아가보기로 했는데요…!푸르르고 싱그러운 풀 내음 가득한 이곳과 딱 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTFfMTQz/MDAxNjI4NjY3ODkwNjA1.g-OsULnzHdeU2dp3dg29BGlLZnfIlaBZsr3jsZiB8uMg.CuXs0Bkicw7AD6xwILaS2CzDVcNTDg2_y4KSfAYfpNYg.JPEG/IXGpte1e-iJb3aDDPtab4DMlBE18.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
