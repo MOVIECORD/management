@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 05:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 06:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[전소민]과 윤미라의 마지막 이야기 ♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33151328&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33151328&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 19 Jan 2022 06:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다! 어제(18일, 화) 막을 내린 채널A 10주년 특별기획 월화드라마 &lt;쇼윈도:여왕의 집&gt; 배우 전소민 씨가 극 중 결국 자신의 잘못을 인정하고 모든 걸 내려놓은 악인 ‘윤···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMThfMjM5/MDAxNjQyNTEzMTUwMDcy.mMvyfoNQPNbEe3KBSntufrlGRH0m_ZPyh2svs85u6RAg.WyMyePdyqYu0x0zV1qsw1-nfGBYvtZy5djYKsb6UNF4g.JPEG/IIdP-m5WBrwfUZD_z64BBi2ZfNpw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱]의 잘생김엔 휴방이란 없다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33129839&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 Dec 2021 05:23:02 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다:) 올해 연말에는 할일이 참 많은데요! tvN 금토드라마 &lt;배드 앤 크레이지&gt;의 류금쪽 수열이도 봐야 하고, 곧 개봉하는 영화 &lt;해피 뉴 이어&gt;의 '호텔 엠로스' 용진대표님···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjFfMTc2/MDAxNjQwMDE1OTQ1MDQ5.18iyrhZzL3Ozz6PA7cF5Rl7lu6PoSw8_isgOHUwLuIIg.JKaartQkbq7V7RnOnTD-_EdwUVG2rvfu-FtQz41WUZgg.JPEG/ISFBTOfXuo4_1POCoyJnjw2wszrE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오혜원] 열일하기로 유명한 배우]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32967586&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32967586&amp;memberNo=35839671</guid>
-            <pubDate>Sat, 18 Dec 2021 02:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :) 요즘 tvN 15주년 특별기획 수목드라마 &lt;멜랑꼴리아&gt;에서 아성국제중 교장 ‘노연우’ 역으로 맹활약 중인 배우 오혜원 씨 하지만 알고 보면 혜원 씨는 매우 매우 열일하는 배우로 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTdfMTAw/MDAxNjM5NzIyOTM4MjY5.pKYO2bf3Z-REwtnmgmBcDQTZuB34do4BibrHQ6_QIukg._gClrKgLXVHC5ckZl_XGILHok8SB08KIre9FtDtKkWUg.JPEG/I1CTtvlRLh9-FNn2RH-yuS00ydDA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
