@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 13:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 14:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국힙원탑 비주얼]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33161268&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33161268&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 20 Jan 2022 14:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[미친 중독성과 박자 쪼개기로 조회수 24만 회를 달성한 음원(?)한선화 리믹스 (Alcohol Remix) #술도녀 화제의 영상에 이어 마치 국힙 원탑일 것 같은 비주얼을 뽐냈다고 해서 찾아가 봤습니다-최근···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTlfMjIy/MDAxNjQyNTc5NDM0NTQ4.-zNK2TEyOjEjyd4tl6TWKtY-CEhuTOISdBFg4H02y7og.szxIRU3LbMREmH9Lh6CRkOXFtRoykRqMVQ43LhFuuMUg.JPEG/IWDF7_wFegT6gUABdN80UiR3xXpE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베로니카의 이중생활]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33154658&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 20 Dec 2021 15:24:00 GMT</pubDate>
             <content:encoded><![CDATA[찍는 족족 A컷만 뽑아내는 진정한 화보 장인창 밖을 왜,, 그렇게 바라봐요? 눈빛만으로 서사 뚝딱 연기 장인눈만 감았을 뿐인데 잠자는 숲 속의 공주, 백설 공주, 온갖 디즈니 공주 다 불러내는 소환술 장인문가영 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTdfNjYg/MDAxNjM5NzIzNzY2OTg2.6zAx664hzz5lWKrxbHK0HqBDA_7Dh5u-O_2wZXKgx_cg.dZbVhhTJmrlXRNV1vjWCmpQegwISO8UWhwVPusB9iJEg.JPEG/IErLtRd8whYdq8MqNxVNc_eqSb5w.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우에서 과학 수사대로 전향한 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32973133&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32973133&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 19 Dec 2021 15:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[배우에서 과학 수사대로 전향이요?!여기 한 경찰이 있습니다.어딘가 모르게 시큰둥한 표정이지만 단어마다 전문적인 지식이 폭발하고여기저기 남아있을 범인의 흔적을 찾기 위해 눈과 코, 모든 감각을 활용하죠.그의···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTlfMjA1/MDAxNjM5OTEwMjMxNzI0.EvAnLOMLE-cq7dDVAcw3f6P5ZKxiAWzyQMcgaaXSQHEg.dirBLz1-BzmCm9nrb0NIXDcge-02vJSu1ggXnV0ptO0g.JPEG/IdGMEhXntiCuCLwvZLb58ZhGS_fA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
