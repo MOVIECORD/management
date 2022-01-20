@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 08:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 09:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[채수빈] 띵동댕동♬ 너와 나의 경찰수업이 곧 시작됩니다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33159467&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33159467&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 20 Jan 2022 09:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다:-)썸네일부터 청량함이 톡톡 터지는배우 채수빈 씨가디즈니+의 오리지널 시리즈&lt;너와 나의 경찰수업&gt;으로돌아옵니다! 첫 번째 컷부터수빈 상큼함에 비타민 충전하셨다면본격적으로···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjBfMiAg/MDAxNjQyNjA4NTgwNzc3.FcRqlrRTIjg3-CPQE-9kiiR4H41N2E6vYJ1xr4Pu1Tog.g07Yqbxs2SH7t8vrmuJNJueZ_Ubyrxyf33xdbLcMMmsg.JPEG/IwTz1G1y45Mwa4rP52F5aVhzPx-o.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전소민]과 윤미라의 마지막 이야기 ♥]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33151328&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 22 Dec 2021 08:29:06 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기 입니다 :) 매주 수, 목요일마다 tvN 15주년 특별기획 수목드라마 &lt;멜랑꼴리아&gt;에서 윤수쌤 커리(=커리큘럼) 타는 분들이 부쩍 많아졌다는데요! 오늘은 지윤수 열공러들에게 딱 맞는 하드 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfMTQz/MDAxNjQwMTM2MjQ1MTE3.-YriYUJ4lX2dpX00w3Eub1kUZwTvFwlHLwYyIoM42yEg.iqYMd0N657q9E72RcPRdGxP-Q9cycdOfTrmmv_wQExYg.JPEG/IGP2iRJj_758JbTVs6gmZhe8DlR4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이동욱] 연말에는 이동욱]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32983580&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32983580&amp;memberNo=35839671</guid>
-            <pubDate>Tue, 21 Dec 2021 05:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다:) 올해 연말에는 할일이 참 많은데요! tvN 금토드라마 &lt;배드 앤 크레이지&gt;의 류금쪽 수열이도 봐야 하고, 곧 개봉하는 영화 &lt;해피 뉴 이어&gt;의 '호텔 엠로스' 용진대표님···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjFfMTc2/MDAxNjQwMDE1OTQ1MDQ5.18iyrhZzL3Ozz6PA7cF5Rl7lu6PoSw8_isgOHUwLuIIg.JKaartQkbq7V7RnOnTD-_EdwUVG2rvfu-FtQz41WUZgg.JPEG/ISFBTOfXuo4_1POCoyJnjw2wszrE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
