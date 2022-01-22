@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 14:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 15:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현실에는 없는 남사친 등판]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33170915&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33170915&amp;memberNo=31542741</guid>
+            <pubDate>Sat, 22 Jan 2022 15:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[여러분! 간질 간질한 '설렘 주의보'가 발령됐다는 소식 들으셨어요?!바로 추운 겨울을 잊게 한 웹드라마 &lt;소녀의 세계2&gt; '훈훈 남사친' 권승하로 찾아왔던 이원정 배우의 소식승하를 보내기 아쉬운 마음에 준···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjJfMTg3/MDAxNjQyODYyNTYzMDk3.v-8wL9MwoBLwiPWD7-rUOrBVaEOj9OTiqfSh9tma1lwg.-AVAto8RVyx4BhauGKu1RaZ6hfnltDmmAA88s1ZPn3Eg.JPEG/I0bAr3iv8VAqtibC6qcxnqVlVktU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수애 스타일링 모아보기]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33162254&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Dec 2021 23:24:16 GMT</pubDate>
             <content:encoded><![CDATA[매 장면마다 작품 같은 비주얼로 눈 깜빡일 시간도 아까운 &lt;공작도시&gt; 속 수애 배우이런 은은한 분위기 아무나 못낸다구요 &gt;_&lt;우여곡절 끝에 서고의 열쇠도 손에 쥐고원하는 게 무엇인지 묻는 질문에 &amp;q···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjRfMjU2/MDAxNjQwMjk5NTk3MTY2.qW-SRogjY19f2XjYDsiW-lGzKXLW82eeuSKmd9Cv_HUg.krC8NnTEKph4eXHs-RFL7UYmpx429a48nCgFQfUpDaAg.JPEG/Iv_DpMqK8Zb1hT-DDAyAZhpPPizY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈빛서사 끝판왕]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32994353&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32994353&amp;memberNo=31542741</guid>
-            <pubDate>Wed, 22 Dec 2021 15:25:25 GMT</pubDate>
-            <content:encoded><![CDATA[매주 뭔가 모를 대리만족을 이끌어내 나 자신을 되돌아보게 만드는 장본인뜨끔 JTBC 수목드라마 &lt;공작도시&gt; 속 윤재희 수애 배우 5회 방송에서도 날선 멘트로 귀를 의심 (후하후하 너무 재밌어) 그 비···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfMjcz/MDAxNjQwMTQ4NDgwMDE2.ZH0auDOcvZ70le5PX0RVpArhhyFN4N7M0dP5xYCcDLgg.UJSiwAEqKJWvWWSpMtmgyxiW1VMZux372YvS9mYM--Ig.JPEG/IGUuFpy_l9ohqgLV9dA-1o4ACM8Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
