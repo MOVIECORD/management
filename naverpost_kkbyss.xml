@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 05:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 06:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱] 짜릿한 반전 엔딩의 주인공]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33172622&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33172622&amp;memberNo=35839671</guid>
+            <pubDate>Sun, 23 Jan 2022 06:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다! 오늘은 어젯밤 짜릿한 엔딩을 선사했던 tvN &lt;배드 앤 크레이지&gt; 배우 이동욱 씨의 포스트 입니다가스라이팅 범죄의 배후 X가 신주혁(정성일 분)이라는 사실을 알게 된 후 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjNfMTc5/MDAxNjQyOTA5OTQzMjU2.qN71LEgSZnUK0j997M-ZKwJXMzfVq6ql47nXZcEJvtAg.L1COka9OG_IMfBmknzn2Km6FfR_ZipXfDiiS__A7prkg.JPEG/IJm8tXBzJ3bejMZZA_NQ0lofRhyA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김범] 이 비주얼? 오케이 콜]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33168926&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 26 Dec 2021 05:22:12 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기 입니다 :D 어제(25일, 토) 크리스마스의 선물처럼 찾아온 배우 김범 씨와 tvN &lt;놀라운 토요일&gt; 동영상  버튼을 누르면 현재 화면에서 재생됩니다. 남다른 놀토 애청자 김범♡ 다시 돌아온 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjZfMjA0/MDAxNjQwNDgxODMxODk1.8266pkmj-IObfU7ZCKaj0ezCBg6xNVRkGiGV87D96Ggg.pvyT-S7tR_OERh82YOA3OP7QzsC1pIQEZVUqtrTcmS8g.JPEG/IhRyxIw9gm-3C5zZL3x9GI7RyrI8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이동욱] 이제 알겠어, 내가 누군지]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33006745&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33006745&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 24 Dec 2021 10:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[BAD ver. : '나쁜 놈' 수열의 이야기 안녕하십니까악! 수열의 힘찬(?)인사로 시작하는 오늘의 포스트는 첫 방송부터 뜨거운 반응을 불러일으켰던 tvN 금토드라마 &lt;배드 앤 크레이지&gt;입니다! 배우 이동···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjRfMjcz/MDAxNjQwMzM2NTgwMDIy.8AudEJhuda3wIBk0ywMJanupXGncL_Tq0m995gwFwAIg.7pSv5wVI-iWXwA1gNZwK1eGJbL6noE-hOHYZblyDPfQg.JPEG/IBY6L-X6-vEs4e1mSF7Ac47KCWCw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
