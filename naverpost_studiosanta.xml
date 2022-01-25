@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 14:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 15:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 해 준석은...♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33188058&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33188058&amp;memberNo=31542741</guid>
+            <pubDate>Tue, 25 Jan 2022 15:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;그 해 우리는&gt; 속 힐링 포인트 웅이와 연수요? (물론 맞지만) 전,,,방대표님이요 '^'♥하찮은데 또 귀여운 그 매력 &lt;그 해 우리는&gt;의 아쉬운 종영과 함께 허준석 배우의 비하인드 빠방하···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjVfMSAg/MDAxNjQzMTIyNTIyMTMy.a0Fh710tP5fmL4FBz-LGmQbsJUFd6pXPTkec19R7QM8g.a9J5-ITMJNmJExu7dkZgyhilQNtOLdyCX6HYiI_unUIg.JPEG/IuNtMQ-6kfWO4rfU5LHHBrSi5rFo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의리 더해 멋진 황우슬혜]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33174346&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Dec 2021 16:36:45 GMT</pubDate>
             <content:encoded><![CDATA[카리스마 넘치는 특별수사본부 팀장님이었다가해맑음 MAX 낙천美 가득한 대표님으로 열일 행보 중인 허/준/석/배/우다채로운 연기로 흠-뻑 빠져들 수밖에 없는 허준석 배우의 매력 속으로앉아 있어도서서 가만히 바라···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjdfMTE0/MDAxNjQwNjE2MDg0MDI0.TxD0XzwMuWXny2MOziJC6_x7KaF8acFZHO0ZpLepvWMg.UqY9XW4L8hfKFnprYMPDPPmt_9eeoQZxeFp8menFtJ4g.JPEG/IfqQmeQodEAG0aIVxT5yTeydsN-k.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 선물 같은 존재]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33010853&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33010853&amp;memberNo=31542741</guid>
-            <pubDate>Sat, 25 Dec 2021 15:24:33 GMT</pubDate>
-            <content:encoded><![CDATA['지옥'에 진심인 분 보러 오신 거라면, 잘 찾아 오셨습니다 넷플릭스 &lt;지옥&gt; 속 유지사제 류경수 배우가 오늘의 주인공라디오부터 넷플릭스 콘텐츠 촬영 그리고 &lt;지옥&gt; 포토존 방문까지! '지옥' 확실하···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjVfMjQ3/MDAxNjQwNDQzODE1MTMz.b2M94Pm-yjaV5eu-glWIKFz_R_pZwHdx-6kqJMAbTmAg.hMQnL7XTz-Lk4Vq6RgGQkAHPykVsFR1l_VG2q3k_k-sg.JPEG/IaTTI8wdFXF_8TqFA047UfvVqD54.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

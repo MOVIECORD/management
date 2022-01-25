@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 14:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 15:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 그 해, 
+우리가 사랑했던]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33188029&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33188029&amp;memberNo=22903361</guid>
+            <pubDate>Tue, 25 Jan 2022 15:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[작년과 올해 겨울.. 우리가 사랑했던최웅 ♡ 그리고명호!!즐거웠어요, 우식&amp;연우그리고 숲블리가 준비해온 마지막(?) 선물!더운 여름부터추운 겨울까지최웅에 200% 녹아든우식의 사진 대방출 !!끙 차 끙 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjVfMTUw/MDAxNjQzMTE3OTkwODI0.dkTA6iGWgjzI8scD306GjIyOhhcbjLPNNP43M4RsPFkg.mZSrfDeJe9ry_mux8sq6fEPIO4qCS9ckd8CM5wY-vaIg.JPEG/IDuwsDxi_bmPR6ZxwMOtPqAmRZd8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[남지현] 마녀식당으로 ‘다시’ 오세요! (feat. 하드 털이)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33156483&amp;memberNo=22903361</link>
@@ -160,14 +169,6 @@
             <pubDate>Sun, 24 Oct 2021 12:46:25 GMT</pubDate>
             <content:encoded><![CDATA[이제 현진 없는 월, 화 무슨 낙으로 사나,, ☆ '너는 나의 봄' 마지막 방송의 슬픈 마음을 달랠 예쁜 다정이를 마구마구 모아왔습니다 :)숲블리가 좋아하는 흰 셔츠의 현진으로 시작역시 서현진흰색이 잘 어울리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjRfODEg/MDAxNjI5NzczMzczODQw.UkJK6znwB7wD8q5YyQBG06-ZL5tUdWbMvVUqfpge2lcg.ECw8ZBrbRhcJU8AeC93preVc_E10Zus-W5Hs6QefcTEg.JPEG/Idh9PXaQLz0yefLBBbB8hiKmgREI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인생 내리막길 걷는 중인 여자]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32209132&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32209132&amp;memberNo=22903361</guid>
-            <pubDate>Sun, 24 Oct 2021 12:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[어나더 클래스, 그녀가 돌아왔습니다.숲블리처럼 오매불망 기다린 사람들 손tvN 드라마 '굿와이프' 이후 5년 만의 컴백깊고 한층 더 짙어진 감성을 장착하고 돌아온 전도연 배우입니다. 아무것도 되지 못한 채 길을 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjBfMjg3/MDAxNjI5NDQ3NzEzOTMz.vYfGMEp3N2eQai8e-WXTM_XcGFT9yD7oNP5mYCtu-hsg.HGSs94NdPOCUIakTHMA9UgzbYo7ad_oL9jDn0LrR6BAg.JPEG/IMxqhFXngKyEAGQlzukZi8AbBdvw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

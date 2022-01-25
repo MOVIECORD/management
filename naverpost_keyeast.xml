@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 14:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 15:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SNL도 인정한 패피]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33188037&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33188037&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 25 Jan 2022 15:22:19 GMT</pubDate>
+            <content:encoded><![CDATA['SNL 코리아'에 출연해서오프닝부터 임재범의 '여러분' 열창하고,'나는 솔로 지옥''전 국민 노래자랑''중전을 사랑한 좀비''패고 싶은 피플''극한직업' 이 모든 코너를 몸을 사리지 않고 소화한 역대급 호스트 이동···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjVfMjE4/MDAxNjQzMDk3NDA1MzYx.ezgixT5XxuOOADQ1-HqUz1b3szyY1AEj9T3zwukUZHYg.ZrWiJkOco_6J3D1TmjxN_T5y4JOiuIMk2QozPcn5D8Mg.JPEG/Ii6X2zbZ5P5iY335bTDlpGZazams.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조회수 400만 뷰 주인공]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33170603&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 24 Dec 2021 22:22:10 GMT</pubDate>
             <content:encoded><![CDATA[메리 크리스마수!안녕하세요 키동이에여 여러분 크리스마스엔 뭐다~~~?! 바로 산타죠~~~ 산타 하면 뭐다~~?!! ⭐️요즘 핫한 99년생 신인⭐️정답 : 백성철 &lt;구경이&gt; 끝나고 산타 없는 크리스마스상상 불가였는데,···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjRfMjI0/MDAxNjQwMzI0OTU4MTM4.ly3Vbfwo6ydIJvd2yhGCMI-uOLVwnOBty6A9DCHE6Egg.2xy6Xs-Jgh-b2HJc471IMwtteGVoMSp6bN5H-qToCrog.JPEG/IkN6cAkgIZJJ_lhJbcTdTBgLMaG4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 임금 반전 사생활 포착]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32994147&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32994147&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 22 Dec 2021 14:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 첫 방송을하고 월화극 시청률 1위에 오른 KBS 2TV 월화 드라마 '꽃 피면 달 생각하고'에서과거시험 현장에근엄하게 등장(두둥!)뭔가 불편한 기색과,의심 가득한 얼굴로용상에 앉은 임금 이강 역의 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfMjg2/MDAxNjQwMTU0NTMyMzg0.VubdDV35LFH1H-oa0HogaktQqaVQKO9xwjMqhLCUDdcg.fIJtHJaE7993g2NVMS2ZfvVJPCmhoTgCNWe12c3FC6Ag.JPEG/IuRBoPrZgevSWNDpvb3rKQccTh-w.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
