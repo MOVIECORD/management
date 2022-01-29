@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 21:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 22:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대한민국 3대 참지마요]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33209775&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33209775&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 29 Jan 2022 22:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[언니 화내지마요 언니 울지마요 트레이서 끝나지 마요 ( ˃̣̣̥᷄⌓˂̣̣̥᷅ ) 역대급 통쾌함과 국세청이라는 신선한 소재로 장르물 덕후들 심장 뛰게 만든 '트레이서' 특히 시청자들을 웃고, 울리는 고아성 배우의 연기로···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjlfMjU2/MDAxNjQzNDI0MTkzNTU2.VjFFtAPrUMIDV1kOfQGtARlCeYzYoCOAibJiOdPyVQ4g.ex1TOjDWlryaMs0vm1TrypVnNvwzTB091SDbp3klJs0g.JPEG/IjO6DfcAbQgElIw7Gu8AudjabpKg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SNL도 인정한 패피]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33188037&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Dec 2021 16:35:22 GMT</pubDate>
             <content:encoded><![CDATA[차분한 성격에 나긋나긋한 말투낯선 존(ZONE)에 들어가면 파워 낯을 가리고 곧잘 충격을 먹을 것 같다구요!?트레이서ZONE 은 못 참지~!당연함. 포즈 아이디어가 계속해서 샘솟아성의 1컷 1폭소 유발 포즈 &amp;#···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjdfOTcg/MDAxNjQwNTk0ODg5MzQx.A2bmKx4mDBjJ5JYITYVMEScpjyJ7u5349OCzXHx72Xgg.i-Pal67kihmggqQArxF1x453aEAKwMU2Zey-WiKnjpgg.JPEG/I9PAyu_-3s7jgjijg3cRKv3xqQN0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 99년생 신인배우 비주얼.jpg]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33005097&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33005097&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 24 Dec 2021 22:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[메리 크리스마수!안녕하세요 키동이에여 여러분 크리스마스엔 뭐다~~~?! 바로 산타죠~~~ 산타 하면 뭐다~~?!! ⭐️요즘 핫한 99년생 신인⭐️정답 : 백성철 &lt;구경이&gt; 끝나고 산타 없는 크리스마스상상 불가였는데,···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjRfMjI0/MDAxNjQwMzI0OTU4MTM4.ly3Vbfwo6ydIJvd2yhGCMI-uOLVwnOBty6A9DCHE6Egg.2xy6Xs-Jgh-b2HJc471IMwtteGVoMSp6bN5H-qToCrog.JPEG/IkN6cAkgIZJJ_lhJbcTdTBgLMaG4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
