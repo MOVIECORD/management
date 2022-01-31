@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 14:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 15:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설에도 핫한 소식]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33217705&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33217705&amp;memberNo=31542741</guid>
+            <pubDate>Mon, 31 Jan 2022 15:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[드라마부터 영화 라디오, 화보들까지 산타 아티스트 덕분에 눈 깜짝할 사이 지나갔던 1월바빴던 1월을 총정리 해줄! 쨘 ! 1月의 ★'화뉴스'브리핑★ 산타캠과 함께 1월 총정리하러 GO! GO! GO!Broadcast연쇄살인사건과 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMzFfMjQz/MDAxNjQzNjQwMzQ1Nzcx.f3BchO1fCrnSKMO-L4u_6jsn1BRLE8SNsFn7ribakmQg.0uE6ejN5Z5_3-Ps4XRT9189Z1Qiph7-C_8tVss2ohuog.JPEG/IodLx3fnJ4szblrszuynIviDALqE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모델핏으로 연기하는 배우]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33214587&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 Dec 2021 23:24:18 GMT</pubDate>
             <content:encoded><![CDATA[JTBC &lt;공작도시&gt; 회를 거듭할 수록 꿀잼력 무한 상승 중그 중에서도 관전포인트라 하면! 바로 윤재희, ♥수애 배우♥ 8회에서도 반전을 거듭하며 숨 쉴 틈 없는 러쉬 그리하여 산타 보부상이 비하···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfMjUw/MDAxNjQwOTA0NDE0ODgy.9PMmkML998pWih99sfz7smgKPXs_x4F4kTL6diD1C34g.XHU4M9-FbWQXM9PxVKarBl239N9wAgSgEPiACmShwtog.JPEG/IoHpp4xn6mX-dUZTP9xbWneIXm1w.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수심 100M 눈빛의 주인공]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33034326&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33034326&amp;memberNo=31542741</guid>
-            <pubDate>Wed, 29 Dec 2021 15:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[윤재희 곁을 맴도는 '김이설' 그는 누구인가?묘한 눈빛, 서늘한 기운 미스터리한 존재감을 발산하고 있는 '김 이설'그리고,, 그런 '이설'로 분한 우리의 '이담 배우' ♥서늘한 분위기는 온데간데없는 귀염 뽀···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjlfMjAz/MDAxNjQwNzYzNzA0OTY1.Fzwb1TNKAmyiOuzQChnBEYG2wuaUKDiJIT-AeFMK94Ag.-cgtbWFrn5fNyMyadHh5Mt11Ey7RvxYxPZEMXcfKKo4g.JPEG/IUmrQGWivk71gM8Q3wH8hbEqhboc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
