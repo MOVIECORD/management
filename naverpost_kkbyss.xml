@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 04:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 05:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이광수, 채수빈] 해적들 반전 실물, 오늘 공개합니다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33219154&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33219154&amp;memberNo=35839671</guid>
+            <pubDate>Tue, 01 Feb 2022 05:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 놀라운 소식으로 돌아온 킹콩지기입니다!이렇게 자유분방한 해적들이지만 그 실물은 어마어마하다는 사실 알고 계셨나효..?바로 오늘! 그 반전 실물을 공개합니다 ♥이 비주얼...실화입니까 여러분···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjhfNTIg/MDAxNjQzMzU0MTYxNzYw.kRAMG9V86Mn1MtA0Dz2u-TnRWPLZ0g2SZfzo7r7u-bMg.24UP0-VDrqgTX2n8jvut52DDjpEKX7paXN8uGveH2vwg.JPEG/IzMH3KbNtuXZs1-6g8ZgvKbDaXpA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱]의, 이동욱에 의한, 이동욱을 위한]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33210331&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 Dec 2021 08:28:43 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기 입니다 '0' 오는 2022년 1월 3일(월), (사진 출처: tvN) tvN 새 월화드라마 &lt;고스트 닥터&gt;에서 의료계 황금 수저이지만 실상은 똥손인 흉부외과 레지던트 ‘고승탁’ 역으로 찾아올 배우 김···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzBfMjI4/MDAxNjQwODI4MzkzNTU2.nRFyi9SoUuJPV29Fh7gvfGUmoI4g1iRXMPyqeEWBNQMg.wSa3IAkmMYZdqDvx0lSUHwDgCPn-ZgBjvdLh3KaucFMg.JPEG/IFHLy-FmYLvHoGV5Is44ROdJ8zxA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이동욱, 이광수]와 오늘부터 <해피 뉴 이어>]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33031192&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33031192&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 29 Dec 2021 06:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다! 여러분은 2021년을 함께 마무리하고 2022년을 함께 열고 싶은 사람이 있나요? 킹콩지기한테는 그런 사람이 있어요~! 무려 2명이나 말이죠♥바로 바로 오늘(29일, 수) 영화···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjlfNzcg/MDAxNjQwNzQzMjc1NjE3.umzAaxiJjtINT9To1XZyJByEco3CTFZJpPdIjrUG3pIg.H3YUETTraRc9hsqLGwwq8UWOg8luoRZm3XBkXYQqAH8g.JPEG/Ij4pKBCR4DB8NJp_4Q0vMgM754ZY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
