@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 08:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 09:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트] 2월의 BH온에어]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33236264&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33236264&amp;memberNo=21724264</guid>
+            <pubDate>Fri, 04 Feb 2022 09:19:15 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfMjcx/MDAxNjQzOTY1MTMzMTY0.5veZ3HmV7_2sO2VKenAuEIpMezdEncbgNSNs_fVAv_wg.u5ntWd_XeZ_3IJz60CTN628niY4zfdmIxqbrc4p5Szwg.JPEG/I3x0344AYASxkf9y-UfnqVRubvgs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SNS를 뒤흔든 전설의 프로필]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33202131&amp;memberNo=21724264</link>
@@ -160,14 +167,6 @@ DIVE 하고 싶다.]]></title>
             <pubDate>Thu, 02 Dec 2021 16:34:57 GMT</pubDate>
             <content:encoded><![CDATA[무더운 여름 더위를 뚫고어디선가 들려오는 청량한 소리 그건.. 진영이었다.. 사막에서 찾은 오아시스 같은 사람 진영 배우가 준비한 깜짝 선물 바다를 사랑하는 진영이가 선물하고 싶은 바다 같은 이야기DIVE 무더···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDJfMzcg/MDAxNjI3ODgzMjcxMjU1.sPEKT2cjh8OoWU9atiJ9P-gjkaYSVu8mrsq3tYP_gK8g.Z3-kbw2YQ3yZfuFgbOxR3uiz3xGqRImspqGccjSZKyog.JPEG/I5tG1T7Jh53yGrVkWzE6Ro3uXBs4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리에이티브 디렉터로 변신한 [안소희]]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32108260&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32108260&amp;memberNo=21724264</guid>
-            <pubDate>Thu, 02 Dec 2021 16:34:57 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하솧-* 오늘은 배우 안소희가 아닌, 뷰티 브랜드 '온호프'의크리에이티브 디렉터로 찾아온 안소희! 편안한 저녁,더 나은 내일을 위해 감각적인 향을 통해지친 일상에도 휴식을 전할 안소희의 취향이100% 반영된 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDRfMjAx/MDAxNjI4MDU4MDUyODg3.l-AWV-WTkSs68PsHFJ2IvXUO6ddhovVriXcLHK9PIx4g.RYhs0aY4uWTMJgXknMEWJn4Gart7-ZGJomEINjr1Ovwg.JPEG/IXiOxIXwY-cTHwH1V_pmhvlPgBjk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
