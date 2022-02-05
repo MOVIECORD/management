@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 12:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 13:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기억상실증 유발하는
+주지훈]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33240267&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33240267&amp;memberNo=51396641</guid>
+            <pubDate>Sat, 05 Feb 2022 13:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 그거 아세요? 멋진 사람을 보면 기억을 잃는대요!아 맞다! 여러분 그거 아세요? 멋진 사람을 보면 기억을 잃는대요!아... 이거였구나... 주지훈 배우만 보면 자꾸 기억을 잃는 이유가!!!홀리한 비주얼 받고 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfMjE2/MDAxNjQzOTc4NzgxMzc4.MXrbfHidjVY3Q0tJ8vQYaiXeOcj937RpKCou_M4kyWkg.QSb6ld3C2TaR2L4BQdq-9_JWGIENw6ItYamjujRCTEsg.JPEG/I7R-Hgc6XSZZNq15A1hnRly3-UGI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그대의 눈동자에 치얼스!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33206839&amp;memberNo=51396641</link>
@@ -165,14 +174,6 @@
             <pubDate>Fri, 19 Nov 2021 05:20:56 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 여러부운~! 핸디터가 준비한 오늘의 포스트!국민호감! 커리어, 내조, 육아 퍼팩트!소이현 배우의 뷰티 광고 촬영 비하인드컷을 대. 방.출. 합니다.오늘의 이현 배우 '빨강 구두'에서와는 달리 부드러운 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfOTMg/MDAxNjM2NzE5ODk5MjQ1.fqpWNg9pL20yIXAMGBNmFV_xCmNCaSTvElYdNPtv7FQg.DMLu4rvZRWwvhVPMymjuaHLOW91Z8EmAQhJnFN-1gmYg.JPEG/Imneg-pjLvond1uHMXM7KegIZTQc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정수정]이라는 장르]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32727253&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32727253&amp;memberNo=51396641</guid>
-            <pubDate>Fri, 12 Nov 2021 14:21:43 GMT</pubDate>
-            <content:encoded><![CDATA['정수정'이라는 장르가 새롭게 탄생된 매거진 'W Korea' 스페셜 에디션북 커버·화보 촬영장♥덮머♥ 뚜덩이를 보니 자연스럽게 떠오르는 수많은 장르들"찬 바람이 불어오지만 마음만큼은 따···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTBfNzkg/MDAxNjM2NTM2MzAwMjE2.TH1rVfNneS-adf7Bp9bkVHq1QNG_ugFMH5gtKObixmcg.9I1sJSdghC4qU3w9jiwUlcBjjsUhkr31JUIWDuTtZzQg.JPEG/IC5Z6fR8oCwvSR9j5sENTGO1pauk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
