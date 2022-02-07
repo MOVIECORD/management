@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 01:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 02:36:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전시회 개최한 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33245428&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33245428&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 07 Feb 2022 02:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 여러분 여기는 아트 갤러리 키이스트입니다.오늘 키레이션 해드릴 전시는 우도환 '보그' 컬렉션입니다. 무료로 공개할게요!제대 후 키동이와 함께하는 첫 화보 스케줄인 만큼!☆슈퍼스타 돤 제대 축하해☆···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfMjE3/MDAxNjQzOTU3MjI3NjUz.DGKWcZqzj62ZfMNvwaweqYLdEvKYE8nRZreMuiyrJ5Yg.IRIokaQ3QuK3JlC7Wmo9yOjdvSEXRjXvyhFzMtxzwt4g.JPEG/IbUfDYmIJEo2DS90cwstZ2sQDptk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성원에 힘입어 공개하는 
 문가영 화보 꿀팁]]></title>
@@ -159,14 +167,6 @@
             <pubDate>Sun, 02 Jan 2022 22:21:44 GMT</pubDate>
             <content:encoded><![CDATA[새해부터 또 나만 나이 먹었나 싶게 변치 않은 비주얼로 브라운관을 찢은 배우가 있다?!풀뱅 앞머리를 해도 귀엽고, 올림머리도 찰떡으로 소화하는 깡지 (°◡°♡).:｡지난 2일(일) 드라마 '너···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfODAg/MDAxNjQwOTM0OTkwMjAw.Bf5Qvh6V6kKb8gk-G78Q1uWv_hby__524W3sLeKUKxUg.wcscbIvMVlN3LN9mAqJsZJAVnvD2bxILyj-or9p4hocg.JPEG/InzXUTVmSc0wdVeVKrag8HMCuAk4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 '갓생'산 한선화]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33039353&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33039353&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 30 Dec 2021 22:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021년이 단 하루 남은 지금! 올해를 누구보다 '갓생'산 배우의 포스트로 (*갓생=신을 의미하는 'God'과 인생을 뜻하는 '생'의 합성어로 부지런하고 타의 모범이 되는 삶을 뜻하는 신조어) 2021년 키이스트···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfMTMw/MDAxNjQwOTA1NDE1ODM2.ByIRXQj1Ae0KTEBwKtlCqcolfcl1yw3jSZDTzt-LY10g.TP1Wj4hKkdRO9ekfFaTNvf0wlC9pccmLh_ht82AWtgQg.JPEG/I7RNjbqDhO0g-uOBqaA1uQxktUbE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

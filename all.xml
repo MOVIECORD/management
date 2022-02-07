@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 01:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 02:36:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,6 +170,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMTVfMjg0/MDAxNjE1NzY5MTUyNzg5.LBRlWOw9kRdGgh4hGJnCpu-VccFl1_Bv-nztzRuWqLgg.qCuDtUV5kuCXTQ86_Q6CE5Jhw2KqeD63ypoO08DcjJog.JPEG/Ikrq7hFOeb9UkP_3AI1p5fGjI0OU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전시회 개최한 배우 (네이버 포스트 ─ 키이스트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33245428&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33245428&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 07 Feb 2022 02:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 여러분 여기는 아트 갤러리 키이스트입니다.오늘 키레이션 해드릴 전시는 우도환 '보그' 컬렉션입니다. 무료로 공개할게요!제대 후 키동이와 함께하는 첫 화보 스케줄인 만큼!☆슈퍼스타 돤 제대 축하해☆···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfMjE3/MDAxNjQzOTU3MjI3NjUz.DGKWcZqzj62ZfMNvwaweqYLdEvKYE8nRZreMuiyrJ5Yg.IRIokaQ3QuK3JlC7Wmo9yOjdvSEXRjXvyhFzMtxzwt4g.JPEG/IbUfDYmIJEo2DS90cwstZ2sQDptk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성원에 힘입어 공개하는 
 문가영 화보 꿀팁 (네이버 포스트 ─ 키이스트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33237597&amp;memberNo=29770009</link>
@@ -321,14 +329,6 @@
             <pubDate>Sun, 02 Jan 2022 22:21:44 GMT</pubDate>
             <content:encoded><![CDATA[새해부터 또 나만 나이 먹었나 싶게 변치 않은 비주얼로 브라운관을 찢은 배우가 있다?!풀뱅 앞머리를 해도 귀엽고, 올림머리도 찰떡으로 소화하는 깡지 (°◡°♡).:｡지난 2일(일) 드라마 '너···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfODAg/MDAxNjQwOTM0OTkwMjAw.Bf5Qvh6V6kKb8gk-G78Q1uWv_hby__524W3sLeKUKxUg.wcscbIvMVlN3LN9mAqJsZJAVnvD2bxILyj-or9p4hocg.JPEG/InzXUTVmSc0wdVeVKrag8HMCuAk4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 '갓생'산 한선화 (네이버 포스트 ─ 키이스트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33039353&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33039353&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 30 Dec 2021 22:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021년이 단 하루 남은 지금! 올해를 누구보다 '갓생'산 배우의 포스트로 (*갓생=신을 의미하는 'God'과 인생을 뜻하는 '생'의 합성어로 부지런하고 타의 모범이 되는 삶을 뜻하는 신조어) 2021년 키이스트···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfMTMw/MDAxNjQwOTA1NDE1ODM2.ByIRXQj1Ae0KTEBwKtlCqcolfcl1yw3jSZDTzt-LY10g.TP1Wj4hKkdRO9ekfFaTNvf0wlC9pccmLh_ht82AWtgQg.JPEG/I7RNjbqDhO0g-uOBqaA1uQxktUbE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김여진] 너무 아름다운다운 inter 뷰 (네이버 포스트 ─ 935엔터테인먼트)]]></title>
@@ -2152,6 +2152,15 @@ VS
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTFfMTkz/MDAxNTg5MTk5MTg1MTQx.9OT1XBPFMzveuWiAlyiw-l8Wu49ulVqcGLf9m_UxRoQg.MSgwuDbrG2DFwscvfLMEw9TbGR27rHSsOP-T_VJ974cg.JPEG/IJ4Kc43ek5vtdnazmGe70VEFAvAM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아듀, <불가살> 
+[권나라]와 함께한 나날들.zip (네이버 포스트 ─ 에이맨프로젝트)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33235471&amp;memberNo=43803149</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33235471&amp;memberNo=43803149</guid>
+            <pubDate>Mon, 07 Feb 2022 02:35:43 GMT</pubDate>
+            <content:encoded><![CDATA[2월 7일, 오늘은 너무나도 슬픈 날이에요,,, 왜냐구요? 바로,,어제나라 배우의 &lt;불가살&gt;이 막을 내렸기 때문이죠,,ㅠ#믿을쑤업쒀 출처 : tvN 이제 주말마다 보던 상운,, 못 보는 거야,,??나라 배우도 못 보는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfODQg/MDAxNjQzOTUxMTg0Njg2.X8Ezm7JSunfLdnMkfwIa4woYVDYJnd1oJY1A-OLsiJ4g.H97K8zLCsIt2Rp75gcd2Hk_QXlEiL817r7K7CpsVANMg.JPEG/IA_GoWmHwFlUbFhePfhDw74GeWHw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[권나라] 라는 나라에 
 입국하세요_★ (네이버 포스트 ─ 에이맨프로젝트)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33228511&amp;memberNo=43803149</link>
@@ -2311,15 +2320,6 @@ VS
             <pubDate>Sun, 24 Oct 2021 13:52:13 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 여러분! 에이맨지기입니다!소식 들으셨나요?나라 배우가 열연하고 있는 '암행어사'가 또 다시 자체 최고 시청률(닐슨 전국 가구 기준)12%를 달성했습니다!Yeah!~!!!!!! 우리 나라 배우 연기, 얼굴, 케미 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMzFfMjc0/MDAxNjEyMDYxNjQ0NzE3.Wc5G-85tCpvz5IaziEoSDSwgl7-UcbwWuF9nsWcsKd0g.d4-390R_oyCD3oG5ka6Li2x6CiESm2nwd7-u5-BaKaog.JPEG/IzQive3YzIgo4E7iajoNOG2x5haA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LEE JONG SUK IS BACK
-(Secret code A.M.A.N) (네이버 포스트 ─ 에이맨프로젝트)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30525889&amp;memberNo=43803149</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30525889&amp;memberNo=43803149</guid>
-            <pubDate>Sun, 24 Oct 2021 13:52:13 GMT</pubDate>
-            <content:encoded><![CDATA[LEE JONG SUK 여러분의 남자 그가 돌아왔습니다 오늘은 A-MAN이라는 시크릿 코드로 이종석 배우의 공식적인 컴백 모먼트를 담았습니다  여러분과&nbsp;약속했던 에이맨지기의 '인별똧밥' 예고 우수수수 털기 지금···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMjRfMTQx/MDAxNjExNDc5MTYyMzAw.xtyij9ZJ-2Io66jQb-9-oxYFrwFFrJGhlBCnL2e-tqsg.BmT6q4oTOYoYMydPss51gfxdD5rPM5zMuCIVkub9HpEg.JPEG/Im0K1hULVg5Vb2GZ-s2DPE1bRd7U.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 하늘을 날아다닐 배우 (네이버 포스트 ─ 스튜디오산타클로스)]]></title>
