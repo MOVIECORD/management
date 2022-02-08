@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 11:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 12:34:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[채수빈] 은강이의 우당탕탕 경찰대 성장기]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33256704&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33256704&amp;memberNo=35839671</guid>
+            <pubDate>Tue, 08 Feb 2022 12:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요:) 킹콩지기입니다!요즘 매주 수요일이 기다려지는 이유♡ 바로배우 채수빈 씨가 '고은강' 역으로 출연하는디즈니+의 오리지널 시리즈&lt;너와 나의 경찰수업&gt; 때문이죠!경찰대학 입학 후짧은 시간이지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDhfMjg0/MDAxNjQ0MzE0MzM0MzE4.d9TKh5RVGD0vdz9nVDcvvykz3XF-fsmfX3Z3uMfclv8g.wd91JdCTFW7d0fnyK_t3zOTzQkm6WA359uffJZSUapAg.JPEG/IGqe-aphOjpCZ1952p6Y3dkydW68.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[채수빈, 천영민]의 k(in)g잼인 경찰대 생활]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33221693&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Jan 2022 08:28:15 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요!2022년 새해 첫날,tvN &lt;배드 앤 크레이지&gt;의배우 이동욱 씨와 함께 온킹콩지기입니다!2021년부터 2022년에도무려 2년 동안(?)이리저리 뛰어다니며 고생한 수열이! 어제(12월 31일, 금) 방송된 5회···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDFfMjI4/MDAxNjQxMDIxODM4Nzkz.Jdch9njhPFhgFYCgJjB0TeOK8I7OYO3e7fIuAKePUSQg.R3dbUxAirf988jCoGLORGZlc2HKLZc5c9zAqfHXmRf4g.JPEG/IgyXU4mM-v_-_HHU7QUh1TzEYo8I.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[임수정] <멜랑꼴리아>와 해피 엔딩 ♥]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33044342&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33044342&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 31 Dec 2021 06:28:45 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기 입니다! 지난 8주간 안방극장에 따뜻함을 선사했던 tvN 15주년 특별기획 수목드라마 &lt;멜랑꼴리아&gt;가 어제(30일, 목) 막을 내렸습니다   선생님!!!!! 우리 윤수 해피 엔딩 맞죠?! 제발 그···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfODQg/MDAxNjQwOTE5ODA1NzIz.odaYWFeaB2GmQma9YIwMNyUDIFtZiTPfcxj1T_hfLjsg.9-kEC5tmCRrTozsMLCdHUkyeBgtoKepJ6mc5MYf8gk8g.JPEG/IQosgDANO-BW7EqV3HvpZelpge5A.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
