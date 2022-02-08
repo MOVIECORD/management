@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 한아름컴퍼니 </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 04:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 05:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[루디고에 재입학한 [이상민]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33254045&amp;memberNo=34451204</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33254045&amp;memberNo=34451204</guid>
+            <pubDate>Tue, 08 Feb 2022 05:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 한아름지기 입니다~~~ 오늘은 이상민 배우의 소식을 들고 찾아왔습니다~~~ 이상민 배우가 최근에 웹 드라마 '루대숲'에 다시 한번 출연 했는데요~~~ 그래서 현장에서 한아름지기가 촬영한 이상민 배우의 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMThfMjk3/MDAxNjQyNDkzMjQ4OTYz.VaROslHxTp-f--QGITeXuEJ5RGQgxbw2AmSwk73-5s8g.KDWjvORhHH3v48nOIp4HO19hmHhvA_jGm0X4ltsSk2gg.JPEG/IRcorMgOCBwNXl458whN1-X6JQSc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스컬레이터에서 '오징어게임' 곽자형과 재회한 [허성태]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33083883&amp;memberNo=34451204</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 한아름지기 입니다~~ 오늘은 송지우 배우의 소식을 들고 찾아왔는데요!!! 송지우 배우는 문화재청 한국문화재재단이 주최하고 서경덕 교수가 함께한 '문화유산방문캠페인' 의 주인공으로 등장했는데요~~~···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MTVfMjU1/MDAxNjIzNzM0ODI4MzUy.LPYCgJS6LkSMdzIkACigIF91K2I5AgqRtMkHxAthABgg.zeMznmnlE8-wRj5nIIHGt88buSlt1CJcVBK5mvLQ3Hog.GIF/Ir1X2SJluD29_pDQYUoLTVHsxULM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거칠어진 입과 함께 돌아온 [송지우]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31660957&amp;memberNo=34451204</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31660957&amp;memberNo=34451204</guid>
-            <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 한아름지기 입니다~~~ 오늘은 송지우 배우의 소식을 들고 찾아왔습니다~~~ 최근 송지우 배우는 KT 웹드라마 '쉿! 그놈을 부탁해'에 출연 소식을 알렸는데요~~~ 지우 배우가 출연한 '쉿! 그놈을 부탁해' 1···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MDJfNzMg/MDAxNjIyNjE2NTMwNzc0.lYHNzwe8zTq7lAjwuiAc13hUqH_XwviGaGptp7F7WmMg.TD6JVlEQWIEih3kRtr-WZO7Fuin8rPBmjy8-mNMrSBYg.GIF/I3iuCM9GLCToRq_vjB21BPvx7PfU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
