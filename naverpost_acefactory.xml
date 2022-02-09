@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 09:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 10:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가까이서 본 김아중]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33260241&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33260241&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 09 Feb 2022 10:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[찍었다하면레.전.드화보천재 김아중 ♥한 순간도 놓치고 싶지 않은 아중의 '바자' 2월호 화보 촬영 현장 비하인드 풉니다 &gt; &lt;촬영 준비하는 모습부터 A컷을 완성시키는 AJoong ★★★★★화보의 완성은 퀸아···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDlfMTY1/MDAxNjQ0Mzc1MzQwMDky.mp4DdYQbreYPqaVmW9lg8nqEXG66is5st4hd9DsEouEg.DO-1BN5NnBA5f3LIj-K0rwifXswRJQFhmkwC_g8tvyIg.JPEG/IQTVbe35sN6fKxYclfXaNPgEk-3c.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특별하다고 소문난 배우]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33201114&amp;memberNo=44834478</link>
@@ -167,14 +175,6 @@
             <pubDate>Fri, 26 Nov 2021 15:24:53 GMT</pubDate>
             <content:encoded><![CDATA[어제자'멜랑꼴리아' 충격 엔딩의 주인공류성재 = 최대훈 aka왕크왕귀왕크니까 왕귀여운 최대후니 ♥하지만 오늘만큼은왕크왕멋 ♥로맨틱하게담아낸 류성재 웨딩촬영 현장전지적 ACE 시점 포스트 ★_★ 지···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMjQw/MDAxNjM3OTMwOTI0NDkx.NfSCme0lwzPehDr0vPZjHsrlyazFRhD6IwLJYROfDB4g.RCI1Uec8ILJ3N1YXQH-y4P6l1nOn_90kYbmpLC-GTI0g.JPEG/Im7QNwCtalSmbuPktODb3z1IEuS0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['해피니스' 홍보 요정 정운선]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32797036&amp;memberNo=44834478</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32797036&amp;memberNo=44834478</guid>
-            <pubDate>Sun, 21 Nov 2021 14:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[감염병이 일상화된 뉴노멀 시대, 고층을 일반 분양으로 저층을 임대주택으로 나눈 대도시 신축 아파트에서 벌어지는 계급 간 차별과 은근한 신경전을 그린 드라마 '해피니스'그리고 여기,"법률 상담 필요 하신 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjFfMTQz/MDAxNjM3NDg5OTY4MTg2.KX-ANaefjk_GDdO2UUHNeYRMXRm697iwZFWWZiOvvMog.RCFwaKrEbVKjKsZm6ukgdqMde-r-shFBJoE6NohA1Rgg.JPEG/Ipd-hAI5aK-MlFczueYvmosNhUNs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
