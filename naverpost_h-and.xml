@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 13:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 14:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1사무실 1윤박 보급必]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33277732&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33277732&amp;memberNo=51396641</guid>
+            <pubDate>Fri, 11 Feb 2022 14:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 이번주 토요일! 밤 10시 30분 첫 방송되는 JTBC 새 토일드라마 '기상청 사람들 : 사내연애 잔혹사 편'윤박 배우가 기상청 대변인실 한기준 역으로 돌아옵니다!윤박 배우가 연기할 한기준은 기상청 대변인실 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTFfODIg/MDAxNjQ0NTc4MDQ3NzI1.ijULxTOQgIyG9QEDvgom-nbYtf-FQQAEbJDQpx_bwXAg.EkBI1PU_Z_4HWWitOt5ZI6Dpak9ubzTFFqOUIZH5kyog.JPEG/IoyxC3DyL-BxcAt6sDsjqp_xxxzY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바다 건너서도 팬심 자극하는 '곽동연']]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33237230&amp;memberNo=51396641</link>
@@ -165,15 +173,6 @@
             <pubDate>Thu, 02 Dec 2021 07:22:25 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요오~라는 인사를 받는 순간, 핸디터도 모르게 튀어나온 내면의 진심언니! 내가 원한 게 이거잖아낮에는 청정 무공해 순수 매력을 내뿜는 캠핑족밤에는 독보적인 아우라로 좌중을 압도하는 배우두 팔 벌려 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDJfMTgx/MDAxNjM4NDE3Mjk4OTM2.Qm8AwSrqLaxFTdxw5lSfCtBz7KGz5mD1RUx-C8f_NCYg.SOCD40uEM-xQLdqsGdR3RLUU5vC5Hor_P-pYHopbxeMg.JPEG/IFOl6yxeoWhO0LqnhtisuoryQZhY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 남은 행운 
-[곽동연]에게 다 씀]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32816067&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32816067&amp;memberNo=51396641</guid>
-            <pubDate>Thu, 25 Nov 2021 12:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[행운(幸運) : 실제로 곽동연을 볼 수 있는 좋은 운수 : 또는 곽동연을 생각만 해도 행복한 운수가 따르는 것국어사전에 등재된 '행운'의 의미를 조금 바꾼 오늘의 주인공심장을 곽곽 뛰게 하고 심곽수를 최고···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjRfMTAw/MDAxNjM3NzI2NTA4OTgx.eai5so6wnltu059bJd-FFGTICI6HmbJaiyO4Xb4D-zgg.jlYTRDK3aD9FbODus0tW5sDhDYCYbbv98tPcBV5Fe-kg.JPEG/IM5uWmRPRoyTTriEl-js8T1WpCQo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
