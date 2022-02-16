@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 10:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 11:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[채수빈] 경찰대 특별활동 시간 (근데 이제 로맨스를 곁들인...)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33304698&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33304698&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 16 Feb 2022 11:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-)갈수록 꿀잼 캠퍼스 라이프를 선보이고 있는디즈니+의 오리지널 시리즈&lt;너와 나의 경찰수업&gt;재미있게 보고 계신가요-? 오늘은 우리 상큼한 은강이!♥배우 채수빈 씨♥와 함께 경찰···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTZfMjgx/MDAxNjQ0OTk2MTA0NzMy.3KVybpjBEYCI6XK6aXAL9kiwuzzQzBFr4gCacz25Piog.VIBtJSOrSYIEb7MxgpimcuIRnMN-Bq-HJ7YDxvGfxqsg.JPEG/It2q-HnDwiEEh72c4AThxD9RDPmM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신승호] 강력반 형사 된 신승호]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33297082&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 12 Jan 2022 09:24:05 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 금방 돌아온 킹콩지기입니다 ^_^ 킹콩지기가 재빠르게 포스트를 들고 올 수밖에 없는 이유 바로 핵잼 꿀잼 대유잼 tvN 월화드라마 &lt;고스트 닥터&gt;에서 고승탁 그 자체에 빙의된 듯한 김범 씨의 비하···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTJfMjE0/MDAxNjQxOTUyNzU2NjU4.BeUkHLBtUk9OctZLPsrWQQknRbOKHvEKm5UTidNsihEg.zluetl01OLSiuai6FLl_K81KKiwNq458wUEdf7PGsekg.JPEG/IJLUaqlHkeKDBlggxIHTTr_sWd6U.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김범] 보이스랑 비주얼이 좀, 아니 많이 되는 의사]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33098080&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33098080&amp;memberNo=35839671</guid>
-            <pubDate>Mon, 10 Jan 2022 08:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :D 뚜루루 뚜루루 ☎ 어- 엄마 내가 궁금한 게 생겨가지고 만약에 왜... 내가 보이스랑 비주얼이 좀 되잖아헤헤 그치 잘생겼지그래서 내가 의사 말고 가수나 배우하겠다고... 위 내용은 tv···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTBfMjIy/MDAxNjQxNzc3MzYwMTUz.I-cvgb4jWAgymJl04ftilJPEjin3xI_4OCQznxoznlIg.Oqk_qSOoJvriBlDlFFUnCzwQvU3u6zeShAli_8Muouog.JPEG/INrJy4747ZmE4BJwM7qFpW6uVerw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
