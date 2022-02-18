@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 09:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 10:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이현'에게 반했을 때 ♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33235720&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33235720&amp;memberNo=32146648</guid>
+            <pubDate>Fri, 18 Feb 2022 10:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST]PARK E HYUN♥ ©와이낫미디어 한동안 베스트리가 푹- 빠져살았던 사람이 있었으니 ©와이낫미디어 그 사람은 바로 화양대 미대 여신 류설 ©와이낫미디어 화요일, 목요일마다 저녁 약속 안 잡고집에 꼬박꼬···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfMTc4/MDAxNjQzOTUxOTY1NzAy.NF_i_urfhmdguhgPB1-lCM3TaCWVy-mTk5D7inpCTJcg.Mg5tOMHS4hk-CSUZbRG49mLH_-n6X4P73sK3y5Hh2Wkg.JPEG/IdQtBk3ts8AQ_blWzYvPZZggVvd8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신년맞이 [현빈]의 MBTI 대공개]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32899910&amp;memberNo=32146648</link>
@@ -159,15 +167,6 @@
             <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 베스트리 예요!요즘 비주얼 맛집이라고소문난 곳이 있다던데... 벌써부터 많은 사람들이 찾은 비주얼 맛집의 주인공은...!  차세대 화보 장인으로 주목받고 있는도현 배우입니다 시크한 무드 한 스푼에,···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjZfMjI5/MDAxNjE5NDI1NzQ2OTY4.PxiiMu4T1sjeH61LleRLgbTKkIxdUjebPEQanTZ82lcg.W-u89clIxieSpIRjR14BxIl6lRAbe1w19z0yTkA7wBMg.JPEG/IwRDDoYmaJphg5G46uiUy3aLwe1Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[大발견!]
-하루 종일 예쁜 여배우가 있다?!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31313833&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31313833&amp;memberNo=32146648</guid>
-            <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 베스트리예요 ❁ 오늘은 이현 Day ❁ 오늘은 베스트리가 '발견' 한이현이의 예뿜뿜 모멘트를여러분과 공유할게요'ڡ'४ 첫 컷부터 예쁘기 시작 이혀니는 좋겠다 폰에 이혀니 셀카 많아서보고 싶을 때마다 꺼···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjFfMTkg/MDAxNjE4OTkyNDE2NTc4.ItmgRJL4CtQiMYg2cpgBX2SISyGss3ASQPPAT9SQnncg.DefEJN3XcZFfgQDn2a_4y8lYRsaG6euz8CgIVlqwpF4g.JPEG/Idze49R5PYFE3e9JGk4TdiWYu8XU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
