@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 11:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 12:36:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조회수 2천만 뷰 
+주인공이 전하는 근황]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33359508&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33359508&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 25 Feb 2022 12:34:44 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요~ 저는 결혼 2년 차 민사린이라고 합니다요즘 아주 다이내믹한 일상을 보내고 있어서 처음으로 제 근황을 전해보려고 해요 ㅎㅎ결혼 한 달 차 며느라기 시절은 적응이 잘 안돼서 서툴고 힘들었지만이제는 어···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjRfMTcz/MDAxNjQ1NzA3NTQ4NDg0.diK8B6n_Z73HWumqwzOJZqR5_yPI6DZKeK0962QfPnMg.HHpDzJdZwUttbYtvs8BM832dIR9qqlPqKtiLbC3txM8g.JPEG/Iz2j_7sokTK5SNIEegnSWPrVrDr0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화보 촬영 불참한 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33338498&amp;memberNo=29770009</link>
@@ -159,14 +168,6 @@
             <pubDate>Tue, 11 Jan 2022 15:24:39 GMT</pubDate>
             <content:encoded><![CDATA[나 키동쓰, 오늘은 연기, 예능, 춤 뭐 하나 못 하는 게 없는 배우 자랑하러 옴 (편하게 음슴체로 쓰겠음)매력이 넘쳐서 흐르다 못해 취하게 만든다는 매력 '취'사량인 이 배우가,SNL 코리아 호스트로 출연했···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTFfNjUg/MDAxNjQxODgxNDE0NDAz.r4rBrCw8QWRNdO7OQmuU4Fptwn5n4_s4bUuIeEAvO9Yg.nBEYwz5sWRq-clw35fJzb-hUCYD3GuZ3RJ-KY_zJiGYg.JPEG/IuplrAjQ5dFnNWbIT0pvFcAnfTbc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷으로 밥벌이하는 주연 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33089753&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33089753&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 23 Feb 2022 08:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 옷과 사랑에 빠져 옷과 함께 열심히 밥벌이 중인 더 원의 안선주입니다.  저는 패션 회사 'THE ONE'의 탑 브랜드 소노 디자인팀 대리로 소노 브랜드 의상들의 디자인 패턴부터 옷감과 색상, 디테일한 부···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDdfNzQg/MDAxNjQxNTQ1OTI0ODYx.O4mdfDqcjxaXj91ggghEGY7aVXNVBORzzBJoc1WZnQwg.fEClrdsmuuQ5fRZ7AGdRLUn0e-TeiMyZuBJZNmOCTNgg.JPEG/I6QiVRYfefq-y8TE_sVBA7Iz2its.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
