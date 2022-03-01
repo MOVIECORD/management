@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 03:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 04:30:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올봄 
+미치게 사랑할 주인공]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33374555&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33374555&amp;memberNo=51396641</guid>
+            <pubDate>Tue, 01 Mar 2022 04:29:17 GMT</pubDate>
+            <content:encoded><![CDATA[투명도 1024%를 자랑하는 청순한 비주얼과 순수한 눈빛당충전 되는 달콤한 미소 그 안에 담긴 따뜻한 심성갑자기 화면을 뚫고 나온 살벌한 아우라까지 지닌 반전 매력의 주인공!바로 KBS 2TV 새 월화드라마 '크레이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjhfMTYx/MDAxNjQ2MDU5ODExMjYz.CbGJcUIJQ74hWBZOMHc_rme5ynjsKw8S_WUi_B8D2kQg.8yb3581pTipp5fwQMtsGQI9n8eQF6nfgos3U0E8Qxhcg.JPEG/ICAf1Y7TodZUwsHvIR1NlAzdlf-Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건강하고, 아름다운, 
 움직이는 조각상]]></title>
@@ -165,14 +174,6 @@
             <pubDate>Tue, 07 Dec 2021 10:27:37 GMT</pubDate>
             <content:encoded><![CDATA[2020.11.12 지금부터 약 1년전 무슨일이 있었을까~~요~~블링블링 크리스탈 정수정 배우의 스크린 데뷔작 &lt;애비규환&gt;이 개봉했는데요. 당찬 대학생 김토일 역을 맡아 놀라운 캐릭터 변신과 단단한 연기력으로 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDVfMTM0/MDAxNjM4NzEzMTc4ODQy.2Mzp06xbcXGvkncRXzhmV4kjAPmxiPUkHZLhN93mIvog.Nn-OdQBdUEIkITPHSIHPo7RqfsPvMJ-yp2MJRiT6mEQg.JPEG/IEZgfgwtx-ymCscfrmVAqxU33L08.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심장의 속삭임, 주쥰주쥰]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32879708&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32879708&amp;memberNo=51396641</guid>
-            <pubDate>Fri, 03 Dec 2021 15:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 12월의 첫 주말!! 핸디터가 준비한 가슴이 뜨거워지는 선물!!오늘 포스트의 주인공! 주말 밤을 책임지고 있는 한남자! [코스모폴리탄] 12월 화보로 #화보장인 다시한번 증명하며 #레전드 경신한 에챈드 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDNfMjQx/MDAxNjM4NDU5OTY0NzMz.0ezmK1jbCnqDX7FoshV9e-7eepyvzx9UlXCjOaRsNfgg.oNq_aaJ3VkoxvUTsHEOflT1xLjDcaibIXWvlMqhUgfgg.JPEG/IeaXr5sAxNvk1tvqEKiv7YLWrgEw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
