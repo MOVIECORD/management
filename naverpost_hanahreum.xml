@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 한아름컴퍼니 </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 08:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 09:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고등학생 용돈은 [이상민]에게 신청하세요]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33382110&amp;memberNo=34451204</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33382110&amp;memberNo=34451204</guid>
+            <pubDate>Wed, 02 Mar 2022 09:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 한아름지기입니다 오늘은 이상민 배우의 금융광고 촬영 현장 사진을 가져왔습니다~~~광고 촬영 현장에서 꽁냥꽁냥 대본 보고 있는 상민 혼자 대사 읊으면서 연습하기도 하고요 몰래몰래 포착하다가 이렇···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDJfMjIg/MDAxNjQ2MTk5MDUxODU1.8hxGSydXgobOF60aJXWmuCvg8HRW_j5XY5dega8W3pog.6rXt6mMfqCUvSQwsIAhtp24ZCPVUmktTVWiqMTZhiRsg.JPEG/IkosB84swzGq-lMc6eTShsYOfJGY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루디고에 재입학한 [이상민]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33254045&amp;memberNo=34451204</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 한아름지기입니다~~~ 오늘은 이정빈 배우의 소식을 들고 찾아왔는데요~~~ 이정빈 배우의 최근 프로필 촬영 현장을 공개합니다~~~정빈배우는 이날 여러벌의 의상을 착용했었는데요~~ 그중 이 의상은 화이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MjJfMTk3/MDAxNjI0MzQ3MzU1NTM4.3zVhdj_1DI8eH9z6xpTgD6t3GY_MLl1NyoCALdXdi8gg.I6ef3BNpIoJF0fPIsokrOMu3N17eVfzB4P6WCx-pOBQg.JPEG/IsYeWYGpUC6J9UylDbUCBww4OEm0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국 공주로 美 타임스퀘어 진출한 [송지우]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31753601&amp;memberNo=34451204</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31753601&amp;memberNo=34451204</guid>
-            <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 한아름지기 입니다~~ 오늘은 송지우 배우의 소식을 들고 찾아왔는데요!!! 송지우 배우는 문화재청 한국문화재재단이 주최하고 서경덕 교수가 함께한 '문화유산방문캠페인' 의 주인공으로 등장했는데요~~~···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MTVfMjU1/MDAxNjIzNzM0ODI4MzUy.LPYCgJS6LkSMdzIkACigIF91K2I5AgqRtMkHxAthABgg.zeMznmnlE8-wRj5nIIHGt88buSlt1CJcVBK5mvLQ3Hog.GIF/Ir1X2SJluD29_pDQYUoLTVHsxULM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
