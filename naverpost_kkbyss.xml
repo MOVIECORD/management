@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 10:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 11:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[채수빈] 너와 나의 강릉여행]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33382509&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33382509&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 02 Mar 2022 11:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요:) 이번 주도 어김없이배우 채수빈 씨가 '고은강' 역으로 출연하는디즈니+ 오리지널 시리즈&lt;너와 나의 경찰수업&gt;과 함께 돌아온킹콩지기입니다! 그동안 수업 듣느라 지구대에 실습 나가느라 바빴던 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDJfMTU0/MDAxNjQ2MjE0NDgwNjE5.jDJH552xiCtGheQvcNFRjbJspJiB4oc0mOjwCxNfTxwg._j5QW-CnHfgu1QLQ3igBWmUEwuRqJz5vOZr09yxIqrgg.JPEG/Ig-1xWeI_HDUVieCg7rCZ6ZQpRi0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[천영민] 경찰대 캠퍼스 투어할 사람~?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33371981&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 23 Jan 2022 06:25:52 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다! 오늘은 어젯밤 짜릿한 엔딩을 선사했던 tvN &lt;배드 앤 크레이지&gt; 배우 이동욱 씨의 포스트 입니다가스라이팅 범죄의 배후 X가 신주혁(정성일 분)이라는 사실을 알게 된 후 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjNfMTc5/MDAxNjQyOTA5OTQzMjU2.qN71LEgSZnUK0j997M-ZKwJXMzfVq6ql47nXZcEJvtAg.L1COka9OG_IMfBmknzn2Km6FfR_ZipXfDiiS__A7prkg.JPEG/IJm8tXBzJ3bejMZZA_NQ0lofRhyA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김범] 이 비주얼? 오케이 콜]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33168926&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33168926&amp;memberNo=35839671</guid>
-            <pubDate>Sat, 22 Jan 2022 03:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :)오늘은 tvN &lt;고스트 닥터&gt;의 매력 터지는 ‘고승탁’ 역으로 매회 어레스트 오게 하는 배우 김범 씨의 포스트로 찾아왔습니다 ♥ 그의 매력을 함께 파헤쳐 보아요 ^_&lt; [사진 제공···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjFfMjk5/MDAxNjQyNzM0Njc4NTE2.ycqtQsTsASdc1byMi4bMDkTaxB0-blSSW2nqYEGXoDcg.L7C_eE9fHPaVffDcHkCZn5S2u4EkxdNQITM3u7k8JAQg.JPEG/IDOQLLKU39cLmy0qiTMxOpZEbS1c.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
