@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 에이맨프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 01:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 02:44:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우린, 이걸 보고 
+'화보'라고 부르기로 했어요]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33371004&amp;memberNo=43803149</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33371004&amp;memberNo=43803149</guid>
+            <pubDate>Wed, 02 Mar 2022 02:44:32 GMT</pubDate>
+            <content:encoded><![CDATA[여러분은 '화보'의 뜻을 알고 계시나요?화보 : 여러 가지 일을 그림으로 그리거나 사진을 찍어 발행한 책자. 또는 그런 인쇄물. (X)화보 : 은수 배우가 사진을 찍었을 때 (0)#아무튼맞음 퍼스트룩 2월 호를 온통 서···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjhfMTc3/MDAxNjQ2MDE1OTc1MzY0.1o3r8w1O3EkXLxJD6fM8tVCOT3uDL9Xxz1bxIzUqhIYg.7RmCX01qve0bXtfi5e6BbL1A7M3uOCpFCG2_0AK9pN0g.JPEG/I2CgoQDf-DTwzEZPXtXYdzB_rmCI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아듀, <불가살> 
 [권나라]와 함께한 나날들.zip]]></title>
@@ -168,14 +177,6 @@
             <pubDate>Sun, 24 Oct 2021 13:52:13 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 에이맨지기입니다!여러분 제 마음 속에 비가 오고 있어요! 나라 배우가 연기하는 KBS 2TV 드라마 '암행어사' 홍다인이 내리는심장마비 말이에요 ♥그런데 말입니다... 이렇게 멋쁜우리 다인이를 볼 수 있···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMDdfMTcg/MDAxNjEyNjgyNDE5NzY4.LkGFr-Cymg3LOKv-lwsCQhr_FVlJkYZXU4cN570HrR8g.WuN4_mjMFgloxcBbkJyQupeQElyubnETBs3HAymLn-og.JPEG/ImRnu_t6SeEd31bcx4khqCCfTCNU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[권나라] 여기가 매력 맛집♥ 입'떡' 유발 홍다인 시리즈 등장!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30609965&amp;memberNo=43803149</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30609965&amp;memberNo=43803149</guid>
-            <pubDate>Sun, 24 Oct 2021 13:52:13 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 여러분! 에이맨지기입니다!소식 들으셨나요?나라 배우가 열연하고 있는 '암행어사'가 또 다시 자체 최고 시청률(닐슨 전국 가구 기준)12%를 달성했습니다!Yeah!~!!!!!! 우리 나라 배우 연기, 얼굴, 케미 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMzFfMjc0/MDAxNjEyMDYxNjQ0NzE3.Wc5G-85tCpvz5IaziEoSDSwgl7-UcbwWuF9nsWcsKd0g.d4-390R_oyCD3oG5ka6Li2x6CiESm2nwd7-u5-BaKaog.JPEG/IzQive3YzIgo4E7iajoNOG2x5haA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
