@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 11:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 12:38:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유난히 내성적이었던 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33390070&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33390070&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 03 Mar 2022 12:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[유난히 눈 맞추기를 어려워하고 부끄러움에 연신 웃기만 하지만분위기 있게 손으로 입을 가리고 각 잡은 옆 선 보여주면 A컷 완성소품을 받고도 어떻게 활용해야 할지 몰라 허둥지둥근데 눈빛으로 다 커버함.어떤 포···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDNfMTQ5/MDAxNjQ2Mjk5MTkwNjQ5.XoUMsc-g3O_APM2o3H6DWJW29czPdEl79LmLodALmMkg.9Qeg-df27z0aWBQikbi7Z3MevjXedBq-WYIldxpKtQIg.JPEG/IE0-3RBPpczPwAdGQn8_bNlZ81Kc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 사람의 반전 정체]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33383417&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Sat, 15 Jan 2022 15:23:28 GMT</pubDate>
             <content:encoded><![CDATA[남친짤 신흥 강자가 나타났다?프사, 배경화면 저장을 부르는 멍뭉미+잘생김 섞인 남친짤의 주인공!요즘 핫한 20대 신인 배우&lt;아직 낫서른&gt; 형준영 &lt;마녀식당으로 오세요&gt; 고현우 &lt;구경이&gt; 산타지···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTVfMjEz/MDAxNjQyMjM4NjY4OTk5.EvNFgO_drAFVA1An-RVxdbkpdHtXY8U65c59DnR3e1Qg.myLw9jVRoTXAxIY-2UWakm5DoL3qoVs7CPaDPVksJ1og.JPEG/IMBjZNyfKfF6ntiFzrPpt3EEcdTw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 아들 졸업 축하해❤️]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33124012&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33124012&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 14 Jan 2022 03:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 키동이에요. 아들램 졸업식 갔다왔어요~ 본격 내새끼 자랑 타임!!ㅋㅋㅋ아들 이름은 '김진곤'이고, 이번에 눌지과학기술고를 졸업했답니다 :) 기념사진도 찰칵! 기럭지로는 아주 전교 1등!!크으으~~뽀시···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTRfNjYg/MDAxNjQyMTIxMjM2NjQ2.IoDHyHxeYby9oC87pClwYQ0TBcDQTFKccuzTkMeURpgg.Hx7NmKWcUzOUZFcfHrS9wKKU5QVdrMJiadCV6q7WJV4g.JPEG/IMJByUvJzDW_cuzQ3A6Jti_yd754.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
