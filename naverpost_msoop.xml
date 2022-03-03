@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 09:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 10:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 분 너무 설정과다 아닌가요?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33388901&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33388901&amp;memberNo=22903361</guid>
+            <pubDate>Thu, 03 Mar 2022 10:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[여러분, 오래 기다리셨습니다.드 디 어그가 돌아왔습니다.이번 봄,달콤하게 또 살벌하게우리의 맘을 들었다 놨다 할그 이름도 설레는!!!!! 김.재.욱 !!!!! 재욱,,, 재욱,,, 하고 울던 날은 이제 끝!KBS2 월화 드라마···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDNfMTEx/MDAxNjQ2Mjk1MzU3NjEy.mAyH2e914gqvJme_TWhFH3E9SKTID0FHccAXgC4aaTsg.Yeou9uEwuUKYskdHqWR-Fjd2TGAW2pV7J0gp-Ryd3q4g.JPEG/IJlQ5MvGLoputAXG3YzVMv2LAhf0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘정유미’와 함께 봄이 오고 있나요?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33371421&amp;memberNo=22903361</link>
@@ -161,14 +169,6 @@
             <pubDate>Mon, 25 Oct 2021 02:34:50 GMT</pubDate>
             <content:encoded><![CDATA[말도 안 돼…어떻게 기다려온 5년인데.. 벌써 끝나다니요 ㅠ0ㅠ우린 아직 도연=부정을 보낼 준비가 되지 않았다구요… (이 와중에 예쁘게 웃어주기 있기 없기..ㅠ0ㅠ) 숲블리는 아직도 종영은 말이 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjBfMTYw/MDAxNjM0NzA4MjQzMDYz.Y0l9_J5bSE_bsD5LYyQV6fQeMJszFXUlpDXEtrDNXWQg.guxAt67--o1CSwMVIy5BmimYjJwR9-y9LdHkr6PTjjkg.JPEG/IQud3wZb_z6kQQPu_jPz98uETG0o.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['일주일=토일토일토일토' 여야만 하는 이유]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32569273&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32569273&amp;memberNo=22903361</guid>
-            <pubDate>Sun, 24 Oct 2021 12:46:24 GMT</pubDate>
-            <content:encoded><![CDATA[누가 일주일이 월화수목금토일 이래요..? 숲블리와 여러분의 일주일은 '토일토일토일토'인데요왜냐구요?토-일은 도연 배우를 만날 수 있는 날이니까..♡아니.. 이 미소 절대 못 잃어..그러니까 우리의 일주일은 계속···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTVfNTAg/MDAxNjM0Mjk3OTg5Njg5.LR8DvoTsGIXNJXuXPc7R5zkhNMgcUjtCIqk3Gw-mcD8g.qpi52T1LTitzcEaCqfwyJLoNpsPathHJ5OsWVQw1-g4g.JPEG/IoCqTSJIPGrHZQtiN0MBu1dmKHYY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
