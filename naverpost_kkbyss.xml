@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 07:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 08:28:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱] 봄을 입은 화보장인]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33394906&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33394906&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 04 Mar 2022 08:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-)오늘은,봄이 온다는 소식을 듣고킹콩지기가 보관하고 있던 봄을꺼내와봤어요 ꈍᴗꈍ* [사진제공: 아레나 옴므 플러스] [사진제공: 아레나 옴므 플러스] 바로, 배우 이동욱 씨의'아레나 옴···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDRfMTU4/MDAxNjQ2MzY0MDg5MjE2.XiUpjJDLtY3AnBdCMDDxHjvWxiInI_09_gRcb3sHdAkg.R3aLweFVvAYe1CkXTfCu8647zQMCm8rRmN1ZhIQWlmIg.JPEG/ILQfHLbrgxfIfipupR5mN9nmW23I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[채수빈] 너와 나의 강릉여행]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33382509&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 26 Jan 2022 07:21:23 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다엄니~~ 오늘 해적 개봉날이여어어~~오늘(26일, 수)은 기다리고 기다리던 &lt;해적:도깨비 깃발&gt;호 해적선 출항데이 ♥승선하실 분들 어여 어여 오세요 ₍₍ ◝(・ω···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjZfMTA2/MDAxNjQzMTY1MzA4MzE5.K8LcDsTV23XTOvnOENsqlM_NkbM5kRkwY05dp9lqF1cg.EZoaSvDEtGvuIW1QXInAQnsKAiBtBZ54y9uNo7lFhc0g.JPEG/IW0dS_KzqVaDjVrO34wm0B1PQ-O4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이동욱] 짜릿한 반전 엔딩의 주인공]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33172622&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33172622&amp;memberNo=35839671</guid>
-            <pubDate>Sun, 23 Jan 2022 06:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다! 오늘은 어젯밤 짜릿한 엔딩을 선사했던 tvN &lt;배드 앤 크레이지&gt; 배우 이동욱 씨의 포스트 입니다가스라이팅 범죄의 배후 X가 신주혁(정성일 분)이라는 사실을 알게 된 후 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjNfMTc5/MDAxNjQyOTA5OTQzMjU2.qN71LEgSZnUK0j997M-ZKwJXMzfVq6ql47nXZcEJvtAg.L1COka9OG_IMfBmknzn2Km6FfR_ZipXfDiiS__A7prkg.JPEG/IJm8tXBzJ3bejMZZA_NQ0lofRhyA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
