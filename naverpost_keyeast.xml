@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 21:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 22:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘도 인생사진 공개한 배우.jpg]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33397149&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33397149&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 04 Mar 2022 22:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[어느 날부터 한 배우의 SNS에는다양한 콘셉트의 사진이들이 업로드되기 시작합니다 우린 이런 걸인생 사진 이라고 불러요 하선 배우가 공개하면키동도 열일합니다 오늘도 공개하는 박하선 인생 사진.jpg 거주지가 신···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDRfMTM0/MDAxNjQ2MzY5OTQyMDkx.nGL8a6bme-lUYC419gMrCQJ3Jsy73MdYO6wHTCun3c4g.8w-ZFjsXD7ydbdvEX1NA_8-Sxb63NtNW9buq5FwP_Rkg.JPEG/ITYb8RCVkFAu8kODP3X1avXNHZC4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유난히 내성적이었던 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33390070&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Sat, 15 Jan 2022 22:21:48 GMT</pubDate>
             <content:encoded><![CDATA[여기서는 아무것도 안 하는 게 일이라고 신물 나서 이젠 도저히 못 해먹겠어서 24시간, 365일, 주머니 속에, 가방 속에매일매일 품고 다녔던 『사직서』 날리고 세상에 태어나서 제일로 쿨하게!! “앞으로 다시는 볼일 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTRfMjM2/MDAxNjQyMTQzNTY3Nzgw.aAYXFeYtlAjP7vuFDrwpet0J_wj7_c9QU5q0HTiPxCsg.qKpR25zcikXWG4gCZvqXawetoeoxKOljqp0uwoAdTBcg.JPEG/IW773Uq_u_YU4U-2sd30x2ufi7kU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떠오르는 남친짤 신흥 강자]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33131339&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33131339&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 15 Jan 2022 15:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[남친짤 신흥 강자가 나타났다?프사, 배경화면 저장을 부르는 멍뭉미+잘생김 섞인 남친짤의 주인공!요즘 핫한 20대 신인 배우&lt;아직 낫서른&gt; 형준영 &lt;마녀식당으로 오세요&gt; 고현우 &lt;구경이&gt; 산타지···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTVfMjEz/MDAxNjQyMjM4NjY4OTk5.EvNFgO_drAFVA1An-RVxdbkpdHtXY8U65c59DnR3e1Qg.myLw9jVRoTXAxIY-2UWakm5DoL3qoVs7CPaDPVksJ1og.JPEG/IMBjZNyfKfF6ntiFzrPpt3EEcdTw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
