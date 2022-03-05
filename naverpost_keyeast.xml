@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 21:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 22:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[느슨한 드라마판에 긴장감을 준 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33400388&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33400388&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 05 Mar 2022 22:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[3주 만에 다시 돌아온트레이서 시즌2  다들 트요일 잘 보내셨나요? 8회 마지막엔 모두가 한 마음 한 뜻으로이 말 하지 않으셨어요..? 이렇게 끝내면 저는 어떻게 더 3주를 기다리죠..? 그렇게 다리 덜덜 떨어가며.. ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDVfMjI2/MDAxNjQ2NDgzOTQ1MjEw.VvTJj-wu2q4gyXK4Qk-raDehcxuD1Uk70SB771ZGWKEg.L1MJzIeilRrDtw-qV9qu4hl3Rk6aDD_8NFurJ0xz8kQg.JPEG/INqvBOyn1J13FLJveeY-yEJS3F94.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘도 인생사진 공개한 배우.jpg]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33397149&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Sun, 16 Jan 2022 22:22:19 GMT</pubDate>
             <content:encoded><![CDATA[이곳은 눈 내린 포틀랜드 어느 마을 이 마을에 시간여행자가머무르고 있다는 제보를 받고키동이 찾아가 봤는데요 지금부터 이 문을 나서면여러분도 저와 함께 그 미지의 세계로빠져들게 됩니다 준비되셨어요? 엇! 열···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTNfMTAw/MDAxNjQyMDcyNjA5NTQ2.kjodFrSMs9iWXSkgZlWXooSYZbLIDlS7M6tlAFix7Ekg.JlMAREKXDKeWcsLyyoYRu8zKUWZfhQP3FijnxrmXzBkg.JPEG/Ispu0ACn3ZSBIEtFwVKsstHjCUMo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취업 사기당한 고아성]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33130180&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33130180&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 15 Jan 2022 22:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[여기서는 아무것도 안 하는 게 일이라고 신물 나서 이젠 도저히 못 해먹겠어서 24시간, 365일, 주머니 속에, 가방 속에매일매일 품고 다녔던 『사직서』 날리고 세상에 태어나서 제일로 쿨하게!! “앞으로 다시는 볼일 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTRfMjM2/MDAxNjQyMTQzNTY3Nzgw.aAYXFeYtlAjP7vuFDrwpet0J_wj7_c9QU5q0HTiPxCsg.qKpR25zcikXWG4gCZvqXawetoeoxKOljqp0uwoAdTBcg.JPEG/IW773Uq_u_YU4U-2sd30x2ufi7kU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
