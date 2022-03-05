@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ YNK엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 23:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 01:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신혜선] 내가 아는 인형 중 제일 사람 같아]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33397765&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33397765&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 05 Mar 2022 01:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[겨울이 가고 날이 풀릴 즈음 W와 함께 나타난 인형 아니 우리의 혜선 배우그리고...떡밥만 툭 던지고 간 엔캠이 덕분에 존버하느라 고생하셨습니다자, 그럼 &lt;W&gt; 화보 촬영 현장에 떡밥 회수하러 가볼까요?여기···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDRfMTAy/MDAxNjQ2Mzc4MjExMzYx.EeFOKFEUOQUGAv1yqXqk3Voh2WJg2pziYhv0UjYt55Mg._Bx_bRZLI08dE702SK0Yq1mw4DMKLlTi_OR4b4nYpUIg.JPEG/IOxrMfMiTmL6B8XEsZ3Gn4GcZ4UI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[문채원] 프로필 찍으랬더니 화보 찍어버리는 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33208976&amp;memberNo=33175148</link>
@@ -160,14 +168,6 @@
             <pubDate>Sun, 24 Oct 2021 12:48:30 GMT</pubDate>
             <content:encoded><![CDATA[- 오늘의 퀴즈 - 아래 두 사진에서 다른 부분을 찾으시오. (424점)아 이거 이거 너무 어려운데? 뭐가 다르지? 그저 두 사진 다 그저 꽃밭 사진 아닌가..?-라고 생각하셨다면 이해합니다! 와엔캠도 김현주라···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjVfOTAg/MDAxNjE5MzA5MDMwNDYx.HPo627Z3r1WbtGWOpy1R7I_wCZtd8lYh5iTKIrRFZ9Eg.H1bkYcbSLRt9bDttU4l1LVIkJbZcl9_BBlOM1U23Dbsg.JPEG/I4bQ_SRJZvg3zQDX-KM_zhdsidEA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신혜선] 얼굴이 장르, 분위기가 서사]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30948094&amp;memberNo=33175148</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30948094&amp;memberNo=33175148</guid>
-            <pubDate>Sun, 24 Oct 2021 12:48:30 GMT</pubDate>
-            <content:encoded><![CDATA[얼굴이 장르, 그리고 분위기가 서사 그 자체인…♡ 화보 촬영만으로도 스토리 하나 뚝딱 만들어버리는 배우가 있다?! 없다!?있.다.! (주어 신혜선)여러분의 취향을 저격할신혜선의 화보 비하인드가 지···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMTVfMjg0/MDAxNjE1NzY5MTUyNzg5.LBRlWOw9kRdGgh4hGJnCpu-VccFl1_Bv-nztzRuWqLgg.qCuDtUV5kuCXTQ86_Q6CE5Jhw2KqeD63ypoO08DcjJog.JPEG/Ikrq7hFOeb9UkP_3AI1p5fGjI0OU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
