@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 02:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 03:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[보나] 귀엽던가 예쁘던가 하나만 해주세요♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33396428&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33396428&amp;memberNo=35839671</guid>
+            <pubDate>Sun, 06 Mar 2022 03:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :) 포스트를 시작하기에 앞서 질문 하나 드려도 되겠습니까? Do you know고 유 림?   그는 tvN 토일드라마 &lt;스물다섯 스물하나&gt;에서 펜싱 국가대표이자 펜싱 천재를 담당하고 있으···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDRfMTA4/MDAxNjQ2Mzg0MzgxNjE1.uyT-MtuRPFjNbkIskLGPTTVP4caE44Xe2yRKGwyE9t8g.7qGsTEqRdX8KfXCH5Wgdghat4LxxMoVeXlVynaAkSHIg.JPEG/Ip22mirGyLohwCaMPXJr33iXG62I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱] 봄을 입은 화보장인]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33394906&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Jan 2022 09:22:40 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 &gt;_&lt; 여러분 킹콩지기는 오늘부로 성덕입니다. 왜냐고요? ‘엘르’ 2월 호와 함께한 배우 김범 씨의 A컷을 영접했으니까요 (사진 출처: 엘르 코리아) 안 보면 후회 각이라는 이 화보, ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjdfNTkg/MDAxNjQzMjQ1OTA1ODU1.rvbGq_5Eyb7h7q2oPPOLAiO1zRH68js7T6SMb_bq8JEg.VEAmlbs1w0VE45VdhqA4Ok9dBOj9DzTI_ziyFeY4yXAg.JPEG/IsmhrwwdbptonV16Tvdv0q0XsqeE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이광수, 채수빈]호 해적선이 출발합니다 뿌우~]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33192259&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33192259&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 26 Jan 2022 07:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다엄니~~ 오늘 해적 개봉날이여어어~~오늘(26일, 수)은 기다리고 기다리던 &lt;해적:도깨비 깃발&gt;호 해적선 출항데이 ♥승선하실 분들 어여 어여 오세요 ₍₍ ◝(・ω···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjZfMTA2/MDAxNjQzMTY1MzA4MzE5.K8LcDsTV23XTOvnOENsqlM_NkbM5kRkwY05dp9lqF1cg.EZoaSvDEtGvuIW1QXInAQnsKAiBtBZ54y9uNo7lFhc0g.JPEG/IW0dS_KzqVaDjVrO34wm0B1PQ-O4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
