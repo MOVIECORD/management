@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 03:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 04:31:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화보계 '무림고수']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33406599&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33406599&amp;memberNo=31542741</guid>
+            <pubDate>Mon, 07 Mar 2022 04:31:15 GMT</pubDate>
+            <content:encoded><![CDATA[화보계 '무림의 고수'가 있다면 그건 바로 김성오 배우프로포션 &amp; 비주얼 &amp; 포즈 &amp; 스타일 빠지는게 없다구요그래서 가져온 푸른빛 낭낭한 &lt;해적: 도깨비 깃발&gt; 식구들과 함께한 화보 현장 비하인···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDdfMzEg/MDAxNjQ2NjI1Nzc3MDkx.YxOzI1X80USiGjpXPZryaeJg12tJI0HXQAUiqvfRGFIg.mBk0AmNlw0SbxVuFwQ6dpOGfoNR94kx98RTdC-f2nDEg.JPEG/ICGvRJDnnr2WKBbvcUoh3_LYzQaw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지상계로 내려온 갓벽한 여신]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33400780&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 22 Jan 2022 15:24:08 GMT</pubDate>
             <content:encoded><![CDATA[여러분! 간질 간질한 '설렘 주의보'가 발령됐다는 소식 들으셨어요?!바로 추운 겨울을 잊게 한 웹드라마 &lt;소녀의 세계2&gt; '훈훈 남사친' 권승하로 찾아왔던 이원정 배우의 소식승하를 보내기 아쉬운 마음에 준···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjJfMTg3/MDAxNjQyODYyNTYzMDk3.v-8wL9MwoBLwiPWD7-rUOrBVaEOj9OTiqfSh9tma1lwg.-AVAto8RVyx4BhauGKu1RaZ6hfnltDmmAA88s1ZPn3Eg.JPEG/I0bAr3iv8VAqtibC6qcxnqVlVktU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수애 스타일링 모아보기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33162254&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33162254&amp;memberNo=31542741</guid>
-            <pubDate>Fri, 21 Jan 2022 01:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[스타일링 스펙트럼이 무한대인 배우가 있다?네, 여기 수애 배우요♥JTBC &lt;공작도시&gt; 속 윤재희로 독보적인 스타일 소화력을 뽐내는 中좋은건 크게보고 자세히 봐야겠죠? 윤재희=수애 배우 스타일링 모아···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjFfMTA0/MDAxNjQyNzIyMzU2MTM1.SJGRPi_yaFdswymv9ilfh0BTV2WxpSB62Wp2grQf9d4g.MCJuNfBO46BBuOhjL04ruVqAPkz_yfdOavLu_TYQPgYg.JPEG/IQC8V82DDhkCxFQEVFPlOO-cBwEI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
