@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 09:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 10:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Q. 봐도 봐도 보고 싶은 것은?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33416825&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33416825&amp;memberNo=22903361</guid>
+            <pubDate>Tue, 08 Mar 2022 10:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[이 문제의 답은 무엇일까요? . . . 정답은 바로,,,! ★☆ 김.재.욱.미.모 ☆★모두 KBS 2TV 월화 드라마 &lt;크레이지 러브&gt; 본방 사수는 하셨겠죠? 봐도 봐도 보고 싶은 재욱 배우 미모 때문에 재욱 앓이, 아니, 고···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDhfMTYw/MDAxNjQ2NzE0ODI0MDM1.LOYnsJC_PtyxUN7Xe0No0exZcfG18UqyQCsSYhuvBXMg.32Isrz0txTdQGLqUtP1ZRHZLNbBnIIocKGbs-KfnWD8g.JPEG/IN87_u-J9vDNdCjZ3UwyKmWcXQC0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 분 너무 설정과다 아닌가요?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33388901&amp;memberNo=22903361</link>
@@ -161,14 +169,6 @@
             <pubDate>Fri, 29 Oct 2021 05:19:59 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 여러분! 오랜만에 효진 배우 소식을 들고 왔습니닷놀라지 마세요. 오늘은 무려 3인의 포토그래퍼와 3가지 컨셉으로 표지를 장식했던공블리? 아니죠. 공리스마(공효진+카리스마) 넘치는 화보 현장···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjlfMjg0/MDAxNjM1NDcyOTA1MzQ5.8VAKC2p2fOcyoqR1nNZU85QaIpP2Cnsp7_o4rsWCQIwg.IMAITrGoXAiDWVQZnyh90yqdI7vTFxV4GgVJ_XkdF_Qg.JPEG/IPzykHwpTjZAwKIrjhxhOZPjxg6Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도연.. 우릴 두고 가지 말아요…ㅠㅠ☆]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32617316&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32617316&amp;memberNo=22903361</guid>
-            <pubDate>Mon, 25 Oct 2021 02:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[말도 안 돼…어떻게 기다려온 5년인데.. 벌써 끝나다니요 ㅠ0ㅠ우린 아직 도연=부정을 보낼 준비가 되지 않았다구요… (이 와중에 예쁘게 웃어주기 있기 없기..ㅠ0ㅠ) 숲블리는 아직도 종영은 말이 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjBfMTYw/MDAxNjM0NzA4MjQzMDYz.Y0l9_J5bSE_bsD5LYyQV6fQeMJszFXUlpDXEtrDNXWQg.guxAt67--o1CSwMVIy5BmimYjJwR9-y9LdHkr6PTjjkg.JPEG/IQud3wZb_z6kQQPu_jPz98uETG0o.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
