@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 06:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 07:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트] 3월의 BH온에어]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33415422&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33415422&amp;memberNo=21724264</guid>
+            <pubDate>Tue, 08 Mar 2022 07:21:24 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDhfMjEw/MDAxNjQ2NzIyMTcyMjIz.8BoUA1w--9lQQGcjdNm8XtNofXNWTvH2k2by6SMmiKgg.T6S43ad1dTx0ehlhEG6iu2RkfsZUBg_K5NEV0jDPbxQg.JPEG/I8K3RuRKL3V8K2ZtvEp0yN7dPPeQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미모 명불허전의 [고수]]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33309495&amp;memberNo=21724264</link>
@@ -157,15 +164,6 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32516300&amp;memberNo=21724264</guid>
             <pubDate>Thu, 02 Dec 2021 16:34:57 GMT</pubDate>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDhfMTcy/MDAxNjMzNjcxNzU4MTE4.Ix1NDM_pXsxJvAfDHD6w32HvbmG32lzDMvkfj1JHtNEg.gU6Hb6j8i98jXw8TOYquLCkQr7q8wE9zaULuo280zkUg.JPEG/IC8TH_8GWwkeRqLTzcmNwBk6dSwk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김고은] 
-유미의 세포들이 대화를 시작했대]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32374564&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32374564&amp;memberNo=21724264</guid>
-            <pubDate>Thu, 02 Dec 2021 16:34:57 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요해피비입니다:) 오늘은 만화를 찢고 나온만찢녀가 있다고 해서찾아가 보았는데요! 사랑이 사람이 된다면 이 모습일 거야 TVING과 tvN으로 공개된'유미의 세포들'의 주인공 울 곤♥만나고 왔는데요! 대한국···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTVfMjc0/MDAxNjMxNjczOTQxOTI4.KDctarKdPmFC6oqVwoJBpEkLbuLRYeMiIHySJCrtqPsg.6FnkXDl84es_HeyJvoF1u-A5ua8UNVjV4t4yCIXRGP4g.JPEG/IAwLhPf9rT7riu0f3Qor0PDL8JcI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
