@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 21:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 22:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문가영 x OOOO]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33428169&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33428169&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 10 Mar 2022 22:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[출처: Photo by 고원태 트렌치 코트를 보면자동으로 떠오르는 셀럽들이 있잖아요 예를 들면,문가영 서정적이면서도 클래식한 우아함의 대명사 예를 들면,문가영 패션계에서 문가영=OOO자동 인식 기능 생성됐다는소식···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTBfMTY5/MDAxNjQ2OTA1OTkwOTA4.YVSuhAU8MlDJw--9dpXR8hg2NFInSxuBAPPbPNNAFDQg.T8XixhaxhCQ9QJcKPQrnEjUDPGoaPR9Rc2ZQX4yQf5sg.JPEG/IC7S3VrSHRZdw0dAWYVd_jBdlAK8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍보팀 근무 방해하는 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33396133&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Wed, 19 Jan 2022 15:21:59 GMT</pubDate>
             <content:encoded><![CDATA[여러분들에게 고백합니다..매주 월요일, 화요일마다 JTBC 드라마 '한 사람만'에 흠뻑 과몰입해 사는 키동은베로니카 수녀님으로 완벽 빙의한 보라 배우의 모습에 본캐를 잠시 잊었다는 점을요...움직이는 표정, 손짓···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTlfMTI5/MDAxNjQyNTc1Njc2NzA2.pnV7zf5Ciu67QKqo9VJFfpnDmwpv6WRot3M_M0efMGQg.bsnkUouaIYIu4HxTvTzYNnrqXTc_0DYvhj-BoT27u5og.JPEG/I0zCZA2a4vxjrn40S0dJ_vBtERac.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[확신의 태초 여신상]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33147713&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33147713&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 18 Jan 2022 15:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[빚은 듯 완벽한, 숨 막히는 옆태아무래도 자아가 있을 것 같은 섬섬옥수 손끝으로 만든 나비태초의 여신이 그대로 재탄생한보는 순간 그대로 마음이 끌려버리고광채보다 반짝반짝 은채 나는정은채 배우를 키동이 만···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMThfMTU4/MDAxNjQyNDk1NTAwNjA1.DwZ_qbkXwtr6Hn9G1lu9N2lhX_pFlycKqAyGabh7p7Mg.7KjXTRNNg5aixT4stZ90cPckBbOOKu3EN8TvnwqQ3Fcg.JPEG/Iregf-E_6V1B9WxoPdlOq0WjPVG8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
