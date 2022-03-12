@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 13:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 14:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 가장 최선을 다하는 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33438397&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33438397&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 12 Mar 2022 14:19:51 GMT</pubDate>
+            <content:encoded><![CDATA["오늘 저녁엔 삼겹살이나 구워 먹자~~"요즘 가장 최선을 다하고 싶은 가족의 식사에 키동이 초대되어 다녀왔습니다어서와요~ ^.^ 정연 배우와 함께 하는 삼겹살 파티는 처음이죠?단란한 가족사진이 시선을···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTFfMjg3/MDAxNjQ2OTk4NjU5MzE1.n5eJO9meaL8gs4eF-zNIQTTPXNWPrrOuCYu0wjuGMQUg.qdtTAfkV-T0XMat43ZBD0-qyAeya6lNPphIlKEJUufAg.JPEG/Im1nepyxjRT1Vyi5FsesgXZZWreg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문가영 x OOOO]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33428169&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Thu, 20 Jan 2022 14:19:06 GMT</pubDate>
             <content:encoded><![CDATA[미친 중독성과 박자 쪼개기로 조회수 24만 회를 달성한 음원(?)한선화 리믹스 (Alcohol Remix) #술도녀 화제의 영상에 이어 마치 국힙 원탑일 것 같은 비주얼을 뽐냈다고 해서 찾아가 봤습니다-최근···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTlfMjIy/MDAxNjQyNTc5NDM0NTQ4.-zNK2TEyOjEjyd4tl6TWKtY-CEhuTOISdBFg4H02y7og.szxIRU3LbMREmH9Lh6CRkOXFtRoykRqMVQ43LhFuuMUg.JPEG/IWDF7_wFegT6gUABdN80UiR3xXpE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베로니카의 이중생활]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33154658&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33154658&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 19 Jan 2022 15:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[여러분들에게 고백합니다..매주 월요일, 화요일마다 JTBC 드라마 '한 사람만'에 흠뻑 과몰입해 사는 키동은베로니카 수녀님으로 완벽 빙의한 보라 배우의 모습에 본캐를 잠시 잊었다는 점을요...움직이는 표정, 손짓···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTlfMTI5/MDAxNjQyNTc1Njc2NzA2.pnV7zf5Ciu67QKqo9VJFfpnDmwpv6WRot3M_M0efMGQg.bsnkUouaIYIu4HxTvTzYNnrqXTc_0DYvhj-BoT27u5og.JPEG/I0zCZA2a4vxjrn40S0dJ_vBtERac.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
