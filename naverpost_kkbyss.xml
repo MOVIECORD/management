@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 07:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 08:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[보나] 오늘 2521 보기 전 해야 할 일]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33434158&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33434158&amp;memberNo=35839671</guid>
+            <pubDate>Sat, 12 Mar 2022 08:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :D오늘(12일, 토)tvN 토일드라마 &lt;스물다섯 스물하나&gt;본방사수하기 전,꼭 해야 할 일이 있어 찾아왔습니다 *** 오늘 할 일 목록 ***□ 보나 생각하기□ 보나 응원하기□ 보나 사랑하기···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTFfNjEg/MDAxNjQ2OTg3ODgwNDMx.srZ8FWF-8XFgnlR0DwsxUkzkUMDFYe9-o-UJ5nuicB4g.XAnSCnjH0N-6tCc4fILcF6Oas52SMdF37Dw2WZQAJzMg.JPEG/I_Zc3EnRKdZhTyDtKBcBdcQ_o5Uo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이다연] 유난히 내성적이었던 고딩]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33431792&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 09 Feb 2022 03:22:28 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 단독 입수한 제보와 함께 돌아온 킹콩지기입니다! [오늘의 제보]우리 승탁이가 달라졌어요  [사진 제공: tvN '고스트 닥터'] 그 주인공은 은상대병원의 천방지축 레지던트를 담당(?) 하고 있는고···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDhfMTI5/MDAxNjQ0MzIxODMwNjc4.a3Q-Maek5eFgML5DglfNX-9m_oHgd0a2s2DKQT4lLsUg.JaRrL2IGwe2N4_3oeDplznOjr0WVP7SvitseSuwiNp0g.JPEG/IC3G-2c5KS78APfiDlfPtJIa4W90.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[채수빈] 은강이의 우당탕탕 경찰대 성장기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33256704&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33256704&amp;memberNo=35839671</guid>
-            <pubDate>Tue, 08 Feb 2022 12:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요:) 킹콩지기입니다! 요즘 매주 수요일이 기다려지는 이유♡바로 배우 채수빈 씨가 '고은강' 역으로 출연하는 디즈니+의 오리지널 시리즈 &lt;너와 나의 경찰수업&gt; 때문이죠! 경찰대학 입학 후 짧은 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDhfMjg0/MDAxNjQ0MzE0MzM0MzE4.d9TKh5RVGD0vdz9nVDcvvykz3XF-fsmfX3Z3uMfclv8g.wd91JdCTFW7d0fnyK_t3zOTzQkm6WA359uffJZSUapAg.JPEG/IGqe-aphOjpCZ1952p6Y3dkydW68.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
