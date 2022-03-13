@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 13:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 14:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백이진 기자의 출근룩 모음.zip]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33440089&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33440089&amp;memberNo=22903361</guid>
+            <pubDate>Sun, 13 Mar 2022 14:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 여러분! 숲블리입니다. tvN 토일 드라마 &lt;스물다섯 스물하나&gt; 본방사수 하셨나요?! 기자로 멋지게 변신해 돌아온 주혁 배우( ღ'ᴗ'ღ ) ★ 백이진 기자 ★가 매우 좋은 기념 포스트를 준비했습니다! ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTNfMjAg/MDAxNjQ3MTQwNjU3MjA4.QWQHgzHc_9NQFZz6s27WPdWdoF9GaZMX8iHQRlmomGMg.UgRwLyl60wtsXlht9PS9foQzI-0-lj8kuXr_I2oL0cwg.JPEG/IwOcePtY7NVEuDuYhvEhU678l2FQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Q. 봐도 봐도 보고 싶은 것은?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33416825&amp;memberNo=22903361</link>
@@ -160,15 +168,6 @@
             <pubDate>Fri, 05 Nov 2021 06:26:49 GMT</pubDate>
             <content:encoded><![CDATA[여러분 가을 기다리셨죠? 쌀쌀했던 날씨가 한층 포근 해진 요즘~ 숲블리도 이분 때문에 더욱 기다려온 가을. 오늘의 주인공 유미 배우! 가을 아침 햇살 같은 ＇윰블리＇의 우아한 변신~ 함께 만끽하러 가보실까요~ 화···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDVfMjkw/MDAxNjM2MDg2OTYxOTM5.EItwIT0347nwLoND7Lafw3-N4fp5RuGUXYIh0s82A4Qg.3VgctB_jYDd_rTO3N-qMXsKPh8Co_ff0-ArTU-TLxdcg.JPEG/IbkJvvGmy5yCw5mJepO1GniOwuhU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공효진 컨셉 소화력 
-어떡할 거야 정말♡]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32649520&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32649520&amp;memberNo=22903361</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 여러분! 오랜만에 효진 배우 소식을 들고 왔습니닷놀라지 마세요. 오늘은 무려 3인의 포토그래퍼와 3가지 컨셉으로 표지를 장식했던공블리? 아니죠. 공리스마(공효진+카리스마) 넘치는 화보 현장···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjlfMjg0/MDAxNjM1NDcyOTA1MzQ5.8VAKC2p2fOcyoqR1nNZU85QaIpP2Cnsp7_o4rsWCQIwg.IMAITrGoXAiDWVQZnyh90yqdI7vTFxV4GgVJ_XkdF_Qg.JPEG/IPzykHwpTjZAwKIrjhxhOZPjxg6Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
