@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 08:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 09:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘김재욱’이라 쓰고 섹시라 읽는다.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33447403&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33447403&amp;memberNo=22903361</guid>
+            <pubDate>Mon, 14 Mar 2022 09:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[여러분, 안녕하세요~ 오늘도 힘차게 숲블리 등장! ( •̀ω •́)✧ 🖤 긴 말없이 오늘 포스트의 주인공 소개 올리겠습니다.오늘의 주인공은 바로 ❗ 섹시의 인간화(?) 재욱 배우❗재욱 배···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTRfMTE1/MDAxNjQ3MjM0Mzk2NzEw.I91W58hxcTEaHGbw8XGQy3dyJELORgcob07Eg2s4qGsg.JnrsS7I7lzL1n98dO19Hi_Pi9KOhlMjW7Vp778iGAeEg.JPEG/Ie4vkQWL_770pHaEPYTVFagD4d4c.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백이진 기자의 출근룩 모음.zip]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33440089&amp;memberNo=22903361</link>
@@ -160,14 +168,6 @@
             <pubDate>Fri, 26 Nov 2021 10:25:09 GMT</pubDate>
             <content:encoded><![CDATA[이번 포스트를 클릭하신 여러분은 모두 럭키 피플입니다  바로 효진 배우가 오랜만에 숲 포스트를 찾아왔기 때문이죠 ♬ 공블리의 낮 그리고, 밤 효진 배우의 총천연색 매력이 빛났던 현장의 낮과 밤, 모두 보여드릴···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfMjg1/MDAxNjM3NjQ5NzQyMzY2._chPyhI3DMTVflAixRfJAQW5inVzBL-UiGQyLC479Sog.eqIuvwQ26Zs8OiM2giWoZ-XxE1JS9K86QKqTwsf3YDIg.JPEG/I4DTivmUfgekVMUMLz2iBXFFen0Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정유미] 가을아 '윰블리' 보러 돌아온 한 거야?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32694098&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32694098&amp;memberNo=22903361</guid>
-            <pubDate>Fri, 05 Nov 2021 06:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 가을 기다리셨죠? 쌀쌀했던 날씨가 한층 포근 해진 요즘~ 숲블리도 이분 때문에 더욱 기다려온 가을. 오늘의 주인공 유미 배우! 가을 아침 햇살 같은 ＇윰블리＇의 우아한 변신~ 함께 만끽하러 가보실까요~ 화···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDVfMjkw/MDAxNjM2MDg2OTYxOTM5.EItwIT0347nwLoND7Lafw3-N4fp5RuGUXYIh0s82A4Qg.3VgctB_jYDd_rTO3N-qMXsKPh8Co_ff0-ArTU-TLxdcg.JPEG/IbkJvvGmy5yCw5mJepO1GniOwuhU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
