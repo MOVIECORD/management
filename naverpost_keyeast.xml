@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 14:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 15:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다들 그날 기억나?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33476558&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33476558&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 18 Mar 2022 15:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[지금부터가 우리가 보여주고 싶은 비하인드다등장인물: 김동욱, 채정안나란히 서 있는 모습만 봐도, 이름 석 자만으로도심장 쿵쾅 ★ 짜릿하게 만드는 조합이렇게나 귀한 투샷 득템할 수 있었던 오늘의 키동 비하인드···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTdfMjMg/MDAxNjQ3NTE1MDQxNzA1.P5EFW4CeRh7Yxrvif0R6LWe1sL9ocZQo02Bu-W9mz08g.M7rVv82W5wlWl2zVe0wvX9Ueg7jwVUc8MziZkFScPRsg.JPEG/ID-Rhk363kKtG0DeD_kaAoyTfZbw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[군대가 체질인 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33462911&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Mon, 31 Jan 2022 22:19:57 GMT</pubDate>
             <content:encoded><![CDATA[언제, 어디에서나 키이스트 배우들과키동이를 사랑해 주시는 동서남북에 계실팬 여러분들 안녕하세요! 평화로운 덕후 멘탈을 와장창 깨뜨린 이벤트!여러분들을 미.치.게 만든! 키이스트배 호랑이 그림 그리기 대회!···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjhfMjc4/MDAxNjQzMzU0MjA1ODMy.yLPw9M4NhFf7Kow4typ2ZY8u9t3Rh8BOJnJZq9w7ulUg.nES5iAPtFvreYMnicvcd83pRVoXgClM3e1qEX5K9K_Yg.JPEG/IUAIIkeAGf4cMEPiXhuwTRH_OjTg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국 3대 참지마요]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33209775&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33209775&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 29 Jan 2022 22:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[언니 화내지마요 언니 울지마요 트레이서 끝나지 마요 ( ˃̣̣̥᷄⌓˂̣̣̥᷅ ) 역대급 통쾌함과 국세청이라는 신선한 소재로 장르물 덕후들 심장 뛰게 만든 '트레이서' 특히 시청자들을 웃고, 울리는 고아성 배우의 연기로···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjlfMjU2/MDAxNjQzNDI0MTkzNTU2.VjFFtAPrUMIDV1kOfQGtARlCeYzYoCOAibJiOdPyVQ4g.ex1TOjDWlryaMs0vm1TrypVnNvwzTB091SDbp3klJs0g.JPEG/IjO6DfcAbQgElIw7Gu8AudjabpKg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
