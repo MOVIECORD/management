@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 08:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 09:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달콩 우리 헤어지지 말자]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33495341&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33495341&amp;memberNo=31542741</guid>
+            <pubDate>Tue, 22 Mar 2022 09:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[달콩이 소개 올립니다 (_ _) tvN &lt;스물다섯 스물하나&gt;로 서프라이즈 등장해 시청자들의 마음을 들었다 놨다한 최태준 배우 오늘 포스트의 주인공입니다알콩이 희도(김태리 분)와의 풋풋함으로···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjJfNzMg/MDAxNjQ3OTI3NTM1MjU5.Mjuvx7MyH_O_6TmQ7BxTA1fJWAODY7HVs2SczDBGA0cg.awiHyfGvJ41xOmGUV8Pa6a8d3bFuuRNTSmsuJ77ykZwg.JPEG/I3MqEsLZLAWH2pVZektaGnQrcAy8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스텝 바이 스텝♪ 중인 유망주]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33464948&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Feb 2022 02:36:23 GMT</pubDate>
             <content:encoded><![CDATA[&lt;해적: 도깨비 깃발&gt;이 2022년 설과 함께 찾아왔습니다 그리고 무치(강하늘 분)의 오른팔 강섭으로 우직하고 믿음직한 매력 뿜뿜하는 김성오 배우&lt;해적: 도깨비 깃발&gt;의 출항을 알리는 홍보 현···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDJfMjEw/MDAxNjQzNzY3MDg0OTA3.i71X8JHtxWgtwJT9Fet1ylBrl1dRseY6XmNQlp_08XMg.MWE4gVUJfRMuLocpoLbenkKhVkzToUsEWIJG8B7Ax-Mg.JPEG/IjtM42maRT4m8nvKH6g1I7XdVtM4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설에도 핫한 소식]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33217705&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33217705&amp;memberNo=31542741</guid>
-            <pubDate>Mon, 31 Jan 2022 15:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[드라마부터 영화 라디오, 화보들까지 산타 아티스트 덕분에 눈 깜짝할 사이 지나갔던 1월바빴던 1월을 총정리 해줄! 쨘 ! 1月의 ★'화뉴스'브리핑★ 산타캠과 함께 1월 총정리하러 GO! GO! GO!Broadcast연쇄살인사건과 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMzFfMjQz/MDAxNjQzNjQwMzQ1Nzcx.f3BchO1fCrnSKMO-L4u_6jsn1BRLE8SNsFn7ribakmQg.0uE6ejN5Z5_3-Ps4XRT9189Z1Qiph7-C_8tVss2ohuog.JPEG/IodLx3fnJ4szblrszuynIviDALqE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
