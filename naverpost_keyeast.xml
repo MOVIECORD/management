@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 13:31:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 14:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호랑이 그림 그린 배우의 최후]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33503574&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33503574&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 23 Mar 2022 14:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 ㄱ... 기억나시나요..? 2022년 새해를 뜨겁게 달궜던 키이스트배 '호랑이 그림 그리기 대회'여러분의 투표를 통해 윤종훈 배우의 그림이 1등 호랑이로 선발됐는데요!종훈 배우가 그림 그리던 날의 비하인드부···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjNfMjc3/MDAxNjQ4MDE0MzI0NjYw.eXCgqPF_kWA5zk9aAZ1o9AlGYL3EmuCN3CIvu6fIqaUg.UXYJr8eA73Z5DqfoRUPbYUIksV59nzNeTQ5M59Vhk1og.JPEG/IokA7bWoG9lOEsYPXYNHeMZZ1_PE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다들 그날 기억나?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33476558&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Fri, 04 Feb 2022 15:18:21 GMT</pubDate>
             <content:encoded><![CDATA['미모 정점''신비로운 분위기''비현실적 매력의 빛나는 자태'여기 바로 가장 뜨거운 반응을 일으킨 화보의 주인공이 있습니다문 . 가 . 영범접할 수 없는 카리스마대담하면서도 신비로운 분위기비하인드마저 A컷이 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfMjY3/MDAxNjQzOTcxNzQ2OTMy.5OPAgkf2Zx-vR7b4oasNckfG5JxaI4AMEL3BPFoddEEg.owiNVNZH96EYqlzbABl53QNHs0v1LPkkwI3LL5r6rsUg.JPEG/IKI3FUt0IOy3G14UJuxiUxzSxxM0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우들에게 호랑이 그림을 그려달라고 했더니]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33216830&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33216830&amp;memberNo=29770009</guid>
-            <pubDate>Mon, 31 Jan 2022 22:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[언제, 어디에서나 키이스트 배우들과키동이를 사랑해 주시는 동서남북에 계실팬 여러분들 안녕하세요! 평화로운 덕후 멘탈을 와장창 깨뜨린 이벤트!여러분들을 미.치.게 만든! 키이스트배 호랑이 그림 그리기 대회!···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjhfMjc4/MDAxNjQzMzU0MjA1ODMy.yLPw9M4NhFf7Kow4typ2ZY8u9t3Rh8BOJnJZq9w7ulUg.nES5iAPtFvreYMnicvcd83pRVoXgClM3e1qEX5K9K_Yg.JPEG/IUAIIkeAGf4cMEPiXhuwTRH_OjTg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
