@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 07:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 08:28:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광대에서 등산하는 사람이 있다?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33508545&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33508545&amp;memberNo=22903361</guid>
+            <pubDate>Thu, 24 Mar 2022 08:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[날도 좋고바람막이 입고 있는 공블리 보니갑자기 등산이 하고 싶어지는 이 마음..때마침공블리 아리따운 미모 때문인지한껏 올라가 있던저의 광대……이 정도면등산도 가능할 것 같네요(ㅋㅋㅋ)제 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMThfMjkx/MDAxNjQ3NTgzOTY5MTgw.Xam0L6YcqTyLluy8LeyTbEv2uUSE7sveN14Qih-Bly4g.XVvIekZYwhcF0z8kbBY19vN6VIHuJE_CA6zAcDupjacg.JPEG/IhnYTbfA6Uv_sIwYVDwwkvyl3XEE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김재욱 대표님의 이중생활]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33495761&amp;memberNo=22903361</link>
@@ -160,14 +168,6 @@
             <pubDate>Mon, 06 Dec 2021 08:27:39 GMT</pubDate>
             <content:encoded><![CDATA[모두들 추운 겨울이라는데, 저의 마음속 피어나고 있는 이 설레는 꽃들은 뭘까요 그것은 바로 오늘 밤! 10시에 첫 방송하는 SBS 새 월화드라마 &lt;그 해 우리는&gt; 최웅에게 빠져드는 신호랄까남친짤 장인이라 불···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfNTAg/MDAxNjM4NzU5MTkwNDEx.AGuIiewIWY5ASo9JXInD4kM4vbWwunucqrGxVxP1nVgg.hbRG_txEVJVWtnQ3oDpuSgKKqXZ-qAb75cfmWlx4GZUg.JPEG/I8gOtuubf9zmJj0DTUzc0ZHLrizU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올겨울에도 ‘최우식’은 얼죽아!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32848006&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32848006&amp;memberNo=22903361</guid>
-            <pubDate>Mon, 29 Nov 2021 10:25:08 GMT</pubDate>
-            <content:encoded><![CDATA[최우식은 얼죽아?! 얼굴. 완전 죽인다. 아이가.ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ 올겨울에도 얼죽아인 우식 배우의 화보 비하인드 현장으로 함께 가시죠! 오늘도 분위기 만렙 우식 배우! 캠코더 하나 들었을 뿐인데아련함 한 스푼 .. ♡···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfMjg4/MDAxNjM4MTc2NTQ4OTQ2.f6pBXkuPF7Cjlh0P1yOjqXWwSsr5oIgu2giB0cZidtUg.AOVrPU3kIBN13StazzvsGg60H3eEHGHm5q_gyZRTg3Mg.JPEG/IuPtvs-De7za73FrqpvjY4fhhvvU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
