@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 07:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 08:31:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[조윤희] 봄의 나라에 강림한 퀸윤희]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33526259&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33526259&amp;memberNo=35839671</guid>
+            <pubDate>Mon, 28 Mar 2022 08:31:18 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 오늘은 햇살처럼 화사한 비주얼에  사뿐 사뿐한 발걸음으로 마치 봄의 나라에 강림한 듯한 봄의 여왕 배우 조윤희 씨의 포스트로 찾아왔습니다 세상에 존재하는 모든 컬러를 그대로 흡···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjhfMTgz/MDAxNjQ4NDMxOTYzMzEz.8NFpxmX5TtzchJ9lFLEgttgff9CK6NsJWXwvU4Yhcwog.3s3YA8poYgPHGE7Dpu3e77-0WHKVqkVxeLaJaijfnhMg.JPEG/IzKK3KXpMyXJwJJFy5ROdAvor39I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[보나] 소문난 태양고 펜싱부 선배]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33515292&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Feb 2022 09:22:20 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다:)오늘은디즈니+의 오리지널 시리즈&lt;너와 나의 경찰수업&gt;에서상큼 오렌지 Girl♥을 맡고 있는 은강이! 배우 채수빈 씨와비타민 충전 시간을 가져보도록 할게요★ 오렌지 컬러의 니트를···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjFfOTQg/MDAxNjQ1NDQxNzcwNzYy.hkiHaaNIYN0_qDWq1mbV0uZT8EnVumt97ZJGtxUmDYIg.fQTF3xH8QdvZfS1WPRgm5S1ARE6Ckq5U9FdAQSp6fh8g.JPEG/IPbiKTofxPNHtO7gz92XPfznbmg0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보나] 고유림 같이 덕질하실 분]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33323166&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33323166&amp;memberNo=35839671</guid>
-            <pubDate>Mon, 21 Feb 2022 07:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기 입니다 &gt;_&lt;오늘은킹콩지기가 요즘 덕질하고 있는 분을소개하고자 합니다그 정체는 바로 tvN &lt;스물다섯 스물하나&gt;의펜싱 금메달리스트 고유림으로 청순+큐트+러블리모두 보여주고 있···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMThfMTc5/MDAxNjQ1MTgzNjQ4MzAz.Rs-psa9I8kbOE59SSw9mlt3OK_p_skcut1OduIheWesg.hUBq7Kc5KfQFLyGImf09Pt24WdlmpJLbF5TcPeyglbEg.JPEG/Ibyqisn1PtpBDOV3BpIhUbFTy8M4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
