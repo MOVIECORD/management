@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 13:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 14:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이대로 못 보내는 인생캐]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33529786&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33529786&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 28 Mar 2022 14:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[바로, 여기탈(脫) 며느라기를 꿈꾸며 마냥 행복했던 시절부터여러 감정을 겪고 진짜 엄마가 되던 과정까지시청자분들과 함께 성장한 인생캐가 있습니다민4린 = 박하선 대체불가 캐릭터 소화력을 보여준박하선···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjVfODUg/MDAxNjQ4MjExNjE1MDQx.kyddIIWQUt7a1dBMXdmvxUQdtC73lhaqHacXQK32HXwg.qVHYv3bpTRAHhMgfYBisEhXLXkdZIDHH4xpRv81wubUg.JPEG/IZ6wMelYbmGBUiQsTOOQ6uRneNiI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[★경 본업 복귀 축★]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33519584&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Sat, 19 Feb 2022 12:32:48 GMT</pubDate>
             <content:encoded><![CDATA[보기만 해도 저절로 입꼬리 올라가는싱그러움 가득 고등학생으로 시간 역주행한슈퍼 루키 정연 배우가 차기작으로 돌아왔습니다!오늘은 대충! 내일부턴 '갓생' 산다! 왠지 키동의 마음속을 들여다보고 있는 듯한 카···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMThfMjc3/MDAxNjQ1MTg2MzA4MzY5.mwRCQgB5sd86DcbyKUXMVq7IzMv5s76q2iF-RoSAs8Ag.tCtnYg7zcNKPAhC17R15nHgHiCalincJXVE4bfvfzGsg.JPEG/I3Sp4ae_O3Nina4MqNLtD_L-ESu0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필승 조합으로 화보 찍은 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33319059&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33319059&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 18 Feb 2022 15:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[카우보이 모자클래식한 안경화려한 웨스턴룩이 모든 것을 빼놓고는 이 사람을 논할 수 없다이 사람은 배우인가 패셔니스타인가이 사람을 액셔니스타로 부르자..!눈이 가득 쌓인 어느 날이건 된다..! 이건 돼!!이 모···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMThfMjg5/MDAxNjQ1MTYwMzkxODU2.CnEgRKhK4uK4eQ9hvefuWcl8iLvbVyNjGARMM3MQFKwg.54Or0gGn2Ta7zYFD73cqEZ8_FfRgWlnraTeBtad5AXUg.JPEG/IZu7drCZvZvJeOlDT_3Lxj7Yas8M.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

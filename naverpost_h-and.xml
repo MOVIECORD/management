@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 13:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 14:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[N잡러로 변신한 [안창환]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33529782&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33529782&amp;memberNo=51396641</guid>
+            <pubDate>Mon, 28 Mar 2022 14:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[tvN '루카: 더 비기닝'에선 목숨을 걸고 친구를 지킨 원이SBS '열혈사제'에선 무에타이에 능한 히든카드 쏭삭tvN '빈센조'에선 금괴의 소문을 알린 노숙자 길버트JTBC '월간 집'에선 오직 직진만 존재하는 인간 불도···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjhfNzcg/MDAxNjQ4NDQ4NzQ3Njcx.NXm_KlVTj-4p5PYL3-uzqNN6VEGXwPJ6Pk9DoUg8RMEg.lnVPpOuBlkNEL8C3rktkefTLG6BjiWW6b6vfKPdBtL8g.JPEG/IV3v73UWXN1l6-MHPTiTiJpiuRWw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오빠, 쓰리피스 슈트 입지 마요]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33475630&amp;memberNo=51396641</link>
@@ -167,14 +175,6 @@
             <pubDate>Fri, 17 Dec 2021 15:24:42 GMT</pubDate>
             <content:encoded><![CDATA["진짜 진짜 대박대박"을 0.001초 만에 외치게 만든 프로필 사진이 있다?!상상 속에서만 존재할 것 같지만.. 믿기 힘들게도 진짜 있습니다!바로 윤박 배우의 NEW 프로필 사진인데요!윤박 배우 자체가 대박···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTVfMTY2/MDAxNjM5NTU4NzkzMzU5.z6EKZ4qARnVhYBzzaO0Vts7GxqbIt7lWoRIaSYfOgBEg.BilRmKGbYlWEXSbv3f2UAGWnLJwvzgPOOLGi-wpHYL8g.JPEG/I2MCn8vTJqj2nEmsugeYg9jGPGII.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 게 유죄인 '천우희']]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32954956&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32954956&amp;memberNo=51396641</guid>
-            <pubDate>Thu, 16 Dec 2021 03:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[최근 모든 게 유죄로 판명 난 배우핸디터의 자랑 우리들의 사랑 바로 천우희 배우입니다!'천의 얼굴'이라는 수식어를 가진 만큼, 매번 새로운 얼굴을 선보이는 우희 배우특히 프로필 촬영 현장에서 우희 배우의 유죄···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTVfNjUg/MDAxNjM5NTM2NDYyMjk1.DV7UEwndVpWDxWJUEm2ra5aIpCBXjVD4QY9efdq2v3sg.11D7y_lcc3DEwWfjABJDZ3CQmKGYkUxhPqgUW2oiooIg.JPEG/ISgJX_CK6Mop4qct3cQVTS2VM7VA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
