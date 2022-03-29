@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 12:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 13:33:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채정안 어쩔티비?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33536409&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33536409&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 29 Mar 2022 13:32:09 GMT</pubDate>
+            <content:encoded><![CDATA[어쩔.. 뭐라고요?같은 OTT 속 극과 극 작품에 출연해 OTT의 큰언니로 자리매김한 배우가 있다?!TVING '나는 아직 최선을 다하지 않았을 뿐' / TVING '돼지의 왕'채정안 근황은 여기에 다 있다! 눈빛부터 다른 정안 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjlfMjgg/MDAxNjQ4NTQ1NTQ2MDUz.-aBuT2O-ND4y34jxDsX_W7gNa8PR756_AZuLV5Limvkg.a4QLpMAakmYMwCXAH51UzcuSG8sQRDh_lktbdNn2rFcg.JPEG/ITgMo4lBVuhqT0Se8Am9rJCQotds.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이대로 못 보내는 인생캐]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33529786&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Tue, 22 Feb 2022 12:36:21 GMT</pubDate>
             <content:encoded><![CDATA[항간에 이런 소문 들은 적 있으신가요?[단독] 문가영, 화보 촬영 불참이런 비주얼과 이런 피지컬을 놔두고 불참이라구요...?[속보] 아프로디테, 대신 화보 촬영아니 이게 말이 돼요..? 아프로디테가 와서 화보 촬영···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjJfMjQ1/MDAxNjQ1NTIyODk1MzYx.kOI-ulYOZ0favy92uectwk77ax5VQWndYJpMAcVo1Lkg.yS6aqSWvEhbfzllkGCZyqoFvLqrq315DxW2Pcdb_fPsg.JPEG/IY6Lv7QDeYDQXYws1pUr4HCGyRJw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요정 의혹 생긴 K-고등학생]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33321581&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33321581&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 19 Feb 2022 12:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[보기만 해도 저절로 입꼬리 올라가는싱그러움 가득 고등학생으로 시간 역주행한슈퍼 루키 정연 배우가 차기작으로 돌아왔습니다!오늘은 대충! 내일부턴 '갓생' 산다! 왠지 키동의 마음속을 들여다보고 있는 듯한 카···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMThfMjc3/MDAxNjQ1MTg2MzA4MzY5.mwRCQgB5sd86DcbyKUXMVq7IzMv5s76q2iF-RoSAs8Ag.tCtnYg7zcNKPAhC17R15nHgHiCalincJXVE4bfvfzGsg.JPEG/I3Sp4ae_O3Nina4MqNLtD_L-ESu0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
