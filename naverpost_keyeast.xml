@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 12:46:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 13:39:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너무 잘해서 킹받는 KING]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33557020&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33557020&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 01 Apr 2022 13:37:39 GMT</pubDate>
+            <content:encoded><![CDATA[★★★★★믿고 보는 김동욱 배우 장난 없네요★★★★★로맨스물도 잘하지만 스릴러 눈빛 연기 멋집니다★★★★★범인을 아는 스릴러가 이렇게 재밌을 줄이야★★★★★연기 쩐다, 몰입도 최고연기를 너무 잘해서 킹받는다는 연기의 KI···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDFfMjIg/MDAxNjQ4Nzc2MDM0NjU4.Jti-QAlYK9rFAnKEc3_RrQpR4nVzrnOfRyAj_QJX5pgg.oGXo0-6AQDV5LVS0UnUZQcjUsQIGCmsUgke2UQOMHA4g.JPEG/I1JgSmnWjSCJ1gfJqdY2ccP0wJmw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채정안 어쩔티비?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33536409&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 25 Feb 2022 12:34:44 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요~ 저는 결혼 2년 차 민사린이라고 합니다요즘 아주 다이내믹한 일상을 보내고 있어서 처음으로 제 근황을 전해보려고 해요 ㅎㅎ결혼 한 달 차 며느라기 시절은 적응이 잘 안돼서 서툴고 힘들었지만이제는 어···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjRfMTcz/MDAxNjQ1NzA3NTQ4NDg0.diK8B6n_Z73HWumqwzOJZqR5_yPI6DZKeK0962QfPnMg.HHpDzJdZwUttbYtvs8BM832dIR9qqlPqKtiLbC3txM8g.JPEG/Iz2j_7sokTK5SNIEegnSWPrVrDr0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화보 촬영 불참한 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33338498&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33338498&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 22 Feb 2022 12:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[항간에 이런 소문 들은 적 있으신가요?[단독] 문가영, 화보 촬영 불참이런 비주얼과 이런 피지컬을 놔두고 불참이라구요...?[속보] 아프로디테, 대신 화보 촬영아니 이게 말이 돼요..? 아프로디테가 와서 화보 촬영···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjJfMjQ1/MDAxNjQ1NTIyODk1MzYx.kOI-ulYOZ0favy92uectwk77ax5VQWndYJpMAcVo1Lkg.yS6aqSWvEhbfzllkGCZyqoFvLqrq315DxW2Pcdb_fPsg.JPEG/IY6Lv7QDeYDQXYws1pUr4HCGyRJw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
