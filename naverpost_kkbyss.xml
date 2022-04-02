@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 07:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 08:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[보나]와 펜싱의 공통점]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33559582&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33559582&amp;memberNo=35839671</guid>
+            <pubDate>Sat, 02 Apr 2022 08:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :D tvN &lt;스물다섯 스물하나&gt;와 고유림을 일주일 동안 기다려 주신 여러분들을 위해 준비한 선물! [사진제공= 엘르 코리아] 보나X'엘르' 4월 호 촬영 현장을 담은 비하인드 포스···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMzFfMTc4/MDAxNjQ4NzI4MjUyNzg0.-jPQ51CQp5-aGZeBT1OShwTmqZoEeWUJV-w9n063Z6gg.51jIEpUavPG557SuWfwPeHeHd8H-jE8jKfNGUcCS9fkg.JPEG/I462GgUNx-J7zmGOJVDLW2dP0lJE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유연석] <배니싱: 미제사건> 수사 일지]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33542381&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 28 Feb 2022 11:20:04 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 오늘은 디즈니+의 오리지널 시리즈 &lt;너와 나의 경찰수업&gt;에서경찰대 홍보단 소속 '신아리' 역을 맡고 있는 배우 천영민 씨와 함께 경찰대 캠퍼스 투어하는 날~!학교 이곳저···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjhfMTcx/MDAxNjQ2MDE2Mjk0MzIx.KLfBtoE-hjbT_Fy-1e7IYzP5I7l-eB7uBkqY9dfvCWgg.qfhMIg8bLDJBQZcFSKjpNOJk-kLxEKkhd9wQsAmHOJEg.JPEG/IAyC0av6meC2nxKDowwFgDLf3Uko.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[조윤희] 오늘도 내일도 늘~ 짜릿한 미모 ♥]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33355585&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33355585&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 25 Feb 2022 03:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 오늘도 내일도 늘~ 짜릿한 미모를 자랑하는 배우 조윤희 씨의 포스트와 함께 찾아온 킹콩지기 입니다 :)오랜만에 만나본 우리 유니님은요..!s 천사 2 비주얼은 이제 두말하면 입 아프고시력 +100000 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjNfMTMy/MDAxNjQ1NTk1NjAxNTc1._IGQ1JVYJWytuecowU79J0rD0atDYTIeyHi5E3pVjvsg.Lx3_W7sl2eBaERKu9GKVBLv9hOaU6CgITOKYcV4yuaMg.JPEG/IVoeVIObaDRzfhxdeu3PJZHnyQ7g.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
