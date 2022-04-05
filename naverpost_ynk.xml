@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ YNK엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 01:45:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 03:00:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신혜선] 혜선이 혜선했던 혜선한 하루]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33571214&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33571214&amp;memberNo=33175148</guid>
+            <pubDate>Tue, 05 Apr 2022 02:58:23 GMT</pubDate>
+            <content:encoded><![CDATA[오점이 없는(95점) 완벽한 인터뷰와 함께 이번에도 어김없이 완벽한 화보를 선사한 혜선 배우그 비하인드 현장에 와엔캠이 빠질 수 없죠!혜선 미모에 정신없이 셔터를 눌러댄 결과 역대급 비하인드 대방출 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDFfMjQx/MDAxNjQ4NzgxNjM4NjU0.3mFnRBJWv3a4KkOo4Gb8dYyMf1vezLXTUOoNFTcf-80g.A-n3l6-sPhaoFxuIxCqAaPEAzpx82xz5UEcsCb9afeQg.JPEG/IgYlLB6H8e3fg-MQlfp_Fetk5AUY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신혜선] 내가 아는 인형 중 제일 사람 같아]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33397765&amp;memberNo=33175148</link>
@@ -160,14 +168,6 @@
             <pubDate>Sun, 24 Oct 2021 12:48:30 GMT</pubDate>
             <content:encoded><![CDATA[매주 금/토요일 밤 11시 JTBC &lt;언더커버&gt;를 통해 만인의 심장을 쫄깃&amp;콩닥하게 만들어주는 연수♡정현 부부 (이 부부는 어쩜 애칭도 연정이야..ꈍㅅꈍ)지난 주 첫 방송에 이어 어젯밤 3화까지 이 부부···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MDFfMTky/MDAxNjE5Nzk3NjExMDU5.eVn_UIp08g-VRyhppg6V8dQKf-2lGItHWgzaj6CCVNkg.uyJ_Eigbt136c1FFzKjnpn7LGfcRt-_Ux1KFeqD2HFMg.JPEG/Iq8p0K_CeEiiCKswHaw6KbDuMXco.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김현주] 여기 김현주가 어딨나요? 온 천지가 꽃밭인데]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31343367&amp;memberNo=33175148</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31343367&amp;memberNo=33175148</guid>
-            <pubDate>Sun, 24 Oct 2021 12:48:30 GMT</pubDate>
-            <content:encoded><![CDATA[- 오늘의 퀴즈 - 아래 두 사진에서 다른 부분을 찾으시오. (424점)아 이거 이거 너무 어려운데? 뭐가 다르지? 그저 두 사진 다 그저 꽃밭 사진 아닌가..?-라고 생각하셨다면 이해합니다! 와엔캠도 김현주라···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjVfOTAg/MDAxNjE5MzA5MDMwNDYx.HPo627Z3r1WbtGWOpy1R7I_wCZtd8lYh5iTKIrRFZ9Eg.H1bkYcbSLRt9bDttU4l1LVIkJbZcl9_BBlOM1U23Dbsg.JPEG/I4bQ_SRJZvg3zQDX-KM_zhdsidEA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
