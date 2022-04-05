@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 09:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 10:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이연희'라 쓰고 '봄'이라 읽는다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33467513&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33467513&amp;memberNo=32146648</guid>
+            <pubDate>Tue, 05 Apr 2022 10:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST]LEE YEON HEE♥안녕하세요 베스트리 입니다✿ ̣。긴말하지 않고 바로 밝혀보는 오늘의 주인공은 바로 봄의 의인화연희배우 입니다 :-) 촬영장을 봄 그 자체로 물들였던 그날의 현장, 함께해보시죠! 화사함 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTdfMjMg/MDAxNjQ3NTAxNDk4NTQ3.3302I9qrEU6mq7ps0S93o55N36j28i31L0ySX5MHjj4g.RIoRfhP0HrKrYH7fshsIVM_ZaXEDKzauhGqxrhgXcTcg.JPEG/IoQNK_glyiHXTX6w2CHFUclFu9XA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현빈 화보 현장 공유의 건.]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33500534&amp;memberNo=32146648</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST]SHIN DO HYUN♥안녕하세요! 베스트리 입니다.요즘 고소하고 싶은 사람이 생겨서이렇게 글을 남기는데요...월, 화 밤 9시마다 모두의 마음을 훔치고 있는 사람이 있다니까요 글쎄? 그 주인공은 바로 ©tvN ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjVfNSAg/MDAxNjIxOTM1NTcwMTUz.wSbokZpF3g9sRJ0IhxsJDExl6R3Qt1goj4pXiiROiw4g.RYgNDD0gDHf_GzQgEj0j0Nz6qQ9Qe9cVqniLX725tQwg.JPEG/IUtpP0k_g5rB32THKv1dQKzl-v8o.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취향 저격 그녀 '스테파니 리']]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31497850&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31497850&amp;memberNo=32146648</guid>
-            <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST]STEPHANIE LEE★안녕하세요 베스트리입니다오늘은 베스트리의 취향에 딱 떨어지는 그녀[스테파니 리] 의 화보 현장으로 가보겠숴요...! 완벽한 풀 샷 펄풱한 바스트 샷 현장을 순식간에 VIP 파티 분위기로···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MTNfMTAy/MDAxNjIwODk5NTgxMDY2.u5n4tXGYTgEJkSb5xLOjBXxCcOtXwNcaETTXM2DtekAg.y5aWOaKiodME5b6pvdSMe978gmvtP1qKuG2dFkeC8Bcg.JPEG/I2-WXw0_zWflvD9b9OY3Pz-G0MG4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
