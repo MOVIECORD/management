@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 01:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 02:59:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김혜윤이 곧 장르다.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33586996&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33586996&amp;memberNo=28456565</guid>
+            <pubDate>Thu, 07 Apr 2022 02:58:26 GMT</pubDate>
+            <content:encoded><![CDATA[여러분! 오늘이 무슨 날인지 알고 계시나요?바로 지난해 제26회 부산국제영화제를 뜨겁게 달군 작품이자 김혜윤 배우의 첫 주연 영화 '불도저에 탄 소녀'가 개봉한 날입니다 ٩(の̀ᴗの́)و영화 '불도저에 탄 소···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDVfMjcx/MDAxNjQ5MTQyNTgwMTk2.fOJ6e2XiL9JP5qTW4hbF6-WHDT6AVynOuS8dsfVsBTcg.tEI-r0_yy42cI8T6jYbNDVtxDTxMLolFuaTYNOnorF8g.JPEG/I-jGJsktiBN6Ez4E0cBownqpx_hk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리에게 당신은 선물이'세영']]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33451916&amp;memberNo=28456565</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 02 Dec 2021 16:35:25 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 포슷지기입니다 :- ) 극 중 심대식 역으로 이중 스파이의 멋진 모습을 보여준 배우 백성현 님이 출연했던 &lt;보이스 4&gt;가 지난 달 31일 토요일을 끝으로 막을 내렸습니다 T^T숨을 쉴 수 없을 정···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDJfMzEg/MDAxNjI3ODk1NDg1MDM2.gOyTflR6dJgMC72G_xm7Kx7Kb4XvNAjNxcgj4tJ8vxMg.9Y0zWXPWzYdTZsgJ02qPwI3aCyCpy1cMEUO9pf3DYCwg.JPEG/IsboWpbUjzWtfLH361f6vD1_ZI_Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나를 조종하는 당신 '동현']]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32048400&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32048400&amp;memberNo=28456565</guid>
-            <pubDate>Thu, 02 Dec 2021 16:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 안녕하세요^^ 포슽지기가 돌아왔습니다오늘은 무더위에 지친 여러분을 위해 포슽지기가 특별한 분과 찾아왔습니다그 주인공은 ! ! 보이프렌드 동현입니다 ♥ 꼼꼼하게 무언가를 체크하고 있는 동현 뭘 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjdfNSAg/MDAxNjI3MzM2MDczODE2.S5LuJ9TqR2UFCmcB6Qcmxx9eO0AE1Eyqt0MMLWPYz_Ig.X7YQMSDCo9QMQ6cjVpckto_Kg_zU4L3m0I2H7918yf8g.JPEG/IQG7bH8yMTR3PRzVmG4xldY7D-X4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
