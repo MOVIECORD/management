@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 12:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 13:35:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1,149일 기다린 오늘]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33591362&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33591362&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 07 Apr 2022 13:33:19 GMT</pubDate>
+            <content:encoded><![CDATA[저 키동,, 오늘이 오기만을 1,149일 동안 기다렸습니다,,무엇을요??★경 김동욱 화보 축★!!내배우 화보 찍는 날!!목 빠지게 기다리던 바로 그날이 왔습니다돼지의 왕 세 배우와 함께 한 엘르 화보 촬영 현장!지금 바···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDdfMTM5/MDAxNjQ5MzExODY5NjMw.53cmyk4tpfV7xk2d_OLvvEbyRGibCDzYqj2jRn17yTgg.cFw1QqskFsAdpXtkSBXydurMRMR_s52LI49XQOBNA4Mg.JPEG/IPsgD3IDl-w1p_VilUJh-X559oyA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채정안 얼굴 근황]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33584605&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 03 Mar 2022 12:36:17 GMT</pubDate>
             <content:encoded><![CDATA[유난히 눈 맞추기를 어려워하고 부끄러움에 연신 웃기만 하지만분위기 있게 손으로 입을 가리고 각 잡은 옆 선 보여주면 A컷 완성소품을 받고도 어떻게 활용해야 할지 몰라 허둥지둥근데 눈빛으로 다 커버함.어떤 포···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDNfMTQ5/MDAxNjQ2Mjk5MTkwNjQ5.XoUMsc-g3O_APM2o3H6DWJW29czPdEl79LmLodALmMkg.9Qeg-df27z0aWBQikbi7Z3MevjXedBq-WYIldxpKtQIg.JPEG/IE0-3RBPpczPwAdGQn8_bNlZ81Kc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 사람의 반전 정체]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33383417&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33383417&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 02 Mar 2022 14:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[단단한 눈빛 +칼각으로 거수경례를 하는 이 사람과차가운 시선 +와인빛 가발과 풀 메이크업을 장착한 이 사람이 동일 인물이라면...?그런데 진짜 본캐는이렇게 수수하고 러블리한 매력의 소유자라면?!짧은 머리와 함···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjhfMzEg/MDAxNjQ2MDIzODQ4MzM5.dudIA9fpLKiQEin_pRXyigPmTRPk7sMm4qIiN796Tsog._PkUG4pIIqpb2qzgtXX3ILIE2hWXUSS2fhJZh3ZNQNcg.JPEG/ImI2ncAwzF0EhBZzwKvcHLvVXb88.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
