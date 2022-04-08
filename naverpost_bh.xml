@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 07:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 08:28:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트] 4월의 BH ON AIR]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33596260&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33596260&amp;memberNo=21724264</guid>
+            <pubDate>Fri, 08 Apr 2022 08:27:32 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDhfMjU3/MDAxNjQ5NDAzMTIzNjQx.W5BOnJ-LHNFsDzQ2gf6pjg0U69MgsYNV_Qau30eb1NYg.rQISLHcB0feSWhCoDdOoj-j4zkSZeNqYxI5NEDA1Fksg.JPEG/I2CLFkM_Kfg6gkNLZJb1Oq0T2_CM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BH엔터테인먼트] 3월의 BH온에어]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33415422&amp;memberNo=21724264</link>
@@ -156,14 +163,6 @@
             <pubDate>Thu, 02 Dec 2021 16:34:57 GMT</pubDate>
             <content:encoded><![CDATA[지난 여름, 패딩과 함께 나타난패셔니스타이진욱이진욱은 꽤 잘생겨 보이는데이진욱은 원래 잘생겼기 때문입니다.모자, 헤어, 수염으로 가려도 뚫고 나오는 미남력에해피비 혈중미남농도 Max ■■■■■□99%덕분에 오늘도···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDZfMTY4/MDAxNjMzNTA2MzI2MTA4.TF0Af9dCSBGqGsdS5BL6Y4t52sn6YLhDNE8Ffql-Hm8g.RxxXLx6tIyk93Oq7nB_JVnE_gdoss6EWJEligF5WvQEg.JPEG/IiJaJ32nl2yEa9EpEsV8L7WoEqRg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BH엔터테인먼트]
-10월의 BH ON AIR]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32516300&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32516300&amp;memberNo=21724264</guid>
-            <pubDate>Thu, 02 Dec 2021 16:34:57 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDhfMTcy/MDAxNjMzNjcxNzU4MTE4.Ix1NDM_pXsxJvAfDHD6w32HvbmG32lzDMvkfj1JHtNEg.gU6Hb6j8i98jXw8TOYquLCkQr7q8wE9zaULuo280zkUg.JPEG/IC8TH_8GWwkeRqLTzcmNwBk6dSwk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
