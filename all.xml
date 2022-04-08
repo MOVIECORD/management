@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 12:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 13:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,6 +170,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MDFfMTky/MDAxNjE5Nzk3NjExMDU5.eVn_UIp08g-VRyhppg6V8dQKf-2lGItHWgzaj6CCVNkg.uyJ_Eigbt136c1FFzKjnpn7LGfcRt-_Ux1KFeqD2HFMg.JPEG/Iq8p0K_CeEiiCKswHaw6KbDuMXco.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[포브스 선정 가장 우아한 배우 (네이버 포스트 ─ 키이스트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33597825&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33597825&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 08 Apr 2022 13:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[포브스 선정 가장 우아하고가장 매력적인 옆선을 지닌 배우옆 선만 아름답냐고요?앞모습까지 완벽.. 아니 그저 갓벽!어둠 속에서도 빛나는 은채 배우의 우아한 카리스마최근 브랜드 화보 촬영을 진행하며 '은채로운'···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDhfMTI1/MDAxNjQ5NDAzOTAzNzcz.tZovlYraClhwSt8RL0lCTdJ0iX7V37-F18KHyE6Ciugg.yghx5NeEGzYNwtUnJZhknA9AOoZx40AK71-gr_GYs_sg.JPEG/IUrcYpLsILF6xJXuzrmYCNFA0OIU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1,149일 기다린 오늘 (네이버 포스트 ─ 키이스트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33591362&amp;memberNo=29770009</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33591362&amp;memberNo=29770009</guid>
@@ -320,14 +328,6 @@
             <pubDate>Fri, 04 Mar 2022 22:17:48 GMT</pubDate>
             <content:encoded><![CDATA[어느 날부터 한 배우의 SNS에는다양한 콘셉트의 사진이들이 업로드되기 시작합니다 우린 이런 걸인생 사진 이라고 불러요 하선 배우가 공개하면키동도 열일합니다 오늘도 공개하는 박하선 인생 사진.jpg 거주지가 신···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDRfMTM0/MDAxNjQ2MzY5OTQyMDkx.nGL8a6bme-lUYC419gMrCQJ3Jsy73MdYO6wHTCun3c4g.8w-ZFjsXD7ydbdvEX1NA_8-Sxb63NtNW9buq5FwP_Rkg.JPEG/ITYb8RCVkFAu8kODP3X1avXNHZC4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유난히 내성적이었던 배우 (네이버 포스트 ─ 키이스트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33390070&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33390070&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 03 Mar 2022 12:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[유난히 눈 맞추기를 어려워하고 부끄러움에 연신 웃기만 하지만분위기 있게 손으로 입을 가리고 각 잡은 옆 선 보여주면 A컷 완성소품을 받고도 어떻게 활용해야 할지 몰라 허둥지둥근데 눈빛으로 다 커버함.어떤 포···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDNfMTQ5/MDAxNjQ2Mjk5MTkwNjQ5.XoUMsc-g3O_APM2o3H6DWJW29czPdEl79LmLodALmMkg.9Qeg-df27z0aWBQikbi7Z3MevjXedBq-WYIldxpKtQIg.JPEG/IE0-3RBPpczPwAdGQn8_bNlZ81Kc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[하도권] 킬러 배태진의 홈 스윗 홈 ♡ (네이버 포스트 ─ 935엔터테인먼트)]]></title>
@@ -2313,6 +2313,14 @@ VS
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMDdfMTcg/MDAxNjEyNjgyNDE5NzY4.LkGFr-Cymg3LOKv-lwsCQhr_FVlJkYZXU4cN570HrR8g.WuN4_mjMFgloxcBbkJyQupeQElyubnETBs3HAymLn-og.JPEG/ImRnu_t6SeEd31bcx4khqCCfTCNU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비주얼 센스 타고난 분 (네이버 포스트 ─ 스튜디오산타클로스)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33597829&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33597829&amp;memberNo=31542741</guid>
+            <pubDate>Fri, 08 Apr 2022 13:36:57 GMT</pubDate>
+            <content:encoded><![CDATA[식스센스를 넘어 비주얼 센스를 아주 타고나신 분이 있어 이렇게 찾아왔습니다바로 최태준 배우 (꺄아아아아아아아) 사실 tvN &lt;식스센스3&gt;의 게스트로 깜짝 예능나들이등장부터 반가움+축하 세례 국민···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDhfMTk1/MDAxNjQ5Mzk2MjM3MDA1.8W1hzKEHukZ16nOdqcelvcy70L-zzOW50O6opaJb3MUg._WjiRns0JK-EWvXGZiHfi_vMLKkf0Uuv-CghKcCv-SIg.JPEG/IDT0T0LXs2lNfZXZAplfpgNV7Gkw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[웨딩드레스 입은 대표님 (네이버 포스트 ─ 스튜디오산타클로스)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33586901&amp;memberNo=31542741</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33586901&amp;memberNo=31542741</guid>
@@ -2463,14 +2471,6 @@ VS
             <pubDate>Sat, 26 Feb 2022 14:21:55 GMT</pubDate>
             <content:encoded><![CDATA[광폭의 즉흥곡이 시작된다.기다리고 고대하던 결혼작사 이혼작곡 시즌 3우리의 '사피영'이 돌아왔습니다 (소리 질러~!!!!) 산타만 애타게 기다린 거 아니죠?포스터 만으로도 선덕선덕 하게 만든 &lt;결혼작···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjZfNDkg/MDAxNjQ1ODgyNTcyMzk3.60vy6i_433T6h0Qi6yXjKb6b1k1QBhcgwGr6dVwRTf0g.REY7CIc-lptd0tkfVbgbsTOAo8bNQJXRQCbzGTtmNdsg.JPEG/INtLO2G8ALjt9x8YJ_MdGtpinmYE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['매혹의 늪'에 빠뜨릴 장본인 (네이버 포스트 ─ 스튜디오산타클로스)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33347557&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33347557&amp;memberNo=31542741</guid>
-            <pubDate>Thu, 24 Feb 2022 01:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[호기심을 자극하는 매혹적인 드라마의 등장원하는 것을 얻기 위해 수단과 방법을 가리지 않고, 자신의 욕망을 채워 줄 스폰서를 직접 찾아 나서는 네 남녀의 치정 로맨스IHQ drama 채널과 MBN에서 방송되는 &lt;스폰···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjRfMTky/MDAxNjQ1NjYwMTY0MTcx.q-c9Uxke8WdyYXKxzF3xrw6N7neOL_zfZaOSngPtkwsg.c9dfpRUH07lL47j8-buTtTzhkeauiNmQ21tE4MpiE2wg.JPEG/I-Zf0VJgWS7jonUDv4fYWlkXMnzg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타쿠야] 이 사람 착한 줄 알았는데, 안 착하네... (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>

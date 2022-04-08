@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 12:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 13:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포브스 선정 가장 우아한 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33597825&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33597825&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 08 Apr 2022 13:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[포브스 선정 가장 우아하고가장 매력적인 옆선을 지닌 배우옆 선만 아름답냐고요?앞모습까지 완벽.. 아니 그저 갓벽!어둠 속에서도 빛나는 은채 배우의 우아한 카리스마최근 브랜드 화보 촬영을 진행하며 '은채로운'···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDhfMTI1/MDAxNjQ5NDAzOTAzNzcz.tZovlYraClhwSt8RL0lCTdJ0iX7V37-F18KHyE6Ciugg.yghx5NeEGzYNwtUnJZhknA9AOoZx40AK71-gr_GYs_sg.JPEG/IUrcYpLsILF6xJXuzrmYCNFA0OIU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1,149일 기다린 오늘]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33591362&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 04 Mar 2022 22:17:48 GMT</pubDate>
             <content:encoded><![CDATA[어느 날부터 한 배우의 SNS에는다양한 콘셉트의 사진이들이 업로드되기 시작합니다 우린 이런 걸인생 사진 이라고 불러요 하선 배우가 공개하면키동도 열일합니다 오늘도 공개하는 박하선 인생 사진.jpg 거주지가 신···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDRfMTM0/MDAxNjQ2MzY5OTQyMDkx.nGL8a6bme-lUYC419gMrCQJ3Jsy73MdYO6wHTCun3c4g.8w-ZFjsXD7ydbdvEX1NA_8-Sxb63NtNW9buq5FwP_Rkg.JPEG/ITYb8RCVkFAu8kODP3X1avXNHZC4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유난히 내성적이었던 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33390070&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33390070&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 03 Mar 2022 12:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[유난히 눈 맞추기를 어려워하고 부끄러움에 연신 웃기만 하지만분위기 있게 손으로 입을 가리고 각 잡은 옆 선 보여주면 A컷 완성소품을 받고도 어떻게 활용해야 할지 몰라 허둥지둥근데 눈빛으로 다 커버함.어떤 포···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDNfMTQ5/MDAxNjQ2Mjk5MTkwNjQ5.XoUMsc-g3O_APM2o3H6DWJW29czPdEl79LmLodALmMkg.9Qeg-df27z0aWBQikbi7Z3MevjXedBq-WYIldxpKtQIg.JPEG/IE0-3RBPpczPwAdGQn8_bNlZ81Kc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
