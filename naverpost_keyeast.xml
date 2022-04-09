@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 12:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 13:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알고보니 나랑 영혼의 쌍둥이였던 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33600856&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33600856&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 09 Apr 2022 13:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[잠깐, 뭐 했다고 벌써 4월이지?아.. 아직 제대로 시작한 것도 하나도 없는데...이왕 이렇게 된 거 한국인의 필수 벼락치기 전법과 가성비 전법 들어간다...!이 중에 네 ✿취향✿,, 아 아니! 이 중에 네 취미 하나쯤은 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDhfMTEx/MDAxNjQ5NDE0NzE4NjEy.Vi3YnhNpzxljoyyFzUUm592BRV12ikAR6fbtgtCGEcsg.Jr-Cp_1GgixNXQ21JSDlvZkVd6WTmvhD6o9T1G7xOu0g.JPEG/IZQ7NzISgf8qO8k3GdRVRRyGlYpo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포브스 선정 가장 우아한 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33597825&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 05 Mar 2022 22:21:32 GMT</pubDate>
             <content:encoded><![CDATA[3주 만에 다시 돌아온 트레이서 시즌2다들 트요일 잘 보내셨나요?8회 마지막엔 모두가 한 마음 한 뜻으로 이 말 하지 않으셨어요..?이렇게 끝내면 저는 어떻게 더 3주를 기다리죠..?그렇게 다리 덜덜 떨어가며.. 손···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDVfMjI2/MDAxNjQ2NDgzOTQ1MjEw.VvTJj-wu2q4gyXK4Qk-raDehcxuD1Uk70SB771ZGWKEg.L1MJzIeilRrDtw-qV9qu4hl3Rk6aDD_8NFurJ0xz8kQg.JPEG/INqvBOyn1J13FLJveeY-yEJS3F94.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘도 인생사진 공개한 배우.jpg]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33397149&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33397149&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 04 Mar 2022 22:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[어느 날부터 한 배우의 SNS에는다양한 콘셉트의 사진이들이 업로드되기 시작합니다 우린 이런 걸인생 사진 이라고 불러요 하선 배우가 공개하면키동도 열일합니다 오늘도 공개하는 박하선 인생 사진.jpg 거주지가 신···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDRfMTM0/MDAxNjQ2MzY5OTQyMDkx.nGL8a6bme-lUYC419gMrCQJ3Jsy73MdYO6wHTCun3c4g.8w-ZFjsXD7ydbdvEX1NA_8-Sxb63NtNW9buq5FwP_Rkg.JPEG/ITYb8RCVkFAu8kODP3X1avXNHZC4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
