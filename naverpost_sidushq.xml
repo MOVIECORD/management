@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 07:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 08:29:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘생쁨의 의인화 = 김윤혜]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33634841&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33634841&amp;memberNo=28456565</guid>
+            <pubDate>Fri, 15 Apr 2022 08:29:05 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 싸더지기입니다 (*˘◡˘*)여러분 (비장) 오늘이 무슨 날인지 다들 알고 계시나요?바로바로 별들의 똥을 치우는 별별 사람들의 이야기 tvN 새 금토드라마 &lt;별똥별&gt;을 만나기 7일 전···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTNfNzcg/MDAxNjQ5ODE1MjM0MDA5.Okp31rr_7nFEubrCsbqmr8HXHQNLBTswONPXqHsGrgUg.fdaoqvTsxGaTYnelLVwGeMf5_4VuTwfxYfhq-A5CJ1Ug.JPEG/IVxWP8gq5cN8ORMt-wbyzi8FmUAE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이렇게 사랑스러워도 되는 거임..? 사람이?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33617370&amp;memberNo=28456565</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 02 Dec 2021 16:35:25 GMT</pubDate>
             <content:encoded><![CDATA[사랑이 싹트는 이곳❤ 이번엔 포슷지기가 어딜 다녀왔을까요?바로 박상남 배우님의 드라마 &lt;너는 나의 봄&gt; 촬영 현장에 다녀왔습니다촬영 중간중간 상대 배우님과 함께 대본 연습도 하고촬영장에 숨어있는 포슷···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MThfMTIw/MDAxNjI5MjQ2MjIxNzYx.sUPaCehFlcb9mufj4juj9riPdBPuY0K2sxTxm0hxmUAg.g6tnYRyHjhOYz091By-CubU7AGtPZdI1h_JbxeAnbd4g.JPEG/IfF_9BYdkk5A-r4xCONWkGqb6wbg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김혜윤] 🌊청량함 max 찍은 혜윤이 보러 오세요🌊]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32114590&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32114590&amp;memberNo=28456565</guid>
-            <pubDate>Thu, 02 Dec 2021 16:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[계속 되는 찜통 더위로 불쾌지수 천만을 찍고 있을 여러분을 위해 포슷지기가 준비했습니다.팡팡 터지는 상큼미로, 여러분의 마음을 뽀송뽀송하게 해줄 이분!! 누군지 궁금하시죠?우리의 비타민 요정 김혜윤 배우입···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDRfNTcg/MDAxNjI4MDM3NzkyOTcw.cTigLZyjGpHgbBSJLu41kStZfltMS6USHLdqbagjhQEg.GO4w1wsUpCcACXEPquubUewAm4xRslGxKzbhSVNxfnIg.JPEG/I1XVHxV9oHyNwL1VpeXI-Cgn9BJ8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
