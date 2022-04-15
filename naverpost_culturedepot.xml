@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 문화창고</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 23:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 01:54:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[륭구 대리님은..어쩜 이름도 [임륭구]야,,?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33620500&amp;memberNo=40792415</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33620500&amp;memberNo=40792415</guid>
+            <pubDate>Fri, 15 Apr 2022 01:53:14 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 문창이에요_*요새, 금토마다 다들 행복하신가요..? 당연ㅠ 륭구 대리 보는 맛으로 일주일을 사는데 ㅠ왜 일주일은 금토금토금토금이 아닌 것이지..? 할 여러분들을 위해 가져온 오늘의 포스트!윤지온's 내···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTNfNDQg/MDAxNjQ5ODE0ODE0NjU0.KJ4RzDej1hoBRpfz68JoCF-73LIi5Hww__LWPmff0h4g.GuU2D5v1pOWr5OZSp304XgtXU8AmtT3x2iYOxEVs-5gg.JPEG/IRlX2eoAZkh8oaqVlqvu1q8-MpCs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<내일> 제작발표회에 
 <윤지온>이 떴을 때_★]]></title>
@@ -180,14 +188,6 @@ with 윤지온]]></title>
             <pubDate>Sun, 24 Oct 2021 12:55:03 GMT</pubDate>
             <content:encoded><![CDATA[탁..타닥...탁... (타자 치는 소리)월요일 아침, 출근한 졔덬들 모습 출처 : 빅토리콘텐츠 " 월요일은 싫지만 '저같드' 땜에 참는다..."" 간만에 졔 배우 포스트나 '복습'할...어? " 출처 : 빅토리콘텐츠 (잠시 뒤를···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MDJfMTc4/MDAxNTkzNjcyMDQ2Mjc5.o7nsaeHemYemlUg_HcVBarlRWD7Jhvx37vSAST2vBHwg.XqHcJU4FoyVi4EFOtexuVzFvB-V--3Mu9OYu2f4HkAsg.JPEG/IWerX-kABUJqwXL1E1KPRui8pjKs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서지혜' 화보, 같이 보실래요?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28432890&amp;memberNo=40792415</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28432890&amp;memberNo=40792415</guid>
-            <pubDate>Sun, 24 Oct 2021 12:55:03 GMT</pubDate>
-            <content:encoded><![CDATA[※ 주 의 ※졔 배우 미모에 밥 먹기도 전에 배불러 질 수 있습니다.↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ 요새, 저녁 먹을 때 마다 생각나는 그 분... 바로, &lt;저녁 같이 드실래요&gt; 에서우도희 역으로 졔덬들 맘 뺏어가는서···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MDJfMTE0/MDAxNTkxMDczNjE2MTEx.aoEs1NdH8tJp8SYRXQE-A7x4-f9yI2ARcF7oglDsQDkg.JJHbjf0MiI82oZ6Tx6LKz8_AVG_LK3gRqapCCR1ahPog.JPEG/IUOLnVD0Km5haJOpc7rCCgp8kar0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
