@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 11:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 12:38:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[죄가 많은 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33639747&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33639747&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 16 Apr 2022 12:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[장안의 화제 호평과 찬사요즘 난리 난 티빙 오리지널 &lt;돼지의 왕&gt; 황경민 역의 김동욱!연쇄살인범 황경민은 살인죄 그렇다면 김동욱은!? 도대체 무슨 죄를 지었나요(￣□￣)죄목 1. 美친 연기력황경민은 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTZfNCAg/MDAxNjUwMTA5NzQ2Nzc1.9PANNQ8jayWbPZt16-laW1CAqlxWLtG9yvr5sxqROzsg.sDHpCcAkMocjI5VPZbXhyCkUmMpA8CK_Cpc7onWHYZMg.JPEG/Iy68wx3R_nN1nIcko3tso3Pmpzt4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전여친이 경찰 된 썰 푼다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33637317&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Mar 2022 14:20:18 GMT</pubDate>
             <content:encoded><![CDATA[여러분 안녕하세요! 오늘은 시청률 상승 곡선을 그리고 있는 '군검사 도베르만'에서액션에 무척이나 진심인 조보아 배우의 액션 현장 일지를 준비했습니다-그럼레드 우인의 시작, 알렌의 아지트로 먼저 가보겠습니다···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTZfNyAg/MDAxNjQ3NDAwNzc0Njky.Fkfoie6JLN9J4RWrpoigcYZfDR9ZkZmYQYj6mFs5GSIg.qoviqcI8m890cDGxr-MnxcnvALiMcIfsWlbBupmXTxwg.JPEG/IYkI-Kep3SqiwnrmI8raiOqtfCQQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 채정안 가수 복귀]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33455549&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33455549&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 15 Mar 2022 13:27:36 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 너무나도 사랑했던 '가수 채정안'을 다시 볼 수 있다고요?가수 채정안의 귀환 소식을 듣고 "어머 이건 놓치면 안돼!" 냉큼 녹음실로 잠입한 키동!얼굴만 한 헤드폰을 쓰고 지긋이 눈을 감고 녹음에···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTVfNjcg/MDAxNjQ3MzM2OTA3NDM0.ozm1t-f_KGt_Z6r_qiblUtx1QgUQM8NPDkddxztAMTUg.dPxBOkJoDRac94TVOOE_tXDWTIZVVeZreNX1lWCybXEg.JPEG/Iko3x-0NmvdFUB2RIKGYmzfvDcKU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
