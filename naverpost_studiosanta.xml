@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 13:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 14:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매일이 새롭고 짜릿한 배우]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33649208&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33649208&amp;memberNo=31542741</guid>
+            <pubDate>Mon, 18 Apr 2022 14:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[매주 주말 안방극장을 들썩 들썩 움직이게 만드는 우리의 사피영, 박주미 배우♥새로운 시작을 핑크빛으로 알린 '사 피영' 그야말로 스며드는 '피영'의 서사 놓칠 수 없죠?피영의 순간 몰아보기.zip'서반 시은···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MThfMjc5/MDAxNjUwMjUzODMxNjA2.UZO2WX-FStPspiJIeyCu9szhwve7k4qzTxY4T3JVmdMg.Y1RAchV2hdydX4NKeeapM4-xTV8n3BOPSpJkgf59HRIg.JPEG/ILSnL26bkjf80EIbueGnAnaB2F6w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혈중 강별지수 200%]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33617735&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Mar 2022 09:22:31 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 &lt;지금 우리 학교는&gt; 속 안쓰러움부터 분노까지 다양한 감정을 불러일으킨 주인공은지 = 오혜수 배우 (ㅎㄷㄷㄷ)'지우학' 속 모습은 온데간데 없는블랙&amp;화이트의 시크 오혜수 배우 ↓&amp;dar···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDJfMjc5/MDAxNjQ2MTk2OTMwODMy.DQgEMVeBMeGbBIoPr9DyPANdOUv9f4NxjZkxTn5KL5og.D6EI-d6b820UGL-roxO6eouEsgPVv_fW4TbLCl6sRlUg.JPEG/IVQ5lcp0sNCbG1g1NRSJBPHEJdZY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3월의 시작을 알리는 뉴스]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33372918&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33372918&amp;memberNo=31542741</guid>
-            <pubDate>Mon, 28 Feb 2022 15:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[짧지만 강렬했던 산타와 함께한 2월 어떠셨나요?어김없이 2월의 마무리는!! 쨘 ! 2월의 ★'화뉴스'브리핑★ 2月을 신나게 마무리할 준비가 되셨다면 지금 바로 출발!!Broadcast예측불가한 전개로 매 순간 강렬함을 선사···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjhfNzYg/MDAxNjQ1OTc2NjQ0NzA1.jmJooq3q8kTEXGAjm-DUyr_JwIhakZBbJPUJlQmc1csg.62pdpvmgK6O5Mi7blqsj-B63nMo35t3SBoORQHSaTm8g.JPEG/I3JaEMJKQylizFPv3Leu5Rb9AbO4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
