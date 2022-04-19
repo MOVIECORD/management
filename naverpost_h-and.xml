@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 08:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 09:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['악'에 눈뜬 [곽동연]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33641521&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33641521&amp;memberNo=51396641</guid>
+            <pubDate>Tue, 19 Apr 2022 09:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[여러분이 보고 싶어 했을 #곽동연 배우의 포스트를 들고 온 #핸디터 오늘 비하인드컷은 4월 29일(금) 공개되는 티빙 오리지널 시리즈 '괴이' 포스터 촬영 현장입니다! 엄청난 비주얼로 시선을 싹쓸이! 포스···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTdfMjE5/MDAxNjUwMTc5ODM0NTQz.eXSGtAmO8XCUM9goPyWf5DBX0HeePWWrgBlrd5hMrYcg.3rgft8t5uC6WebRlmotY7Hw7gyHzRN6P33nJBWxSsa4g.JPEG/IhmcEWsi2vfvU6Hsz_E2aN7a9RoI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스크린을 찢고 나온 공주]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33641241&amp;memberNo=51396641</link>
@@ -167,15 +175,6 @@
             <pubDate>Thu, 06 Jan 2022 03:25:53 GMT</pubDate>
             <content:encoded><![CDATA[등장만으로 MBC 금토드라마 '옷소매 붉은 끝동'을 뒤집어 놓은 인물윤가 연주라 하옵니다.이산의 새로운 후궁 화빈 윤씨단단한 연기력으로 강렬한 캐릭터를 완성시킨 '에이치앤드'의 루키 이서 배우입니다!꿀이 9802···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDVfMjMx/MDAxNjQxMzg4MDAzNTM5.NSUTrzGVjdFJpSZxRXFeNCm4NX6euPNvMwQJBpX27Dgg._FFbyRnJ5M2n4nOcBkxqA-meDeV1i1-bZS4xuVKVNDIg.JPEG/IYG3kPFR2SvcP_6_2XObfB52lndo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사슴인줄 알았더니 
-호랑이였네?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33049329&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33049329&amp;memberNo=51396641</guid>
-            <pubDate>Sun, 02 Jan 2022 07:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 핸디터 2022년 새해 인사드립니다.새해 복 많이 받으세요! 핸디터는 올해도 #에이치앤드 배우들의 멋있고, 아름답고, 즐겁고, 행복한 모습을 많이 많이 담아 여러분께 전해드리겠습니다.2022년 첫 포스···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDFfMTk0/MDAxNjQxMDMxNDc5OTYx.cj64j8L-fANa8JUd-UaJZp3R7Mh6FfotZ0kaWOGI7KYg.0aVuajR5IKzM3By809NELM0Ys2bgTPfb4qZiiV0VIfwg.JPEG/ImIrihAUjFnzOkI3Fwy47X8eIyBg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
