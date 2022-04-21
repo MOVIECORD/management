@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 13:36:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 14:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실시간 재능 낭비 중인 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33669270&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33669270&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 21 Apr 2022 14:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[처음엔 보통의 드라마 사장님들처럼 위엄있고눈빛만으로 직원들을 쥐락펴락 할 줄 알았죠..?근데 우리 현욱 사장님은 그 눈빛을 다르게 활용하더라구요,, (˵ ͡° ͜ʖ ͡°˵)저 멀리서 내 최애가 걸어오···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjFfMTE2/MDAxNjUwNTQ3NDg2MzIz.H9rhmulOCQ2nV2hwhWgebZPKjF8KrhJwcjomQYDnMRsg.YHJPsMYyY__I00720fTQK11e6wUEGopGqONj51iVFZgg.JPEG/I2-z_53-BSqVukGQaTqVlKwV86cU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빌런 판독기 재등장]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33662611&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 23 Mar 2022 14:20:57 GMT</pubDate>
             <content:encoded><![CDATA[여러분 ㄱ... 기억나시나요..? 2022년 새해를 뜨겁게 달궜던 키이스트배 '호랑이 그림 그리기 대회'여러분의 투표를 통해 윤종훈 배우의 그림이 1등 호랑이로 선발됐는데요!종훈 배우가 그림 그리던 날의 비하인드부···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjNfMjc3/MDAxNjQ4MDE0MzI0NjYw.eXCgqPF_kWA5zk9aAZ1o9AlGYL3EmuCN3CIvu6fIqaUg.UXYJr8eA73Z5DqfoRUPbYUIksV59nzNeTQ5M59Vhk1og.JPEG/IokA7bWoG9lOEsYPXYNHeMZZ1_PE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다들 그날 기억나?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33476558&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33476558&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 18 Mar 2022 15:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[지금부터가 우리가 보여주고 싶은 비하인드다등장인물: 김동욱, 채정안나란히 서 있는 모습만 봐도, 이름 석 자만으로도심장 쿵쾅 ★ 짜릿하게 만드는 조합이렇게나 귀한 투샷 득템할 수 있었던 오늘의 키동 비하인드···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTdfMjMg/MDAxNjQ3NTE1MDQxNzA1.P5EFW4CeRh7Yxrvif0R6LWe1sL9ocZQo02Bu-W9mz08g.M7rVv82W5wlWl2zVe0wvX9Ueg7jwVUc8MziZkFScPRsg.JPEG/ID-Rhk363kKtG0DeD_kaAoyTfZbw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
