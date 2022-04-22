@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 13:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 14:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔터업계 현실 고발합니다!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33676072&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33676072&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 22 Apr 2022 14:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[병약 섹시의 아이콘?이번엔 '예의 바른 또라이' 입니다키동이가 너무나 기다린 드리마!tvN 금토드라마 '별똥별' 방송이 시작됐습니다~!!!예고 영상이 공개될 때마다 윤종훈 배우 빨리 보고 싶어 힘들었던 여러분!오···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjJfNzMg/MDAxNjUwNjE4ODQ0NjY1.vW4A89ZrwS_y40PtEv6iSCJK7BeFFm5bcRHaAtTR8W4g.KAtRRvDMTkW0Id3klkKQH9ncuBxiGb5zdECfelKUpNIg.JPEG/IDoS655iEdxGVco-Xbbkkjv1qyzw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실시간 재능 낭비 중인 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33669270&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 24 Mar 2022 12:38:07 GMT</pubDate>
             <content:encoded><![CDATA[매주 수, 목요일 저녁마다 하늘 높은지 모르고 치솟는 세 여자의 욕망 회가 거듭될 때마다 하나씩 벗겨지는 여자들의 가면그리고 우현(김하늘 분)을 향한 또 다른 욕망을 조금씩 드러내고 있는 홈쇼핑 사장 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjNfMTU1/MDAxNjQ4MDI2NjgyNjMw.I5raT3FTOCFiJhSU4L5T5gw6GTzjdB1J30aWqIjNfxIg.oVVAZ3utdq7DFnuBBX-Gca1Gj8mQsNaePm94B4dE2E4g.JPEG/I__KvwZyAg6L6hREn1cWmzPUzrYE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호랑이 그림 그린 배우의 최후]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33503574&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33503574&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 23 Mar 2022 14:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 ㄱ... 기억나시나요..? 2022년 새해를 뜨겁게 달궜던 키이스트배 '호랑이 그림 그리기 대회'여러분의 투표를 통해 윤종훈 배우의 그림이 1등 호랑이로 선발됐는데요!종훈 배우가 그림 그리던 날의 비하인드부···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjNfMjc3/MDAxNjQ4MDE0MzI0NjYw.eXCgqPF_kWA5zk9aAZ1o9AlGYL3EmuCN3CIvu6fIqaUg.UXYJr8eA73Z5DqfoRUPbYUIksV59nzNeTQ5M59Vhk1og.JPEG/IokA7bWoG9lOEsYPXYNHeMZZ1_PE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
