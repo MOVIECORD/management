@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 13:39:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 14:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈 떠보니 화제의 중심이 된 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33688413&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33688413&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 25 Apr 2022 14:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[누가 상상이나 했을까요?이렇게 화제의 중심에 서있을 줄?!원작에 없는 '강진아'를 만나 훨훨 날아다니면서사건의 진실을 끝까지 추적하는 열정을 선보이고총?! 강력계 경위에겐 분신이나 다름 없는 총기 액션도 어···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjVfMTY4/MDAxNjUwODkzMjY3MjQz.pGZRkY59YBuP9IJCcGCqa-QLerNpieWBgZnGmAvYHVkg.M1Xvgw5Qbbm6QaFv7R8srTelPW_hfOXmApOt7tu_Ci4g.JPEG/IogIjKvmh6Q-fjBzsr3a2xWhMX1w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[계속 보고 싶으면 어떡해요?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33678683&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 26 Mar 2022 12:34:48 GMT</pubDate>
             <content:encoded><![CDATA[『예측을 불허하는 전개와 몰입도를 더하는 배우들의 연기력』『캐릭터들의 숨 막히는 심리전』『반전에 반전을 거듭하는 스토리로 매 회 안방극장을 경악하게 만드는 드라마』이 모든 문장들이 한 드라마에서 나왔다고요?···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjRfNzAg/MDAxNjQ4MTE2Mjg3MjUz.QDjtSwiAvdXHDruqtl8J6QTzbF_vWAf67XIH6g4GrV0g.mj3LLJ03QDtLB7Nj6DnK1SjlP9SdFLHHAcEjqjkL39Ig.JPEG/IGZ1et-cGuxlUD-mJNfJYZYC8fLE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 15년 후 두 사람의 근황]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33517016&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33517016&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 25 Mar 2022 14:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[오랜만이다 나 키동이야 잘 지내지?15년 전, &lt;커피프린스 1호점&gt;의 자뻑하림 진하림 청순여신 한유주ㄱ.. ㄴr ㄴi..이 두 분이 15년 만에 재회를 했다고 합니다!! (키동 쩌렁쩌렁!! 뿌듯뿌듯!!)비주얼만 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjRfMTcz/MDAxNjQ4MTA0MTYzMTIx.AmYkVJYb-YdopdJv9qQRr-0PNZuXOe6Tv6M1-eIqty8g.pMx2cKjtjYnfppZ-Gyc3Z8t3-IJ3BRbLuixkbxOz-q8g.JPEG/IJ1iDqftLNl4a5I8GYRxfCu5clc4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
