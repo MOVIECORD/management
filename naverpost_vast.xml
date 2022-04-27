@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 08:30:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 09:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[※360도 VR카메라 도입 시급]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33647618&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33647618&amp;memberNo=32146648</guid>
+            <pubDate>Wed, 27 Apr 2022 09:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST] LEE YEON HEE ♥ 안녕하세요 여러분, 베스트리 입니다. 제가 요즘 카메라 욕심이 마구 솟구치고 있는데, 왜냐믄요..바로 여니 배우 때문이여요..!왜 연희배우 때문이냐구요?어떻게 찍어도 이렇게 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjVfMzUg/MDAxNjUwODc0OTY1Mjky.3ulXlxp-gzH55Ia2I4S5I_xG8G5OzDFqo0-BkNTdT0Yg.4JiwpLDpwe9NqDfVM8pevJmVDZTotJ3NMmEtwzf9T9Eg.JPEG/IjmvibYbYDzT6vOtTuL7OAkHJAlQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현빈 배우의 피부 type?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33447092&amp;memberNo=32146648</link>
@@ -158,15 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST]SHIN DO HYUN♥여러분, 혹시 오늘 아침 뉴스 보셨나요? 장마도 아닌데, 때아닌 한강 범람 소식을? 그 지분율의 8할이 베스트리라는 사실도?  그 이유가 뭐냐 하면... ©tvN 매주 월,화 베스트리의 행복 버···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MjZfMjA1/MDAxNjI0Njk2NTM4NjI5.xO9PDyVuPFFd5lYKcUGN-nmXW9q9BLdJ4Id9-IuhwWog.R7H2rBq4nD-APcV7Eh31mF6skS98ZJC0LD8MzCoxmiMg.JPEG/IqJbIZ00Ab4TG6WuvWLTDFUB5LHc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[본격! 현빈 얼굴 자랑 
-(feat.피지컬 자랑)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31643658&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31643658&amp;memberNo=32146648</guid>
-            <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST]HYUN BIN♥ 본격! 현빈 얼굴 자랑 포스팅에 오신 것을 환영합니다 오늘은 실컷 빈느 얼굴을 자랑할 예정이니다들 열심히 뎌댱-★ 할 준비 단단히 해두시라구욧!자 그럼,↓↓↓ START↓↓↓ 햇살 따듯하던 어느 날···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MDJfNjIg/MDAxNjIyNjEwOTQyNTYx.gPFsMukCOPjvwM6k6Tf2aGpFYVMvptYRU0mJMI0j-P8g.i56LQzdnlpotbkKkP5fQ3-9voS-qobBxGStrLCHJ0ckg.JPEG/I5o_IvVJUTZ2JbOm_l52BMn5CmiY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
