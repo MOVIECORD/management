@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 에이맨프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 14:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 15:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이종석]이 
+화보 다했다!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32804444&amp;memberNo=43803149</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32804444&amp;memberNo=43803149</guid>
+            <pubDate>Fri, 29 Apr 2022 15:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[점점 다가오고 있는 겨울  원본출처 : CeCi China 2021.11 배우 '이종석'만의 따뜻한 분위기가  원본출처 : CeCi China 2021.11 더욱 깊어지는 계절 첫 컷부터 여유로움 속 빠져드는 표정 이거 종석이 너무 잘하는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjJfMjc2/MDAxNjM3NTUxNzU3OTA1.pORPHvNlNM25fOBKjBqdlPZScAIcYSDv5G6Lz2VfLk4g.HRN1fUmQFuP0_1XEN1zadHH_oT_SDolH9x2PtjgFL0Ig.JPEG/I3tsuzYwsOsS1cLy3O8j7b6x8Jsc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우린, 이걸 보고 
 '화보'라고 부르기로 했어요]]></title>
@@ -169,14 +178,6 @@
             <pubDate>Sun, 24 Oct 2021 13:52:13 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 여러분 에이맨 지기입니다!(오랜만에 인사 드립니다! ( •◡-)✧˖° ♡) 오늘은 나라 배우가 부캐 화보 장인으로 돌아왔답니다 :)! 글로벌 화장품 브랜드 시예누와 함께한뷰티 라이프 매거진 '뷰티쁠'3월호의 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMDRfMTc1/MDAxNjE0ODQ2OTQ0OTU0.xoKi7lVwL6S3B83e2OB32JgEr9ttt2Zib5Q4M1sL9lkg.QP7JNWPyeCRBKx3onsFtnOxXJlBW2RpEMVRJjAi_wtog.JPEG/IRbqwAXCZw-HV39YO5tTQEXQMlW4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[권나라] 이대로는 못 보낸'다인'! '노브레이크' 어록 공개!(ft.암행어사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30663983&amp;memberNo=43803149</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30663983&amp;memberNo=43803149</guid>
-            <pubDate>Sun, 24 Oct 2021 13:52:13 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 에이맨지기입니다!여러분 제 마음 속에 비가 오고 있어요! 나라 배우가 연기하는 KBS 2TV 드라마 '암행어사' 홍다인이 내리는심장마비 말이에요 ♥그런데 말입니다... 이렇게 멋쁜우리 다인이를 볼 수 있···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMDdfMTcg/MDAxNjEyNjgyNDE5NzY4.LkGFr-Cymg3LOKv-lwsCQhr_FVlJkYZXU4cN570HrR8g.WuN4_mjMFgloxcBbkJyQupeQElyubnETBs3HAymLn-og.JPEG/ImRnu_t6SeEd31bcx4khqCCfTCNU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
