@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 05:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 06:31:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우식이랑 같이 하늘멍~ 하실래요?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33704836&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33704836&amp;memberNo=22903361</guid>
+            <pubDate>Fri, 29 Apr 2022 06:29:48 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 숲블리입니다! 오늘은 우식 배우 소식으로 찾아왔습니다 우식 배우랑 함께 하늘멍~ 하러 지금 출발하시죠! 오늘의 컨셉 ~  우식이는 (견습)요리사~ ♥ 이렇게 깜찍한 셰프가 있다면 아침, 점심, 저녁 여···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjhfMjEy/MDAxNjUxMTM2ODgyOTEz.XATwstvWdPF6cJPJ0DAWLxOamExyNp4tNbqOLwfVuMQg.9RzRCe9yG-GllaJ9Q_-upa_wIcDMIMRKZLWm-dtrzpQg.JPEG/Iyp8b5d5ziiEMssDq8uJ9k3SkT30.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노고진 잘 가(가지마),,, 행복해(떠나지마),,,]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33694988&amp;memberNo=22903361</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 20 Jan 2022 02:41:39 GMT</pubDate>
             <content:encoded><![CDATA[여러분 그거 아세요?! 티빙 오리지널 &lt;마녀식당으로 오세요&gt;가 tvN에서 방송… 아니! 벌써 알고 계셨다구요?! 아아니! 이미 수요일 목요일 오후 10시 30분마다 본방사수 하고 계셨다구요? 그런 여러분들···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjBfMjYg/MDAxNjQyNjQyNDM0MTYx._S5XTW2ROnuGu2d0UFMfcdpyOj9J-vnbh59eeFJFvUMg.HijzgMAzehLeE1XjTg_SGXDyowmP9IMOmTQgo_H5VUIg.JPEG/I4JNSANT3AdbCbRVdd6ku2ExsJog.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 뭐해? 나? 최우식!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33133120&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33133120&amp;memberNo=22903361</guid>
-            <pubDate>Sun, 16 Jan 2022 07:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[문이~ 열리~네요~♪우식 내 맘속으로~ 들어~오죠~♬ 안녕하세요 여러분! 오랜만에 &lt;그 해 우리는&gt; 포스트입니다 :D오늘 양손 가득(?) 선물을 들고 왔습니다!찍었다 하면 화보보고만 있어도 웃음을 유발···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTRfMjQx/MDAxNjQyMTUxNDY0ODc3.rtTB4KF7ktF7bfmqTPqSE6AdAn0yOILUMXEfQL36o_sg.4whPQ2I_IX5Fj6IB4uQNv2_9Np9JU8Vyi6nPji1COgsg.JPEG/ICAWddaA13aQMJtzzxNflBBMPkLU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
