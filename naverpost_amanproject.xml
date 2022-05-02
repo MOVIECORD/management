@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ 에이맨프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 04:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 05:35:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A-MAN PROJECT에서 알려드립니다.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33726255&amp;memberNo=43803149</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33726255&amp;memberNo=43803149</guid>
+            <pubDate>Mon, 02 May 2022 05:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. A-MAN PROJECT입니다. 소속 배우들에게 언제나 아낌없는 응원과 사랑을 보내주시는 팬 여러분들께 깊은 감사의 인사를 전하며, 한 가지 안내 말씀드립니다. 에이맨프로젝트가 하이스토리 디앤씨와 함께···]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[이종석]이 
 화보 다했다!]]></title>
@@ -169,15 +176,6 @@
             <pubDate>Sun, 24 Oct 2021 13:52:13 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 ☺ 에이맨 지기 입니다 ☺ 오늘 하루도 모두 권모닝 ♥오늘도!! 권덕들을 위한 나라 배우님의 화보를 준비했어요! 매거진 퍼스트룩과 함께 따뜻한 봄 기운을 끌고 온 나라 배우!손끝까지 살아 있는 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMThfMTgz/MDAxNjE2MDUwMzU0ODEw._C2-KYFs3wvcMWvAYQrcn1STtsL-Ggk3RIpp3c87Nt0g.yCq-e_GSO-8T-a-0mgGfmShsATDAsZmMAR0D1ldOlTwg.JPEG/IpGIkZXJIim-qGo-ht1oHldsU4mo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[권나라] 나라 화보는 허전해 명불허전♥ 
-(시예누-뷰티쁠 3월호 현장 비하인드)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30870813&amp;memberNo=43803149</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30870813&amp;memberNo=43803149</guid>
-            <pubDate>Sun, 24 Oct 2021 13:52:13 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 여러분 에이맨 지기입니다!(오랜만에 인사 드립니다! ( •◡-)✧˖° ♡) 오늘은 나라 배우가 부캐 화보 장인으로 돌아왔답니다 :)! 글로벌 화장품 브랜드 시예누와 함께한뷰티 라이프 매거진 '뷰티쁠'3월호의 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMDRfMTc1/MDAxNjE0ODQ2OTQ0OTU0.xoKi7lVwL6S3B83e2OB32JgEr9ttt2Zib5Q4M1sL9lkg.QP7JNWPyeCRBKx3onsFtnOxXJlBW2RpEMVRJjAi_wtog.JPEG/IRbqwAXCZw-HV39YO5tTQEXQMlW4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
