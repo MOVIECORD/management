@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 08:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 09:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산책하다 윤세아 본 썰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33744767&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33744767&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 04 May 2022 09:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[산책하다본 윤세아세아의 러브 뽀그리야와행복한 때저,,저기요!세아를 부르는 목소리준현씨의 심장을 뛰게 한 뽀그리야?!뽀그리야와 세아가 카메라 앞에 선 이유세아와 여러분의 심장을 뛰게 할 뉴.스 세아의 NEW 프···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDRfMTgx/MDAxNjUxNjUwMzM1NTI0.bCEvw5CAFKB_NTLV2762qq_GZU8I-u1gNo9VG451EEUg.mhgir4gL2BEl5S3LGMPrPg1HYoriaOy1KZse8uCGFkgg.JPEG/I3z308QFMeHGnOBv_jmKP-ZAX_g0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(안)흔한 남배우 출퇴근 길]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33735166&amp;memberNo=44834478</link>
@@ -166,14 +174,6 @@
             <pubDate>Sat, 23 Apr 2022 13:30:55 GMT</pubDate>
             <content:encoded><![CDATA[소설가 된 이규형 근황뮤지컬 '팬레터' 천재 소설가 김해진役 으로 돌아온 이규형문학을 동경하는 작가 지망생 정세훈이 당대의 인기 소설가 김해진에게 팬레터를 보내면서 벌어지는 일들을 그린 뮤지컬 '펜레터'2016···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTFfMjU2/MDAxNjQ0NTc1NDcyODQw.nQYdJVUvhIF0ErnV3OEXpE6_0ZJDWIxw30xlm63CXdEg.klam-b55__TPMxAUDo0bp9Qki3cTu73VZDFgbCVLOD0g.JPEG/IWwdOybgTrQY_1jJLBW2BfDIZaw4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가까이서 본 김아중]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33260241&amp;memberNo=44834478</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33260241&amp;memberNo=44834478</guid>
-            <pubDate>Sat, 23 Apr 2022 13:30:55 GMT</pubDate>
-            <content:encoded><![CDATA[찍었다하면레.전.드화보천재 김아중 ♥한 순간도 놓치고 싶지 않은 아중의 '바자' 2월호 화보 촬영 현장 비하인드 풉니다 &gt; &lt;촬영 준비하는 모습부터 A컷을 완성시키는 AJoong ★★★★★화보의 완성은 퀸아···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDlfMTY1/MDAxNjQ0Mzc1MzQwMDky.mp4DdYQbreYPqaVmW9lg8nqEXG66is5st4hd9DsEouEg.DO-1BN5NnBA5f3LIj-K0rwifXswRJQFhmkwC_g8tvyIg.JPEG/IQTVbe35sN6fKxYclfXaNPgEk-3c.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

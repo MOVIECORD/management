@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 08:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 09:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이광수] 영업 끝난 마트에서 포착된 근황]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33737128&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33737128&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 04 May 2022 09:26:22 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다! 혹시 영업이 끝난 마트에 수상한 움직임이 포착됐다는 얘기 들으셨나요?   [사진 출처: 퍼스트룩] [사진 출처: 퍼스트룩] 알고 보니 화보 장인 이광수 씨가 ‘퍼스트룩’과 함께 화보 촬영···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDNfMjgy/MDAxNjUxNTYwMjcwODI5.5kp625r_3yiVZNyVG4UZTxt6Y2gUc7fVsOuq36gDVUsg.Gfu_VQ4uCI6n8HhwhTczE9-Xt0K-yL72h7uo-Iw8cJsg.JPEG/I9y4WOI6ptAHp9zTqJErzFwGk364.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신승호] 어느 (장꾸)배우의 하루]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33733768&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 27 Mar 2022 02:51:33 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 엄청난 소문과 함께 찾아온 킹콩지기입니다! (웅성 웅성) 태양고 펜싱부에 엄청나게 멋있는 선배가 있다던데 혹시 아세요? (웅성 웅성) 그 선배 이름이... 나 불렀어? ☆⌒★〓☆ 고유림 ☆〓★⌒☆이라던데...    ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjVfMTUg/MDAxNjQ4MTkzNDc5NTE5.HCFili2XxXSnOP7JMdRb2PX2MZGEe1aWOUWeGbKUHcsg.Ez4PEFCOuTZJvdVK2rWZf-gRb2gpza4Lto-NOwS4d4og.JPEG/I93Ft-ELpSC5twVkEKb5AFjg0F94.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[안소요]는 아주 최선을 다했을 뿐]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33518054&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33518054&amp;memberNo=35839671</guid>
-            <pubDate>Sat, 26 Mar 2022 02:52:10 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다! 지치고 힘들 때, 하고 싶은 일이 뜻대로 되지 않을 때, 자신감을 얻고 싶을 때, 힐링이 필요하시다고요? 그렇다면 자신 있게 티빙 오리지널 &lt;아직 최선을 다하지 않았을 뿐&gt; 정주···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjVfMjA2/MDAxNjQ4MTg5ODAyNzE1.XnZX8BPoBHm47yOfB7X5L-olnCwY932IS90DXYKlBVwg.xoTh2_u8eh72GiiipSGYXximqw5nWdHRpEggxaeI20Ig.JPEG/IRcRPkryclo3WePyfSkNH9oFXZIs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

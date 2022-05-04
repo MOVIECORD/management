@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 08:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 09:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄 패션의 정석]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33744766&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33744766&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 04 May 2022 09:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[촬영장에 도착하자마자 알림이 울렸습니다선화 배우를 보니 봄이 왔다고요!오늘 콘셉트 혹시 요정인가요..? 사람이 아니라 봄 요정이 아닐지 의심하게 되는반짝반짝하고 청초한 미모잠자는 숲속의 공주가 아닐지 의···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDNfMzUg/MDAxNjUxNTcyNTMwNzk1.baA0J1C2YvsZAlH-wn9aLBDEmpWgcIYPCkl09NnbS9Mg.8RO_JtNZD5kBpCvyBAVgt99q_O1PaSF4PXLgRAQZ_K8g.JPEG/Iq8PqDrOcv1lrf2M0H3iREBFB534.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[막내아들 ★축★ 스크린 데뷔]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33721669&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 06 Apr 2022 13:33:53 GMT</pubDate>
             <content:encoded><![CDATA[도회적이면서도 세련된 비주얼우아하면서도 과감한 패션범접할 수 없는 아우라 거기에 채정안까지 더하면..?!확신의 화보 필승 조합 탄생!정신을 혼미하게 만들고 카리스마로 모두를 KING 받게 만든 화보 천재 정안 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDZfMjU4/MDAxNjQ5MjI3MDIzMTU4.1KUeJZftk-FH0lliS1btbA2pUmOPh8BWiY5Wzy6lMPog.4W_NAOH50XbMPwWoQ349zWZ-ID39G7vwr2glN11Vg1gg.JPEG/Imbimw6HzqcrHsxyiGJizpCItNSY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우도환 홍콩 여행 단독공개]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33571241&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33571241&amp;memberNo=29770009</guid>
-            <pubDate>Mon, 04 Apr 2022 14:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[혹시 이런 상상 한 번쯤 해본 적 없으세요?내 배우와 홍콩 여행을 떠난다면...?저 키동은 이번 화보를 통해 그 소원 성취했습니다★어딘지 사연 있어 보이는 눈을 하고밤거리를 정처 없이 거니는영화 분위기 폴폴 풀···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDRfMTQ3/MDAxNjQ5MDU4ODY4ODg0.ryWq2qnFhPkqayGjtg781xgkjATtPGuExEAT5CmO3KMg.juo_5TAreFXUQvDsTQKv86LL3Yz_ddJlRlOBp1iPy5Ig.JPEG/I16eHlYqGsppbXpj92IQz_PhOTKw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
