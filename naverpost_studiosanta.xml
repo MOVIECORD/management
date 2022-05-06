@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 13:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 14:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크 잡은 봄의 요정님]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33755794&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33755794&amp;memberNo=31542741</guid>
+            <pubDate>Fri, 06 May 2022 14:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[대학로에서 필람 1인극으로 화제를 모았던 &lt;눈을 뜻하는 수백 가지 단어들&gt;아버지의 유골함을 들고 북극으로 탐험을 떠나는 10대 소녀 로리로 변신해 감동까지 선사한 송상은 배우매 공연마다 로리를 비롯해 1···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDRfMjg5/MDAxNjUxNjQ4NDA5OTk0.7RV8RXzG-KqBPk7ByqWWqd7WtMLLOQkywfTdsGlMEnwg.aMs8Kj8bCWm4r2KuectoDyxmMy-4iFf8KU8fn85lwQMg.JPEG/Ib5QLjTSh9AEsTHUTeHK8DPp1QOY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5월의 시작은 OO과 함께]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33720688&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 12 Mar 2022 14:21:45 GMT</pubDate>
             <content:encoded><![CDATA[우주대스타를 꿈꾼다는 넷플릭스 &lt;지금 우리 학교는&gt; 양대수 = 임재혁 배우오늘은 찐 우주대스타를 만나러 &lt;아는 형님&gt;에 출격호동, 장훈 형님들의 승부욕, 프로페셔널함을 존경한다는 말에 6년째 겪은 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTJfMzkg/MDAxNjQ3MDg5MDUzMjY0.Mdk50XpTMMltxE_XkfNXhEX5kkPq3zIpn5o9aGUVKZkg.WIOgxnXeW8D220y-3ldDiNbCaCh0dTuQVVLo4DaRSWIg.JPEG/In9XdEH7NPSRj7qrOmwvRDrdpRnA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ㅇㅇ폰 광고 새 모델?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33425848&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33425848&amp;memberNo=31542741</guid>
-            <pubDate>Thu, 10 Mar 2022 08:28:01 GMT</pubDate>
-            <content:encoded><![CDATA[핸드폰 광고를 떠올리게 하는 도회적 이미지의 대명사근데 제 맘까지 훔쳐서,, 신속하게(?) 신고합니다!IHQ drama &lt;스폰서&gt; 속 한채린 대표 = 한채영 배우 클라쓰가 다른 분위기에 ㅇㅅㅇ 크으"나랑···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTBfMTAw/MDAxNjQ2ODk0NTMxOTU0.3n4VE9nmjT7Asj3VvOyU9hTa0KmWZlUvhOXdHrdj8Mog.dqBPvnrNfMj8KIEUrPzYwPnGJ9B4nhWJqQTCaxzAVocg.JPEG/I68cr0LYXyx9ne7_F-NPjucKiUQE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

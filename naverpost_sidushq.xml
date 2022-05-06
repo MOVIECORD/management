@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 13:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 14:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 매니저 팀장 멋쁨 선 넘어]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33755399&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33755399&amp;memberNo=28456565</guid>
+            <pubDate>Fri, 06 May 2022 14:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[싸하!여러분 '코스모폴리탄' 5월 호 보셨나요? (사진출처: 코스모폴리탄) tvN 금토드라마 &lt;별똥별&gt;식구들과 함께한 화보가 나왔습니다!!&nbsp;(냅다 소리도 지르고&nbsp;♥하트♥ 꾹꾹 눌러!!) 스타포스엔터테인먼···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjlfOTkg/MDAxNjUxMjMwODkxODM5.sEqx00MuVHaKA-BRR6OwDMJG3Tshzcz4nJRCWV16XAMg.9ew8xnwx0CqZds2BRY7DBdBhbfW8ZlNFKeqs6lybLqwg.JPEG/ImeB84By3A22t1UB1MX2NneRXX1Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김윤혜한테 입덕 완료.]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33709662&amp;memberNo=28456565</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 02 Dec 2021 16:35:25 GMT</pubDate>
             <content:encoded><![CDATA[햇살도 뜨겁게 반겨줬던 제 26회 부산국제영화제에 포슷지기가 다녀왔습니다! ₍₍◞( •௰• )◟₎₎ 누구와 함께 다녀왔는지 궁금하시다구요?그 주인공은 바로바로 . . . . (실루엣만 봐도 심장이 반···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTNfMjA4/MDAxNjM0MTExMjA3NDM5.yRO7JS-cFVuNCeqIhVoCmcNIkqDXlHiT6po3VHEMXccg.59NGaxhRWbIhK8xjL2OedTCjgsVKXugCcjUWVSEVxPwg.JPEG/I-VPTVTgaBFviMt8j98F4vK1D1IU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황제성 비하인드 사진 공개 진행 시켜]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32475643&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32475643&amp;memberNo=28456565</guid>
-            <pubDate>Thu, 02 Dec 2021 16:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 ! 반갑게 돌아온 포슷지기입니다이번에 포슷지기가 다녀온 곳은 바로 바로 ↓↓↓↓↓↓↓↓↓↓예능계 헤르미온느 황제성 님의 광고 촬영 현장에 다녀왔습니다···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMTYw/MDAxNjMyODk1OTU3Njk3.pQlijbnYg_7boEoKzuwMeHVslZp1PclVESLg0-Ts7rEg.a2On7fKjcQT4RbveS9ddavki3KcQiS6LB-7btU20oNMg.JPEG/I4QlyjZmyTvZ24X_YfvCzqNOgeyI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
