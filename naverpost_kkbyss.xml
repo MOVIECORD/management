@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 07:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 08:32:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이광수]의 퇴근 후 단독 입수]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33772987&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33772987&amp;memberNo=35839671</guid>
+            <pubDate>Tue, 10 May 2022 08:31:24 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다&nbsp;'0' [사진 출처: 엘르 코리아] [사진 출처: 엘르 코리아] ‘엘르’와 함께한 이광수 씨의 A컷 다들 보셨나요?!  ‘퇴근 후 나이트 루틴’ 콘셉트로 기획되었다는 이번 화보! [단독] ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDlfMTkw/MDAxNjUyMDgxMzQ0MTM4.IR6s71293zc3z5O-gt6s0UWfWFE3YV1TCYQL46nPQ-Qg.Cd2KSuU_ieeJPn7lHllBOoePJNwdVu6LggyijcqdipQg.JPEG/IcjAvBTissJbuJbaPu_Y7gWZFRBA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[채수빈]만의 휴식법 공유드림]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33766263&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 02 Apr 2022 08:27:57 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :D tvN &lt;스물다섯 스물하나&gt;와 고유림을 일주일 동안 기다려 주신 여러분들을 위해 준비한 선물! [사진제공= 엘르 코리아] 보나X'엘르' 4월 호 촬영 현장을 담은 비하인드 포스···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMzFfMTc4/MDAxNjQ4NzI4MjUyNzg0.-jPQ51CQp5-aGZeBT1OShwTmqZoEeWUJV-w9n063Z6gg.51jIEpUavPG557SuWfwPeHeHd8H-jE8jKfNGUcCS9fkg.JPEG/I462GgUNx-J7zmGOJVDLW2dP0lJE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유연석] <배니싱: 미제사건> 수사 일지]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33542381&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33542381&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 30 Mar 2022 12:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요:-) 킹콩지기입니다!드디어 오늘(30일, 수)배우 유연석 씨가 출연한&lt;배니싱: 미제사건&gt;이 개봉했습니다! 극중 연석 씨가 맡은 형사 '진호' 대신오늘은 킹콩지기가 연석 씨의 현장을꼼꼼하게 수사해 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMzBfMjUx/MDAxNjQ4NjI1NzA1NTIw.MD3xZvaZaFeVUXCBrBVY2yhCkFeA8Qd_PXWsSW8RY0og.tEIixy8pQsB7806G780oF5rDgNy5aeNnEQCsvPUNnYog.JPEG/I7WSSzVEy1CfTHDUbdXpLlgz6zuQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
