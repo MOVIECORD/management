@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 12:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 13:51:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[D-1 손담비♥
+Wedding Day]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33788460&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33788460&amp;memberNo=51396641</guid>
+            <pubDate>Thu, 12 May 2022 13:50:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 13일! 손담비 배우가 결혼 합니다!!내일(13일) 결혼식을 앞두고 지난 2월말 '엘르 브라이드' 봄, 여름호를 통해 웨딩 화보를 공개했는데요.사랑에 빠진 손담비 배우의 찐행복 가득한! 화보 비하···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTJfNTYg/MDAxNjUyMzUzNjE0ODEw.s1qeXkeq0njnxmmGMMsEJEvsUU_s9QiYo6rEF2uJI7Mg.eCjcISkxX96Rk2Mc-9CjMtRKzjPVz358SwHuxstkuaEg.JPEG/IwL63YQ0AoBTqc7uYatx_UEbY6CQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[괴 멋있는
 이 비주얼 실화?]]></title>
@@ -168,14 +177,6 @@
             <pubDate>Sat, 23 Apr 2022 13:30:48 GMT</pubDate>
             <content:encoded><![CDATA[민족 대명절 '설날' 핸디터가 여러분을 위해 설날 선물을 준비했습니다!여러분은 #좋아요 #댓글 로 화답해주세요♥ 드디어 오늘!!주지훈 배우의 주류 캠페인 비하인드 컷 대.방.출. #핸디터 #작정했다 #팬아저···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjhfMTQ4/MDAxNjQzMzUyMDIwMzM2.QVfHFl4-3sPkq0XCWvvGiQzAYeAmcdir4rqyoSJ6S60g.7VfmKMEjAUjan7EHDFVkVZ5dc-ki8MLrby8w-8EPsFcg.JPEG/IUx9PXa5_D5COmOlYMCs0TXHa9d8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좋아하면 '누른다']]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33194545&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33194545&amp;memberNo=51396641</guid>
-            <pubDate>Sat, 23 Apr 2022 13:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[H&amp;의 비타민 강민아 배우가! 이번엔 애틋 아련 감성 충만 여주인공으로 변신했습니다!! '리코드 프로젝트(re;code Project)' 아홉 번째 에피소드 '누른다'의 뮤직비디오 주인공으로 찾아왔습니다.가수 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjVfMTEy/MDAxNjQzMTA2MTQzMzkw.c9qjAjrSiYt1azzwGaf9azvr8GUeME7wKlwV2DWRKnkg.scet4jhvPPj_acz782fXbJDcKI-qKrIYZVqSBUM2JiMg.JPEG/InahE6yqyFml_a9BdEG1Jmy8EvNU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
