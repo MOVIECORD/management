@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 08:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 09:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우식이랑 놀 사람 여기 여기 붙어라]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33851906&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33851906&amp;memberNo=22903361</guid>
+            <pubDate>Tue, 24 May 2022 09:25:37 GMT</pubDate>
+            <content:encoded><![CDATA["나랑 놀래?" 네 X 326 우식이랑 놀 사람, 여기 다 모였나요?그렇다면 오늘 포스트 바로 출발합니다!최우식 보러 가요~♪ 풍선 뒤에 숨어도 한눈에 알아볼 수 있는 오늘 포스트의 주인공! 우식 배우 하이~  오늘따라 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjRfMzQg/MDAxNjUzMzc1NDE1OTg3.Kd745VFz4gXWVT4RA-HV5uF_rkYqAVKTdBGvvY5doQ0g.FQqocVQq5cMgdOjUuoC3Kk3rSGYRcbTFBemvz1KYIgwg.JPEG/ITo3c0JcihEJvwT-Q44EVqMozMdM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우식이랑 같이 하늘멍~ 하실래요?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33704836&amp;memberNo=22903361</link>
@@ -159,14 +167,6 @@
             <pubDate>Tue, 25 Jan 2022 15:22:35 GMT</pubDate>
             <content:encoded><![CDATA[작년과 올해 겨울.. 우리가 사랑했던최웅 ♡ 그리고명호!!즐거웠어요, 우식&amp;연우그리고 숲블리가 준비해온 마지막(?) 선물!더운 여름부터추운 겨울까지최웅에 200% 녹아든우식의 사진 대방출 !!끙 차 끙 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjVfMTUw/MDAxNjQzMTE3OTkwODI0.dkTA6iGWgjzI8scD306GjIyOhhcbjLPNNP43M4RsPFkg.mZSrfDeJe9ry_mux8sq6fEPIO4qCS9ckd8CM5wY-vaIg.JPEG/IDuwsDxi_bmPR6ZxwMOtPqAmRZd8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남지현] 마녀식당으로 ‘다시’ 오세요! (feat. 하드 털이)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33156483&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33156483&amp;memberNo=22903361</guid>
-            <pubDate>Thu, 20 Jan 2022 02:41:39 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 그거 아세요?! 티빙 오리지널 &lt;마녀식당으로 오세요&gt;가 tvN에서 방송… 아니! 벌써 알고 계셨다구요?! 아아니! 이미 수요일 목요일 오후 10시 30분마다 본방사수 하고 계셨다구요? 그런 여러분들···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjBfMjYg/MDAxNjQyNjQyNDM0MTYx._S5XTW2ROnuGu2d0UFMfcdpyOj9J-vnbh59eeFJFvUMg.HijzgMAzehLeE1XjTg_SGXDyowmP9IMOmTQgo_H5VUIg.JPEG/I4JNSANT3AdbCbRVdd6ku2ExsJog.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
