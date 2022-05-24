@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 13:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 14:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 겸직해서 논란인 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33853043&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33853043&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 24 May 2022 14:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[이 남자가 눈물을 흘릴 때마다시청률이 올라간다. ▲그의 심장이 차가워질 때마다시청자들의 피는 뜨거워진다..♨그에게 한계라곤 1도 찾아볼 수 없는 모습으로 매 작품, 새로운 캐릭터를 입고팬들의 심장을 불타게 만···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjNfMjkz/MDAxNjUzMjk3OTg3NzEw.-OwERrRm-viDR_2I0Xffudd1eyWQWlzyxHvVrtMSno4g.xD8O2FBrLd_S74PN94MJPAWE4_8Pmyug5cP7AVKn-MUg.JPEG/Ij65pvajYz8WUaUdwguE6ctE84Ko.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소속사 불안하게 만든 제시카 알바]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33846287&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 25 Apr 2022 14:22:29 GMT</pubDate>
             <content:encoded><![CDATA[누가 상상이나 했을까요?이렇게 화제의 중심에 서있을 줄?!원작에 없는 '강진아'를 만나 훨훨 날아다니면서사건의 진실을 끝까지 추적하는 열정을 선보이고총?! 강력계 경위에겐 분신이나 다름 없는 총기 액션도 어···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjVfMTY4/MDAxNjUwODkzMjY3MjQz.pGZRkY59YBuP9IJCcGCqa-QLerNpieWBgZnGmAvYHVkg.M1Xvgw5Qbbm6QaFv7R8srTelPW_hfOXmApOt7tu_Ci4g.JPEG/IogIjKvmh6Q-fjBzsr3a2xWhMX1w.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계속 보고 싶으면 어떡해요?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33678683&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33678683&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 23 Apr 2022 12:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[지난 6주간(๑-﹏-๑) 섬뜩하게도 했다가 (라고 쓰고 '마음 아픈'으로 읽는)٩(//̀Д/́/)۶ 분노하게도 하는 (라고 쓰고 '마음 아픈'으로 읽는)이런 '황경민' 과몰입 상태로 만들어버린 &amp;···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjNfNTYg/MDAxNjUwNjkwMjE0NDgw.kEoiUd5DylZyjzW2Spplmehv4ZPvn6YLfCafkSMGjSMg.lc3qJ5TNdOThXA-XUd2NBYFyD520qrxrK-zlSCMwkA0g.JPEG/I28ZZSWDpJ30rQF7hvYiQPkR9Ho8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
