@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 12:49:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 13:48:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[역대급 분노 유발자]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33859217&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33859217&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 25 May 2022 13:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[이곳은 월화드라마 '우리는 오늘부터'의 주 무대 ⟡다이아몬드 의료재단⟡그리고 이곳에서 한눈에 봐도 화려한 다이아몬드 같은☆彡미모를 뽐내고 있는 홍지윤 배우드라마 시작부터 불륜을 저지르며 시선 강탈은 물론뻔···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjVfMjcg/MDAxNjUzNDcwODAwOTQ4.TG2UZU_RLGWdECS6sYgZpnJ31rtWdwQGne1pVNUuTocg.K5PSttGQyJ_9TJ9CTanKM15_vDK09EkulSGVGTKf3SQg.JPEG/IF4iInn38VYuH75t_uH2vqixX5eU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 겸직해서 논란인 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33853043&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 27 Apr 2022 14:21:32 GMT</pubDate>
             <content:encoded><![CDATA[여기 붙어있는 수많은 빌런들을 응징하기 위해군복을 입고빨간 가발을 장착액션 투혼을 펼쳤을 뿐만 아니라법정에서 죄를 따져 물은 끝에아버지의 회사를 되찾은 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧✧✧ 상여자 차우인그간 맘고생도···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjdfMjYz/MDAxNjUxMDU1NDIxODY5.A2yT2Ed5DWOOh2Jj4DFaMUsly1oACZR3lBfkOBIFAbIg.ogACh2xCCykxTIZo7ugd0ROwH_za63rxsBVof8CMZYsg.JPEG/Ik9r94aVpC50pMtfeYoYwR0f3OME.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈 떠보니 화제의 중심이 된 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33688413&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33688413&amp;memberNo=29770009</guid>
-            <pubDate>Mon, 25 Apr 2022 14:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[누가 상상이나 했을까요?이렇게 화제의 중심에 서있을 줄?!원작에 없는 '강진아'를 만나 훨훨 날아다니면서사건의 진실을 끝까지 추적하는 열정을 선보이고총?! 강력계 경위에겐 분신이나 다름 없는 총기 액션도 어···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjVfMTY4/MDAxNjUwODkzMjY3MjQz.pGZRkY59YBuP9IJCcGCqa-QLerNpieWBgZnGmAvYHVkg.M1Xvgw5Qbbm6QaFv7R8srTelPW_hfOXmApOt7tu_Ci4g.JPEG/IogIjKvmh6Q-fjBzsr3a2xWhMX1w.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
