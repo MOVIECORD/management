@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 08:33:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 09:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫사랑 만난 SSUL.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33831687&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33831687&amp;memberNo=32146648</guid>
+            <pubDate>Thu, 26 May 2022 09:25:55 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST] LEE YEON HEE ♥ 여러분 안녕하세요 베스트리 입니다 ⸜❤︎⸝‍ 다들 카카오TV &lt;결혼백서&gt; 본방사수 하셨나요?공감을 불러일으키는 현실 연기와 첫사랑 기억 조작이 시작될 것 같았던 연희 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjBfMTEx/MDAxNjUzMDI0NDY4NTg5.laZhIhyxhkKwi_InXTX8MfHaqV3Nk-D-2NaBBgLH4Ocg._Eq8BpNqKUO2bz2EdONyIrWVE3Sjf6TgsfGeTYz3_XYg.JPEG/IEwoAe0-O8lXvEhrqgVxxIxJqeik.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베스트리 입꼬리 주체 불가;]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33452441&amp;memberNo=32146648</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST]HYUN BIN♥여러분 안녕하세요,성큼 다가온 가을을 맞이하여, 선선한 가을바람과 함께 생각나는 '그분'을 모셔왔습니다.궁금하신 분들!베스트리만 믿고 따라오시죠! 뜨거웠던 여름이 지나가고,선선한 가을···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTBfMjky/MDAxNjMxMjY4MjYyNDEx.5Yt-5g5l8K2KKOu0e8JxPUc5UTSKqOur-CkaSBb_CJcg.E6O1yb5sa9_mdH1cDtxd1bjPEg3IZoeOaFDPhenjSBAg.JPEG/Iy8Rn-H5_su9_1RKbbIj3VgWANYo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기억상실증 유발하는 배우]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32184591&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32184591&amp;memberNo=32146648</guid>
-            <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST]LEE YEON HEE♥여러분 그거 아세요? 예쁜 사람을 보면 기억을 잃는대요진짜 어이없죠 ...여러분 그거 아세요? 예쁜 사람을 보면 기억을 잃는대요진짜 어이없죠 화보 촬영장에서 만난연희 배우의 눈부신 매···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTdfMTUx/MDAxNjI5MTg1MTU0OTMz.GL_2deRTSeqSBXEiwXKe2VZEfu2swiauQ-BpBaTIyywg.AaLwZkoivCE_Y3F5Q6vrDMdfIVwOOg_g_nwdhz-FzYkg.JPEG/IXFiDbcKB6RwiqWqz2pSzq8LgUYI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
