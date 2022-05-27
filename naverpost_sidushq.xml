@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 06:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 07:31:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호영탐구생활]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33869836&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33869836&amp;memberNo=28456565</guid>
+            <pubDate>Fri, 27 May 2022 07:30:25 GMT</pubDate>
+            <content:encoded><![CDATA[싸-하!오늘 포스트는 요즘 윤혜 배우가 열연 중인 tvN 드라마 &lt;별똥별&gt; 속 능력치 만렙 박호영 팀장을 탐구해 보도록 하겠습니다! (근데 이제 짝사랑을 곁들인...) 그럼 바로 시작! 호영 PICK! 신인배···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjdfODgg/MDAxNjUzNjExMDAzNjMz.1oVPwd6V8PyZjPzi9_2I75DdrqjUQqw6nbPV8VYUNdEg.t3VnAzvuY6NmkyIgNvlUFCBsDaxLlG7M14uxW7L1490g.JPEG/Ieilki-fa0wxuJwLkJxl5ODNYc7s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박계원은 다 계략이 있구나]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33844670&amp;memberNo=28456565</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 16:35:25 GMT</pubDate>
             <content:encoded><![CDATA[싸-하! 여러분 그 소식 들으셨나요? 조선시대에 용맹한 여인이 있다고 하던데...그 여인은 유교 사상으로 꽉 막힌 조선시대에서도 자신의 주장을 굽히지 않고 꿈을 찾아 용기를 낸 기별 부인 조이 !용맹한 조이는 무···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMzBfMTQ5/MDAxNjM4MjMzMjkzODkw.wMO8ypINmr6tj3bsoQpvrOB8TnBdZGUjZDrIndJO1lYg.6bl24Tf9FXX9L_cbCGAkFLmDGSxZeoTORSlWPgR8aOIg.JPEG/IeENbHx-3KXi7l63WtkQUc_k08vM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어라... 나 김혜윤 시크한 모습 좋아하네?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32815301&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32815301&amp;memberNo=28456565</guid>
-            <pubDate>Thu, 02 Dec 2021 16:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[시작부터 혜윤 배우님의 미소 공격에... 정신이 아찔해지셨다구요? 삐빅 정상입니다~시작부터 갓굴 뽐내는 혜윤 배우님의 비하인드 포스트가 무엇인지 궁금하시다구요? 바로 tvN 드라마 &lt;어사와 조이&gt;에서 조···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjJfMTQy/MDAxNjM3NTYwMzA1NjE3.Wbbe2DMw-fBFKhIUhGNY9VYZ8hcLDlVGjdiBj0X794sg.pac23QpjiDAuTax8qisN-uiFK6QoHDVs4UsQGv_hGi8g.JPEG/ImOiYQjT6KoiALBKIe3Mf2qWkauM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
