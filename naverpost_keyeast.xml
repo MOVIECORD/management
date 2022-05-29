@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 12:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 13:35:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홈마 있는 매니저 어때?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33877457&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33877457&amp;memberNo=29770009</guid>
+            <pubDate>Sun, 29 May 2022 13:33:52 GMT</pubDate>
+            <content:encoded><![CDATA[[별별판] 내가 파는 배우보다 담당 매니저가 더 유명해...어제 내 배우가 우리 집 근처로 드라마 촬영 왔더라고그래서 신나게 카메라 들고 달려갔지! ٩(ᐕ)و 근데 내 배우는 조금 떨어진 곳에서 촬영 중이었···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjdfMjU5/MDAxNjUzNjQxODcxODcz.82EOWB4gY7dHNorTlckfe0ydX-q3rpLM-VqXw67s8JEg.DZh9jF9R7qWGfGGrnEXmDBtsA-JADzuuAXLHRyKuTrgg.JPEG/IYbnPD-IKDbDd9_8TBIowlB1g2YE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 경찰 비주얼.jpg]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33874550&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 04 May 2022 09:25:10 GMT</pubDate>
             <content:encoded><![CDATA[촬영장에 도착하자마자 알림이 울렸습니다선화 배우를 보니 봄이 왔다고요!오늘 콘셉트 혹시 요정인가요..? 사람이 아니라 봄 요정이 아닐지 의심하게 되는반짝반짝하고 청초한 미모잠자는 숲속의 공주가 아닐지 의···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDNfMzUg/MDAxNjUxNTcyNTMwNzk1.baA0J1C2YvsZAlH-wn9aLBDEmpWgcIYPCkl09NnbS9Mg.8RO_JtNZD5kBpCvyBAVgt99q_O1PaSF4PXLgRAQZ_K8g.JPEG/Iq8PqDrOcv1lrf2M0H3iREBFB534.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[막내아들 ★축★ 스크린 데뷔]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33721669&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33721669&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 01 May 2022 09:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[우리 집에 아주 잘~싱긴 막내아덜이 하나 있는디요근데 야가 꿈이 글쎄 배우... 라고 하더라고요내 새끼라 그런지는 모르겠지만 그래도 비주얼은 나름 괜찮은디 어때유?슬쩍 슬쩍 보면 연기도 곧잘 하는 거 같더라고···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjdfMjgw/MDAxNjUxMDQ1MTY4Mzky.nty_iL2BKYqSziwTuzZ1-joh09-xGNO3GcEEKvXpL1og.ucvLgPHLSfUzdhwrfFyYrNiJ4aqi_w7FJclcLO_kcMgg.JPEG/IcIslJX3K81yX6LhADYvrNjV4jRQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
