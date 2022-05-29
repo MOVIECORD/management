@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 07:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 08:30:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재희랑 다시 재회하는 그날까지]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33876617&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33876617&amp;memberNo=28456565</guid>
+            <pubDate>Sun, 29 May 2022 08:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 싸더지기입니다!(๑╹ワ╹๑)여러분, 바로 26일(목)을 끝으로 웹드라마 &lt;나의 로켓&gt;이 막을 내렸습니다(˘•̥-•̥˘)가장 현실적인 스타트업 이야기를 그려낸&lt;나의 로켓&gt; 마지막 회까지 모두 재밌게 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjdfMTAy/MDAxNjUzNjE5MTk3NDEx.GYr96CxVqCd2kZq8xAwizBXjsyK7iJdh0OM_GW8dMwkg.04ens9sO-yJl-0IICx3eir_5RrPvXnp8N8OjuEQTb9kg.JPEG/I7citFPmJB8j-mOOOT2xWiwEkio4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호영탐구생활]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33869836&amp;memberNo=28456565</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 04 Dec 2021 04:30:47 GMT</pubDate>
             <content:encoded><![CDATA[여러분 어제 방송한 KBS 드라마 스페셜 &lt;그녀들&gt; 모두 재밌게 보셨나요?싸더지기는 다은 배우님의 美친 연기력에 입틀막하며 봤다네요 🤫다은 배우님은 드라마 &lt;그녀들&gt;에서 궁궐 내 트러블 메이커인 세···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDNfMTM4/MDAxNjM4NDk2MDUzMzA4.2oar7-rjBRGcOpp4yR1BaKiBSFu6H65TUCOVmywWrHQg.kGXCK1f4oM7QlMJeJkYiRisTn-9XgoeOQ7dqdZDAif8g.JPEG/IU6nnk5u6r_v0rlkz92t0rX4W9DM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위기 탈출 NO.조이]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32867688&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32867688&amp;memberNo=28456565</guid>
-            <pubDate>Thu, 02 Dec 2021 16:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[싸-하! 여러분 그 소식 들으셨나요? 조선시대에 용맹한 여인이 있다고 하던데...그 여인은 유교 사상으로 꽉 막힌 조선시대에서도 자신의 주장을 굽히지 않고 꿈을 찾아 용기를 낸 기별 부인 조이 !용맹한 조이는 무···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMzBfMTQ5/MDAxNjM4MjMzMjkzODkw.wMO8ypINmr6tj3bsoQpvrOB8TnBdZGUjZDrIndJO1lYg.6bl24Tf9FXX9L_cbCGAkFLmDGSxZeoTORSlWPgR8aOIg.JPEG/IeENbHx-3KXi7l63WtkQUc_k08vM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
