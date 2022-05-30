@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 04:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 05:33:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 정가람, 2년 만에 레전드 화보로 컴백]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33880936&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33880936&amp;memberNo=22903361</guid>
+            <pubDate>Mon, 30 May 2022 05:31:48 GMT</pubDate>
+            <content:encoded><![CDATA[JUNG GA RAM special.  지난 16일부터 공개되었던 가람 배우의 스페셜 화보! 군 복무를 마치고 돌아온 만큼 더 새롭고 특별해진 가람 배우의 매력을 볼 수 있었는데요, 미공개 컷부터 인터뷰까지 가득 담은 스페셜 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjRfMTYg/MDAxNjUzMzgyNDYzNDUw.RPuqf-3jicPIPSK5NTixLHMQTcauxopeVVqs9Gzy-ugg.aOts6rp-trPyeJO5-Ygzs37-kqWD_1GlkZK1uxo6hgog.JPEG/IyUeyCIAjUohK_BleabWFPB6caHc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우식이랑 놀 사람 여기 여기 붙어라]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33851906&amp;memberNo=22903361</link>
@@ -158,15 +166,6 @@
             <pubDate>Mon, 07 Feb 2022 12:33:52 GMT</pubDate>
             <content:encoded><![CDATA[19940222년 만에 말하는 청량 상큼한 *탄산음료* 처음 봐…혹자는 *인간 탄산*의 탄생이 아닐지 연구 필요하다고 전해…2022년 2월 12일 말하는 탄산음료가 출시된다고 합니다. 오늘, 출시 전 상큼한 모···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDdfMjA3/MDAxNjQ0MjE4NDgzMTEw.FElvNC_yLG5BaCzwD0ITjn2Lauussetzbx7ANPaPLLUg.2MMlczWD-A4_qotH6Qj9XaTkiGts-xcxwihydeMmwpwg.JPEG/I7Z0W_j2cAh_tSv7F6PUHQyAbnAY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 그 해, 
-우리가 사랑했던]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33188029&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33188029&amp;memberNo=22903361</guid>
-            <pubDate>Tue, 25 Jan 2022 15:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[작년과 올해 겨울.. 우리가 사랑했던최웅 ♡ 그리고명호!!즐거웠어요, 우식&amp;연우그리고 숲블리가 준비해온 마지막(?) 선물!더운 여름부터추운 겨울까지최웅에 200% 녹아든우식의 사진 대방출 !!끙 차 끙 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjVfMTUw/MDAxNjQzMTE3OTkwODI0.dkTA6iGWgjzI8scD306GjIyOhhcbjLPNNP43M4RsPFkg.mZSrfDeJe9ry_mux8sq6fEPIO4qCS9ckd8CM5wY-vaIg.JPEG/IDuwsDxi_bmPR6ZxwMOtPqAmRZd8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
