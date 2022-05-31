@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 11:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 12:48:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[약속해줄게¸ⓞ원히¸혜윤만을¸ 사랑해♡〃]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33888013&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33888013&amp;memberNo=28456565</guid>
+            <pubDate>Tue, 31 May 2022 12:47:36 GMT</pubDate>
+            <content:encoded><![CDATA[싸하!  오늘 포스트 주인공은?  화보 장인 혜윤 배우입니다 ❤(ᵔᵜᵔᶹ) 혜윤 배우는 얼마 전'앳스타일' 6월 호 화보 촬영을 진행했었는데요! 이번에도 싱그러운 비주얼을 뽐낸 혜윤 배우의 '앳스타일' 화보 촬영 현장!···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzBfMzEg/MDAxNjUzODc3OTQ3MzY5._Y12q3cYZPWR9n7xVVer3GNH6mnv1gyOaqacCJyb0BEg.Rts33McycP8VLKUuSOOy-EaAEokXsNWZok7-0anuzS8g.JPEG/IjNKqj_IpaQA25gjDPqcVjklANMo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재희랑 다시 재회하는 그날까지]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33876617&amp;memberNo=28456565</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Dec 2021 12:36:09 GMT</pubDate>
             <content:encoded><![CDATA[여러분 오늘은 tvN 드라마 &lt;어사와 조이&gt; 8회 촬영 현장에 싸더지기가 다녀왔습니다! (다들 함성 대신 박수 쳐) 이날은 차말종과 결탁한 관리들을 찾기 위해 장부를 살펴보는 조이의 모습을 담아왔는···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTNfMjI4/MDAxNjM5MzY5NjA0MTI4.R2IHcYvikTB7xYEr_PXf-XPqhF-_w-lrVcsYmi07Uwsg._IluxK1aNnM96Qvkiob57oxYxAlHeuFxurptT6azWwYg.JPEG/I8sGQa0EY3xmCdcKgzrUNdpuXEhw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트러블메이커 세자빈 꼬옥 안아주면 돼...]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32881157&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32881157&amp;memberNo=28456565</guid>
-            <pubDate>Sat, 04 Dec 2021 04:30:47 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 어제 방송한 KBS 드라마 스페셜 &lt;그녀들&gt; 모두 재밌게 보셨나요?싸더지기는 다은 배우님의 美친 연기력에 입틀막하며 봤다네요 🤫다은 배우님은 드라마 &lt;그녀들&gt;에서 궁궐 내 트러블 메이커인 세···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDNfMTM4/MDAxNjM4NDk2MDUzMzA4.2oar7-rjBRGcOpp4yR1BaKiBSFu6H65TUCOVmywWrHQg.kGXCK1f4oM7QlMJeJkYiRisTn-9XgoeOQ7dqdZDAif8g.JPEG/IU6nnk5u6r_v0rlkz92t0rX4W9DM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
