@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 23:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 02:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주영 케미 맛집 초대권]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33870962&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33870962&amp;memberNo=44834478</guid>
+            <pubDate>Tue, 31 May 2022 02:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최고의 케미 맛집에 여러분을 초대합니다 ;)칸국제영화제 경쟁부문 화제작 영화 '브로커'"베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린 영화"오랜만에 스크린···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzFfMTM1/MDAxNjUzOTYyMDk1NjIw._iKFZOPVyGxxI-012VuHXgHbHubc6gdvIRFZq7l-x9gg.DUcDh_ud_rwAAGumluu4mHDcZJE322gbOWyNo_J9EaMg.JPEG/ItAWjfWxVIxIdYS_kg3lswS2hVT4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 아이 좀 자랑할게요]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33832707&amp;memberNo=44834478</link>
@@ -166,15 +174,6 @@
             <pubDate>Sat, 23 Apr 2022 13:30:55 GMT</pubDate>
             <content:encoded><![CDATA[오늘 공개되는한국 최초 밀리터리 법정 활극tvN 새 월화드라마 '군검사 도베르만'그리고 그 중심에 선변호사로펌 '로앤원' 대표 변호사이자특수부 검사 출신의 화려한 이력에욕망까지 장착한야망캐tvN '군검사 도베···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjhfMTgg/MDAxNjQ2MDQwMzY2MzEz.qPGnanRir1mRJpPyjDsKr_Avh6o38xdyktt7qh3aulwg.ZcO3A0ZPqtzMAlB4UjgTgwcts2ksfmOxOSkWUt_qQUQg.JPEG/IqcXFtwRH78NsobiiAqOXRVX0Oec.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['결사곡3' 
-판사현 된 강신효]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33362876&amp;memberNo=44834478</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33362876&amp;memberNo=44834478</guid>
-            <pubDate>Sat, 23 Apr 2022 13:30:55 GMT</pubDate>
-            <content:encoded><![CDATA['결혼작사 이혼작곡3' 새로운 판사현이 된 배우 강신효 시즌3, 새 삶을 꿈꾸는 뉴사현 사현이 바라던 삶의 시작 송원과 함께또 아이와 함께 새로운 시작을 펼쳐갈 수 있을지 매주 토일 저녁 9시 뉴사현 강신효와 ♥본···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjZfMjkw/MDAxNjQ1ODgwMjQzNTI1.E0lzIbtVhvOaf-DlIgNiuvEj3saPl6Na81rOKoNfdGcg.v5QpDkcamxi_LczofVKyWhEp83xnoHBvo-fFmEIgeewg.JPEG/IVwhn8EeFbf2rXzUmlKKXXqTI9do.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
