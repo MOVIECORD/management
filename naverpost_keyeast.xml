@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 13:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 14:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하늘 아래 같은 화보는 없]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33906370&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33906370&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 03 Jun 2022 14:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[보라색 연보라색 진한 보라색 조금 덜 진한 보라색 살짝 더 진한 연보라색 .............하늘 아래 같은 색깔은 없듯하늘 아래 같은 화보는 없습니다화보의 주인공이 문가영 배우라면 더더욱 말이죠문가영 X 여진구 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDNfMjc5/MDAxNjU0MjUwMjk2MDMz.zAjQC7NPHEgoRGMRGXjxhyAX7weyqfQXqZe0HrDBFksg.WYSKviiI30MQ-3umaGodVgxyBNQl6HVZWrnZMHw-KAcg.JPEG/IuHnSkyaTaNmxFcIf4HxENtU7tfg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[평행 세계에 살고 있는 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33893296&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 06 May 2022 13:38:05 GMT</pubDate>
             <content:encoded><![CDATA[키동에겐 항상 '일등'(1등)만 하는 배우가 있어요지구 뿌시는 상큼함 일등부드러운 시크함 일등한눈에 들어오지 않는 훤칠한 피지컬 일등미소가 아름다운 사람 일등강아지랑 귀여움으로 대결하는,, 일등두루···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDZfMjAg/MDAxNjUxNzY0MDMxMDUy.wSsieoDomcbYelIyou0ojZMjfZpBSbAACG7NUoZrg20g.UIh8uZVDIafdXsHQ_vV8CnuB_15tdtiGg7bStVPUgmUg.JPEG/I1JERIgkx_iWwTDle1MeqlwC2jPo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘자 그린라이팅 보낸 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33745364&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33745364&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 04 May 2022 22:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[여러분들은 어린 시절가장 기억 남는 순간이&nbsp;있으세요? 부모님이 맛있는 음식을 해주셨을 때?좋아하는 장난감을 사주셨을 때?좋은 성적에 칭찬 받았을 때? 키동은 아주 어린 시절 부모님께꿈을&nbsp;이야기&nbsp;했을&nbsp;때&nbsp; 귀를···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDRfNDcg/MDAxNjUxNjU5MTkwNjM1.mgH8T2zFbHKoVAPYXKTGvZt7EfuZroToYCWdExmBM8Yg.GtbDoSale_5M8WJoMJIj4fa68BvnHsJaeEPe2wOkyUgg.JPEG/IYIRBvxTQyWgFNP7Bz0vvZ3fxt80.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
