@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 한아름컴퍼니 </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 08:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 09:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[막걸리에 이어 탕수육 먹방 까지 찍은 [허성태]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33908733&amp;memberNo=34451204</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33908733&amp;memberNo=34451204</guid>
+            <pubDate>Sat, 04 Jun 2022 09:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 한아름지기입니다~~~ 허성태 배우의 소식을 들고 찾아왔습니다~~ 최근 허성태 배우가 한 식품 광고 모델로 등장했는데요~~~ 그 현장 사진을 공개합니다~~대부 느낌이 폴폴 나는 허성태 배우 한아름지기 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzBfMTAx/MDAxNjUzODk2OTA5MjU5.y8thgL6zqSbttYO6yPiORfhSe8rM1tIo5usF5pvqfuAg.58Qh6DNVR-chzNiA5573x5g5yYDS16udl8ImER4QFRsg.JPEG/IeVY9wjDqVm8MuOJsVmMonk02NWA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[허성태]가 붉은 단심 제작발표회에서 주먹 쥔 이유는?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33771215&amp;memberNo=34451204</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
             <content:encoded><![CDATA[지난 8일 허성태 배우가 진행을 맡은 디스커버리 채널 예능 '고스트 하우스'가 방송되었는데요!!! 허성태의 MC 데뷔 신고식!!! 여러분들은 어떻게 보셨나여?? 한아름지기는 허성태 배우의 목소리 덕분에 스토리에 더···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTNfNyAg/MDAxNjI2MTYxOTY4NzAz.iUMBYdu7J5ufW3eOL0gg9v74knx6xqcqQM9Yl3QnRfsg.51Cp739Zyxm-__IFb-rhMOGTPKQPv_K-tozKV0d_64og.GIF/I3ZUjzP871uIZJAKiV_eKVRoKCto.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[허성태]가 제일 무서워 하는 건 하얀늑대]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31936964&amp;memberNo=34451204</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31936964&amp;memberNo=34451204</guid>
-            <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요~~~ 한아름지기 입니다~~ 오늘은 허성태 배우의 소식을 들고 찾아왔는데요~~ 허성태 배우가 SBS 월화 드라마 '라켓소년단'에 3회에 걸쳐 특별출연을 했었죠!!!!지난 10화에서는 천코치와 윤코치의 첫만남···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDlfNjcg/MDAxNjI1ODEwNTEwNTg1.U2YxdMJa82kXed0CQ3z7HpCsPNYa9V7VqqwweU8PUgEg.rPieeD-SXHRtqIQ3Ursfmxz_Ik8Q6JXuQ664_jReqgMg.GIF/I8Hko0HPnPby0mxXsnDyasvRtf6Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
