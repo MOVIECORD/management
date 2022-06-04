@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 01:53:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 03:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[손우현] 추앙한다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33907583&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33907583&amp;memberNo=35839671</guid>
+            <pubDate>Sat, 04 Jun 2022 03:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 점점 더워지기 시작한 초여름에 늦가을을 먼저 느끼고 온 킹콩지기입니다:) 바로배우 손우현 씨가 톱스타 '강서준' 역으로 출연하는드라마 &lt;나의 별에게 시즌 2&gt;포스터 촬영 현장에 다녀왔기 때문···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDNfMiAg/MDAxNjU0MjM1ODgwMDUz.K-Ri80vDxs5AGq6ZHZTGT_Th3RyI0hUGI9o2Uo2MRB8g.vn4bWNImfYvrORoYrI41f8SVJCmSSd17MUZaAIamf9Mg.JPEG/IVJ30oByyHNuWZYijnYMN7xwi3pU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전소민] 주식 정보를 쓸어버릴 ae쏘민]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33903592&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 27 Apr 2022 07:24:12 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)오늘(27일, 수) 설아, 셔누, 엑시, 이승헌, 정원창 씨가 출연한 영화 &lt;서울괴담&gt;이 개봉했습니다 (짝짝짝)&lt;서울괴담&gt; 개봉이 더욱더 기쁘고 더욱더 기···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjdfOTUg/MDAxNjUxMDIzNDM3NDAz.jmbc0nTd2S8Oflo1Scan8E2dETm7UnPsIcHm9Blroq8g.0ecG0-9bLwIKxgElXrn8aye1NM_0xKiCVHbQZ-hEABAg.JPEG/IyViqymMmgs194JMyi9RednKCA-A.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엑시, 정원창] 옆집 여자, 옆집 남자랍니다~]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33693664&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33693664&amp;memberNo=35839671</guid>
-            <pubDate>Tue, 26 Apr 2022 09:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 여러분은 집을 구할 때 무엇을 중요하게 생각하시나요? 1. 편리한 주변 시설? 2. 완벽한 방음? 3. 좋은 이웃? 여기 우주소녀 엑시 씨와 배우 정원창 씨가 이웃사촌인 집이 있다고 해서···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjZfMTgw/MDAxNjUwOTUwOTUxMjE3.Dy6uWLS3Uz7JWybo74kuW-nmqixvzHc_XcqgN0aTC90g.81AHOrQWjwKQeVyuRgVr9FOH9e8kF3ic0KRCBp4GnCsg.JPEG/IPQvUVSN0OdZSoRSfrk6Xa1GlSIU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
