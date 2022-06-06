@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 11:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 12:50:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웃고 있는데 수상한 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33915414&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33915414&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 06 Jun 2022 12:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 가영 배우가 좀 수상해요 여러분아직 대놓고 말하지 못한 고민이 있는데... 한번 들어보시겠어요?어김없이 365일 예쁘고 멋진 뭉이라서 다를 게 없어 보이지만분명 활짝 웃고 있기는 한데 손에 꽉 쥐고 있는 이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDZfMTkg/MDAxNjU0NDk1NTkzOTM1.yk8XtiFchE-Sp1iKlRcPLSYZAOb2tifk4fgSY7NpMksg.gjqb10NFMbpounLXEBFdYUqSER_X2HAMPCLWGEYcMJEg.JPEG/IW7pllVWtqu_xrQi7xCrv10wLe_o.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[등장하자마자 잘생겼다고 도배된 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33909071&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 09 May 2022 13:47:33 GMT</pubDate>
             <content:encoded><![CDATA[(※본 포스팅은 키동이 지난 토요일에 겪은 실화를 바탕으로 쓰여진 포스팅임을 밝힙니다.)여느 토요일과 마찬가지로 '놀면뭐하니?'를 열심히 시청하던 키동 (뜻밖의 덕밍아웃)막귀를 가진 키동은 누···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDlfMSAg/MDAxNjUyMDg2MTk5MDYz.9lz2ck8dMLgk83PH9SZX_TJs-JWsguH7phGb4vRJMfIg.DDbNTxZPQsAv40MvKnnlb4w9lXYQW72mJQSUzZMhgssg.JPEG/I2g6a0tRbGC4t7RaFunRN1WzZwow.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화보 찍은 매니저]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33758818&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33758818&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 07 May 2022 14:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[혹시 요즘 잘.생.겼.다.고 난리 난 매니저 있다는 소문 들으셨어요?얼마나 잘생겼는지 담당 배우 팬사인회에 매니저 팬들도 온다고 하더라고요?그래서 키동이 배우로 영입했어요!그리고 화보 촬영도 했습니다!처음에···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDZfMTEz/MDAxNjUxODEyNDQxNTgw.4FE6diofBqzeXxOtQgR8XKvS11CXfpHpYog5eIUAs-og.iPybaWpyRjOGefR_4HY6fCUlQYoYUCL8aEQ4Vjkl8Vgg.JPEG/IkL6Xo7phQ084CwI-Vlz_P07gjEk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
