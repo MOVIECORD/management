@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 07:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 08:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트] 6월의 BH온에어]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33924910&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33924910&amp;memberNo=21724264</guid>
+            <pubDate>Wed, 08 Jun 2022 08:31:58 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDhfMTIg/MDAxNjU0NjU2MjEyMTI1.BOQNz6UocwK-OpbgM-grcQ0jviuwFDO5pTqMB1ao44og.Guc_ZjMmAVRvv6lUYDBd3ZJzvliCWEO71rQSQkgbacUg.JPEG/IlNI1rQ1ab6KRMBo6_Styv9VC74g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FEEL MY [안소희]]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33771412&amp;memberNo=21724264</link>
@@ -154,13 +161,6 @@
             <pubDate>Thu, 09 Dec 2021 09:23:23 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요해피비입니다:) 요즘 근처에만 가도행복한 기운이 뿜뿜♣♣ 오늘은 행복 충전하러효배우 만나는 날~ 울 효 어디에 있나~◎▼◎ 짜잔요기~ 행복한 기운을 한가득 충전해 줄 효주 배우의 화보 현장스타트! 오늘 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfMjg0/MDAxNjM4ODU3MzU3NzI1.JqQ4BwUd8O-k2hpKF-4L8MoH_KRR3Sg9vfd_BG8uxO4g._YkrpyqauyBlhH99Oafa7kmCrLr4CmqnTciMF8dFWJgg.JPEG/IEjnyIQP2XIl5Et5dbfCN6T1dHFE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BH엔터테인먼트] 12월의 BH ON AIR]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32898563&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32898563&amp;memberNo=21724264</guid>
-            <pubDate>Tue, 07 Dec 2021 07:22:14 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfOTEg/MDAxNjM4ODU2NTA2Mjg3.o4L1gkDGFCvn21JW9fxyEDEUgOVHfHbSS88Xn1bPIM4g.2qpJucQ6jB66diO3hfQsmK5PFDxnw9GzgPteJXEuGQAg.JPEG/IXH9kYLjvWSMbObffkpifzPQq-ck.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
