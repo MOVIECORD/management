@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 13:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 14:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷰티 에디터로 이직한 배우]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33942418&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33942418&amp;memberNo=31542741</guid>
+            <pubDate>Fri, 10 Jun 2022 14:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[노-멀한 게 뭔데?요즘 애들 오피스 생존기 '뉴노멀진' 으로 NEW 소식 알린 이원정 배우'미친 비주얼'과 실력을 겸비한 뷰티 에디터 // 정 석 진 // NEW 캐릭터 소식까지! 다들 기다리고 있으신 거죠~?그래서 준비한 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTBfMjI1/MDAxNjU0ODM4ODc2MTg5.57dKmCpV3DcubTGFTen_rhncH9nSDCFo7Kr5sbuAkTog.yz6c3wApOpqNoVlrLREN4fmwLxk8Jrf-O5A-CLJ8lxYg.JPEG/I3khb9hEqIe1S2mvKBc4e4TjeO2g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쇄골도 빛이 나는 배우]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33910625&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Apr 2022 02:59:07 GMT</pubDate>
             <content:encoded><![CDATA[예측불가 전개로 매 회가 새롭고 짜릿한 IHQdrama, MBN &lt;스폰서&gt; 그리고 중심 축을 지키며 더 짜릿한 비주얼 뽐냈던 한채린 = 한채영 배우그런데,,,이렇게 보내드려야 할 때가 오다니요,,,,ㅇㅅㅇ 종영의 아쉬움···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDdfMjg5/MDAxNjQ5Mjk2MjcxMzE4.huaK_D3DsbtfBZgBStKvy8ZgHGpf9VsNma4TgXG4P3sg.VXWU3DYks3IkaTdM-B0rYrpukz7uiZ57_eiwdyIWSRIg.JPEG/IBKxEocYkhutcdyQgdk3bMkAq7Qw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악 프로 1등한 배우]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33560219&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33560219&amp;memberNo=31542741</guid>
-            <pubDate>Sat, 02 Apr 2022 12:36:54 GMT</pubDate>
-            <content:encoded><![CDATA[배우인데 음악 프로그램에서 1등을 해버렸다고요?꿀 바른 보이스로 &lt;불후의 명곡&gt; 깜짝 등장한 우리의 &lt;지우학&gt; 대수,,아니! ♥임재혁 배우♥등장부터 훈훈함 팡팡 선배의 따뜻한 팬심부터···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDJfMTcx/MDAxNjQ4ODk5MDA3MzQ5.3N4ECh2LUH7g8pCaLI2Q2RsO9T8sPNH9-5q04tdJE8kg.KkU5iCmp0VWDt9ows_eCJQoYJFLvWnlq_FXy6Iy4hMkg.JPEG/IYu7nYU-QLpvJGt13wbCRDiGNSjU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
