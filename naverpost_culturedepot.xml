@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 문화창고</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 04:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 05:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[속보) 디즈니 프린세스에 
+[서지혜] 추가 결정...(1보)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33933388&amp;memberNo=40792415</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33933388&amp;memberNo=40792415</guid>
+            <pubDate>Mon, 13 Jun 2022 05:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 안녕_? 오늘도 문화창고의 소식으로 찾아온 문창이에요_!요새 수요일 4시마다 찾아오는 선물...★지혜 배우의 &lt;키스 식스 센스&gt;_! 다들 재밌게 보고 계신가요?? 예상 답변 : 네에에에_!그래서 준비한 오···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDhfMTgg/MDAxNjU0Njc5OTc1MjQy.xY3I9pCIcMoaf_7U6ht4WzSdRwTfABe3hHv8M01ZJREg.hQEpDNHPCyM0sXWPG8qxm4dbEgxIDZT5vv7zlOpTALUg.JPEG/I6PXZWbIGS8-Gv6FDXC8oXXgB4_I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[륭구 대리님은..어쩜 이름도 [임륭구]야,,?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33620500&amp;memberNo=40792415</link>
@@ -178,16 +187,6 @@ with 윤지온]]></title>
             <pubDate>Sun, 24 Oct 2021 12:55:03 GMT</pubDate>
             <content:encoded><![CDATA[졔덬들 모두 안녕?정말로 금방 다시 온 문창이에요_*오늘은 드디어!졔덬들이 기다리고 기다리던&lt;저녁 같이 드실래요&gt; 촬영현장 비하인드_★를 가지고 돌아왔답니다_*#쑤아릿#질러_! For the 서지혜 by the 서지···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MDdfMjg0/MDAxNTk0MTA1NTIwMzE0.K42o7MY0y0zvPxrvyrx24ftfr6kgwhS3rl8WWZyW38kg.eHPobSmbiIx5oAlbMExaaR-yKSKxN_kJNjyIYA_cab0g.JPEG/IhBvyrJR068Sc6Dxffc-AA3qYxyQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서지혜]
-우도희 때문에,
-월요병이 다 나았잖아...★]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28697318&amp;memberNo=40792415</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28697318&amp;memberNo=40792415</guid>
-            <pubDate>Sun, 24 Oct 2021 12:55:03 GMT</pubDate>
-            <content:encoded><![CDATA[탁..타닥...탁... (타자 치는 소리)월요일 아침, 출근한 졔덬들 모습 출처 : 빅토리콘텐츠 " 월요일은 싫지만 '저같드' 땜에 참는다..."" 간만에 졔 배우 포스트나 '복습'할...어? " 출처 : 빅토리콘텐츠 (잠시 뒤를···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MDJfMTc4/MDAxNTkzNjcyMDQ2Mjc5.o7nsaeHemYemlUg_HcVBarlRWD7Jhvx37vSAST2vBHwg.XqHcJU4FoyVi4EFOtexuVzFvB-V--3Mu9OYu2f4HkAsg.JPEG/IWerX-kABUJqwXL1E1KPRui8pjKs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
