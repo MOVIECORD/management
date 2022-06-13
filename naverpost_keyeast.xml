@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 12:48:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 13:53:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빙의 연기로 화제 된 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33955091&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33955091&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 13 Jun 2022 13:51:39 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '써니'의 빙의 연기를 이을 2022년 최고의 빙의 연기 甲MBC '지금부터, 쇼타임!'에서 슬해의 희수 선배에서 만인의 희수 선배로 자리매김한 김종훈 배우!극 중 목표를 위해 수단 방법을 가리지 않는 악귀 해천무···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTNfMTI5/MDAxNjU1MTIzMzAxMjUy.8ro5GfBiUrVgrlncxrvU2RVBy_F-KlkxQYdCEOzboBgg.9UTvuwh8I1mLU6o8O33J0NuXqGh7anCWkhiHRRc-IPwg.JPEG/IxhPyWW7TciijJk-IEm8ev31QbUM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유죄치곤 제법 인간 같은 윤종훈]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33948650&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:43:26 GMT</pubDate>
             <content:encoded><![CDATA[키동이 한 배우의 일상을 관찰 카메라로 담아보았어요아침에 눈을 뜨면 가장 먼저 환기를 위해 창문부터 열어요맑아진 공기처럼 우리 시야도 개안 시키는 투명한 비주얼첫 번째 루틴 거울 보며 모닝 비주얼 체크!두 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTNfMzYg/MDAxNjUyNDMzMzE1MTk4.idLeewbZq38UDeM-6KsZ6vJrQIhtMtyt6uTaHfAW2YEg.HQgldpzxXdV36jtao3IgEiS0B0q13cshKq9TjN4-4vkg.JPEG/IktI6doLoWBGx37hwc6-Bco0FpDM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발리우드에서 일등한 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33788456&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33788456&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 12 May 2022 13:49:29 GMT</pubDate>
-            <content:encoded><![CDATA[화려한 스케일과 신비로운 분위기로 압도하는 오프닝!그중에서도 실루엣부터 남다른 아우라를 풍기는 이가 있었으니...조명이 비치는 순간! 찾았다! 내 배우!키동 선정, 교복이 가장 잘 어울리는 남자 배우 1위TA-DA···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTJfNjMg/MDAxNjUyMzM5Njc0NzI0.K1E6bxPCPUEipFaWX7mw06dTUXVQ6VNe-ykg5XtgKNIg.rrcIkdu0_hFaeQRdPbTKANVoqvJUH_RrYPEBq-W4hUEg.JPEG/In0IiOekIZJukA1Nfugt_2Y2nbiM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
