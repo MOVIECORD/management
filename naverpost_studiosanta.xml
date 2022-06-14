@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 13:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 14:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빛주얼로 12년째 리즈]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33962337&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33962337&amp;memberNo=31542741</guid>
+            <pubDate>Tue, 14 Jun 2022 14:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[여러분♥ 지난 9일 아주 특별했던 라이브 방송 다들 놓치지 않으셨죠?!보는 내내 행복했던 시간을 더 더 더 행복하게 만들기 위해 준비한안녕, 주원 숲'주원 숲'을 찾은 '주원 배우' 라이브 방송 빛하인드가득···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTRfOTYg/MDAxNjU1MTg5ODk3NTM1.KWlBJApea4F7ejkpZok-YWuBO0Q34SNgvaloDXcbX5Ag.N6BhApyjd0-rwWoQIO7z_E9HY0NF7pRpHlaH97j6uXkg.JPEG/IY6Ia9MJ_zyssSkicnfZ0KjwyJuQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혜옥은 아름다워]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33955337&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 12 Apr 2022 14:22:51 GMT</pubDate>
             <content:encoded><![CDATA[나와 공동의 목표를 가진, 내가 사랑하는 남자라면 더 완벽하겠지.한 남자의 운명을 뒤흔들 『비밀의 집』그리고 엄마와 오빠에게 복수하기 위해 남몰래 계략을 꾸미는 남태희 로 강별 배우가 새롭게 찾아왔습니다!매···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTJfMTUg/MDAxNjQ5NzUzMzE5NDIw.ayeTU0CQnUWDa4_HO5atZDoU_FmjOWcRN_SPUHR7TJsg.eCjHjSo7gy3m_QJFIYXmh0sAavJQdcM30VgfCylpWPUg.JPEG/I6icoJ9P6RfIQmhWeIrZLtA4njFM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ㅍㅋㅁ빵 놓쳐서 슬픈 배우]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33602122&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33602122&amp;memberNo=31542741</guid>
-            <pubDate>Sun, 10 Apr 2022 01:52:17 GMT</pubDate>
-            <content:encoded><![CDATA[제가 이렇게 눈 부릅 뜨고 지켜보는 이가 있었으니,,!TVING &lt;아직 최선을 다하지 않았을 뿐&gt;에서 공과 사는 구분하지만, 인간美 넘치는 햄버거집 점장부터"궁금해? 천천히 알려줄게" 한마디로 소름 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDhfMTgw/MDAxNjQ5Mzk5MTczMjUz.gKrWHqNuMkeq40e0TLu_1pag4dzL5cal3wyrWo_DYLQg.4x5UjTiP9GHWhazUSQk5yVshRGQqesLedef7OUY5ifUg.JPEG/IJBLcl9pIVfb2vPU7zMQNlAfweHc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
