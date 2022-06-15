@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 09:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 10:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간 루테인 [추자현]]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33742764&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33742764&amp;memberNo=21724264</guid>
+            <pubDate>Wed, 15 Jun 2022 10:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요해피비입니다:) 마더스클럽을 뒤흔들며 우리의 마음까지 뒤흔든 울언니추언니추자현 천상계 미모로 인간계 뒤흔들러 왔다고 해서 해피비 당장 달려갔는데요 렌즈 끼고 간 해피비갑자기 렌즈 빼고 촬영 가···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDRfNjUg/MDAxNjUxNjQyMjk0NTIw.PdCO0KgNPrVXQmQEnxKUy87boJ96oOqL5fThsKaiLisg.YGD8nrN0ADLt-OB4tWvuc7neSr8g1CRH3OYoVTOQdsAg.JPEG/IIRxn7Ay1G9EM0oDMmwzN3h9nm-U.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보고만 있어도 
 기부니가 좋아지는
@@ -154,14 +162,6 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33112400&amp;memberNo=21724264</guid>
             <pubDate>Wed, 12 Jan 2022 09:23:15 GMT</pubDate>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTJfNjYg/MDAxNjQxOTc0NTE0NDI2.smhHl5aHsQpBZYHcMSHtLH7d1hMgue7F4WlGTQtIlwkg.1dd7s1j1tnVqyQvgrK6v_h9UHX7oZoQoPSxj0zlfahMg.JPEG/I1J7shYDDcA0lMTOmc6yEk7C_Tio.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이진욱에게 절대 사라지지 않는 단 한 가지.]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33007710&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33007710&amp;memberNo=21724264</guid>
-            <pubDate>Sun, 26 Dec 2021 05:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[죽일 수도, 죽을 수도 없는불가살(不可殺)이 된 존재단활 600년의 세월.죽지 못하는 그에게그 시간은 끔찍한 고통이었다. 수십 번을 죽으려고 했지만, 죽을 수도 없고 긴 세월 동안 수없이 죽임을 당할 뻔했지만, 죽지 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjRfOCAg/MDAxNjQwMzMyMDI3NTY1.-Qsbd4Q_AslqAx-1jg9dd7wTYm0ms9XDEJIGLg897x0g.3Vg5De6ot-td42Q8-DwuM-iHEp2mwJh59hSd90c9u5cg.JPEG/I67rP5RimLdwiBovtVZr0rHlcLHM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
