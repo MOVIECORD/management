@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 06:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반짝반짝 '효진'별 아름답게 비치네✨]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33979397&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33979397&amp;memberNo=22903361</guid>
+            <pubDate>Fri, 17 Jun 2022 06:29:17 GMT</pubDate>
+            <content:encoded><![CDATA[등장부터 반짝이는 손끝 밤하늘의 별처럼 반짝이는 오늘 포스트의 주인공 ✨ 별을 닮은 '효진'배우&nbsp;✨ 자, 그럼 다 같이 효진 배우 보러 화보 현장으로 고고! 참, 그전에! 효진 배우를 만나기 전&nbsp;준비해야 할 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTZfMTQx/MDAxNjU1MzczNDIyNTI4.5e5ba6PP3A56Sw7_4f3vzCjflK50l8vdg4PuBIO-M0Ig.QpKt5Pm-_YmnY3JKcxef5MugzLDRSY1GCF_Or0vhZYkg.JPEG/Ip7FFUm5_aUfZWWw8y61FWDgWeGc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서현진] 승률 쩌는 변호사의 본모습]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33941689&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 28 Feb 2022 09:22:08 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 여러분!! (୨୧ ❛ᴗ❛)✧ 오랜만에 들고 온 윰블리 소식입니다!!어서 와 윰 화보 현장은 오랜만이지?제가 오늘 전화를 한 통 받았는데 말이죠,날이 점점 풀리는 걸 보니봄이 오고 있다는 소식!!윰블리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjVfMjQy/MDAxNjQ1NzY0MTkwNjU1.jKsQNE0Kgtljp-2MbVQFApVVCJTsQeInnPstLg9coSQg.crYaqsji0fR1jZimDVQnwm4bTqFNwujkDR9w9lYYGL4g.JPEG/I9yVcpuSNWMHtwIqaWvvUA2eg6wY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예쁘게 생긴 건 잘한 게 아니에요! 그치만…]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33351193&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33351193&amp;memberNo=22903361</guid>
-            <pubDate>Fri, 25 Feb 2022 10:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[잘했을 때 보상을 해주세요. 예쁘게 생긴 건 잘한 게 아니에요! ㄴ 그치만… 그치만… 주혁 배우는 국보급 미모인걸요 한국에 새로 알려진 아름다운 선이 있대요! 이마부터 콧대를 지나 턱 끝까지 주혁 배우의 아름다운···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjRfMTY0/MDAxNjQ1Njg0MjMzOTM1.fHO1ow6VNsGxHSTAeuMN5PCjDTkDUPnhsh3yAUofu1Ug.Y7Ak6PPtp-2pZUM1hEKrR9cnnYsTqMQ2f1iiNA8AzLMg.JPEG/IhjcACallgnPJRWYasYhJP3x8KfM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
