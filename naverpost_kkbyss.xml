@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 09:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 10:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신승호] 겉바속촉 세자의 등장이오!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33981171&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33981171&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 17 Jun 2022 10:28:18 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다:)오늘은 배우 신승호 씨가 출연하는tvN 새 토일드라마 &lt;환혼&gt;의캐릭터 프로필로 포스트의 문을 활짝열어봅니다 [사진출처: tvN '환혼'] 강렬한 아우라와 함께캐릭터에 대한···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTdfMjkx/MDAxNjU1NDUxNTE4MTQ4.eEBsoCK4s960T3ybLOwdIPyj-VHG7d7Aqxmflt1J3Fog.wobWoEryxLEVbqxA_m0vHy3SEtlcD33xp6k8T_WedH0g.JPEG/I4zWQhPiphDJwAunH0fLruUnq8hE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱]이 이긴다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33974100&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 04 May 2022 09:26:22 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다! 혹시 영업이 끝난 마트에 수상한 움직임이 포착됐다는 얘기 들으셨나요?   [사진 출처: 퍼스트룩] [사진 출처: 퍼스트룩] 알고 보니 화보 장인 이광수 씨가 ‘퍼스트룩’과 함께 화보 촬영···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDNfMjgy/MDAxNjUxNTYwMjcwODI5.5kp625r_3yiVZNyVG4UZTxt6Y2gUc7fVsOuq36gDVUsg.Gfu_VQ4uCI6n8HhwhTczE9-Xt0K-yL72h7uo-Iw8cJsg.JPEG/I9y4WOI6ptAHp9zTqJErzFwGk364.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신승호] 어느 (장꾸)배우의 하루]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33733768&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33733768&amp;memberNo=35839671</guid>
-            <pubDate>Tue, 03 May 2022 03:56:28 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다:) 오늘은 넷플릭스 시리즈 'D.P.'로 백상예술대상 신인 연기상 후보에 오른 대세 of 대세 tvN '환혼'부터 웨이브 오리지널 '약한영웅' 출연 확정까지 열일 of 열일배우 신승호 씨와 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDNfMjk1/MDAxNjUxNTQxOTAyODQw.L3lAeTzB4oYWfu2uL8PYTLQ8SBRpLMy510onJW9baygg.14CfySIQbtBd4iVfGSEm6xyRZywjPr1qSTdnEaUff20g.JPEG/IKjXojAapnnEPVNDxpZDWkCHhfkw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
