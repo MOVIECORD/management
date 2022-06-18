@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 08:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 09:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 내 주식 윰밥 ◥█̆̈◤࿉∥]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33982142&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33982142&amp;memberNo=21724264</guid>
+            <pubDate>Sat, 18 Jun 2022 09:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[소문난 원조 맛집&lt;유미의 세포들&gt;&nbsp;윰밥 덕분에&nbsp;요즘 밥 안 먹어도 배부른 사람= 나 윰밥 투샷 보고 있자니너무 달달해서이빨 잔뜩 썩어버린&nbsp;해피비 해피비&nbsp;"이&nbsp;투샷은 진짜 다 같이 봐야 해" 그렇···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTdfMjI0/MDAxNjU1NDc3NjI5NDgx.54ys0AHhopjhxutYhv4V5_zlEVgkO6qgOHZyDfLkyZQg.n6G_oAD4NPr6_yKY5gxjG36MnjDK7DXK2GqpsPw84ssg.JPEG/IukL2Fz_pJvOO5OQWBLCFHt-kwnw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인간 루테인 [추자현]]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33742764&amp;memberNo=21724264</link>
@@ -155,13 +163,6 @@
             <pubDate>Fri, 21 Jan 2022 09:22:16 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;해피뉴이어&gt;로 돌아온 한지민 하.. 또!꽃 기죽이고 그런다 또! 잔뜩 풀 죽은 꽃들과 잔뜩 물오른 해피 new 지민 짐느가 여기 있으면 천국은 누가 지켜? 짐느 마이 엔제에엘 탈인간계천상계 영원히 사랑···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTlfMjc5/MDAxNjQyNTU4NDQ4OTM2.BlY1uKF0uxmzak24Oa6sey1c9H8jXczY9d4skWFtWagg.d3jo-i0wweWeKBffWznUKqngKY8295RCViSFsWvBbR0g.JPEG/IX6HrTLR-50XxUU-1UnQJm6qUrAE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BH엔터테인먼트] 1월의 BH온에어]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33112400&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33112400&amp;memberNo=21724264</guid>
-            <pubDate>Wed, 12 Jan 2022 09:23:15 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTJfNjYg/MDAxNjQxOTc0NTE0NDI2.smhHl5aHsQpBZYHcMSHtLH7d1hMgue7F4WlGTQtIlwkg.1dd7s1j1tnVqyQvgrK6v_h9UHX7oZoQoPSxj0zlfahMg.JPEG/I1J7shYDDcA0lMTOmc6yEk7C_Tio.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
