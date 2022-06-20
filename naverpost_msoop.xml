@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 03:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 04:35:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대한민국, ‘수지’ 보유국]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33990209&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33990209&amp;memberNo=22903361</guid>
+            <pubDate>Mon, 20 Jun 2022 04:33:41 GMT</pubDate>
+            <content:encoded><![CDATA[등장만으로 세상을 흔들고&nbsp;  눈빛은 서사 그 자체 천상계 멋쁨으로 촬영장을 찢었던 수지 배우의 씨네 21현장 비하인드를 공개합니다! 보자마자 감탄사만 나오는  ♥수지 배우♥ 수채화 머금은 명화가 이런 거구나…!  ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTdfMTQy/MDAxNjU1NDUxNjgzMjI2.anVrNjHXITFzxVji3NBaQGFbNmZAkoMrRGiBCnOX4yog.o-7YQW_yhr0C4usxyFwwONFLg-RVMTysv5tsRHemoEwg.JPEG/IOA9TM2M2MMOxpbKKKhC-ZBeS9ww.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반짝반짝 '효진'별 아름답게 비치네✨]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33979397&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 03 Mar 2022 10:25:05 GMT</pubDate>
             <content:encoded><![CDATA[여러분, 오래 기다리셨습니다.드 디 어그가 돌아왔습니다.이번 봄,달콤하게 또 살벌하게우리의 맘을 들었다 놨다 할그 이름도 설레는!!!!! 김.재.욱 !!!!! 재욱,,, 재욱,,, 하고 울던 날은 이제 끝!KBS2 월화 드라마···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDNfMTEx/MDAxNjQ2Mjk1MzU3NjEy.mAyH2e914gqvJme_TWhFH3E9SKTID0FHccAXgC4aaTsg.Yeou9uEwuUKYskdHqWR-Fjd2TGAW2pV7J0gp-Ryd3q4g.JPEG/IJlQ5MvGLoputAXG3YzVMv2LAhf0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘정유미’와 함께 봄이 오고 있나요?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33371421&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33371421&amp;memberNo=22903361</guid>
-            <pubDate>Mon, 28 Feb 2022 09:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 여러분!! (୨୧ ❛ᴗ❛)✧ 오랜만에 들고 온 윰블리 소식입니다!!어서 와 윰 화보 현장은 오랜만이지?제가 오늘 전화를 한 통 받았는데 말이죠,날이 점점 풀리는 걸 보니봄이 오고 있다는 소식!!윰블리···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjVfMjQy/MDAxNjQ1NzY0MTkwNjU1.jKsQNE0Kgtljp-2MbVQFApVVCJTsQeInnPstLg9coSQg.crYaqsji0fR1jZimDVQnwm4bTqFNwujkDR9w9lYYGL4g.JPEG/I9yVcpuSNWMHtwIqaWvvUA2eg6wY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
