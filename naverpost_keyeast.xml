@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 13:46:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 14:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 케미 미쳤다는 문가영]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33994148&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33994148&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 20 Jun 2022 14:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[우산 하나 나눠 썼을 뿐인데 화면을 뚫고 나오는 텐션얼굴 가득 거품을 뒤집어 써도 설렘으로 승화곰 탈에 거의 메달려 걸었을 뿐인데 심장이 간질간질이런 문가영이 대놓고 ෆຶ로코ෆຶ를 한다?! 그대로 문(가영에···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjBfMjA4/MDAxNjU1NzMyNTc3MjAy.N1zJO8A_t4pYkyxq9-rf_lX__6jsOykNFp8HkKQMl-Mg.GEp_txCjDE7cZbRiBEO5pOpmR8zrrrotP2nDamk7ncMg.JPEG/ILjWnch59MIJJtGHU3THy6Yh6xy0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우도환으로 본 농구 선수 vs 축구 선수]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33984756&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:43:26 GMT</pubDate>
             <content:encoded><![CDATA[키동 하이-!말랑콩떡 비주얼로 오랜만에 만난 키동에게 인사를 건넨 도환 배우! 인사를 건네자마자 이런 깜찍이 표정❛‿˂̵✧으로 키동을 기절하게 만들더니그저 모니터를 바라봤을 뿐인데 멜로 서사 한 편 뚝딱!하게 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MThfMjY3/MDAxNjUyODQ3ODM2Mzc3.qz2eQoPD8aFQ-WxdcwZvaanbe20qFCRVC-PEn8Q9hdYg._T7Vjx1kz4PzOOXb6-kXqfs6RIAmChc_5Q0GzT0WMwkg.JPEG/IIcnCxmbvPyaP98y3TGzNzWhlBFE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 앵커♥배우 커플 근황]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33814621&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33814621&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 24 May 2022 02:43:26 GMT</pubDate>
-            <content:encoded><![CDATA[2년 전 그때처럼 봄에 찾아온 선물일까요[단독] 이정훈 앵커 ♥ 여하진 배우 근황 포착!과몰입 SSAP 가능한 정훈 ♥ 하진 커플을 키동이 만나고 왔습니다! (feat. 그 남자의 기억법)엇! 앵커님~···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTdfOCAg/MDAxNjUyNzc4MTg4NDg1.jV-E_kBcyEApLV_k1iVHxI_vwJyoyag7SgQjEIGd-CAg.oMh-bQr_-iitRa8_jo4MZuGU9BCM5b3HBOgSsVjTD38g.JPEG/IoMa-QeuEmflaCgxIlQ1PHBKe4lA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
