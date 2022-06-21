@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 13:49:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 14:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장혁에게 수여하는 사극 개근상]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34000240&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34000240&amp;memberNo=28456565</guid>
+            <pubDate>Tue, 21 Jun 2022 14:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[Aㅏ... Aㅏ...오지 말라는 그날이 오고 말았습니다...바로 KBS2 드라마 &lt;붉은 단심&gt;이 끝나버렸습니다&nbsp;(˘•̥-•̥˘)모두 마지막까지 재미있게 보셨나요?&nbsp;지난 8주 동안 월요병을 치유해 준 장혁 배우! [사진 제공 :···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTdfMTU5/MDAxNjU1NDUyMzU4ODg1.oCelCAlem-ujmO5-XtAwDABqw-udzc2g8bgyeG6MNSsg.6oj19Es7AVn4dIJFRmG6-2F80WXHaeed-FNtK-uK7T8g.JPEG/I6Zx1x8JuXqmjiKBlLHuKnlZyRRU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호영 앓이 끝내는 법 그거 뭔데. 어떻게 하는 건데.]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33946860&amp;memberNo=28456565</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 08 Jan 2022 12:36:32 GMT</pubDate>
             <content:encoded><![CDATA[싸-하!오늘은 혜윤 배우님의 앳스타일 1월호 화보 촬영 비하인드 현장을 가득가득 담아서 여러분에게 찾아왔습니다~~! (대충 함성 지르는 짤) 이번에도 장난 없는 매력으로 10분… 아니 5분 만에 여러···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDdfNzAg/MDAxNjQxNTM2ODczOTgx.HFqO_d4LhD5pESniu1RTKoUTOOtXwKOwyH8RB8gTU1wg.W-PgyFTH4ar9lb5kpFZfyX-no3LlSSSTTFk0e3kE1dYg.JPEG/IwYWmF_zHgWVP3fdXPTIT4c703Y4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굿바이 <멜랑꼴리아> 지현욱 !]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33045642&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33045642&amp;memberNo=28456565</guid>
-            <pubDate>Fri, 31 Dec 2021 08:28:20 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 아쉬운 소식과 함께 찾아온 싸더지기 입니다 :(어제(30일, 목) 최종화를 끝으로 오광록 배우님이 지현욱 역으로 출연했던 tvN드라마 &lt;멜랑꼴리아&gt;가 막을 내렸는데요 이대로 지현욱을 보내···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfMjQ5/MDAxNjQwOTIxNzgxMzAy.2VEjb6qtmceUGK1jPUX7TEEU7QngL6xTrl31ubbh4WAg.msQLlkVGptDj4kr2Z06jI2omgrLE--kvHzecxVyey5gg.JPEG/I31-wIYEUlPrIX-EqosOTfMxtVgk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
