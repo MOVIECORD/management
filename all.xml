@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 06:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 07:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2639,6 +2639,14 @@ feat. 라켓소년단 오매할매의 플렉스? (네이버 포스트 ─ 디퍼
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MTlfMTE3/MDAxNjE4ODI1NzU2NzU4.vJZL8Kol3W41xZxmFGxoRAl6khqMOEfyvK0QkKsDWrcg.6ZWn8ZZXcU9BJOXwVsFBfGDThtXDXWpJAigFvWEkw1og.JPEG/I07Z1mTkxoDBhgivzu7G2EeXOX-I.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[딸 생각에 눈물지은 아버지 [허성태] (네이버 포스트 ─ 한아름컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34005171&amp;memberNo=34451204</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34005171&amp;memberNo=34451204</guid>
+            <pubDate>Wed, 22 Jun 2022 07:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 한아름컴퍼니 입니다~~ 어제(21일) 허성태 배우가 출연한 KBS 월화 드라마 '붉은 단심'이 16회를 끝으로 종영하였습니다~~ 한아름지기가 '붉은 단심' 마지막 촬영 현장을 찾아갔습니당~~~갈대숲···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjFfMjUy/MDAxNjU1Nzg4OTU4Mjgw.wqNSC8ye3enw9HRZEJ8y4fxAzKdg0vbCDdxd9zRwKXkg.7aq2b3ayPVv-wo9ll2sYeQcIew01-ryA_i2YrEvagf4g.JPEG/I5NnuF_0d9gW8f4M8MBmeWaiZLFw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[막걸리에 이어 탕수육 먹방 까지 찍은 [허성태] (네이버 포스트 ─ 한아름컴퍼니 )]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33908733&amp;memberNo=34451204</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33908733&amp;memberNo=34451204</guid>
@@ -2789,14 +2797,6 @@ feat. 라켓소년단 오매할매의 플렉스? (네이버 포스트 ─ 디퍼
             <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 한아름지기입니다~~ 오늘은 손태양 배우의 소식을 들고 찾아왔습니당~~~ 손태양 배우가 최근 의류 촬영을 진행했는데요!! 손태양 배우는 이날 턱시도 부터 캐주얼 정장까지 다양한 의상을 입고 등장했는···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjFfMjU2/MDAxNjI2ODM0MzE5OTY4.mrdZACQFjXJpu3-4e8CUb_kv3C-vHSKYRFhFolyPS0Mg.LrAwM068tU73CljeKslCUOkqLxKajEFXPhuvBipnElkg.GIF/IDfZs0wm8cub9k865YKclFi19elM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭염은 괴담꾼 [허성태]와 함께 (네이버 포스트 ─ 한아름컴퍼니 )]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31984144&amp;memberNo=34451204</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31984144&amp;memberNo=34451204</guid>
-            <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[지난 8일 허성태 배우가 진행을 맡은 디스커버리 채널 예능 '고스트 하우스'가 방송되었는데요!!! 허성태의 MC 데뷔 신고식!!! 여러분들은 어떻게 보셨나여?? 한아름지기는 허성태 배우의 목소리 덕분에 스토리에 더···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTNfNyAg/MDAxNjI2MTYxOTY4NzAz.iUMBYdu7J5ufW3eOL0gg9v74knx6xqcqQM9Yl3QnRfsg.51Cp739Zyxm-__IFb-rhMOGTPKQPv_K-tozKV0d_64og.GIF/I3ZUjzP871uIZJAKiV_eKVRoKCto.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
