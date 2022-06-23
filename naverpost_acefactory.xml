@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 10:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 11:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[약속 지키는 이유영]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34012942&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34012942&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 23 Jun 2022 11:20:32 GMT</pubDate>
+            <content:encoded><![CDATA["칼이 되어 달라는거죠" 도박판 잠입 수사 중감방에 간 사법연수생 요한(강하늘)에게자신의 칼이 되어달라고 말하는여자 '인사이더' 오수연=이유영 20년을 복수를 위해 살았고그 복수에 함께해···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjNfMjc5/MDAxNjU1OTc3NTIyNzU3.0JvklDCr5kiXj1Tv0O7n216hkzvloimxqrLYdvAbEU8g.3whR9QBLIkP_IEmBLA6X__sU191Hh-2xsD6c1wk2zmwg.JPEG/IPvJRa6c8MNgEhyoKnYYrYGfX6Lk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[춤에 진심인 윤세아]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33996872&amp;memberNo=44834478</link>
@@ -163,15 +171,6 @@
             <pubDate>Sat, 23 Apr 2022 13:30:55 GMT</pubDate>
             <content:encoded><![CDATA[최근군재판장에 선 배우김영민tvN '군검사 도베르만' 용문구그리고 용문구와극과 극 김영민본체 영민은 이렇게 귀엽고사랑스러운데이렇게군법정 들어오면야수모드 ON재판장의 하이에나 용문구로포스는 물론매서운 눈···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MThfMTc3/MDAxNjUwMjg1ODM0NDAx.7E7PwlfAJ6xCDCIn1_rr5E313ehs_h2yzvjbCNFMjj4g.Og_EKwgV1njGkuMYZtJS-DuPYQ2F4ff5xUO9J209ykkg.JPEG/IDkxkZaLV3zeCyUf5MgVtQTKWiSM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '스텔라'로 찾아온
-이규형]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33583919&amp;memberNo=44834478</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33583919&amp;memberNo=44834478</guid>
-            <pubDate>Sat, 23 Apr 2022 13:30:55 GMT</pubDate>
-            <content:encoded><![CDATA[최근 절친한테 쫓기고 있는 이규형"막다른 인생 제대로 한 번 달려본 적 없는 차량담보업계 에이스 ‘영배’(손호준). 보스 ‘서사장’(허성태)이 하룻밤 맡긴 슈퍼카가 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDZfODAg/MDAxNjQ5MjM0MzUxNjE2.h-YXnrWrYH2S2s7Uw__5odCz0UBr04-qETOQDKL7-SAg.WPZTF1lBrblbTR0egv_eUhquB9swb9tVXpK0QI8U-aQg.JPEG/I7MLCs_FWpQzzgWm_-P3iGhq2TI8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
