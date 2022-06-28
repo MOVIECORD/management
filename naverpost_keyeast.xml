@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 12:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 13:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인천에 상륙한 승리의 여신]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34038998&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34038998&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 28 Jun 2022 13:44:04 GMT</pubDate>
+            <content:encoded><![CDATA[헐,, 야구 보러 갔다가 하선 언니 봤어요 ٩(●˙▿˙●)۶…⋆ฺ이 드넓은 야구장을 멀리서 아우르고 있는등번호 17번완벽한 자세와 투구로 선수들과 관중들을 깜-짝 놀라게 만든인천에 상륙한 승리의 여신박···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjhfMzkg/MDAxNjU2Mzg1OTM3ODQ5.o4nguEjRSEuuACW2qW3QDWgR8sL9IFnzjIHuQoxzB8Yg.LCj4FWzXa_qSZEPhPTub9ep1gVdOkqd7mpchFXdu5Akg.JPEG/IP1v1hs4dVKYzUlCx5KahlTqajNM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[70조 갑부 누구?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34023330&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 26 May 2022 14:23:17 GMT</pubDate>
             <content:encoded><![CDATA[여러분 그 소문 들으셨어요?요즘 눈에 띄는 배우 '하나' 있다고넷플릭스 '안나라수마나라'의 '하나'뿐인 신 스틸러'백하나' 역의 지혜원 배우!놀라운 노래와 춤 실력으로 오프닝을 장식한 그 배우!극 중에선 죽어라 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjZfNTMg/MDAxNjUzNTQ5MTg0NTY5.SJBIWYR-lc_Ui4nc6fpIUTdrI_6ICRq0XfxdeivhsIkg.Lq4bURcyUIYNF1rg0xxo47Rf7WC4-fMLvHmBOzeK7bIg.JPEG/ICffQuJNX001A7U4jSd8vGhlk-FA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대급 분노 유발자]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33859217&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33859217&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 25 May 2022 13:46:52 GMT</pubDate>
-            <content:encoded><![CDATA[이곳은 월화드라마 '우리는 오늘부터'의 주 무대 ⟡다이아몬드 의료재단⟡그리고 이곳에서 한눈에 봐도 화려한 다이아몬드 같은☆彡미모를 뽐내고 있는 홍지윤 배우드라마 시작부터 불륜을 저지르며 시선 강탈은 물론뻔···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjVfMjcg/MDAxNjUzNDcwODAwOTQ4.TG2UZU_RLGWdECS6sYgZpnJ31rtWdwQGne1pVNUuTocg.K5PSttGQyJ_9TJ9CTanKM15_vDK09EkulSGVGTKf3SQg.JPEG/IF4iInn38VYuH75t_uH2vqixX5eU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
