@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 04:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 05:32:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두 개의 이름을 가진 여자]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34036048&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34036048&amp;memberNo=22903361</guid>
+            <pubDate>Tue, 28 Jun 2022 05:31:05 GMT</pubDate>
+            <content:encoded><![CDATA[여기, 두 개의 이름을 가진 여자가 있습니다.여자의 이름은 이유미그리고 이안나똑같은 얼굴이지만너무나 다른 분위기를 풍기는두 개의 이름을 가진 이 여자의 비밀은 무엇일까요?사소한 거짓말을 시작으로 완전히 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjNfMjQg/MDAxNjU1OTQ5NTcwNjI0.hQKpJTuspSRjwtmiY5Pr7wz5tBdRYLcT3CQbuF-yekAg.rItC8qxVAPOSRov6HiHhxhwufY6AI1kv-D_p2pGRZBgg.JPEG/Ior4pYTovHXO6R4qFK9OwUJKiP-Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대한민국, ‘수지’ 보유국]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33990209&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 08 Mar 2022 10:24:40 GMT</pubDate>
             <content:encoded><![CDATA[이 문제의 답은 무엇일까요? . . . 정답은 바로,,,! ★☆ 김.재.욱.미.모 ☆★모두 KBS 2TV 월화 드라마 &lt;크레이지 러브&gt; 본방 사수는 하셨겠죠? 봐도 봐도 보고 싶은 재욱 배우 미모 때문에 재욱 앓이, 아니, 고···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDhfMTYw/MDAxNjQ2NzE0ODI0MDM1.LOYnsJC_PtyxUN7Xe0No0exZcfG18UqyQCsSYhuvBXMg.32Isrz0txTdQGLqUtP1ZRHZLNbBnIIocKGbs-KfnWD8g.JPEG/IN87_u-J9vDNdCjZ3UwyKmWcXQC0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 분 너무 설정과다 아닌가요?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33388901&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33388901&amp;memberNo=22903361</guid>
-            <pubDate>Thu, 03 Mar 2022 10:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[여러분, 오래 기다리셨습니다.드 디 어그가 돌아왔습니다.이번 봄,달콤하게 또 살벌하게우리의 맘을 들었다 놨다 할그 이름도 설레는!!!!! 김.재.욱 !!!!! 재욱,,, 재욱,,, 하고 울던 날은 이제 끝!KBS2 월화 드라마···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDNfMTEx/MDAxNjQ2Mjk1MzU3NjEy.mAyH2e914gqvJme_TWhFH3E9SKTID0FHccAXgC4aaTsg.Yeou9uEwuUKYskdHqWR-Fjd2TGAW2pV7J0gp-Ryd3q4g.JPEG/IJlQ5MvGLoputAXG3YzVMv2LAhf0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
