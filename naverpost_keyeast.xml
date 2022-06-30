@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 09:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 10:33:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배려 없는 미모]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34052094&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34052094&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 30 Jun 2022 10:31:01 GMT</pubDate>
+            <content:encoded><![CDATA[배려 없는 미모의 소유자를 소개합니다☆꧁✬◦°˚°◦. TA-DA !.◦°˚°◦✬꧂☆씨네21 촬영장에 나타난♥정은채 배우♥ 이게 명화야 비하인드 컷이야 (웅성웅성)쿠팡플레이 시리즈 '안나'에···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MzBfMTMx/MDAxNjU2NTgwMTgzNTgz.AONhRHvs3uBCDOqLZDEbWjUEQTE0NmKid1iQ7Tnvg1Ig.Jl_G300G-rfaiMZu96AXO5fXIq_NBikZBD9jBvIaMV8g.JPEG/IyW48ADc79QxSMg2L9gHDNEYBNmo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[춤 실력 들통난 전직 아이돌]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34046005&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 28 May 2022 12:39:22 GMT</pubDate>
             <content:encoded><![CDATA[이 드라마는 코믹인가, 미스터리인가, 로맨스인가!매 회, 상상도 못 한 전개 ㄴㅇㄱ와 배우들의 특급 열연으로 화제를 모으고 있는 '지금부터, 쇼타임'그 중에서도, 슬해(진기주 분)의 짝사랑 상대이자 나도 저···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjdfMTI5/MDAxNjUzNjQxODU0ODM2.1xlEtIWLLTBWMVC5g-Fo71seWtSJ_Wd8dM1-vkuzEH4g.4Kc0l4L8TeRS0AwCXiJ5ANfphNOvJ24aL7glHNW3Gx8g.JPEG/I6YWlIkjYEmYrGUhDgPcyd2519vM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 얼굴의 문가영]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33872019&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33872019&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 27 May 2022 15:27:04 GMT</pubDate>
-            <content:encoded><![CDATA['그 남자의 기억법', '여신강림' 등을 통해 밝고 사랑스러운 매력을 보여준 배우 문가영지금껏 보지 못했던 새로운 얼굴로 찾아왔습니다파격적인 비주얼로 '데이즈드' 5월호 커버를 장식색다른 반전 매력을 보여주며···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjFfMjEz/MDAxNjUzMTE0NTY4OTY0._PVFxQRShAzYau9gDjv-blhV4ynSy1NJx5-S4c602tsg.roXVrwC4fJPwZ433PX8ihWhnunPD04h6eXt4tIyepwkg.JPEG/IpNwkR96NjvA_99Eix7aITcucMwg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
