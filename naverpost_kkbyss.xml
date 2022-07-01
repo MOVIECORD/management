@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 09:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 10:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[전소민] 옥상으로 따라와]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34058744&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34058744&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 01 Jul 2022 10:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 싸늘하다 가슴에 비수가 날아와 꽂힌다&nbsp; &nbsp; 배우&nbsp;전소민&nbsp;씨가 '안인경'&nbsp;역으로출연하고 있는&nbsp;JTBC &lt;클리닝 업&gt; 그 가운데&nbsp; 내부자 거래에 함께 울고 웃었던'싹쓸이단···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDFfMTk5/MDAxNjU2NjYyNTUzMDU2.bCUeu8tGuwwonCAiMfLifpZQD05JZ660dJCGGG7hXgog.R3RbnCO4CHB1q7IVADsXQPpds94sEdQ3TAJArZLWtrUg.JPEG/Iebo7OZh_mLBnTkUh8XS3LfXr8Ek.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[손우현] 논란의 중심인 배우]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34048343&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 11 May 2022 09:25:25 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 제58회 '백상예술대상'에 킹콩즈가 하나도 둘도 아닌 셋이나(!) 모인다는 소식을 듣고 발 빠르게 다녀온 킹콩지기입니다 (헛둘헛둘)배우 이광수, 채수빈, 신승호 씨와 함께 화려했던 그···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTFfMTIx/MDAxNjUyMjM3MzExNTA2.Jq7l0vmfi9HJYdwN_XVWhnLOHauoGOzbGS5wfxv2ufIg.OhYM4RFLPTwe6X4J03YWotohdT17H5BFZY01vILls1sg.JPEG/I9b688wgtp3JrAGp4-QJHjtvCakM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이광수]의 퇴근 후 단독 입수]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33772987&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33772987&amp;memberNo=35839671</guid>
-            <pubDate>Tue, 10 May 2022 08:31:24 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다&nbsp;'0' [사진 출처: 엘르 코리아] [사진 출처: 엘르 코리아] ‘엘르’와 함께한 이광수 씨의 A컷 다들 보셨나요?!  ‘퇴근 후 나이트 루틴’ 콘셉트로 기획되었다는 이번 화보! [단독] ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDlfMTkw/MDAxNjUyMDgxMzQ0MTM4.IR6s71293zc3z5O-gt6s0UWfWFE3YV1TCYQL46nPQ-Qg.Cd2KSuU_ieeJPn7lHllBOoePJNwdVu6LggyijcqdipQg.JPEG/IcjAvBTissJbuJbaPu_Y7gWZFRBA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
