@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 13:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 14:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-직장인 현실 고증.jpg]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34059533&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34059533&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 01 Jul 2022 14:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[K-직장인 특: 비가 억수같이 쏟아지고, 좀비에게 물려도 털레털레 출근 완.기상 이변으로 갑자기 추워진다?! 담요 두르고 출근 완!하면 됨.사원증 찍고 출근 완. 했으면 그 다음은 모다?!동료들과 잠 깨기 위해 커피···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDFfMjIz/MDAxNjU2NjY0MjE2NTY5.73aRA_juyrg15KgnkMX9oNYc8Mgp8mKgo75HwyNE-UMg.tw1pzqddm1LofElG3m3dlaiPXFWGtIvfhPvwiqizEdQg.JPEG/I5jCEJqdLaqF0FQbprkjENQBOU68.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배려 없는 미모]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34052094&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 29 May 2022 13:33:52 GMT</pubDate>
             <content:encoded><![CDATA[[별별판] 내가 파는 배우보다 담당 매니저가 더 유명해...어제 내 배우가 우리 집 근처로 드라마 촬영 왔더라고그래서 신나게 카메라 들고 달려갔지! ٩(ᐕ)و 근데 내 배우는 조금 떨어진 곳에서 촬영 중이었···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjdfMjU5/MDAxNjUzNjQxODcxODcz.82EOWB4gY7dHNorTlckfe0ydX-q3rpLM-VqXw67s8JEg.DZh9jF9R7qWGfGGrnEXmDBtsA-JADzuuAXLHRyKuTrgg.JPEG/IYbnPD-IKDbDd9_8TBIowlB1g2YE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 경찰 비주얼.jpg]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33874550&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33874550&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 28 May 2022 12:39:22 GMT</pubDate>
-            <content:encoded><![CDATA[이 드라마는 코믹인가, 미스터리인가, 로맨스인가!매 회, 상상도 못 한 전개 ㄴㅇㄱ와 배우들의 특급 열연으로 화제를 모으고 있는 '지금부터, 쇼타임'그 중에서도, 슬해(진기주 분)의 짝사랑 상대이자 나도 저···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjdfMTI5/MDAxNjUzNjQxODU0ODM2.1xlEtIWLLTBWMVC5g-Fo71seWtSJ_Wd8dM1-vkuzEH4g.4Kc0l4L8TeRS0AwCXiJ5ANfphNOvJ24aL7glHNW3Gx8g.JPEG/I6YWlIkjYEmYrGUhDgPcyd2519vM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
