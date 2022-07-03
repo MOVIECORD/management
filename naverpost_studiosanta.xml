@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 13:31:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 14:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OTT계 거성의 행보]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34066392&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34066392&amp;memberNo=31542741</guid>
+            <pubDate>Sun, 03 Jul 2022 14:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 유행이라는 '집콕' 유형 '종이의 집' 콕!넷플릭스 &lt;종이의 집: 공동경제구역&gt; 속에서 탄탄한 연기내공으로 시선 강탈&amp;마음 강탈 중인 김성오 배우 오늘은 화려함 뿜뿜이었던 행사 비하인드를 가져왔···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDJfMTQ2/MDAxNjU2NzQyNjM2NTcx.5TS5sFd99_0PComDFZyHKX7xIq2ODxNGQw2U8BApVCEg.KQmuBMlZLfKlma3WtzONBdX_mIwKYYnI5ZIV3PzTko0g.JPEG/IIjOHdFGIr49Ggu0a_uBVH0muu7Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[속보] 의문의 킬러, 한국 입성]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34052948&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Apr 2022 01:53:26 GMT</pubDate>
             <content:encoded><![CDATA[우리 다혜 컴 백 하 셨 다!스타포스ENT 배우이자 현재 가장 핫한! 톱 스 타 백 다 혜다혜가 왔다고요! 바로 장희령 배우와 함께 ♥별 별 사람들의 이야기 tvN &lt;별똥별&gt;로 희령 배우가 찾아왔습니다! 그···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjNfMjI3/MDAxNjUwNjc3NjA5NzIw.natuKXG4-_0RP83BAyhykH0-Fv-kW-AfRpB5VFrWHU4g.mzJtWOw5g6DAyv_nfgFO1jjZuadCTpJ9SR1yiPBU-3sg.JPEG/I50-XtChQ_jHABwXQs5190RNM8QI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청춘의 대명사는 바로 이 배우]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33672115&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33672115&amp;memberNo=31542741</guid>
-            <pubDate>Fri, 22 Apr 2022 04:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[심쿵하는 매너스킬훈훈 보스 '도균'으로 새롭게 찾아온 원정 배우 NEW 웹드라마 &lt;안녕하쉐어&gt;가 공개됐습니다!기쁜 마음 주체할 수 없어 지체 없이 가져온 산타 선물 ↖ㅇㅅㅇ↗시작은 산뜻한 원정 배우 미소로 XD···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTlfMTUw/MDAxNjUwMzUxMzUxODMx.yu-zISMzUfFuAyH8MDoszcoODTmX2jFoR-XGF_hOecQg.bU1in4Au1DccdXFrcXJqHCG2R-G3zq6asMaFNHrs34Ag.JPEG/I7nX0aLLp0IUM0DpGXQUi_tHJXvs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
