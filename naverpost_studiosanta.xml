@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 13:43:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 14:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이다희가 미래다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34073428&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34073428&amp;memberNo=31542741</guid>
+            <pubDate>Mon, 04 Jul 2022 14:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[짜릿해, 늘 새로워 우런니를 볼 때마다 느끼는 저의 감정입니다 '^'이다희 배우 매번 이렇게 아름답기 있냐구요! 후 각설하고 오늘의 비하인드도 얼른 풀어야겠어요 보여드리고 싶어서, 현기증 나니까요 바로 갑니닷···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDRfMTU3/MDAxNjU2OTAxNTAwMTc1.07AvljH8hOBveYUyaZEBbVtShcZW481DamHSLx9isccg.D17coBsadqfeSlh2CuKKoKdDBDPr2GoGn-IEeK_87Kog.JPEG/IZJJyUUhPNgzjjFSpiBY1I3_NabU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OTT계 거성의 행보]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34066392&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Apr 2022 02:59:45 GMT</pubDate>
             <content:encoded><![CDATA[주말만 되면 안절부절시계만 보는 사람~? 바로, 저 산타캠 부르셨나요 ? : D:매회 휘몰아치는 전개로안방극장을 꽉 잡고 있는TV조선 &lt;결혼작사 이혼작곡3&gt;:그리고꽃 길만 걸었으면 좋겠다!!기원하게 만드는 우···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjRfMTY2/MDAxNjUwNzY2MjE1OTAw.10KSx4kbVdgXO7hyHhZuhwtmSWTUKzF8PiNtCng3jiEg._7wRKdeh1k4lMnjlQ5J2H5cliPPTyP4Ke-UEYp-Psxgg.JPEG/Id_Ii8PdFhEKllhp-Dgmh0mfLwLY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덕질하는 톱 배우의 정체]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33677186&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33677186&amp;memberNo=31542741</guid>
-            <pubDate>Sat, 23 Apr 2022 01:53:26 GMT</pubDate>
-            <content:encoded><![CDATA[우리 다혜 컴 백 하 셨 다!스타포스ENT 배우이자 현재 가장 핫한! 톱 스 타 백 다 혜다혜가 왔다고요! 바로 장희령 배우와 함께 ♥별 별 사람들의 이야기 tvN &lt;별똥별&gt;로 희령 배우가 찾아왔습니다! 그···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjNfMjI3/MDAxNjUwNjc3NjA5NzIw.natuKXG4-_0RP83BAyhykH0-Fv-kW-AfRpB5VFrWHU4g.mzJtWOw5g6DAyv_nfgFO1jjZuadCTpJ9SR1yiPBU-3sg.JPEG/I50-XtChQ_jHABwXQs5190RNM8QI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
