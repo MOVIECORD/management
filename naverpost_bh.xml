@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 06:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 07:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트] 7월의 BH온에어]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34071201&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34071201&amp;memberNo=21724264</guid>
+            <pubDate>Mon, 04 Jul 2022 07:21:46 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDRfMjQx/MDAxNjU2OTE4ODQ5MzAy.-XZUsSLlv0E5MQM9UWQl1xEiOQUpAW2Pfs0t7SrAQ-Mg.pMpDmiY2b7kV3w2OM_O7M6heGzmE0g24ZMlm5EnRr9Yg.JPEG/IX0RMqLANIilWwjL4cUIhhSn00Nk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[복사기도 다 아는
 사내 연애 중]]></title>
@@ -156,14 +163,6 @@
             <pubDate>Sun, 30 Jan 2022 05:18:36 GMT</pubDate>
             <content:encoded><![CDATA[오늘 사진 사이즈 단 한 장도 안 줄입니다.저는 미리 말씀드렸어요인사도 안 하고 냅다 경고부터 하는 해피비솔직히 킹정?이거 이거 사진 줄이면 포토해피비 너무 슬프다구요얼굴 진짜 극락이다...셀린효 대단혀누가···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjhfMjgw/MDAxNjQzMzAyMzU1NzQ2.6h4VKthNEmYWPX-X8w-qdV3jMttDDw8hSlcyxqsx2UIg.4dR7JuA7yXaD5LeLTTSPM0Xr89p-t4q_5hqITyaW9kwg.JPEG/IE4FUGXRBzVc2UFkjHnt2RzTndGA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 해적왕이 될 상인가 [한효주]]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33139413&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33139413&amp;memberNo=21724264</guid>
-            <pubDate>Sat, 22 Jan 2022 05:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[포항항ꉂꉂ(ᵔᗜᵔ*)ㅋㅋㅋㅋ포항항항포핳핳항⚓️⛴포항항ꉂꉂ(ᵔᗜᵔ*)ㅋㅋㅋㅋ포항항항포항항ꉂꉂ(ᵔᗜᵔ*)⛴⚓️⛴ 행복하게 배가 출항하는 소리에해피비 당장 표 끊고 달려간 그곳 해적선의 주인해랑이 있었다...♥ 오늘부터 해적을 꿈꾸는 나···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTdfMTU2/MDAxNjQyNDA3OTM2OTY0.2jtCk0CU4ZJvAGPX6KID_0iv1nxxoezFpbf3di_IDO4g.WbWFIy-flfz_Jt0f0P-AQWQvuwADLMmIuyZIXNkNzaEg.JPEG/IGayDgy94psPfCbIxk3wzlL__NPA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
