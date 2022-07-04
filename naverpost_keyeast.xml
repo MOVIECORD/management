@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 12:51:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 13:43:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수습직원의 인간극장]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34073176&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34073176&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 04 Jul 2022 13:42:04 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 가장 미스터리하면서 핫한 동네지화동에 위치한 지화양식당의 수습직원 노다현 씨가 화제의 중심이라면서요??!어딜 가나 시선을 끄는 비주얼과 사랑스럽지만 묘하게 알 수 없는 미스터리함 한 스푼의 매력이랄···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDRfMjYw/MDAxNjU2OTA1MTM0ODk4.sZWXKFMi4hcGFPz17Yh9qTGroc9bDoQJFKDzoToXHBkg.HACXBHcyOog0XC6zpuM6vr_SUVyw1O70VJGBLsHSA7cg.JPEG/I1govX3GE8HiP-bzEYhd1V4NYL2E.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-직장인 현실 고증.jpg]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34066238&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Jun 2022 14:19:55 GMT</pubDate>
             <content:encoded><![CDATA[보라색 연보라색 진한 보라색 조금 덜 진한 보라색 살짝 더 진한 연보라색 .............하늘 아래 같은 색깔은 없듯하늘 아래 같은 화보는 없습니다화보의 주인공이 문가영 배우라면 더더욱 말이죠문가영 X 여진구 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDNfMjc5/MDAxNjU0MjUwMjk2MDMz.zAjQC7NPHEgoRGMRGXjxhyAX7weyqfQXqZe0HrDBFksg.WYSKviiI30MQ-3umaGodVgxyBNQl6HVZWrnZMHw-KAcg.JPEG/IuHnSkyaTaNmxFcIf4HxENtU7tfg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평행 세계에 살고 있는 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33893296&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33893296&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 01 Jun 2022 11:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 '평행 세계' 라고 들어보셨나요?평행 세계: 어떤 세계에서 분기하여 그에 병행해 존재하는 또 다른 세계를 의미하며 자신이 살고 있는 세계가 아닌 평행선 상에 위치한 다른 세계를 일컫는 말 (feat. 네···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzFfMTk1/MDAxNjU0MDA1MzM3MjI0.YuAq2AIKD2As4xb4P24LWPImWIhNbzLvkhmrCppBgM4g.PTP7SChFl6Cdq3brQNVWlMeuUW51_l7BQrgkrQacFQQg.JPEG/IXbUfNEi-PwqvsSLywu8IYlQ7s8A.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
