@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 23:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 02:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘부터 제 주식은 '완블리']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34089847&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34089847&amp;memberNo=31542741</guid>
+            <pubDate>Thu, 07 Jul 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[낰낰 여러분 산타 왔어여!다들 보 셨 죠? 우리 완 블 리♥ 의 놀라운 반전(?) 왓챠 오리지널 시리즈 &lt;최종병기 앨리스&gt;으마으마한 장르 소화력을 보여주며 또 한 번 우리를 놀라게 한 겨울 그리···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDZfMjY2/MDAxNjU3MTE0OTIxMjk5.MRh7M3lLFQG1Pzonb2hmVr4X3gC_yp9cFPSqURKnhoog.9E9cZAo4_hHvwxAmTpChjixySlphwBzylXIyJPsiGXMg.JPEG/IxI1KrqoSHlb2kAymlIRgVPLcwZo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[으른 섹시로 팬덤 생성한 배우]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34080517&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 01 May 2022 04:02:55 GMT</pubDate>
             <content:encoded><![CDATA[봄이 지나고 여름이 다가올 즘생각나는 한 가지 ! 쨘 !4月 ★'화뉴스'브리핑★5월이 시작되기 전놓치지 말아야 할 소식들 정리하러↓↓↓고고씽~ ٩( ᐛ )و↓↓↓ Broadcast 금요일 밤 활력소가 되어준최태준 배우의 예능 나들···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjlfNjMg/MDAxNjUxMjIwMzYwODE5.aOUPT3OTb6P8YoGcxt4--k5h33TKqggobBNWX3j2pusg.yDa2tE_mISzvdyPmpzMGo96c1zBtzte1MnWuBjTJsSog.JPEG/In_h99NqY5_jo4d46et422B9WDqQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넋 잃게 만드는 인간 방부제]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33701700&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33701700&amp;memberNo=31542741</guid>
-            <pubDate>Wed, 06 Jul 2022 15:29:47 GMT</pubDate>
-            <content:encoded><![CDATA[산타캠이 이렇게 빨리 온 이유 전 세계에 널리널리 자랑하고 싶어서(?)바로, 드레스 입은 주미 배우를 어머, 이건 다 봐야 해!!!각설하고 주미 배우 비주얼 자랑 시작합니다(?)시작부터 우아한 아우···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjdfNzMg/MDAxNjUxMDQ0NTI5NjA4.tSn0Aw6kqDp0AsWQZnHnEP0MEexCXT2iS1NiZ5QC-nIg.V8hmTzo2c9Pxzny1rLJKSikG9Cm6uuNUxNpQxe9nGPEg.JPEG/IjBoWAAb2bcDjyiNuWozRCgd1KYc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
