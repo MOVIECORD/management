@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 13:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 14:35:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대물로 돌아온 강한나 근황]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34094922&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34094922&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 07 Jul 2022 14:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[[단독] 조선시대 중전으로 살아가던 유정, 21세기 현대에는 어떤 모습으로 살아가고 있나우리의 마음을 붉게 물들였던 유정의 환생 후 현재 모습이 포착되었습니다강렬한 레드립과 블랙 스트레이트 헤어로 시크한 분···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDdfMTU0/MDAxNjU3MTc3MDQxNjk3.JWvZH-wZinSOYSObVMsoAeGO64Oml69zSNfSj5BZC0Qg.LYe3bU0-8l-Y29VDe45_s3vBsawracCYDPIIm8HtiVwg.JPEG/ItqFOMedAL06fOhTWH9vwBSjeQug.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앳된 외모와 달리, 
 반전 있는 신인배우]]></title>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 06 Jun 2022 12:48:14 GMT</pubDate>
             <content:encoded><![CDATA[요즘 가영 배우가 좀 수상해요 여러분아직 대놓고 말하지 못한 고민이 있는데... 한번 들어보시겠어요?어김없이 365일 예쁘고 멋진 뭉이라서 다를 게 없어 보이지만분명 활짝 웃고 있기는 한데 손에 꽉 쥐고 있는 이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDZfMTkg/MDAxNjU0NDk1NTkzOTM1.yk8XtiFchE-Sp1iKlRcPLSYZAOb2tifk4fgSY7NpMksg.gjqb10NFMbpounLXEBFdYUqSER_X2HAMPCLWGEYcMJEg.JPEG/IW7pllVWtqu_xrQi7xCrv10wLe_o.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[등장하자마자 잘생겼다고 도배된 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33909071&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33909071&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 04 Jun 2022 12:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[오수재였어. 오수재를 다시 만났어.쟤가 걔냐? 너 좋아한다는 공찬? 그 공찬 맞아요.워후!~!!~~!첫 방송부터 명대사 빵빵 역대급 케미 팡팡등장하자마자 모든 온에어방 ♨불타게♨ 만든 주인공자꾸만 선 넘는 비주얼에···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDNfMjk4/MDAxNjU0MjQ3MTQ2ODY5.fPOHK65og1feta8M0FFj9aXZaLcXWsapSdu-X23u01Eg.7HW8fL56MuB4IWJnikH1oEmnU6yPa98aFzDergSeZ64g.JPEG/IjoNXqlcy_a5-abfsTNIlrhhjQQE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
