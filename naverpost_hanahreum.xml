@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 한아름컴퍼니 </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 06:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 07:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 껌만 보면 생각나는 [송재희]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34104086&amp;memberNo=34451204</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34104086&amp;memberNo=34451204</guid>
+            <pubDate>Sat, 09 Jul 2022 07:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 한아름지기 입니다~~~오늘은 송재희 배우의 소식을 들고 찾아왔습니다~~~ 송재희 배우는 JTBC 토일 드라마 '클리닝업'에서 윤태경 역을 맡아 연기 하고 있죠!! '클리닝업' 속 송재희 배우의 현장 모습을 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDRfMTMy/MDAxNjU2OTEyMTU5NTY4.thX-KbhN7IUfG2U-EO8VnnvHtPJyN2Q7GxknVjq1fXkg.tL73LVu8BuWDIl8MxDe-JfBrUAUrOvMVFYOkKCoNTb8g.JPEG/IcdEvCM_2zwrmj-IWG3Al0x6bhv4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[딸 생각에 눈물지은 아버지 [허성태]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34005171&amp;memberNo=34451204</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 한아름지기 입니다~~ 오늘은 여러분들께 한아름컴퍼니의 새로운 식구를 소개해 드리려고 합니당!!! 한아름컴퍼니의 새 식구가 된 배우는 바로 고. 온 배우 인데요~~~이전에는 본명인 '백철민' 으로 활동 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjBfMTM2/MDAxNjI2NzY5MTk5NTc5.FghU7P2cUJFdWbPlB4e_Q9w-A6hEOyVk8BOBLg2VALYg.JtUtJtzxjVKMddRuv8_1S1lrHhlz6JM0lquDJEWMbIsg.GIF/IdASm_4CTmxHI-e5zvel-SUsAnmQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭염주의보의 원흉 [손태양]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32015001&amp;memberNo=34451204</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32015001&amp;memberNo=34451204</guid>
-            <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 한아름지기입니다~~ 오늘은 손태양 배우의 소식을 들고 찾아왔습니당~~~ 손태양 배우가 최근 의류 촬영을 진행했는데요!! 손태양 배우는 이날 턱시도 부터 캐주얼 정장까지 다양한 의상을 입고 등장했는···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjFfMjU2/MDAxNjI2ODM0MzE5OTY4.mrdZACQFjXJpu3-4e8CUb_kv3C-vHSKYRFhFolyPS0Mg.LrAwM068tU73CljeKslCUOkqLxKajEFXPhuvBipnElkg.GIF/IDfZs0wm8cub9k865YKclFi19elM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
