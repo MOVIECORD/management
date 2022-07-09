@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ YNK엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 02:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 03:49:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[채종협] 대학 가면 이런 선배 있나요?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34101141&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34101141&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 09 Jul 2022 03:47:03 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요!! 무더위를 뚫고 와엔캠이 돌아왔습니다(YEAH!)7월 4일, 무더위를 식혀줄 10cm의 청량한 보이스와 함께, 종협 배우가 출연한 그라데이션 뮤비(drama ver.)가 공개되었습니다 쏴리질러~~~···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDhfMjM3/MDAxNjU3MjU2OTk0NzMz.nLQia4N_klxcxjnVE_Clf8P4SO84KNPvzK82hwHYSoAg.YgSEuymeEfNDtirjV-g5ATHO0ALvqFjks3eDjvpfvsUg.JPEG/IkiK1HBmjXLeVYjwIce0l9pBUpns.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[채종협] 청춘 그 자체였던 박태준, 안녕!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33955526&amp;memberNo=33175148</link>
@@ -159,14 +167,6 @@
             <pubDate>Sun, 24 Oct 2021 12:48:30 GMT</pubDate>
             <content:encoded><![CDATA[시작부터 후드티로 장꾸미를 발산하고 있는 이 곳은 &lt;퍼스트룩&gt; 화보 촬영 현장입니다이해해요 자체발광이라 눈이 저절로 감기는거···후드에 코드 하나 걸쳤을 뿐인데 장꾸에서 가을남자···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDZfMTI3/MDAxNjMwODk2Njk5MzY4.rmIOqzCL3Nso__pexBhU7rXzvqm4bpKyzySGY6vL9qcg.iGnDqR39dIZ-q9Rt3w9kRlOjWjSKN0ZvbyA5bVNqa64g.JPEG/IkeUrOugXcl1KH8CgxKqrtQthD1s.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[채종협] 많이 무겁겠어요. 어깨에 '멋'짐이 한가득이라.zip]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32231062&amp;memberNo=33175148</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32231062&amp;memberNo=33175148</guid>
-            <pubDate>Sun, 24 Oct 2021 12:48:30 GMT</pubDate>
-            <content:encoded><![CDATA[길용이와 도혁이를 떠나보내고 적적한 마음을 달래기 위해멋짐을 한가득 짊어지고 &lt;코스모폴리탄&gt;을 찾은 종협 배우!청자켓 종협으로 사뿐하게 스튜디오를 찢고 시작했는데요! 이 포스트를 찾아와주신 여러분.···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjRfMjM0/MDAxNjI5Nzk0NTE2ODQ0.R3lKtnnTJtOkloNhl6jRLCzIOZILuyIdsKAtlSQxPbIg.cO33RwI8kD7sD7JxZxTB5nQPVdpe8XRgaOtfVXAY3X8g.JPEG/Idju8P7IJtCGxo60p3AxowrcCVAo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
