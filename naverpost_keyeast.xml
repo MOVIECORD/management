@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 13:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 14:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[입 무겁다고 소문난 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34114552&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34114552&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 11 Jul 2022 14:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[갑자기 분위기 Y2K 무슨 일인가 싶으시죠?이곳은 훈훈한 선후배를 만날 수 있는 주점입니다!여기서 너무나 예쁜 새내기한테 반한 한 남자의 쇼킹한 사연 들어보시겠어요?서울지부 대학교지 편집부 총회가 열린 날이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTFfMTcz/MDAxNjU3NTM3NTgyMTIz.vQe4MXeMA45ZQeqvyiq5oXUo_3VmPZ9E9GbwikqyfHEg.GxU9BYdaUYbl4n3sZy5K4EWk10yUjM3xuZEqmFfhctYg.JPEG/I1XdyAEG2tyeA7MTwxLjc3wo3VoQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[계탔다! 성덕 된 후기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34107857&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Tue, 14 Jun 2022 13:37:13 GMT</pubDate>
             <content:encoded><![CDATA[요즘 자꾸 감정 조절에 실패해요 웃겼다가 갑자기 슬펐다가...누군가에게 '링크'(감정 공유) 되고 있는 걸까요??판타지, 로맨스, 스릴러, 미스터리, 휴머니즘.... 등등 다채로운 장르가 녹여진 눈을 뗄 수 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTRfNjIg/MDAxNjU1MTkwMzc0ODM4.QpQstwLdfbzb9sqE6l9c61nmlL_4nTft571GjdXVaXgg.NyT-2gD1g5NzDSole6erQYK2alik0TgCoDISXtbnJ1wg.JPEG/IMW7OLpvYOXZz0kJ5L5m8H8A93_E.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빙의 연기로 화제 된 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33955091&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33955091&amp;memberNo=29770009</guid>
-            <pubDate>Mon, 13 Jun 2022 13:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '써니'의 빙의 연기를 이을 2022년 최고의 빙의 연기 甲MBC '지금부터, 쇼타임!'에서 슬해의 희수 선배에서 만인의 희수 선배로 자리매김한 김종훈 배우!극 중 목표를 위해 수단 방법을 가리지 않는 악귀 해천무···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTNfMTI5/MDAxNjU1MTIzMzAxMjUy.8ro5GfBiUrVgrlncxrvU2RVBy_F-KlkxQYdCEOzboBgg.9UTvuwh8I1mLU6o8O33J0NuXqGh7anCWkhiHRRc-IPwg.JPEG/IxhPyWW7TciijJk-IEm8ev31QbUM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
