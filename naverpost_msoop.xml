@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 05:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 06:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['공효진'의 하루]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34118397&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34118397&amp;memberNo=22903361</guid>
+            <pubDate>Tue, 12 Jul 2022 06:31:38 GMT</pubDate>
+            <content:encoded><![CDATA[여러분,&nbsp;안녕하세요~ 숲블리입니다오늘은 효진 배우 소식으로&nbsp;인사드려요 효진 배우가 너무나 보고 싶었던 나머지 직접 찾아 나선 숲블리(?) 먼 길 끝에 효진 배우를 만난 이곳은바로 홈 스윗 홈 (아님) 그렇게 숲블···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTJfMjk2/MDAxNjU3NjAyNDM4Njc3.TE8WndUw5YKSC8NQGM6iAP9nTMh0Z5wBvv8ZbZ7SsR0g.kd7ClU1gdu9uonv8RRwROP2Aoy3U2c67sRT5eNkIh0Mg.JPEG/IYLYHjOLOBcoZkexLQhXGpwaINfE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유미와 안나, 그리고 ‘수지’]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34093726&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 24 Mar 2022 08:26:58 GMT</pubDate>
             <content:encoded><![CDATA[날도 좋고바람막이 입고 있는 공블리 보니갑자기 등산이 하고 싶어지는 이 마음..때마침공블리 아리따운 미모 때문인지한껏 올라가 있던저의 광대……이 정도면등산도 가능할 것 같네요(ㅋㅋㅋ)제 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMThfMjkx/MDAxNjQ3NTgzOTY5MTgw.Xam0L6YcqTyLluy8LeyTbEv2uUSE7sveN14Qih-Bly4g.XVvIekZYwhcF0z8kbBY19vN6VIHuJE_CA6zAcDupjacg.JPEG/IhnYTbfA6Uv_sIwYVDwwkvyl3XEE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김재욱 대표님의 이중생활]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33495761&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33495761&amp;memberNo=22903361</guid>
-            <pubDate>Tue, 22 Mar 2022 14:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[여러분, 그 소식 들으셨나요? 까칠함의 대명사 노고진 대표님이 촬영장에서 서윗함(?)으로 사람들의 심장을 녹이고 있다는 사실?! 단짠단짠, 까칠함 과 서윗함을 오가는 대표님의 이중생활 지금 공개합니다. 첫 사진···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjJfMTkx/MDAxNjQ3OTQzMTA0MTAz.ZiLbMrNsOrTrdlbxJeJDpcpAmy_A2BCjRYe_YnNP5ygg.82990ln6v9MNHqarBEi1XU_B4phDWzib3Li2wm_dwQYg.JPEG/IMP0tCjo7l3ouSxeeV-qMMLQ68wc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
