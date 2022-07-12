@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 13:47:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 14:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단발병 유발자]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34121444&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34121444&amp;memberNo=31542741</guid>
+            <pubDate>Tue, 12 Jul 2022 14:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[매일 저녁 안방극장을 부들부들(?) 떨게 하는 MBC 일일드라마 &lt;비밀의 집&gt;그리고, 본격적으로 지환(서하준 분)을 잡기 위해 '욕심'을 드러내기 시작한 남태희태희의 감정 진폭을 더욱 생생하···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTFfMTA2/MDAxNjU3NTIxMTM0MzQy.VMA8ej6LJ3M_WPKysrHd5oRCCn_G4bUneMdliCzGTSAg.T0TUmGDxubm9q7CA2D6My5KqTl1i3rtcKIftoJPxm3gg.JPEG/IdqDI4L7wJp03efgl-P_WSLWiYpk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이런 케미 또 없습니다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34114554&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:45:03 GMT</pubDate>
             <content:encoded><![CDATA[천재 중에 천재 하늘이 점지했다는 비율 천재의 등장개안한 듯 시원시원했던 이다희 배우 &lt;제 58회 백상예술대상&gt; 시상자 등장그림체부터 이미 비주얼버스터 느낌 낭낭한 드라마 &lt;아일랜드&gt;의 케미 미리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTdfMjM2/MDAxNjUyNzcxMzkzNDI0.Dd7crrxmfSh8piXE5FrVtvb6iNwC7I2azObvm69p2q8g.JF2Kl_9hUE9C-GPuGmCcXPYhVxE45eLb6i34rgmswsYg.JPEG/Iy9gI4BARn9rxYobYTKd6rZI8yhk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투잡 뛰는 저승사자]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33798043&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33798043&amp;memberNo=31542741</guid>
-            <pubDate>Tue, 24 May 2022 02:45:03 GMT</pubDate>
-            <content:encoded><![CDATA[선과 악 모호한 경계에 서있는특이한 '이력'의 소유자 어서 와, 이런 저승사자는 처음이지?바로, 희우에게 두 번째 삶을 선사하며 "악의 원흉 조태섭에게 죗값을 물을 것" 조건을 걸었던 저승사자이자 조···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTRfMjU4/MDAxNjUyNTM0Nzc1MDI3.Vh3Wq-RK2mE-WmtsStdqq6eSot7iRQpkDn4epNg-pxgg.KfjXKLsHY4dzv-9X1FOdllzd6aufpaGBRLDtAGKppMAg.JPEG/IY6btW4KBDIAhv1Qwi8BVy9VyqB8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
