@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 09:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 10:32:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이미연]과 함께하는 오피스라이프]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34127087&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34127087&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 13 Jul 2022 10:31:27 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-)오늘은 배우 이미연 씨와 함께하는킹콩지기의 오피스라이프를 소개해 보려 해요(※본 포스트는상황극 전문 킹콩지기가 작성하였으니과몰입에&nbsp;주의해 주시길 바랍니다※) 입사 첫날, 설레···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTNfMTMg/MDAxNjU3Njc3OTE2MDQ5.cVKaCBpy8_dd2fd2_hiHA5-kj38uxina8LZt6pwnnC8g.fh7pvrDV_-Q7EDYXaUwnJZ4jeci62hFl0qjoB1thoEkg.JPEG/IQzE-p-dE8jIcZJ8D9gdtRmj_I2A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신승호] 어느새 세며든 세자 저하]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34111801&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 27 May 2022 11:23:24 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다:) 여러분, 얼굴맛집이 O'PEN 했다는 소식 들으셨나요?! 바로, tvN 드라마 프로젝트 'O'PENing'의 단막극 '목소리를 구분하는 방법'에서 '다해' 역으로 돌아온 배우 최희진 씨입니다♡ ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjVfMTMy/MDAxNjUzNDYxMjM3MDEw.rNZr9Et56hkIcAUCbz4xttauv_nu_-40riDSnnf8Lfgg.HfuGrpcDWlcoPg3bKEoW4KmChdofv773XDQgiwNtkZUg.JPEG/IlfEp3NsdFVgnrrrnputVOdLVfdE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이광수] MS마트 영업 종료합니다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33832414&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33832414&amp;memberNo=35839671</guid>
-            <pubDate>Tue, 24 May 2022 02:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 ㅠ_ㅠ 어제(19일, 목)를 마지막으로 tvN &lt;살인자의 쇼핑목록&gt;이 종영을 맞았습니다 캐셔 선생님 정들었던 MS마트 이제 정말 영업 종료하나욧? ㅠㅠㅠㅠ 어서 오세요 고객님&nbsp;^^* MS마트는 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjBfMjY0/MDAxNjUzMDExMjQ5MDQw.jg1ZN3i_Ayqb2_4_lpe3_Jmu307EC06QfIxAeZSYhdAg.pyLG2pE3flHGmUW4Wl-UPahvO3jX9RrvqP2ATlK7tlEg.JPEG/Ignfs_MTRMdEBAdHqSy89aMhA7tg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
