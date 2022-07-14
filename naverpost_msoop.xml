@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 07:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 08:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독보적인 존재, [전도연]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34130652&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34130652&amp;memberNo=22903361</guid>
+            <pubDate>Thu, 14 Jul 2022 08:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[아아 알립니다! 멋쁨의 정석 도연 배우의 등장을 알립니다! 살짝살짝 바뀌는 포즈에 오늘 날씨처럼 녹아내리는 중..♥  여러분 조명이 왜 필요하죠?  도연 배우가 바로 빛인데..ㅠ★ 도연 배우 보느라(두근) 심장 (두근···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTNfMTc3/MDAxNjU3Njc5NjY1NjI3.-gAhoSXbJ8lDEbO-dGDqRckwVHnDK37gbyMgQdkz4PUg.8whSP5LRr2PNeESjCNQ9orsQj7NSq_0fz1wxi9Z4ADYg.JPEG/IN0sD5Hm5NZAgam8xiiVAmogGq7E.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['공효진'의 하루]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34118397&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 04 Apr 2022 05:21:34 GMT</pubDate>
             <content:encoded><![CDATA[바로 어제(3일) 백이진 역으로 감성 열연을 선보인 주혁 배우의 tvN ‘스물다섯 스물하나‘가 종영했습니다!주혁 배우 없는 주말 앞으로 무슨 재미로 사나 ‧º·(˚ ˃̣̣̥⌓˂̣̣̥ )···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDFfNTIg/MDAxNjQ4NzkzNzQwNDc0.-CI6XLqpeNOsmnkKmT8-_CaS4R-6py_fIrwfZPvXoxYg.LMqi_B3pk9FKaSyCHaNi0ESf5Qv7KPlS57fGF2NMZVQg.JPEG/IBfng8MUgWCLfmBYU03xLRjf8TfM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광대에서 등산하는 사람이 있다?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33508545&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33508545&amp;memberNo=22903361</guid>
-            <pubDate>Thu, 24 Mar 2022 08:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[날도 좋고바람막이 입고 있는 공블리 보니갑자기 등산이 하고 싶어지는 이 마음..때마침공블리 아리따운 미모 때문인지한껏 올라가 있던저의 광대……이 정도면등산도 가능할 것 같네요(ㅋㅋㅋ)제 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMThfMjkx/MDAxNjQ3NTgzOTY5MTgw.Xam0L6YcqTyLluy8LeyTbEv2uUSE7sveN14Qih-Bly4g.XVvIekZYwhcF0z8kbBY19vN6VIHuJE_CA6zAcDupjacg.JPEG/IhnYTbfA6Uv_sIwYVDwwkvyl3XEE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
