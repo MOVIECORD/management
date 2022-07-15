@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 09:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 10:30:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[My Love, 신도현]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34011366&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34011366&amp;memberNo=32146648</guid>
+            <pubDate>Fri, 15 Jul 2022 10:28:38 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST]SHIN DO HYUN♥여러분,어떤 사람이랑 있을 때 거기가 어디든지 다 좋고그 사람 없이 하루조차 견딜 수 없다면&nbsp;이거 사랑 맞죠..?&nbsp; 제가 사랑하는 사람이 생긴 것 같은데&nbsp;그게 누구냐면.. /// /// © AER MU···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjNfNTYg/MDAxNjU1OTYzMTY3Njkw.BumVjgHQcZJBflqnEyOGyzi60MwnTnYjYpTTUVZ97l0g.dz8MWh7Ojk3R8OPLKnjh6j5_kH1_HPgzCRsOfWLsE7sg.JPEG/IUQlgAbm89vbb5S8sCFIypbvAJOY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한강 위에서 개최된 '현빈' 전시회]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34003217&amp;memberNo=32146648</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST]HYUN BIN♥ 비상이다 베스트리는 원래 울보여서멋있는 사람을 보면 되게 잘 운담말이예요?근데 출근한 베스트리 앞에 '현빈'배우가 나타났지 모예요★ 역대급_울음바다_완성.jpg 오늘 포스팅 배경이 하늘색···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjdfMTYw/MDAxNjM1MzIzNDgzODMw.2g1rh0_RGYRz8EXnLYIxxN7FA03-ekH5V-azdTOU8gYg.TBHRzvOe1NR-WkUfOnGO0W1Wnab5LvycWptsGNVuQBog.JPEG/I2HGwaLpZv9vsZ6r17Pd3ytlUqBY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠시만, 여기가 화보 촬영장이었어?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32650331&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32650331&amp;memberNo=32146648</guid>
-            <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST]LEE YEON HEE♥ 연희 배우의 스케줄 소식에오늘도 한달음에 달려간 베스트리!  아니 근데 이상하다...?분명히 방송 녹화라고 그랬는데 이번 스케줄...녹화가 아니라 화보 촬영이었나요? 아니면 골프웨어 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjlfNzIg/MDAxNjM1NDg4NDI0MjMx.EyiIHZSg_HS5P5plnzsUTQ-rDz2zMo9SIS22e1KWa-Ug.r3csipvnPedZR-ZG6aC3ebf9OkWJw3KxKQUqwcDvDBgg.JPEG/IKB_JM5i7A2fFniPhhKYJhK4i_2w.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
