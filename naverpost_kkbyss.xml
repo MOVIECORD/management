@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 07:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 08:29:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신승호] 청첩장: 세자, 나랑 데이트하자]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34143075&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34143075&amp;memberNo=35839671</guid>
+            <pubDate>Sat, 16 Jul 2022 08:29:05 GMT</pubDate>
+            <content:encoded><![CDATA[[사진출처: tvN '환혼'] 킹콩지기에게 어느 날 느닷없이 날아온데이트 신청서(?) [사진출처: tvN '환혼'] "킹콩지기... 나랑 데이트하자...!"- 고원 -(청첩장 맞음 결투장 아님 아무튼 아님···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTZfMTI1/MDAxNjU3OTA3NzUwMzQx.zsyk24XuoTqGDX0Fq3riybGwR78shHnsDowUf4CGEFog.Qd9M0MJIwmC3bCL6QhIk_GNVWHmIY_arvKCq7eBCeKgg.JPEG/IaGCzbuv-xI-8bzRgTR0hD-uL9X4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전소민] 주식과 사랑 다 잡은 캠퍼스 요정♥]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34139225&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Jun 2022 08:28:33 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 배우 전소민 씨가 '안인경' 역으로 출연하는 JTBC 새 토일드라마 &lt;클리닝 업&gt; ✧･ﾟ: *✧･ﾟ:*첫 방송 D-1*:･ﾟ✧*:･ﾟ✧ (사진 출처: JTBC) 세 배우의 아우라는 포스터를 찢어~~ 기대감···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDNfMTcx/MDAxNjU0MjIxNTU4NTk0.KB7gTPsW7O-aa09j-sW8sw0ErMERqXgM8IqnXyTjo8wg.mULUDH1-AMsUwy1X0v9gX_CSlceCFKA5BYmGTv4zNbQg.JPEG/I3VLopmvC9Hd9a9RvxcWYx1EvMfI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[조윤희] 웅니를 좋아하는 이유]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33886571&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33886571&amp;memberNo=35839671</guid>
-            <pubDate>Tue, 31 May 2022 06:31:04 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :) 요즘 킹콩지기에게 좋아하는 사람이 생겼어요 (부끄) 그는 바로조윤희 웅니 ♥우리 유니웅니는요 시원시원한 비율을 자랑할 뿐만 아니라손끝의 디테일도 살리며 A컷···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzFfMTEy/MDAxNjUzOTU5MjMwNzEz.BSc1_vA8_yjrFvWt5Y-oSE6E5wmYpuHRlGVpPrB-07Yg.8P5ATLy3y1-aU1zq7s0fhGGfhx9pbzM-4ZQ2c02AbT4g.JPEG/Ih50G7BXUX0cj70rnAm14u9KV_yA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
