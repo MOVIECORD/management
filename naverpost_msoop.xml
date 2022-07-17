@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 04:45:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 05:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서현진짜로 예쁘다 2탄]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34138762&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34138762&amp;memberNo=22903361</guid>
+            <pubDate>Sun, 17 Jul 2022 05:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[서현진 : 예쁠게&nbsp; 숲블리 : 기절할게&nbsp; &nbsp; 서현진 미모 맘껏 감상할 수 있는&nbsp; 사진들을 들고 왔습니다.&nbsp; &nbsp; go go!! 분위기가 너무 현진현진 해요♥ ☆ 천사 실존☆&nbsp; &nbsp; 손끝 하나, 시선 하나까지&nbsp; 아름다움… 포즈도 표정도···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTVfMjEx/MDAxNjU3ODU1MTA1MDEy.hfWw2rHiZu0ELg4_99BjUBCA-Yw-HilRoLD73XwJOlMg.Q6OKVkvbczCXgmbGtHWnMmNg22jLj7vAGV83tv1zH8Qg.JPEG/IsOYiqWepLpoLHphDlhOcisbtZWs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독보적인 존재, [전도연]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34130652&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Apr 2022 09:22:50 GMT</pubDate>
             <content:encoded><![CDATA[♥서현진♥ 보고 싶어서 괜스레 마음이 헛헛한 봄... 더더 상큼해진 현진 배우를 만나게 됐어요!환한 미소에 벌써부터 정신이 혼미해져요... 숲블리와 함께 가볼까요~시작부터 이런 거 물어보면 실례일···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDdfMTY4/MDAxNjQ5MzE0MDQzMTU1.oXPCooXEE4QmPxaU6KELHeLcQLrCwdi4qIRFX0SsIy4g.VervzOj5FeSNhVJ40t_d7kxDNzBs4T4RBlDwR6Lwvncg.JPEG/IJx5t5WcZtbMYsl4k_iEdhg3tgxY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백이진.. 우己l 울잖ㅇr ㄱrズlㅁト…!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33567513&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33567513&amp;memberNo=22903361</guid>
-            <pubDate>Mon, 04 Apr 2022 05:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[바로 어제(3일) 백이진 역으로 감성 열연을 선보인 주혁 배우의 tvN ‘스물다섯 스물하나‘가 종영했습니다!주혁 배우 없는 주말 앞으로 무슨 재미로 사나 ‧º·(˚ ˃̣̣̥⌓˂̣̣̥ )···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDFfNTIg/MDAxNjQ4NzkzNzQwNDc0.-CI6XLqpeNOsmnkKmT8-_CaS4R-6py_fIrwfZPvXoxYg.LMqi_B3pk9FKaSyCHaNi0ESf5Qv7KPlS57fGF2NMZVQg.JPEG/IBfng8MUgWCLfmBYU03xLRjf8TfM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
