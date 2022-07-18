@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 12:55:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 13:53:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신흥 꼬북이상 등장]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34154333&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34154333&amp;memberNo=31542741</guid>
+            <pubDate>Mon, 18 Jul 2022 13:53:31 GMT</pubDate>
+            <content:encoded><![CDATA[부천 국제 판타스틱 영화제(BIFAN) 코리안 판타스틱 장편 경쟁 부문에 초청된 영화 &lt;신체모음.zip&gt;총 5편의 에피소드 중 &lt;엑소시즘.넷&gt;에서 악령에 빙의 된 친구를 되돌리기 위해 고군분투하는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MThfMTIy/MDAxNjU4MTI4NTUxMzcy.XsRxPCWERaSlJOhV79Nq5PV33_QbFkQF8xIYt20bTj0g.GO5lx1hoqTUP_M9mp8UvWRCXn4Fi1y0suJ06jabxIoIg.JPEG/IjqE6KI_YpGGl-7H4GZQQ-qukvl0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘의 컨셉: 류경수]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34128316&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 29 May 2022 02:20:38 GMT</pubDate>
             <content:encoded><![CDATA[시작과 끝을 알린 &lt;어게인 마이 라이프&gt; 속 한지현(ft.저승사자) 그리고 우리의 차주영 배우첫 방송 시작한 게 엊그제 같은데.. 마지막..? 종영..?희우와 본격적으로 얽히며 '선악의 경계'가 더욱 모···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjlfMjc0/MDAxNjUzNzg4NTUxNDE3.H6tdrNgDachJJKhZBoN_9gEWGsv0AXivlIKUaM33qI0g.JhlBDMvlRIbrQTkM-dF4J1ATE7KkijfAp9mt5W9_ELEg.JPEG/IycIZdPYP4IL1eL7bAH9VMyA4P1Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 비밀이 많은 스타]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33821076&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33821076&amp;memberNo=31542741</guid>
-            <pubDate>Tue, 24 May 2022 02:45:03 GMT</pubDate>
-            <content:encoded><![CDATA[매일 저녁 '흑화' 레벨 UP 중인 비밀스러운 인물을 찾아오셨나요잘 찾아오셨습니다. 바로 이곳 '산타 POST'에 잠재적 흑화캐 MBC &lt;비밀의 집&gt;의 남태희, 그가 있습니다.그래서 준비한 차곡 차곡 흑화 레벨 올···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTdfMTcz/MDAxNjUyNzc0NTQyODI3.GvDn5xxfBzIaJrBrXqA-ZPZZt13yrSxpj5eC2JnvXTsg.ho5UkL3IcxrBjyNss-StxfVGmQ5J_buP35jN2GxcZtsg.JPEG/IjiiZuXZu15l7DYPplcjXu2VCiwY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
