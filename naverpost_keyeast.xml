@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 13:47:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 14:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[측근이 전하는 문가영]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34161116&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34161116&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 19 Jul 2022 14:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[지화동에 거주하는 노다현 씨는 이렇게 말합니다힘들 때 웃는 자가 일류다잊혀진 기억을 떠올리려 괴로울 때도사랑하는 사람에게 슬픈 이별을 건넬 때에도항상 밝게! 씩씩하게! 웃어보자고!&gt;&gt;&gt; 노다현 POWE···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTlfMTg0/MDAxNjU4MjE2NjI2MDM5.C0X4TMvpxwTiov2M3eorSGl1WG3b1KuAYTqujKgbU2Ag.9SqnsCSrLv9d7sszggth1PuOkOWzxEG673Zs-0to1nUg.JPEG/IMMllDjvRpiCoCgUFGEi7fHaNsoc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울대 두 번 간 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34154332&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Wed, 22 Jun 2022 14:21:20 GMT</pubDate>
             <content:encoded><![CDATA[이때까지만 해도 몰랐어요우리 질투 넘치고 심술궂던 마리가이혼을 막기 위해서 어떤 악행도 서슴지 않던 마리가..!개과천선을 하고 시청자들의 응원을 받게 될 줄!마지막으로 가슴 찡한 마리의 서사 복습해 보자면.···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjJfODEg/MDAxNjU1ODgyNTY4NTQ4.w9YNw3cggWhVzXINjImZj0hx19qjV4qU1DUO3M89T1cg.Ce8Bo5vtpwziTWyfVe7MaWU4AHUHhmgipqKcKb8Qxlkg.JPEG/IbUsE1fF7qNn6DXzm0mANiuZY20k.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘부로 문 닫는 '사극 맛집']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34000695&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34000695&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 21 Jun 2022 14:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[매주 월, 화요일 밤마다 조선시대로 타임슬립 하게 만들었던 드라마 &lt;붉은 단심&gt; (약간 조선시대 과몰입 상태)여기가 그렇게 맛집이라던데..'의상 맛집''비주얼 맛집'이태♥유정 로맨스부터똥금···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjFfMTA2/MDAxNjU1ODE4OTE2NDY1.-lwMA1bt6Hj0Q6C2fCJZVIda4mRYymJpufN50QPLQtMg.6mJEbpBZYoSxdgRFc-sh-t1wmmndlXnpxB-K8OHE-VMg.JPEG/ILD16shpzHtZI6apgAc2jssR9bP4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
