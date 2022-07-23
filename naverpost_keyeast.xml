@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 13:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 14:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상상도 못한 조합으로 결혼한 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34184677&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34184677&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 23 Jul 2022 14:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[사랑하고, 이별하고,, 아파하고,,, 그러다 결국 드라마의 엔딩은 모다?!새하얀 드레스와 그에 걸맞는 비주얼의 품격온 사람들의 축하와 축복을 받는 드라마 엔딩 필승 조합!이 드라마의 엔딩은 우리 이다의 결혼이다···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjJfMTQ3/MDAxNjU4NDgzODI4MTM4.NaQ3TjalMr8QvHqnAjQCqHMJ5ibhoY6JundJhGWL9nQg.pd09GbT7KqWYToeYW9qx5d1tXCAAgMALE_l_SeaUIV4g.JPEG/Ib_NI8FVXm8Qkip3fTKboK98lhzk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강한나 실물 논쟁]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34181420&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Thu, 30 Jun 2022 10:31:01 GMT</pubDate>
             <content:encoded><![CDATA[배려 없는 미모의 소유자를 소개합니다☆꧁✬◦°˚°◦. TA-DA !.◦°˚°◦✬꧂☆씨네21 촬영장에 나타난♥정은채 배우♥ 이게 명화야 비하인드 컷이야 (웅성웅성)쿠팡플레이 시리즈 '안나'에···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MzBfMTMx/MDAxNjU2NTgwMTgzNTgz.AONhRHvs3uBCDOqLZDEbWjUEQTE0NmKid1iQ7Tnvg1Ig.Jl_G300G-rfaiMZu96AXO5fXIq_NBikZBD9jBvIaMV8g.JPEG/IyW48ADc79QxSMg2L9gHDNEYBNmo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춤 실력 들통난 전직 아이돌]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34046005&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34046005&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 29 Jun 2022 15:55:18 GMT</pubDate>
-            <content:encoded><![CDATA[☠️ 댄스 뚝딱이란?☠️ 1. 춤을 잘 추고 싶지만, 마음처럼 몸이 안 따라주는 사람 2. 춤을 처음 추거나 춤을 한번도 배워본 적이 없는 사람스우파 리더즈의 춤알못 코칭 리얼리티 Mnet &lt;뚝딱이의 역습&gt; 길거리 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjlfOTcg/MDAxNjU2NTA3MzYwMTEz.TNWFXkY1GopbNo268BQGRzgg6U2kDUYf1c-Dxb2S9W8g.ghOiYC-a-07Rzr5OXeV5te83a9JZtYOeFp3R3Mt_0Vog.JPEG/IQBimUVUQ7unRN9ARgdd41iSmCuQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
