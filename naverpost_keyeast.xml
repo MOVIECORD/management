@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 12:51:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 13:47:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문가영, '링크' 종료]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34201796&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34201796&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 26 Jul 2022 13:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[무더운 여름 2개월이라는 시간 동안가영 배우와 함께 웃고울고'링크'되었던tvN 월화드라마 '링크 : 먹고 사랑하라, 죽이게'가 바로 오늘! 마지막 방송을 앞두고 있습니다씩씩한 매력으로 무엇보다 자신의 감정에 솔···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjZfMjgg/MDAxNjU4ODM3Mzg1Mjc5.PkaHmFA9HPXzX-s-wQBBBIgDRUCbtc0069S5rNPKRAYg.fBFVuySyEiWg3freSJPgEN_LfER0cwXou6eQkPvyDy8g.JPEG/IkcEgvOSJEt6o0QDF1kgUUowPuaI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그렇게 다 끝내야만 
 속이 후련했냐✊]]></title>
@@ -161,14 +169,6 @@
             <pubDate>Sun, 03 Jul 2022 13:29:23 GMT</pubDate>
             <content:encoded><![CDATA[K-직장인 특: 비가 억수같이 쏟아지고, 좀비에게 물려도 털레털레 출근 완.기상 이변으로 갑자기 추워진다?! 담요 두르고 출근 완!하면 됨.사원증 찍고 출근 완. 했으면 그 다음은 모다?!동료들과 잠 깨기 위해 커피···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDNfMjcz/MDAxNjU2ODM5MDc4MjI3.s80cc9Ui6wP4oP4iwaqLxJOcm2opFKJiKQZ4GF0gVOQg.363McAc3VahYVHo0JGyqOejdjakgXx3f8CN9maPWw6Ug.JPEG/Iq7k62Z99GOFUZyboaAqyynYKdUc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난 부럽지가 않어]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34062982&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34062982&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 02 Jul 2022 14:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[안녕! 난 갤러리 마레에 취업한 키동이라고 해저어기 앉아서 통화하는 사람 보이지?저분이 바로 현주 작은 이사님이야작은 이사님은 딱 봐도 알겠지만 부잣집 딸이야소위 말해 좀 '선택받은 삶'이라고 할 수 있지 늘···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDFfMTE1/MDAxNjU2NjY4MDU5NzYy.top8BmKLHASFxHq3etRnqY3_kFWoNzME8PBt59JfC38g.t_y5bSN0rN6qhzRQSh61jzqGMvMMlciVFYTrEHNgEmIg.JPEG/I6hH-L9HWykxP0nJjxSccAKAp8ZE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
