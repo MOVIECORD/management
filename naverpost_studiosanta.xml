@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 23:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 02:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 여름에 눈보라 치는 이 곳]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34211015&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34211015&amp;memberNo=31542741</guid>
+            <pubDate>Thu, 28 Jul 2022 02:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[무더운 여름 잘 이겨내고 계신가요?이럴 때 딱!인 연극 나들이 어떠세요?! ㅇㅅㅇ눈보라가 몰아치는 거대한 설산, 냉혹한 대자연에 갇힌 공포, 그 공포를 이겨낸 생의 투지가 담긴 연극 &lt;터칭 더 보이드&gt;벌써 시···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjhfMTE0/MDAxNjU4OTcyOTM0ODc4.gsAHF3ygJsHcvl-4rWm0a87PrXfYhyRhDVn2jm6BCX8g.Ed4EZp2N5G9fF08tBadAL47WBOg6vUm_XPgNJyiyuagg.JPEG/IMAdqjLX3neBtXlMytErWYYIIxkA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 킬러의 이중생활 포착]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34190123&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 01 Jun 2022 13:55:17 GMT</pubDate>
             <content:encoded><![CDATA["난 좋은 사람이야. 난 좋은 사람이 되려고 열심히 노력하는데 당신이 그걸 파괴하려 해."연극 &lt;엔젤스 인 아메리카&gt;의 조셉 포터 피트 역으로 열연을 펼친 '정환 배우'를 만날 수 있었던!또, 폐막···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDFfMjgz/MDAxNjU0MDkwODA5MzM0.9UI9NmPX5NEgz-ipbZ_VKxtpI8oaKjHcOlIFwe21Afkg.XwBr3lnEHZpA8m9ULhZdleWpoA7uyU7SHSWSYP8KJrAg.JPEG/Ib7_SPpJ2qlZ0nJmCw5CgLxaqt_g.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4년 만에 모자 상봉]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33886242&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33886242&amp;memberNo=31542741</guid>
-            <pubDate>Tue, 31 May 2022 02:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 가정의 달 효심 가득 충전하고 돌아온 산타캠입니다마치 우리집인가 싶은 착각을 일으키는 식탁 앞 고개 숙인 나(?)결국 엄마 숟가락 들게 하는 도발은 빠지지 않는 선택지 (구세주 초인종 소리 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTdfMjUy/MDAxNjUyNzcxNjM3NDk1.LJ8m7fhT7ArdR2Y3CbqbPqCGrj8NokRoqCEoaS6GLuUg.66MIdCONvFGenmTEMlHX6ei8mXVEo9XyJDT7mjSfT40g.JPEG/I2LZraZvdAJxGIVDgCnq3c1iFT2c.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
