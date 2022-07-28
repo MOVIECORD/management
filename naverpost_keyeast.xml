@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 13:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 14:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아임 낫 빌런]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34215577&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34215577&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 28 Jul 2022 14:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[단독!!! 최초공개!!! 김의성 배우와 '외계+인' 팀의 화보 비하인드를 키동이 단독 공개합니다!이분 카리스마에 보기만 하면 떨린다고요? (주먹 흔들 아님)자꾸 의심하게 된다고요? (거의 코난 빙의)···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjhfNTYg/MDAxNjU4OTczMzA0MjE1.3leubG6--YA8i57lBhvUtFk7LvNCKeUhLGqPQ2qrEkcg.0epUzfzFpwEqOU-gIgorYIBJixWVlD6hQb_oDXtN8xkg.JPEG/Ip6SGcoL0XDR0PBuExpfGNgPh638.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예쁜 또라이의 드러난 민낯]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34208774&amp;memberNo=29770009</link>
@@ -161,14 +169,6 @@
             <pubDate>Tue, 05 Jul 2022 14:21:52 GMT</pubDate>
             <content:encoded><![CDATA[앳된 외모와 달리, 의외의 반전 매력이 많다는 신예 이태빈을 알아보자! 이름하여,‘빈며들다’: 배우 이태빈에게 냅다 스며들어 보는 시간...❤️연극 &lt;어나더 컨트리&gt; 750대1 오디션 경쟁률을 뚫고 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDVfNjkg/MDAxNjU3MDAzNzYzOTE2.9IfRVYqd6mpQClOooak0irI8VKr2TlY5LbrwtPxO1KMg.pcvkhKrzj6DNz9voTmzlxqL6XC1iKqfofoji0sZfBhQg.PNG/IJwnNlx3mdcqEQnrItRc6t7SbnEE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수습직원의 인간극장]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34073176&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34073176&amp;memberNo=29770009</guid>
-            <pubDate>Mon, 04 Jul 2022 13:42:04 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 가장 미스터리하면서 핫한 동네지화동에 위치한 지화양식당의 수습직원 노다현 씨가 화제의 중심이라면서요??!어딜 가나 시선을 끄는 비주얼과 사랑스럽지만 묘하게 알 수 없는 미스터리함 한 스푼의 매력이랄···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDRfMjYw/MDAxNjU2OTA1MTM0ODk4.sZWXKFMi4hcGFPz17Yh9qTGroc9bDoQJFKDzoToXHBkg.HACXBHcyOog0XC6zpuM6vr_SUVyw1O70VJGBLsHSA7cg.JPEG/I1govX3GE8HiP-bzEYhd1V4NYL2E.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
