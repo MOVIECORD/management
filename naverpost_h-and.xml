@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 02:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 04:02:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하루 남았슈]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34227730&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34227730&amp;memberNo=51396641</guid>
+            <pubDate>Sun, 31 Jul 2022 04:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[tvN 새 월화드라마 &lt;조선 정신과 의사 유세풍&gt;첫방사수까지단 하루 남았슈!!!!! 맛깔나는 연기로안방극장에 훈훈한 웃음을 선사할안창환 배우 X 만복 캐릭터 눈 감았다 뜨면월요일이었음 좋겠다&lt;조선 정신···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MzFfMjcx/MDAxNjU5MjM5NDY5MjI2.sd1R8qBoNlACsQfoC5TVPbf03uL-lDzFtckwfEW118Ug.mbTPPPAIVMtopn1tvskXBZddb1E3uFNWq6u09R0d-dAg.JPEG/IEN44u6VnHpD5OmQxDKpNEYGOzmE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이틀 남았슈]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34223591&amp;memberNo=51396641</link>
@@ -168,15 +176,6 @@ Wedding Day]]></title>
             <pubDate>Sat, 23 Apr 2022 13:30:48 GMT</pubDate>
             <content:encoded><![CDATA[KBS 2TV 새 월화드라마 '크레이지 러브'의 슈퍼을 비서 이신아와보는 순간 완전 납득! 화보 장인을 오가는이중생활로 바쁜 나날을 보내고 있는 오늘의 주인공바로 정수정 배우입니다♥작년부터 애타게 기다려···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDNfMyAg/MDAxNjQ2MzA2NDgyOTU0.ZOh9dN01JFxDbTeHUGRnlE_998jq3FIav7Vw6Y8sXvEg.zc_EBkDS7YlUIw7XXUgEZtVWcngXlDZ2gBPKGFgC3bgg.JPEG/I8bJtXAlZN-MRFI-ysR-1MiXIy2A.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정수정] 올봄 
-미치게 사랑할 주인공]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33374555&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33374555&amp;memberNo=51396641</guid>
-            <pubDate>Sat, 23 Apr 2022 13:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[투명도 1024%를 자랑하는 청순한 비주얼과 순수한 눈빛당충전 되는 달콤한 미소 그 안에 담긴 따뜻한 심성갑자기 화면을 뚫고 나온 살벌한 아우라까지 지닌 반전 매력의 주인공!바로 KBS 2TV 새 월화드라마 '크레이···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjhfMTYx/MDAxNjQ2MDU5ODExMjYz.CbGJcUIJQ74hWBZOMHc_rme5ynjsKw8S_WUi_B8D2kQg.8yb3581pTipp5fwQMtsGQI9n8eQF6nfgos3U0E8Qxhcg.JPEG/ICAf1Y7TodZUwsHvIR1NlAzdlf-Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
