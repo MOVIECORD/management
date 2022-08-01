@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 02:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 04:40:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘이유]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34228127&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34228127&amp;memberNo=51396641</guid>
+            <pubDate>Mon, 01 Aug 2022 04:39:08 GMT</pubDate>
+            <content:encoded><![CDATA[무술에 능한 히든카드SBS '열혈사제'의 쏭삭 사진제공 - SBS '열혈사제' 숨 참고 러브 다이브♥이 시대의 진정한 사랑꾼JTBC '월간 집'의 남상순 사진제공 - JTBC '월간 집' 살벌한 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MzFfMjYz/MDAxNjU5MjQ4Njk2MTc1.psgiBDQYJfyyCGFHSXFX8ZyEEpfPq6ezqnU3ETVWL00g.rEmKyLtNV-8zK4T0zbToHBQj45D-MgtsIxGwNoqZfUIg.JPEG/IPfz-EYg0HBXfUpHKpxj9mprQkvM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하루 남았슈]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34227730&amp;memberNo=51396641</link>
@@ -168,14 +176,6 @@ Wedding Day]]></title>
             <pubDate>Sat, 23 Apr 2022 13:30:48 GMT</pubDate>
             <content:encoded><![CDATA[지난겨울 시청자들의 큰 사랑을 받은 MBC '옷소매 붉은 끝동'에서질투의 화신 화빈 윤씨 역으로 눈도장을 찍은 이서 배우에챈드의 신예! 이서 배우가 병영 매거진 'HIM' 3월호 커버를 장식했습니다!생애 처음으로 촬···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDhfODEg/MDAxNjQ2NjY4NTk4MTI2.bw7CoiQU-YTtLkMyc6tUijXc48exih9MPiy3P-wyHC0g.lE1MK55nAtymLD3s2ki5N82Flz0Nzsyix3B14tp0N8Eg.JPEG/ICmb5NFlr5yhzonKuPakyvLm48PA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정수정의 이중생활]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33400417&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33400417&amp;memberNo=51396641</guid>
-            <pubDate>Sat, 23 Apr 2022 13:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[KBS 2TV 새 월화드라마 '크레이지 러브'의 슈퍼을 비서 이신아와보는 순간 완전 납득! 화보 장인을 오가는이중생활로 바쁜 나날을 보내고 있는 오늘의 주인공바로 정수정 배우입니다♥작년부터 애타게 기다려···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDNfMyAg/MDAxNjQ2MzA2NDgyOTU0.ZOh9dN01JFxDbTeHUGRnlE_998jq3FIav7Vw6Y8sXvEg.zc_EBkDS7YlUIw7XXUgEZtVWcngXlDZ2gBPKGFgC3bgg.JPEG/I8bJtXAlZN-MRFI-ysR-1MiXIy2A.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
