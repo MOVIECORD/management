@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 09:28:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 10:30:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현빈] In WONDERLAND]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34170633&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34170633&amp;memberNo=32146648</guid>
+            <pubDate>Mon, 01 Aug 2022 10:29:07 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST] HYUN BIN ♥ 웰컴 투 비니랜드 비니랜드에 오신 여러분, 환영합니다 (짝짝짝)(비주얼) 환상의 나라 비니랜드의 가이드를 맡은 베스트리입니다(찡긋) 그럼 지금부터 투어···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjFfMTc1/MDAxNjU4MzcwNDk1Mzk5.-aTwRh2povdXeM8JNxBn_Ot2MfR09L88cwpQ3PRs2GYg.lIanH0XPWR_UhiQgzno8uVQlfyiiXMM0SCrA3K3Lq1Ig.JPEG/Ic_PNWtN-20yXFJbZ9X9uLukcWXU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[My Love, 신도현]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34011366&amp;memberNo=32146648</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST]LEE YEON HEE♥10월 21일부터 시작된 연극 &lt;리어왕&gt;이 3주간의 대장정을 마치고 지난 일요일, 마지막 공연을 올렸는데요무대 위에서 반짝반짝 빛나던 연희 배우가 벌써부터 그리운 건 왜 일까요 ★ ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMTY0/MDAxNjM3MzAxNjEyNzk5.E2TCEelbXWxI-Hs8cEIPd2bvvkK8fuwUwYN80SsyNIYg.lX8TRN7H95hA__aXAOX0An1K-ES52eyni54IBdIqGA0g.JPEG/ItPLbQpu0n0qxbY3-idNZc_TVh6c.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비상이다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32636875&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32636875&amp;memberNo=32146648</guid>
-            <pubDate>Thu, 02 Dec 2021 16:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST]HYUN BIN♥ 비상이다 베스트리는 원래 울보여서멋있는 사람을 보면 되게 잘 운담말이예요?근데 출근한 베스트리 앞에 '현빈'배우가 나타났지 모예요★ 역대급_울음바다_완성.jpg 오늘 포스팅 배경이 하늘색···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjdfMTYw/MDAxNjM1MzIzNDgzODMw.2g1rh0_RGYRz8EXnLYIxxN7FA03-ekH5V-azdTOU8gYg.TBHRzvOe1NR-WkUfOnGO0W1Wnab5LvycWptsGNVuQBog.JPEG/I2HGwaLpZv9vsZ6r17Pd3ytlUqBY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
