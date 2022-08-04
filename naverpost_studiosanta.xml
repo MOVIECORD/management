@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 23:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 02:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌런의 실체]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34251385&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34251385&amp;memberNo=31542741</guid>
+            <pubDate>Thu, 04 Aug 2022 02:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[존재감하면 양현민 양현민하면 존재감빌런 페이스부터 사랑스러운 애교까지 종합 선물 세트로 &lt;라디오스타&gt;를 쥐락펴락조합부터 신선했던 '안 쫄면 다행이야' 특집토크 학연(?) 지연(?)에 말···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDRfNjQg/MDAxNjU5NTc3NTU4ODYy.RWi1g_az6gmgUu8U4E-ySKYsfCtrwqZCbONIg8XGVRwg.8G3mfkt253Ni8BF9K-dJfcVqtd0cwqx6_Lxd4U1qWsAg.JPEG/Ia4_XDUY8J2Z2czz8CLZtQaSKqUY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[철웅이랑 데이트한 썰]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34232044&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 10 Jun 2022 14:24:13 GMT</pubDate>
             <content:encoded><![CDATA[노-멀한 게 뭔데?요즘 애들 오피스 생존기 '뉴노멀진' 으로 NEW 소식 알린 이원정 배우'미친 비주얼'과 실력을 겸비한 뷰티 에디터 // 정 석 진 // NEW 캐릭터 소식까지! 다들 기다리고 있으신 거죠~?그래서 준비한 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTBfMjI1/MDAxNjU0ODM4ODc2MTg5.57dKmCpV3DcubTGFTen_rhncH9nSDCFo7Kr5sbuAkTog.yz6c3wApOpqNoVlrLREN4fmwLxk8Jrf-O5A-CLJ8lxYg.JPEG/I3khb9hEqIe1S2mvKBc4e4TjeO2g.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇄골도 빛이 나는 배우]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33910625&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33910625&amp;memberNo=31542741</guid>
-            <pubDate>Sun, 05 Jun 2022 03:39:36 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 덕업일치로 심장 부여잡고 산다는 tvN &lt;별똥별&gt; 속 톱스타 백다혜 = 장희령 배우덕심 자극 + 공감 유발자 그저 태성(김영대 분)만 좋아했을 뿐인데세련美 폭발,상큼함 폭발 명.불.허.전 CF퀸그리···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDNfMTIg/MDAxNjU0MjQwMjI1MTMy.Z31217AflbHcHFOMeiAPyPSm6WD_abGuR0lrHEOx_FYg.hCfD3MLV70pLURfXddqRn1LJ2nboOgOfG0FRi0YvX9Ag.JPEG/IgeAG2PvddRkb07QLBtyVfs0cKSI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
