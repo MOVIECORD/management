@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 08:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 09:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트] 8월의 BH ON AIR ●]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34254578&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34254578&amp;memberNo=21724264</guid>
+            <pubDate>Thu, 04 Aug 2022 09:23:05 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDRfMjQ1/MDAxNjU5NjAyNTIzNTA0.R_E6k3iKqpZQAni-VdIoaAkT6Z4XKpoqR8iCeLnnVLog.SIDEE7TE1kGwcZeXP3SIxlM9A_NTG00RwDM2_OqNkjAg.JPEG/IbCtSX6NxO4RXhlgz0cXkX0as6TE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권모술수 권민우 본체...더보기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34135060&amp;memberNo=21724264</link>
@@ -16,7 +23,7 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjhfMjMg/MDAxNjU2Mzk1NzM4MDEz.UuHIC98NE-7f1Sq6AICS3L5A7YMgMGL9nvRZ1E2vpKcg.Y5-LHhacbBQxAuZTjUhH1PzDNL8a5WvZFaX0HviLJwgg.JPEG/IerhStaEICRPfyoyxVI-r0DEavI0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[BH엔터테인먼트] 7월의 BH온에어]]></title>
+            <title><![CDATA[[BH엔터테인먼트] 7월의 BH ON AIR ●]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34071201&amp;memberNo=21724264</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34071201&amp;memberNo=21724264</guid>
             <pubDate>Mon, 04 Jul 2022 07:21:46 GMT</pubDate>
@@ -156,13 +163,6 @@
             <pubDate>Tue, 08 Feb 2022 09:22:00 GMT</pubDate>
             <content:encoded><![CDATA[최근 장발의 아이콘이 된 고수 용안 미남 클래식 고수: [명사] 머리가 길어도 짧아도 외모가 전설인 사람을 이르는 말  요리 보고 저리 봐도 이러나 저러나 고수는 고수다 잠깐의 휴식기에도 고수 미모는 연중무휴 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTJfMTA3/MDAxNjQxOTcyMzUwNTYw.zQT-K5iN1a6fF54qXybWwREqt7KQf8KPTFXeyWIgjAAg.g6ynbTw3-jtNU_yEezHSScLlpfPsHpcvKIDNNiSjV5wg.JPEG/IXsudefPN-uahLMWB-_p_C4qgEbs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BH엔터테인먼트] 2월의 BH온에어]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33236264&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33236264&amp;memberNo=21724264</guid>
-            <pubDate>Fri, 04 Feb 2022 09:19:15 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfMjcx/MDAxNjQzOTY1MTMzMTY0.5veZ3HmV7_2sO2VKenAuEIpMezdEncbgNSNs_fVAv_wg.u5ntWd_XeZ_3IJz60CTN628niY4zfdmIxqbrc4p5Szwg.JPEG/I3x0344AYASxkf9y-UfnqVRubvgs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
