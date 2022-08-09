@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 12:54:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 13:54:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넘사벽 수트핏의 정석]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34281504&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34281504&amp;memberNo=31542741</guid>
+            <pubDate>Tue, 09 Aug 2022 13:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[눈 질끈! 손 꽉! 심장 와르르!러닝 타임 내내 내가 숨을 쉬었나(?) 기억이 안 나는 넷플릭스 영화 &lt;카터&gt; 다들 놓치지 않고 보셨나요?!보는 내내 떨리는 마음 부여잡게 만든 주카터, 그래서 준비한 또···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDlfMjc2/MDAxNjYwMDI0ODc5NDg2.ZYNymZ1MDy_0iFbH9GtSBA5O5R_4aMKN3s4-o3y2ZDMg.7bh80o9gsTx9Qe23z1r-4EDcYrfTrV2oTGKdBv2NQkQg.JPEG/IpGPCaj1JAgEdvigBcL-k898LSCI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 진정에는 '장희령']]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34274959&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Jun 2022 14:22:01 GMT</pubDate>
             <content:encoded><![CDATA[여러분♥ 지난 9일 아주 특별했던 라이브 방송 다들 놓치지 않으셨죠?!보는 내내 행복했던 시간을 더 더 더 행복하게 만들기 위해 준비한안녕, 주원 숲'주원 숲'을 찾은 '주원 배우' 라이브 방송 빛하인드가득···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTRfOTYg/MDAxNjU1MTg5ODk3NTM1.KWlBJApea4F7ejkpZok-YWuBO0Q34SNgvaloDXcbX5Ag.N6BhApyjd0-rwWoQIO7z_E9HY0NF7pRpHlaH97j6uXkg.JPEG/IY6Ia9MJ_zyssSkicnfZ0KjwyJuQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혜옥은 아름다워]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33955337&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33955337&amp;memberNo=31542741</guid>
-            <pubDate>Mon, 13 Jun 2022 13:53:25 GMT</pubDate>
-            <content:encoded><![CDATA[결혼 장려 프로젝트로 남다른 추진력을 보여주시더니 세 아들과의 밀당까지&lt;현재는 아름다워&gt; 하드캐리 중이신 김혜옥 배우엄마부터 예비 시어머니, 아내, 며느리까지 만능 능력치 뿜뿜"옴머,,우리 수재 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTNfMTY4/MDAxNjU1MTAzNTE2Njk4.CaBluYX5fWma0kxfqFdIJiVKl0VsaDogzebaSFLESlAg.teRfRb5kG6RPi0KIq9f4pMbpRxAvqEjMRAko85LNSVMg.JPEG/IDckbgKLrBnXfHRUR8ziLHAtGTA0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
