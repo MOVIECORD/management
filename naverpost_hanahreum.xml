@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 한아름컴퍼니 </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 09:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 10:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헌트의 홍보요정은 단연코 [허성태]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34287358&amp;memberNo=34451204</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34287358&amp;memberNo=34451204</guid>
+            <pubDate>Wed, 10 Aug 2022 10:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 한아름지기 입니다~~~ 바로 오늘 허성태 배우가 출연한 영화 '헌트'가 개봉을 개봉했는데요!!! 허성태 배우가 참석한 '헌트' 제작 보고회 현장 사진을 공개합니다~~~'헌트' 의 막내 '허막내' ㅋㅋ막내로써 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDlfMTg4/MDAxNjYwMDIxNzA1MDE0.4j4tR-LD-bl-0mDJb5--aBCYNjsOgmEuRtT-PWfuTtgg.YLWBGssgEwBGgMEjmh0SaUpJO70UzSVO2AAjB6Tby0Eg.JPEG/I-PRhxtcqSrsXYebidsi0-3QdzO8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 껌만 보면 생각나는 [송재희]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34104086&amp;memberNo=34451204</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
             <content:encoded><![CDATA[지난 고온 배우의 소식을 알려드린데 이어, 또 한명의 한아름컴퍼니 배우를 소개 해드리려 합니다!!!바로 이상민 배우 입니다~~~ 이상민 배우는 최근 웹드맛집 '루디고'에 출연하며, 많은 웹드 팬분들에게 많은 사랑···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjdfMTgz/MDAxNjI3MzUxMTU1Mzkw.NPw0zXWGjBvehUr3gPQsnUVHxi0MkIwuvcvqaAj1nQ8g.UJIEeD7T_e82zuTO3yTFWXoPXAPXBsvs2hXTrn4I49Mg.JPEG/IiL6Sm2-Qb9xmPe5CG0r0ySjVFNs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허성태 뺨 때리고 한 식구 된 [고온]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32053472&amp;memberNo=34451204</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32053472&amp;memberNo=34451204</guid>
-            <pubDate>Sat, 06 Nov 2021 15:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 한아름지기 입니다~~ 오늘은 여러분들께 한아름컴퍼니의 새로운 식구를 소개해 드리려고 합니당!!! 한아름컴퍼니의 새 식구가 된 배우는 바로 고. 온 배우 인데요~~~이전에는 본명인 '백철민' 으로 활동 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjBfMTM2/MDAxNjI2NzY5MTk5NTc5.FghU7P2cUJFdWbPlB4e_Q9w-A6hEOyVk8BOBLg2VALYg.JtUtJtzxjVKMddRuv8_1S1lrHhlz6JM0lquDJEWMbIsg.GIF/IdASm_4CTmxHI-e5zvel-SUsAnmQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
