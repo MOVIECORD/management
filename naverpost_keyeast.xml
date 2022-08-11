@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 13:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 14:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유럽간 참바다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34294643&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34294643&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 11 Aug 2022 14:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[유해진 (aka. 믿보배) 보기만 해도 기분 좋아지는 유해진 배우가 예능으로 돌아왔습니다!'삼시세끼'의 참바다'스페인 하숙'의 이케요 유사장그리고 이번엔 '텐트 밖은 유럽'의 캡틴유~~'텐트 밖은 유럽'은 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTFfMjgx/MDAxNjYwMjA0OTA1ODA3.ElvIFn02MHm9uXFHJ0faiCtCSWAiLnRs-DPG0Ju0UV4g.bjvn5mR-dwgUST0_6IAS5fhYKYOC13o7xn62pVq0DS4g.PNG/IuNkNsqO1RMUputhZNvOEB-8cSes.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[황인엽 팬미팅 Present 그 잡채❤️]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34229503&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Fri, 08 Jul 2022 14:23:47 GMT</pubDate>
             <content:encoded><![CDATA[네? 장르물 천재 배우 아니고로코 만재 배우도 아니고코믹 배우요?물론!! 모두들 비주얼만 봐도 웃음을 멈출 수 없다고는 한다지만대놓고 코믹 배우라니요?[단독] 김동욱의 본능? 개그로 이루어져[공식] 김동욱, 나 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDhfMjE3/MDAxNjU3Mjc0NzkwNDU3.sT9HgGBpSBtfq13BIgprbuAxda_RbWvRJC_uAb0-lJUg.f5LKXLMHuM2wmWLTQ0m5Qp8XqznzHp-CSy6-tKC5kbog.JPEG/Ir8CVUX6DZ1DiLENqq0cYzbQqfyo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대물로 돌아온 강한나 근황]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34094922&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34094922&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 07 Jul 2022 14:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[[단독] 조선시대 중전으로 살아가던 유정, 21세기 현대에는 어떤 모습으로 살아가고 있나우리의 마음을 붉게 물들였던 유정의 환생 후 현재 모습이 포착되었습니다강렬한 레드립과 블랙 스트레이트 헤어로 시크한 분···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDdfMTU0/MDAxNjU3MTc3MDQxNjk3.JWvZH-wZinSOYSObVMsoAeGO64Oml69zSNfSj5BZC0Qg.LYe3bU0-8l-Y29VDe45_s3vBsawracCYDPIIm8HtiVwg.JPEG/ItqFOMedAL06fOhTWH9vwBSjeQug.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
