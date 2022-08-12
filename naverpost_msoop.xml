@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 04:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 05:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프린세숮 왔어요∿ ෆ]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34296751&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34296751&amp;memberNo=22903361</guid>
+            <pubDate>Fri, 12 Aug 2022 05:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[똑똑 – 프린세숮 등장입니다~ 오늘은 수지 배우&nbsp;광고 촬영 현장에 다녀왔습니다! 여러분 지금 당장 사진 저장하세요! ‘우아하다’ 라는 단어가 없어졌을 때 이 사진들을 보여줘야하거든요 진짜…&nbsp;울 수지 배우천국에서···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTBfODAg/MDAxNjYwMTA5MDAwODQz.HANdeMKGafUe3A0OZQkiR-XehdQLW8SDoR4CbcDQTeIg.-JbgFtxoGxbhBS2X6l8O25JwcPuUTVEpSDUGvSb_bOwg.JPEG/I4zTccJ6BGVcLQhs96nbmm8FyoKY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국토교통부 장관이 된 '전도연']]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34218529&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Apr 2022 14:21:57 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 여러분 숲블리입니다,,, 오늘은 슬픈 소식을 들고 왔어요,,,올봄,우리 맘을 설레게 한 노고진과 이별할 시간이라는 소식입니다,,, &lt;크레이지 러브&gt;의 종영 소식에 흘린 눈물이 모여 어느덧 강을 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjVfMjg5/MDAxNjUwODczNTkzMTQy.CwOuCRXF35zk9SWZlx5Ou7PJw-bfOV27sNOqnMOk2vog.X09SzfAUIbKjaDi-1jLWBu_PwvupMYJBT895pEziZ8Yg.JPEG/IeU-nN9Nal-3XWmpNzUMIwJUDY1s.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남주혁, 화보만 찍었다 하면 레전드]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33645446&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33645446&amp;memberNo=22903361</guid>
-            <pubDate>Mon, 18 Apr 2022 08:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 숲블리입니다 오늘은 주혁 배우의 에스콰이어 4월 호 비하인드로 찾아왔습니다!벌써부터 두근두근하는 우리 마음♥좋아서 어질어질한 에스콰이어 현장으로 바로 가시죠~!주혁 배우 보니까 자동 심···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTNfMjc4/MDAxNjQ5ODI3NzgzNjky.XFNnhYxWdg1gwx6LV1KQ0zG6J5RSOVJxYZnsIHAdHTog.gCiV3UrUzHP8URY2A-t_qgX9Ct9-TvQutA_DraaiDGgg.JPEG/ImhrrXcniitCxRWiyYmvhS1M-hwc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
