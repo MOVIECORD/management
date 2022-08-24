@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 06:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 07:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작은 아씨들 ‘오인경’으로 왔‘지현’ღ]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34362008&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34362008&amp;memberNo=22903361</guid>
+            <pubDate>Wed, 24 Aug 2022 07:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 2022년 9월 3일 밤 9시 10분 tvN 토일 드라마 &lt;작은 아씨들&gt;이 방송됩니다! 첫 방송을 기다리고 계실 여러분을 위해 준비했습니다! 열혈 기자 오인경으로 돌아온 지현 배우의 ‘작은 아씨들’ 포스터 촬···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjRfMTgz/MDAxNjYxMzE5NjQ3NjE1.XxF-rx8toSjQ0OD9kRwna-TCXq0jU9idusdBpkwAk1gg.jRWaM-JIFi6OtVuQUrUMZmXmAMzmF0HpOaz5opkybEQg.JPEG/Ie39Phcqreks0vnkfJ5BThW2B7b0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프린세숮 왔어요∿ ෆ]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34296751&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 29 Apr 2022 06:29:48 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 숲블리입니다! 오늘은 우식 배우 소식으로 찾아왔습니다 우식 배우랑 함께 하늘멍~ 하러 지금 출발하시죠! 오늘의 컨셉 ~  우식이는 (견습)요리사~ ♥ 이렇게 깜찍한 셰프가 있다면 아침, 점심, 저녁 여···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjhfMjEy/MDAxNjUxMTM2ODgyOTEz.XATwstvWdPF6cJPJ0DAWLxOamExyNp4tNbqOLwfVuMQg.9RzRCe9yG-GllaJ9Q_-upa_wIcDMIMRKZLWm-dtrzpQg.JPEG/Iyp8b5d5ziiEMssDq8uJ9k3SkT30.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노고진 잘 가(가지마),,, 행복해(떠나지마),,,]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33694988&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33694988&amp;memberNo=22903361</guid>
-            <pubDate>Tue, 26 Apr 2022 14:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 여러분 숲블리입니다,,, 오늘은 슬픈 소식을 들고 왔어요,,,올봄,우리 맘을 설레게 한 노고진과 이별할 시간이라는 소식입니다,,, &lt;크레이지 러브&gt;의 종영 소식에 흘린 눈물이 모여 어느덧 강을 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjVfMjg5/MDAxNjUwODczNTkzMTQy.CwOuCRXF35zk9SWZlx5Ou7PJw-bfOV27sNOqnMOk2vog.X09SzfAUIbKjaDi-1jLWBu_PwvupMYJBT895pEziZ8Yg.JPEG/IeU-nN9Nal-3XWmpNzUMIwJUDY1s.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
