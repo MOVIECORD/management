@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 스튜디오산타클로스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 13:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 14:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선 넘어버린 두 배우]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34371648&amp;memberNo=31542741</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34371648&amp;memberNo=31542741</guid>
+            <pubDate>Thu, 25 Aug 2022 14:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[※속 보※ 아, 아 속보입니다! 기상천외한 상황에 산타캠이 처했습니다!바로! 박세완 &amp; 음문석 두 배우의 훈훈함에 삐------(끄앙)헿 ^____^ 헿 선을 씨~게 넘어버린 두 배우의 훈훈함과 함께 찾아온 '산···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjVfNSAg/MDAxNjYxNDA4NDM5MzY2.TXf7xZ_HtCQUIvjYa61UgbA0ZyVCCmoYmnV4YnqJLYAg.uyTWvmnqZfUjjzjkdEo6XmpBex8vWVP3pbyM-1Oqtxog.JPEG/I0PIPnMswfeD5w6OrrplnWv-Pqhg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전 세계 1위 한 배우]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34313127&amp;memberNo=31542741</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 Jun 2022 14:22:34 GMT</pubDate>
             <content:encoded><![CDATA[핑크빛인 줄 알았다. 아니, 핏빛이었다.하드코어 액션 로맨스 // 최종병기 앨리스 //본투비 킬러! 의문의 전학생 '겨울' 로 신선한 모습을 선보일 예정인 박세완 배우 다들 기다리셨나요?" 눈에 띄지 말고 조용···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjlfNzYg/MDAxNjU2NDg4MTk1Mzc3.gB4s4z1ykuS_Iwk1aYG3pTVpvsejTBGwF9nJMMM9vY0g.mi_mOTkkFBQjK2F1xF2Nh4uphFbJU9Uz1GTBjjeKg7cg.JPEG/IjS4Da-V1Sr_h7X00AhWEJXQ2Tns.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독공개] 이다희 24시]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34009140&amp;memberNo=31542741</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34009140&amp;memberNo=31542741</guid>
-            <pubDate>Thu, 23 Jun 2022 02:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[싱그러움 잔뜩 여름이 찰떡같이 어울리는 우런니, 그런 이다희 배우의 하루, 24시간! 궁금하지 않으신가요?화사한 아침부터 에너제틱한 낮, 그리고 반짝이는 저녁의 다희 배우 하루를 낭낭하게 담아왔습니다 '^'/이···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjNfMTEx/MDAxNjU1OTQ5MDQxMTgw.zhXbrPoysmOscB1So8LC13cRll2JeVdz4-CXobRgTUEg.SJVYFnhO-srdQ8hd4kgRLlKONv2LTUoVfcuLEbeedlog.JPEG/IV6ykgs4kDhLEdEsHa_zG6_oUnUI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
