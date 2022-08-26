@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 04:54:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 06:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서현진은 화보를 찢어]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34374355&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34374355&amp;memberNo=22903361</guid>
+            <pubDate>Fri, 26 Aug 2022 06:02:01 GMT</pubDate>
+            <content:encoded><![CDATA[현진 배우 보고 싶어서 하루하루를 지새다 보니 어느덧 가을! 보고픈 얼굴을 한껏 담아왔습니다.  처음부터 너무 심멎 모먼트죠?♥ 하지만 이제 시작에 불과해요. 요리조리 살펴봐도 너무 예쁜 현진 배우 머리부터 발···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjVfNDkg/MDAxNjYxNDExMTQ0Mjc2.1Gl9qWo722iPoLoh2FSJUZuWyDxbIhivFnjkg_AgzNMg.T7xqYCCS44Q-Y7wjtN1bGfidOwpIpqV1N2_VdKym_hEg.JPEG/IcQMxKa5mJ2OPFOES7ISi8ut8MAQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작은 아씨들 ‘오인경’으로 왔‘지현’ღ]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34362008&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 09:25:37 GMT</pubDate>
             <content:encoded><![CDATA["나랑 놀래?" 네 X 326 우식이랑 놀 사람, 여기 다 모였나요?그렇다면 오늘 포스트 바로 출발합니다!최우식 보러 가요~♪ 풍선 뒤에 숨어도 한눈에 알아볼 수 있는 오늘 포스트의 주인공! 우식 배우 하이~  오늘따라 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjRfMzQg/MDAxNjUzMzc1NDE1OTg3.Kd745VFz4gXWVT4RA-HV5uF_rkYqAVKTdBGvvY5doQ0g.FQqocVQq5cMgdOjUuoC3Kk3rSGYRcbTFBemvz1KYIgwg.JPEG/ITo3c0JcihEJvwT-Q44EVqMozMdM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우식이랑 같이 하늘멍~ 하실래요?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33704836&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33704836&amp;memberNo=22903361</guid>
-            <pubDate>Fri, 29 Apr 2022 06:29:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 숲블리입니다! 오늘은 우식 배우 소식으로 찾아왔습니다 우식 배우랑 함께 하늘멍~ 하러 지금 출발하시죠! 오늘의 컨셉 ~  우식이는 (견습)요리사~ ♥ 이렇게 깜찍한 셰프가 있다면 아침, 점심, 저녁 여···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjhfMjEy/MDAxNjUxMTM2ODgyOTEz.XATwstvWdPF6cJPJ0DAWLxOamExyNp4tNbqOLwfVuMQg.9RzRCe9yG-GllaJ9Q_-upa_wIcDMIMRKZLWm-dtrzpQg.JPEG/Iyp8b5d5ziiEMssDq8uJ9k3SkT30.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
