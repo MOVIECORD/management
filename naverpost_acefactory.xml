@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 12:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 13:42:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘 대박 과거 밝혀진 배우]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34377996&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34377996&amp;memberNo=44834478</guid>
+            <pubDate>Fri, 26 Aug 2022 13:42:11 GMT</pubDate>
+            <content:encoded><![CDATA["엉아 차 뽑았다~" "널 데리러 가~" 1988년 네비게이션 없이도 골목 곳곳을 누비는 인간 내비게이터 서울에서 대.작.전을 펼치는 이 남자 "복남이유~" 오늘 전 세계에 밝혀진 이규형 과거 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjZfMjYy/MDAxNjYxNTExNTg1NDU1.NgLBlZwOx1EQ9dpaR2S7GgSzKxUFSyTVw5dtHujdSzIg.mbwm9AW6TD9NHVFUPWLXbVv_6rROastTYK9X1WOAU1Yg.JPEG/IoTq7JdN-2kZv34sI_VleNh0NueQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재벌가 들쑤시고 다니는 장승조]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34340450&amp;memberNo=44834478</link>
@@ -169,15 +177,6 @@
             <pubDate>Wed, 15 Jun 2022 10:27:47 GMT</pubDate>
             <content:encoded><![CDATA[잠입수사를 하던 사법연수생이 나락으로 떨어진 뒤, 교도소 도박판에서 고군분투하는 액션 서스펜스극인사이더액션 서스펜스 극의 시발점이 된 남자10000000km 밖에서 봐도 검사,,,,검찰 내부 비리를파헤치려는 이 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTVfMjk0/MDAxNjU1MjgyNjE5Njk3.I_uqNnSsSUyij6anRwABF4w-hvBlTSoweAvkF8qzRAUg.oRFFwdmS1Gyi3k1XTgr5yr3WeRt-awEO1syZD5ZlQxYg.JPEG/ItqK-pWQyoPCQYvfS5qauSfLFyEA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 역대급 시어머니 소리 듣는
-나영희]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33961457&amp;memberNo=44834478</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33961457&amp;memberNo=44834478</guid>
-            <pubDate>Tue, 14 Jun 2022 10:30:09 GMT</pubDate>
-            <content:encoded><![CDATA[휘몰아치는 전개로 안방극장을 사로잡은KBS2 일일드라마 '황금가면'평범했던 한 여자가 재벌가에 입성하면서 시어머니와 갈등을 겪은 끝에 차갑게 내쳐지고, 재벌가의 가면을 벗겨내는 여정에서 한 남자를 만나 새로···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTRfMjQw/MDAxNjU1MjAwMjQzMTEz.Z0FgYK6GeFmUl2kebjteV9xBcVOCxs8DXFmbaTZEK-gg.BdK5k_l08ikfU_3qQFoGWzOlBt_ZsWC8UiZ714XEoPog.JPEG/IJoA_qa6UpfmYzne0oYDBJ8EZLj4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
