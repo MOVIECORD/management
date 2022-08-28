@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 13:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 14:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최측근이 밝힌 황인엽]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34384678&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34384678&amp;memberNo=29770009</guid>
+            <pubDate>Sun, 28 Aug 2022 14:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 키동 아니고 키맨입니다~키맨: '키이스트' 매니지먼트의 새로운 애칭오늘은 특별히 황인엽 배우와 일거수일투족을 함께하고 있는 키맨 J 가 직접 촬영하고 작성하는 포스팅!!! 근데,, 이제 키동의 주접···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjVfMjY1/MDAxNjYxNDE5NDQwOTE3.qXUZ7PQrMwYciyKOAqPSd2_DjF8beADdGD1nb3nOErcg.HrasDqIPBq4UyGcUIPnF17txeXOhUB_kzjovAxv4maUg.JPEG/IbCjSuw9RB7ODEgn2lQI6B0d13jo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잃어버린 언니 찾은 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34378413&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Mon, 11 Jul 2022 14:22:53 GMT</pubDate>
             <content:encoded><![CDATA[갑자기 분위기 Y2K 무슨 일인가 싶으시죠?이곳은 훈훈한 선후배를 만날 수 있는 주점입니다!여기서 너무나 예쁜 새내기한테 반한 한 남자의 쇼킹한 사연 들어보시겠어요?서울지부 대학교지 편집부 총회가 열린 날이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTFfMTcz/MDAxNjU3NTM3NTgyMTIz.vQe4MXeMA45ZQeqvyiq5oXUo_3VmPZ9E9GbwikqyfHEg.GxU9BYdaUYbl4n3sZy5K4EWk10yUjM3xuZEqmFfhctYg.JPEG/I1XdyAEG2tyeA7MTwxLjc3wo3VoQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계탔다! 성덕 된 후기]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34107857&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34107857&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 10 Jul 2022 14:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[친구들 안녕! 이 습함,, 무슨 일이야 우리 찜통에 있는 거니,,,?더우니까 지난 번에 강원도 놀러 갔다 온 게 생각나네★오랜만에 바다 구경하러 갔는데,어떤 커플이 사이좋게 저러고 우산 쓰고 있지 모야? 역시 바닷···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDdfMTAy/MDAxNjU3MTc0MDM4OTM3.hwYm2paHWWN6I0za7u2CClT9xepaTJ1bdsADp0G9gRQg.Bs7fkTuCr4GIKBpCVCtx3R4JkCllU1vdPZAoQdfGSecg.JPEG/IxO6qPXQaZoqLVPRSq3gkHxRXgHE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
