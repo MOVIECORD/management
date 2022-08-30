@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 08:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 09:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[전소민]이 무한으로 하트를 드림]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34394642&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34394642&amp;memberNo=35839671</guid>
+            <pubDate>Tue, 30 Aug 2022 09:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)지난 25일(목)'2022 K 글로벌 하트 드림 어워즈'에서진행을 맡은&nbsp;배우 전소민 씨 사랑스러운 모습으로관객분들의 눈에서&nbsp;하트를 무한 발사하게 만든소민 씨는 킹콩지기의&nbsp;무한&nbsp;···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjlfMjg1/MDAxNjYxNzY2OTM3NDg1.FaGwxh2mPrDDHgts2osn1_TkPkhgYGwlxoiyCQLg5FMg.EHgQ4bntgz-l9nNsxZ2YObLqkk0XHlWsfDeUSasfqpQg.JPEG/IGo5hSLhwNDOD9hn8xX_3tHU9eFg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신승호] <환혼: 빛과 그림자>도 문제없지, 나 세잔데~]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34388330&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 08 Jul 2022 08:33:03 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-)여러분은 여름 하면 뭐가 떠오르시나요?킹콩지기는배우 이동욱 씨의&nbsp;여.름.화.보밖에생각이 나지 않네요(찡긋)이번에도 그 명성에 걸맞게전설오브레전드 여름화보를 찍은 동욱 씨! [사···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDhfMjM3/MDAxNjU3MjU3NTkzNzc4.JfKSniJHdav3G-YiKkR4W7vxtVMOQx6MxtKHNR79XkQg.hy7ETjuVuiVxmHkjvyoUUFGfIFbQM3hx8MgTcDIX-x0g.JPEG/IK8fq1k8fZF5tfljQglLx9EBky30.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김샤나] 긴급 작전에 투입된 신인배우]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34086543&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34086543&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 06 Jul 2022 10:30:36 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :) 오늘은 아주 중요한 작전에 투입할 요원이 필요하다는 소식에 찾아왔습니다! 여기는 KK 여기는 KK 긴급 상황이다 오바 (순식간에 과몰입)이번 의뢰인은 두통 나라의 샤나 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDRfMjIg/MDAxNjU2OTI1NTAwMzU4.uNT1LU8ZEILvBsQH85yuWpqy-abhk36BnkhkPjGfDY8g.UP3Vokko9y5OIuSTuBt_G9L4cniXIPlFPgn30qX5eKIg.JPEG/IHk7tbe6edqRmj3J4wgHdr-0gLjc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
