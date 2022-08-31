@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 21:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 22:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숨겨둔 애교 방출한 우도환]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34404047&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34404047&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 31 Aug 2022 22:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[이번 달은&nbsp;#월간우도환&nbsp;가고,NEW 프로필로 찾아온 소도환 화보 찍고, 드라마 촬영하며 바쁜 나날을 보내던&nbsp;도환 배우를 드디어 영접한 키동! 오랜만에 진행한 프로필 촬영임에도 불구하고완벽한&nbsp;프로 그 잡채로현장···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDFfMTAg/MDAxNjYxOTYxNzA1Mjk3.kfjjtFzwjhW7gLJRcXC5imkZUANg6rfhbHqyUFO50R4g.2qBgnry2sRXQ4uKG2ZlN7tKDitc1h5WqGKhGZEaJ_dUg.JPEG/IKjIFXaO1qLl1xSRwnj2uepMVnDU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최측근이 밝힌 황인엽]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34384678&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Tue, 12 Jul 2022 14:21:23 GMT</pubDate>
             <content:encoded><![CDATA[여러분~ 안녕하세요~~이번 주말 키동은 가족 모임에 초대되어 다녀왔어요키동에게 초대장을 보낸 이들은 바로! 연예계 대표 부부 박하선 &amp; 류수영 배우입니다!힐링 그 자체 즐거운 캠핑과 알콩달콩 데이트를 함···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTJfMjU0/MDAxNjU3NjE2MTQ2MjA4.oQQowET07xL2pxn2JphCPBNb0D0jEiJI9P3Ek0Ttk9og.Df_Zfk1rOe2yL0SLUO4OyL39s_z6NTyKk5xsMzXtkrAg.JPEG/IbNvYlnhFyVRonme7v7xl4uaUxOk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입 무겁다고 소문난 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34114552&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34114552&amp;memberNo=29770009</guid>
-            <pubDate>Mon, 11 Jul 2022 14:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[갑자기 분위기 Y2K 무슨 일인가 싶으시죠?이곳은 훈훈한 선후배를 만날 수 있는 주점입니다!여기서 너무나 예쁜 새내기한테 반한 한 남자의 쇼킹한 사연 들어보시겠어요?서울지부 대학교지 편집부 총회가 열린 날이···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTFfMTcz/MDAxNjU3NTM3NTgyMTIz.vQe4MXeMA45ZQeqvyiq5oXUo_3VmPZ9E9GbwikqyfHEg.GxU9BYdaUYbl4n3sZy5K4EWk10yUjM3xuZEqmFfhctYg.JPEG/I1XdyAEG2tyeA7MTwxLjc3wo3VoQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
