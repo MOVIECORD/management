@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 08:30:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 09:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신현수] 위기의 (미스터리) X]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34417691&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34417691&amp;memberNo=35839671</guid>
+            <pubDate>Sat, 03 Sep 2022 09:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다! [사진제공: WAVVE] 어제(2일, 금)웨이브 오리지널 &lt;위기의 X&gt;가첫 공개되었는데요!그런데, [사진제공: WAVVE] 아직 공개되지 않은 포스터 속 이 인물도대체 그는 누구인가...!오늘···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDNfMTIg/MDAxNjYyMTQwMTQyMDM0.MM83nvlFKj_3yN1Z4ppIZHOo8xG3Uu8-ANKwqAyRkTMg.s5yXagMAzB4RAaT5HJuZpBJP_fTsHNv2sZzw24b3OWsg.JPEG/I4-t2Q4MiPn-mgvqiIs5dF3Hf8fw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[류혜영] 환영 PARTY에 초대합니다♡]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34414214&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 15 Jul 2022 10:29:25 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) JTBC 토일드라마 &lt;클리닝 업&gt;에서 *＊✿❀❀✿＊* 용역 미화원+예비 이동식 카페 사장+캠퍼스 요정 *＊✿❀❀✿＊* 쓰리 잡으로 열일하고 있는 배우 전소민 씨의 포스트로 찾아왔습니···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTRfMTUz/MDAxNjU3NzkyNzYyMTMx.nfxcxTpAwalPx6gVtNw2LJwPmDSnBg53q40Fh0uyFRMg.KSVIKJ8tx7nAwvRUgNKdUDVpJ9Buh5L39VoAlLZwDgQg.JPEG/IDKzIOWaNAIvdeqhRJoBC3MTAaCQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이미연]과 함께하는 오피스라이프]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34127087&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34127087&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 13 Jul 2022 10:31:27 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-)오늘은 배우 이미연 씨와 함께하는킹콩지기의 오피스라이프를 소개해 보려 해요(※본 포스트는상황극 전문 킹콩지기가 작성하였으니과몰입에&nbsp;주의해 주시길 바랍니다※) 입사 첫날, 설레···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTNfMTMg/MDAxNjU3Njc3OTE2MDQ5.cVKaCBpy8_dd2fd2_hiHA5-kj38uxina8LZt6pwnnC8g.fh7pvrDV_-Q7EDYXaUwnJZ4jeci62hFl0qjoB1thoEkg.JPEG/IQzE-p-dE8jIcZJ8D9gdtRmj_I2A.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
