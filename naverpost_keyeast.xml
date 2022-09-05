@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 13:51:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 14:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연기 접고 시골로 귀농한 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34427567&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34427567&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 05 Sep 2022 14:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[다들 '5도 2촌'이라는 말 들어봤지?5일은 도시에서, 2일은 시골에서 보내는 풀내나는 친환경 라이프!내가 요즘 도시 생활에 힘이 부쳐서 주말엔 시골에서 지내보려고어릴 때 지내던 '희동리' 할머니 동네를 찾았어! ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDVfMjM5/MDAxNjYyMzY5ODAwMzAy.DHUIX8IXC5QVHLO2-cJS8a79SnVsSjIDjVPVLaND4gwg.RNA3RIs_u8NMnBqMrJAtQuIjDDSdF0YcD4s6PpJPy_0g.JPEG/IV-lxmab5Rg9BtbpDskwgU-Y6Yks.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1억 3천만 비주얼 배우 이즈 백]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34415851&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Fri, 15 Jul 2022 13:52:40 GMT</pubDate>
             <content:encoded><![CDATA[촬영장에 민낯으로 등장을요..? 그것도 드라마 현장에서 그럴 수 있습니까? .. 실제로 그 일이 일어날 수 있으니 각오해라배우 인생 처음으로 나선 민낯 촬영! 화제에 이슈를 더해서~ 어머 깜짝이야! (งᐖ)ว···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTVfMjIx/MDAxNjU3ODc0NzUxMjU1.AC37TiGMT3McQdnr_-jbJe6dGxo1Xsiq47sFttazZvIg.650APLgOxvfwrtNCi3lfDZRthXmg7oLoTKyBaWfGO1og.JPEG/ICXgxO6pVE-cD9uhwVi0wkOotZ-o.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누아르 기강 세게 잡으러 온 배정남]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34128315&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34128315&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 13 Jul 2022 14:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[형님 저 녀석 화보 촬영장에서 누아르 한 판 찍으라고 할까요?형님 저 녀석 누아르 찍는 동안 골프 압수라고 할까요?요즘 여기저기 골프 유학 다니며 골프의 신이 되어 골프장 기강만 잡으러 다니는 줄 알았는데!키···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTNfMTcx/MDAxNjU3NzA2OTA3MjQ4.dtX1xCkmOiDmEfGC_NGPXW8xbJp3a38k7kAeub2jXo0g.pxzxBAmC2MPRpw_tDmbAEjEVJGnEVx_91vF_UXja7eEg.JPEG/IC6ybWXSkLhYs-CAdQzkwTvFVggo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
