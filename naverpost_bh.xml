@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 08:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 09:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트] 9월의 BH ON AIR]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34426482&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34426482&amp;memberNo=21724264</guid>
+            <pubDate>Mon, 05 Sep 2022 09:25:48 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDVfMTE1/MDAxNjYyMzY4MTcyMzgx.q2TCEIdmfHA2lYAc_Uc_Sjn6UvNh42-7gxEh2QPhTOEg.Oj3_4JDzFvRN0Jpf2Zl6UtgJXZmyKfhLgmf1XHufWmgg.JPEG/I8sRfota4e__yBkaQLJDOBecuCNc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BH엔터테인먼트] 8월의 BH ON AIR ●]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34254578&amp;memberNo=21724264</link>
@@ -155,14 +162,6 @@
             <pubDate>Fri, 18 Feb 2022 09:21:13 GMT</pubDate>
             <content:encoded><![CDATA[명불허전[名不虛傳]명성이 널리 알려진 데는 그럴 만한 까닭이 있음을 이르는 말 안녕하세요해피비입니다:) 갑분 백과사전 오프닝 열게 한 이 죄 많은 남자 머리부터 발끝까지유죄 조각 요즘엔 조각도 프로필 찍는 시대 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTFfMjM2/MDAxNjQ0NTU0NzU5MTMz.N_TUOEPDxiuIvDzJ2ZSVEQFdMG2SKAIUz7IbOfvSa5Yg.BJiG8eRg6-sCc3Lhn-WXflHzFTCRqAF-ORueWZMmroMg.JPEG/IdGPyqlwrkmw93rotE_9w7HAcrGc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[고수] 클래식은 영원하다.]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33246288&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33246288&amp;memberNo=21724264</guid>
-            <pubDate>Tue, 08 Feb 2022 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 장발의 아이콘이 된 고수 용안 미남 클래식 고수: [명사] 머리가 길어도 짧아도 외모가 전설인 사람을 이르는 말  요리 보고 저리 봐도 이러나 저러나 고수는 고수다 잠깐의 휴식기에도 고수 미모는 연중무휴 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTJfMTA3/MDAxNjQxOTcyMzUwNTYw.zQT-K5iN1a6fF54qXybWwREqt7KQf8KPTFXeyWIgjAAg.g6ynbTw3-jtNU_yEezHSScLlpfPsHpcvKIDNNiSjV5wg.JPEG/IXsudefPN-uahLMWB-_p_C4qgEbs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
