@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 09:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 10:31:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[정원창] 내 장점이 뭔지 알아? 바로]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34438819&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34438819&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 07 Sep 2022 10:31:06 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 어제(6일, 화)부로 잠시 이별하기로 한 tvN &lt;조선 정신과 의사 유세풍&gt;최대 빌런 좌상 조태학(유성주 분)의 편에서 그대로 흑화한 줄 알았던 '조신우'가 돌···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDdfMjYz/MDAxNjYyNTE0ODExOTU3.pFt-gGjGpzzfNnWzS7DJVf3rtGRMIhmbEKqSoX6EbIUg.m1kK4VBh8U9ugjxdhfeIx2pciMUe-NlC5lPN2Nyfx_wg.JPEG/I0LfqtVniS_faMJfULQsZR2I_7oo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신현수] 위기의 (미스터리) X]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34417691&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 16 Jul 2022 08:29:05 GMT</pubDate>
             <content:encoded><![CDATA[[사진출처: tvN '환혼'] 킹콩지기에게 어느 날 느닷없이 날아온데이트 신청서(?) [사진출처: tvN '환혼'] "킹콩지기... 나랑 데이트하자...!"- 고원 -(청첩장 맞음 결투장 아님 아무튼 아님···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTZfMTI1/MDAxNjU3OTA3NzUwMzQx.zsyk24XuoTqGDX0Fq3riybGwR78shHnsDowUf4CGEFog.Qd9M0MJIwmC3bCL6QhIk_GNVWHmIY_arvKCq7eBCeKgg.JPEG/IaGCzbuv-xI-8bzRgTR0hD-uL9X4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전소민] 주식과 사랑 다 잡은 캠퍼스 요정♥]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34139225&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34139225&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 15 Jul 2022 10:29:25 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) JTBC 토일드라마 &lt;클리닝 업&gt;에서 *＊✿❀❀✿＊* 용역 미화원+예비 이동식 카페 사장+캠퍼스 요정 *＊✿❀❀✿＊* 쓰리 잡으로 열일하고 있는 배우 전소민 씨의 포스트로 찾아왔습니···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTRfMTUz/MDAxNjU3NzkyNzYyMTMx.nfxcxTpAwalPx6gVtNw2LJwPmDSnBg53q40Fh0uyFRMg.KSVIKJ8tx7nAwvRUgNKdUDVpJ9Buh5L39VoAlLZwDgQg.JPEG/IDKzIOWaNAIvdeqhRJoBC3MTAaCQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
