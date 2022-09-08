@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 07:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 08:32:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이광수]와 존버라이어티에서 살아남기]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34444928&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34444928&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 08 Sep 2022 08:32:07 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다&nbsp;:)&nbsp; &nbsp; 8개의 극한 상황 시뮬레이션&nbsp; 존버라이어티&nbsp; 긴장감 재미 스펙터클&nbsp; &nbsp; 보기만 해도 웅장해지는&nbsp; 이 모든 것을&nbsp; 만나 볼 수 있는 [사진 출처: 월트디즈니컴퍼니 코리아] 디즈니+···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDVfMSAg/MDAxNjYyMzU3NjA0NTc3.PiXkbveF529EjNdGDI0fiaAkAo4TRZdLNA90J83Oa_Eg.pMiywlQjX2_krEPiYe5sbLFQUKn0c4nGxBUNH2DwVrog.JPEG/IMWlWBEPzx6Xy2ASn8OY0E1OwAJ8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[정원창] 내 장점이 뭔지 알아? 바로]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34438819&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Jul 2022 10:26:56 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요:) 킹콩지기입니다!오늘은 tvN 토일드라마 &lt;환혼&gt;에서제일 바쁜 캐릭터,대호국의 세자 '고원' 역으로 출연하고 있는배우 신승호 씨와 함께 왔습니다☆ [사진출처: tvN '환혼'] 궁에···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjNfMTU2/MDAxNjU4NTYxNzUyNTM2.68jkt4x5A32_h5QuwaSdhsBUbu1pHVlCVwzg9lrlu2Ag.tK1tRpCUQrtqdlWs35jm6-ZrmSz5CKnFXgkWRg1CEFYg.JPEG/IbymwipN2DWfv9O60J9rKb5_uU7Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신승호] 청첩장: 세자, 나랑 데이트하자]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34143075&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34143075&amp;memberNo=35839671</guid>
-            <pubDate>Sat, 16 Jul 2022 08:29:05 GMT</pubDate>
-            <content:encoded><![CDATA[[사진출처: tvN '환혼'] 킹콩지기에게 어느 날 느닷없이 날아온데이트 신청서(?) [사진출처: tvN '환혼'] "킹콩지기... 나랑 데이트하자...!"- 고원 -(청첩장 맞음 결투장 아님 아무튼 아님···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTZfMTI1/MDAxNjU3OTA3NzUwMzQx.zsyk24XuoTqGDX0Fq3riybGwR78shHnsDowUf4CGEFog.Qd9M0MJIwmC3bCL6QhIk_GNVWHmIY_arvKCq7eBCeKgg.JPEG/IaGCzbuv-xI-8bzRgTR0hD-uL9X4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
