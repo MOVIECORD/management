@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 13:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 14:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을엔 박하선]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34447368&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34447368&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 08 Sep 2022 14:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[전국 방방곡곡을 '무작정' '원하는대로' 여행하고 있는박하선 배우가 이번에는가을 유럽의 정취를 담아왔다고 하는데 사실인가요?!기분 좋게 꽃으로 하루를 시작하고바게뜨 빵도 씹고 뜯고 맛보며 즐기는 이 가을 갬···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDZfMTQ1/MDAxNjYyNDU3MTMxNDQ4.DuQ8DOeeCJr70ESm_g2m4ONtnH8ErL0He7P1jBNnjwMg.ZUqtoA19gDZjTsaQxdd83pPkkikWmcOM3KENhH_3WOIg.JPEG/IHM93H96KD08Y7igWrdkfLNlHddA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연기 접고 시골로 귀농한 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34427567&amp;memberNo=29770009</link>
@@ -160,14 +168,6 @@
             <pubDate>Sat, 16 Jul 2022 14:20:31 GMT</pubDate>
             <content:encoded><![CDATA[세 살 핸섬 여든까지 간다이 아이는 커서 차세대 한류스타가 됩니다⭐올해 데뷔 4주년을 맞이한 배우 황인엽의 필모를 깨보는 시간⚒️!1️⃣ KBS2 조선로코-녹두전 (2019)브라운관 데뷔작이면서 그의 유일한 사···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTZfMTIg/MDAxNjU3OTY1MDMzMDIx.vJI6r5DXp_5E-ckmnYwJQWbBCuJLX8fOpW0NewbDWQ0g.s8aAAw_ZCDVtAkrRAchCPeNtdw54Yb3sbX2g51p6pzQg.JPEG/IJPrgi-XRkJC4N3NsBbY46AwKnXs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[촬영장에 민낯으로 와서 논란인 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34141279&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34141279&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 15 Jul 2022 13:52:40 GMT</pubDate>
-            <content:encoded><![CDATA[촬영장에 민낯으로 등장을요..? 그것도 드라마 현장에서 그럴 수 있습니까? .. 실제로 그 일이 일어날 수 있으니 각오해라배우 인생 처음으로 나선 민낯 촬영! 화제에 이슈를 더해서~ 어머 깜짝이야! (งᐖ)ว···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTVfMjIx/MDAxNjU3ODc0NzUxMjU1.AC37TiGMT3McQdnr_-jbJe6dGxo1Xsiq47sFttazZvIg.650APLgOxvfwrtNCi3lfDZRthXmg7oLoTKyBaWfGO1og.JPEG/ICXgxO6pVE-cD9uhwVi0wkOotZ-o.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
