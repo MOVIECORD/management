@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 07:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 08:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두둥. 전 세계를 뒤흔들 작은 아씨들 등장!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34433401&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34433401&amp;memberNo=21724264</guid>
+            <pubDate>Fri, 09 Sep 2022 08:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[여기 작으면서도 크고,낮으면서도 높은 이야기 속 가난하지만 우애 있게 자란 세 자매가 있습니다 돈으로 가족을 지키고 싶은세 자매의 첫째 오인주 평범한 경리였던 인주는 700억 원 비자금 실종 사건에 휘말리며삶···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDVfMjAz/MDAxNjYyMzc2Njk3NDc1._NIcGftds6YPOxZZLI9qZocsuTG_VQWYDFP1TtxnSqMg.3aSnqbnyKprv4YHl8uPwhzobuNJNW05aAa47N6iF7PIg.JPEG/ImGx4sA2hpDVmQiNq8Pjnx4WIB0w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BH엔터테인먼트] 9월의 BH ON AIR]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34426482&amp;memberNo=21724264</link>
@@ -154,14 +162,6 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33415422&amp;memberNo=21724264</guid>
             <pubDate>Tue, 08 Mar 2022 07:21:24 GMT</pubDate>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDhfMjEw/MDAxNjQ2NzIyMTcyMjIz.8BoUA1w--9lQQGcjdNm8XtNofXNWTvH2k2by6SMmiKgg.T6S43ad1dTx0ehlhEG6iu2RkfsZUBg_K5NEV0jDPbxQg.JPEG/I8K3RuRKL3V8K2ZtvEp0yN7dPPeQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미모 명불허전의 [고수]]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33309495&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33309495&amp;memberNo=21724264</guid>
-            <pubDate>Fri, 18 Feb 2022 09:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[명불허전[名不虛傳]명성이 널리 알려진 데는 그럴 만한 까닭이 있음을 이르는 말 안녕하세요해피비입니다:) 갑분 백과사전 오프닝 열게 한 이 죄 많은 남자 머리부터 발끝까지유죄 조각 요즘엔 조각도 프로필 찍는 시대 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTFfMjM2/MDAxNjQ0NTU0NzU5MTMz.N_TUOEPDxiuIvDzJ2ZSVEQFdMG2SKAIUz7IbOfvSa5Yg.BJiG8eRg6-sCc3Lhn-WXflHzFTCRqAF-ORueWZMmroMg.JPEG/IdGPyqlwrkmw93rotE_9w7HAcrGc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
