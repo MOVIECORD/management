@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 12:58:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 13:58:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[속도위반으로 선넘은 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34476007&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34476007&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 15 Sep 2022 13:56:32 GMT</pubDate>
+            <content:encoded><![CDATA['포도밭 그 사나이'를 이은 또 하나의 역작 탄생!밭을 가득 메우는 향긋한 풋내와복숭아 밖에 모르는 미남과 사랑에 빠지는 클리셰(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ절찬리에 방영 중인 복숭아밭 그 사나이근데 이제 논바닥을 구···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTVfODcg/MDAxNjYzMjQ4NzgwMjM1.0aXUooZktBEvyb2exmCP6eS9hAjLiez9_JtmN9jWba8g.-un3rruGU8wTMKvyLKdZTKqTNzexqUYxDbE1n25nGHMg.JPEG/IaHPNq1lSQ6zi5bKEKvJd-xQz_MM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 케미 1등]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34469804&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Tue, 19 Jul 2022 14:22:04 GMT</pubDate>
             <content:encoded><![CDATA[지화동에 거주하는 노다현 씨는 이렇게 말합니다힘들 때 웃는 자가 일류다잊혀진 기억을 떠올리려 괴로울 때도사랑하는 사람에게 슬픈 이별을 건넬 때에도항상 밝게! 씩씩하게! 웃어보자고!&gt;&gt;&gt; 노다현 POWE···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTlfMTg0/MDAxNjU4MjE2NjI2MDM5.C0X4TMvpxwTiov2M3eorSGl1WG3b1KuAYTqujKgbU2Ag.9SqnsCSrLv9d7sszggth1PuOkOWzxEG673Zs-0to1nUg.JPEG/IMMllDjvRpiCoCgUFGEi7fHaNsoc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울대 두 번 간 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34154332&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34154332&amp;memberNo=29770009</guid>
-            <pubDate>Mon, 18 Jul 2022 13:51:55 GMT</pubDate>
-            <content:encoded><![CDATA[여기, 서울대를 두 번 간 배우가 있습니다'오월의 청춘' 서울대 국어교육과 김경수'클리닝 업' 정근우화면을 뚫고 나오는 이목구비감춰지지 않는 잘생김수줍은 미소는 물론보고만 있어도 심장이 두근거리는 분위기 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTdfMTc5/MDAxNjU4MDU0MzU4OTgw.QLbQ721zuyXtlYLTwGBkBlSbO03SsI8SKw-KGnxxSRog.ltSmJKrL-r-QeXlpyK2yKby6ESzlllzhFIlEY07tKNcg.JPEG/IL0EzEviUBr-QGMRfTP3kZyVMsQE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
