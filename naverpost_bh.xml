@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 08:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 09:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탑승객 '이병헌']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34476182&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34476182&amp;memberNo=21724264</guid>
+            <pubDate>Fri, 16 Sep 2022 09:28:51 GMT</pubDate>
+            <content:encoded><![CDATA[쇼박스 전대미문의 항공재난 영화 &lt;비상선언&gt;에서 쇼박스 딸아이의 치료를 위해 비행기에 오른재혁 역을 맡은 이병헌 오늘은 &lt;비상선언&gt;의 프로모션을 위해다시 한번 비행기에 탑승했습니다! 그럼 오늘···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTVfMTU0/MDAxNjYzMjUwNzY0NzQ4.6U2pVBwNVsk1twcS_RfPYk63gO05azDAZIVnBYTArI8g.EtuO6jCAvSYUoWDOUb2hJsd5S75Doi4rPg43U0M2G6Ag.JPEG/IUnR7LoKpZ7GJGm6B5aXku25AjMc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두둥. 전 세계를 뒤흔들 작은 아씨들 등장!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34433401&amp;memberNo=21724264</link>
@@ -155,13 +163,6 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33596260&amp;memberNo=21724264</guid>
             <pubDate>Fri, 08 Apr 2022 08:27:32 GMT</pubDate>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDhfMjU3/MDAxNjQ5NDAzMTIzNjQx.W5BOnJ-LHNFsDzQ2gf6pjg0U69MgsYNV_Qau30eb1NYg.rQISLHcB0feSWhCoDdOoj-j4zkSZeNqYxI5NEDA1Fksg.JPEG/I2CLFkM_Kfg6gkNLZJb1Oq0T2_CM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BH엔터테인먼트] 3월의 BH온에어]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33415422&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33415422&amp;memberNo=21724264</guid>
-            <pubDate>Tue, 08 Mar 2022 07:21:24 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDhfMjEw/MDAxNjQ2NzIyMTcyMjIz.8BoUA1w--9lQQGcjdNm8XtNofXNWTvH2k2by6SMmiKgg.T6S43ad1dTx0ehlhEG6iu2RkfsZUBg_K5NEV0jDPbxQg.JPEG/I8K3RuRKL3V8K2ZtvEp0yN7dPPeQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
