@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 23:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 02:38:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변화무쌍 오세영]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34492288&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34492288&amp;memberNo=28456565</guid>
+            <pubDate>Tue, 20 Sep 2022 02:37:23 GMT</pubDate>
+            <content:encoded><![CDATA[싸-하!지난주 tvN &lt;블라인드&gt;에 출연한 세영 배우를 모두 보셨나요?  [사진 제공 : tvN '블라인드'] 세영 배우는 &lt;블라인드&gt;&nbsp;속&nbsp;사건의&nbsp;시작을 알리는 '백지은'으로 출연하며&nbsp;시청자분···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfNjgg/MDAxNjYzNTY0MDMxMzA3.wUo3sG-WZguHXiLsRsW0-g1XTJixHfM_3GT9AIwEEy0g.4d90U65Va0Vkj5kyfaCvOmJynKTRDzzh8ICDv7qHTz4g.JPEG/Ile0HiuV74pa80BncjlRa6V32o1M.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동현 특 : 절제 섹시]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34471536&amp;memberNo=28456565</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:44:19 GMT</pubDate>
             <content:encoded><![CDATA[싸-하!여러분 지난 9일에 첫 방송된 IHQ 예능 &lt;걱정말아요 그대, 변호의 신&gt; 보셨나요? 그 속에서 용안이 빛나고... 영롱하고... 유난히 눈길이 가는 분이 있었는데요! 그분은 바로로스쿨생 막내 인턴으로 변···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTNfMTAx/MDAxNjUyNDIzMDIxNzQz.fOziq3lWY_-TnYAy0JX_W-ZG7WzJbuSqkQiOdIeN4BMg.pJ1Gd39A5wTnq12zRo_5i18wNPcAl6WQi1CwqduvTzQg.JPEG/I0KDXAGaXa30ccpujY5FcL0gVtwM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사극 맛집 장혁의 귀환]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33773792&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33773792&amp;memberNo=28456565</guid>
-            <pubDate>Tue, 10 May 2022 13:53:24 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 싸더지기입니다 : )&nbsp;오늘의 포스트 주인공은 바로! 사극하면? 장혁!장혁하면? 사극! [사진제공 : 지앤지프로덕션] 바로 장혁 배우입니다&nbsp;ෆ⸒⸒⸜(&nbsp;˶'ᵕ'˶)⸝ KBS2 드라마 &lt;붉은 단심&gt;에서 장혁···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDlfMjU3/MDAxNjUyMTAwMjgyNDI1.vxDhD_uXzUNDNxvR8b6fkSwA5fozJrBrZOOOfA_6yV8g.RrBKRHw1Rw9BHSVlrzxJnTA00HoWfpnL4J58lMbJr0Ig.JPEG/IUj5JfLIvOKP0DKLeNU1a5ekB2bw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
