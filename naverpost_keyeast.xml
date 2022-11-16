@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://post.naver.com/my.naver?memberNo=29770009</id>
-    <title>네이버 포스트 ─ 키이스트</title>
-    <updated>2022-11-16T16:38:22.324Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://post.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ 키이스트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:37:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최근 이별한 사람 필독]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34801811&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34801811&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[머물던 벤치의 온도와 저물던 노을빛이 함께라 믿었던 모든 순간이 점점 사라지고 있어자니? 기억나니,,?있지도 않은 사랑하는 이와의 아련한 추억을 떠올리게 만드는 감성,,,★추워지는 계절 촉촉한 감성을 느끼게 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTZfMTEz/MDAxNjY4NTcxMTk4Nzk4.6Je8ETpBzLHKPpwpwBNKuh-u9G-TwNDzKCWs2xPc9FAg.dVLIGEyyriL0L5xAzDbPO6CXdwYNfRpi5CauWiuVKbcg.JPEG/I0EHMIRZDzAfsXj9Nq8V3TfCEdHU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현실적인 출근룩 추천]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34795227&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34795227&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[출근을 하려고밖을 나서는데 갑자기 날이 너무 추워졌죠?!그래서 키동이 오늘은 정은채 배우의 아름다운 순간을 모두 담은 화보 비하인드와 함께 현실적인 출근룩 추천을 해보려고 해요.그치만 비주얼은 비현실적인 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTVfMjMw/MDAxNjY4NDg4Nzg0Mzg4.fk1VYtSFR_KBjEG7LeiKrqXzK6TRofIMKGLZ1iQgRdwg.4SGVWC1PGwdOH-eeEXJr-snUFiCjmzDt7qoU9_Kt014g.JPEG/IhTS0B42-XtwZ6murahbx1RlsfYI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금쪽이의 반전]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34788462&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34788462&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[매주 토일 밤마다 우리를 깜짝 놀라게 하던 사진만 봐도 금쪽이권지우 배우가 출연한 '디 엠파이어: 법의 제국'이 바로 어제(13일) 종영했습니다!!!위선 가득한 가족들의 모습에 남몰래 상처받고 힘들어하던···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTRfMTQ2/MDAxNjY4NDI3NTg3NDM3.CVmSJ8eE6JhmCulg-KMNhY1fEbc2Xhq0KsAwiqODVDIg.-L7hAj5604_nLwj6pwJBTbJPWadaZ62dybc6fZRBr-Ag.JPEG/IA7gZZA6bSle_f67ftBkJQS0eeeE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조선에서 가장 힙한 영의정]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34779564&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34779564&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[여러분, 조선에서 가장 힙한 영의정 소식 들으셨어요~~?조선에서 아메리카노를 즐기는 이 분바로 tvN 토일드라마 '슈룹'에서 왕권을 위협하는 노련한 세력가 황원형 역을 맡은 김의성 배우입니다!등장만으로도 주변 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTFfMTQz/MDAxNjY4MTYwMDgzOTcw.wFUDsMzlp6J5kC_Kmj9R8UFgMDqO7VMbgkQmFdfabP4g.TBVeT0I09ufhWSjGDoAID2s4YomqryRQH4Js3xmpxeIg.JPEG/IxTVL3i2enBTQsvLFCw9f7Y_8RbI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우들 집합 시킨 소속사]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34776854&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34776854&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[올 겨울 유독 따뜻하다 느끼지 않으셨어요?이쯤되면 추위에 움츠러들어서 앗츄앗츄 하면서 걸어 다녀야 할 것 같은데현실은 자켓은 팔에 걸친 채 땀 좔좔 흘리면서 걸어다니기이렇게나 두꺼운 패딩을 입고 있으니 따···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTFfMSAg/MDAxNjY4MTYwNDExOTMz.vPp10zQ2-_arD7bNrHnz6hy2pwuA1Tm0SeZB5Oyoq6wg.qlyDswC9J7wQHK-TCNaxBoIOWAqp0aKqqVkULmXwCJwg.JPEG/Ir0CtWrbUEl86QDmzHihF2gSX08Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화관 뒤집어놓은 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34770913&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34770913&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[[단독] 서울 도심 영화관, 한 배우 등장 이후 전 일대 시상식으로 바뀌어...★평온했던 영화관에 갓벽한 비주얼로 긴장감을 불어 넣는 이 사람내딛는 걸음 걸음마다 레드카펫 그 잡채로 만들어 버리시는 이 사람박하···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDlfMjM2/MDAxNjY3OTkxMDA0NDky.gtdEOL-Ss_MKCxCfR0H9wa21SQIS8OgMueKG0-ZYM0Yg.YGLGLZQZYk3uXTVAX3bXm8AVjSfuRd1_9n1uyqLDlPog.JPEG/IVGlBky_BriC2OSx7a5rcHrWL3hA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연희대 익명게시판]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34764685&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34764685&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[[자유게시판] 연희대 서울캠 익명: 어제 축제 보고 왔는데, 응원단에 하늘색 단복 입은 사람 누구임?ㄴ익명: 신곡 무대 할 때 앞으로 나와서 판넬 들고 호응 유도하는데 장난 아니더라ㄴ익명: 아 춤 겁나 열심히 추던 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDlfMTY5/MDAxNjY4MDAxODU3MTk0.zT5gVFhVLAXyXbWcpXz9Af4h3l7wWMHSAHwB9DkT81sg.0A0-uqayt2dwhYQnhOIFzT_-AqL4gIVCUOUKvC3DhD8g.JPEG/IlQZgv8dlhn5niy09lv7cXeyhTjA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남친짤 부자 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34758350&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34758350&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[뭐야 이 귀염둥이는 진짜.. 좀 많이 심각하게 사랑스럽네팬분들의 뜨거운 성원에 힘입어 돌아온 키동 콘텐츠!권지우 배우의 '같이 걸었어' 2탄을 들고 왔습니다.◆같이 걸었어◆는 키동이 배우들과 함께 걸으며 숨겨진···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDhfMjM1/MDAxNjY3ODkyNzY4MTQw.V0gM5ZQqvJeTYCELlTBOSIeBWUJkHcW6oEyrPWAYN88g.GjGiFSIHMsU1UosOP_GN4vuM3znsLLi0LO8y9jqVLq4g.JPEG/IUZm8R_qDbciLjI0WjTzjLoxfpEs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿨한 언니의 파격적인 일탈]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34751912&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34751912&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[hey, 모두들 안녕!내가 누군지 아늬?정아늬다! 정안이다!!길을 걷다 한 번쯤 뒤돌아보게 만드는 비주얼롱 원피스로도 숨길 수 없는 독보적인 비율과 아우라감추려 해도 도저히 감춰지지 않는 세련미⚝⋆누가 이 언니 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDdfMTI3/MDAxNjY3ODA5NDE5MTIy.jfHtGZT3AYZWZb4hvHwVuxdHCgaQyteYC2cf7slq2GMg.k7b_pwuB5NsRmhCu13JAQ9B5_8fMXDXqRKEIrHU_h9og.JPEG/IKN2L_YwnktThkgwjx1HCRPxfeOY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대놓고 편파 중계한 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34720846&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34720846&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하십니까, 오늘은 특별한 장소에서 인사 드리는 키동입니다!&nbsp; 태극기만 보아도 가슴 한 켠이 뭉클해지는 이 곳! 이곳은 빙상장의 얼음 소리와 선수들의 가쁜 숨소리만이 가득한쇼트트랙 월드컵 현장인데요! 이번···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDFfMTkg/MDAxNjY3MzA3NDIxMjYw.6mL7F__cImrtn88T8QgJ7C6GiLp2-yNa4Tu0RhJShgEg.WXwYQlwJBVsnXSDZO0-YXud8Xxkhb8t6lpiFSGyE0FYg.JPEG/IJrR7N1FcTA78GBOdl2YtEA5O9KA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 신인 배우 비주얼]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34703908&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34703908&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[웅성웅성…뭐야.. 역대급 신인 배우가 나왔다고...? 웅성웅성…뭐야 잘생겼는데..? 웅성웅성그런데 잠깐!!! 이 배우가 아직 낯설거나 출연 작품이 궁금한 분들은 !이전 포스트를 먼저 클릭해 주세요!평···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjhfMTAx/MDAxNjY2OTQ5MDA0NDI3.D2Bh9WUrFPK-snW2c1k5YLKz3LiSvMfKOe04pP_6t9wg.6DyBZe2tF6QS_tJzy7Dh4uvE7Z_SEmUxHAyyiPdCtN0g.JPEG/IaNRpnSVRs5Sc_-eAu5_Qw_oifWw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나른 섹시 그 잡채라는 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34697876&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34697876&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[아직도 믿기지 않는 민간인 우도환전역 후 눈코뜰새없이 바쁜 일정들을 보내고 있어 키동 또한 통 얼굴을 볼 수 없었는데요!비통하고 원통하고... 이 얼굴을 보지 못하다니!!개탄스럽기 짝이없던 날들을 보내던 중 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjdfNjEg/MDAxNjY2ODY1NTY5NzU3.O6aUjXuqRLKJzqqn25KYy2axNJFrwSa0T3GBuMTlSMAg.nRr-zebwVhb56PgXlqDcWblH2AgA8aqMuvOXMMUq2kgg.JPEG/IzEOTI9tl8z_KHjCdQJ1aCHxL4Hg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['치얼업' 안경남 실체]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34691559&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34691559&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[안경 벗은 비주얼을 보는 순간의심도 벗겨졌습니다 +_+응원단 진심남, 안경남, 곰돌이 김민재의무장해제 비주얼그리고 때맞춰 공개하는 각 잡고 찍은 NEW 프로필 사진은 극락모델 바이브 나오는 자연스러운 포징과 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjZfNTEg/MDAxNjY2NzU5NjIxNTAx.8i07yfJce5u0isAmEhHcazOktNoqeCLHQ3FWon1HUosg.x6kE8yjR3veCQOEAWBOaafXWcn7lz4KzHk7AswEhZj0g.JPEG/IiPCk9WRlyaES71SNVtZJ_wFuHG8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만에 마이크 든 한선화]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34685332&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34685332&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[선화 배우가 오랜만에 마이크를 들고 무대에 올랐습니다!순백의 여신 자태로요?! 고것도... 맞지만!이번엔 조금 특별한 임무를 맡아 다시금 부산을 찾은 선화 배우!✿부산국제영화제의 꽃✿ 폐막식 사회자로 발탁되어 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjVfMTM0/MDAxNjY2NzAxNDgzODA3.i9Y85E1SKJzyialrnM5JRS9q00FSB8jDRXbYQP6HVDog.I_AOiqFhgJFcVP2GgfL1_5hLpQV2ctv59b5A0ndnPVEg.JPEG/I2DJmOlIwNlo6xbYaFm_jTojqACw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화보 기강 세게 잡으러 온 조보아 씨]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34656507&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34656507&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[다들 이건 못 참지!!! 하는 '마성의 단어' 하나씩 있지 않으세요?예를 들면 "조보아 씨 내려와봐유"아니면,, "어릴 때부터 완성형 미모 조보아"혹은 "존예, 존잘력 폭발한 조보아"아···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjBfMTM3/MDAxNjY2MjI5NzQ0NzM1.4yCmnwUqG6cmSAJ5ZhHeSjo4LXkRdlXOYJGb_lvPpvkg.21ur-a84jplmsxjK6SwpSS30KQzpncsea_k0sJZo35og.JPEG/IUidPV5atsxsNfMDxDVLj45M4I3s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대 배우가 부산 여행하는 방법]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34647372&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34647372&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요!오늘은 부산 여행이 처음일 분들을 위해유익한 정보를 준비해봤는데요!&nbsp;٩(&nbsp;ᐛ&nbsp;)و 한국에서 두 번째로 큰 도시이자어딜가도 바다내음을 맡을 수 있는 부산.그런데 부산을 처음 가본다구요? 젊은 MZ세대들은···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMThfMzAw/MDAxNjY2MTAwNjM3NDIz.miVfKA1AJaEnnhGoiVEm85JIh6lKfNmYAq7nXRh2Oc8g.Ylr4ibEQE0hD9ZZZlIhj0HWcSAWMcJLJrUKF7pX8ctUg.JPEG/ImBNdhYcP6C3I8JfWApBb1uZ0FeM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3수 해서 연대 입학한 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34640728&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34640728&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[3수 해서 연대 입학한 배우?근데 3수한 이유가 연대 응원단 때문인 사람??그 사람은 바로 드라마 '치얼업'에 김민재 역으로 출연하고 있는 현우석 배우입니다!SBS 월화 드라마 '치얼업'은 찬란한 역사를 뒤로하고 망···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTdfMTE4/MDAxNjY2MDE0MzQzMDMx.akWTPfJCwKuKqi_6iMkfK_nC_-iAt4ZMQJokh-baWFcg.g-MH0tldJsDWK2Lupu6q2TfhnUevZdrxTSWdftDuwekg.JPEG/Imw5nMKeFuC_msZi1wBu5unzjoCE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황인엽 팬미팅 마지막 비하인드]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34628546&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34628546&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요~ 여러분지난 포스트에 이어 키맨이 다시 돌아왔다고 합니다! 키맨: '키이스트' 매니지먼트의 새로운 애칭 황인엽 배우의 아시아 팬미팅 투어마지막 비하인드!매니저 J의 이야기를 시작할게요! 안···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTRfMjYz/MDAxNjY1NzQyMTUxNzQ3.MZ5ZcLivMwJtX0vHSc0Ad-IGWeQPCvCeAU7s0zcYBUYg.2hhC8-SYY2m85muMDGgIBNfWEaMlTDLVZCFC1qdZX_Yg.JPEG/IezyM-SLNe5P8_ESx7uH7M3MXoGU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 한편 뚝딱 라인업]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34621877&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34621877&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[빛나는 별들의 축제★ 10월의 부산을 화려하게 수놓은 키이스트의 배우들이아름다운 부산을 찾았습니다!&nbsp;(੭•̀ᵕ•̀)੭ 맑은 날씨와 드넓은 바다 영화를 ❤사랑❤하는 수많은 관객들 모든 것이 완벽했던 제27회 부산국제영···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTNfMjk1/MDAxNjY1NjM1NTk2NzM3.z6X-hbemL1jA-XKcFNdd2FMDbz22jXs0mPhgP0tc_G0g.DuaU3vKmBcKzkeMcpL6mWksFTqGa6Q-neYqUm88x8NAg.JPEG/IANQEUuRa0H5YwE5BQm8eroZZovo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼트트랙계에 큰 거 온다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34608514&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34608514&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 국가대표 쇼트트랙의 샛별★결연함을 담은 눈빛! ٩(*•̀ᴗ•́*)꾸준한 연습 또 연습동료 선수들을 오직 실력으로 앞지를 수 있는 당당함좋은 몸 컨디션을 위해 운동도 게을리하지 않는 성실···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTFfMTcg/MDAxNjY1NDk2MDMzNDI0.OdMll65Sdl27cfGZs_zPxTgu6YOJEIKusY-S0-9LKKog.LyJ7mR2Ookqj2OVkexcT2wrmV1B7w8C5Zanw6jvZyRMg.JPEG/IlvTB8bXhoVX9dJFRSb8cuSmFedw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

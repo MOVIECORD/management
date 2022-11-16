@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.post.naver.com/my.naver?memberNo=28456565</id>
-    <title>네이버 포스트 ─ sidusHQ</title>
-    <updated>2022-11-16T16:38:22.318Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.post.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ sidusHQ</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:37:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 시절 우리가 사랑했던 김혜윤]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34755260&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34755260&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[싸-하!김혜윤 배우가 '한솔'로 출연하는영화 &lt;동감&gt; 개봉 7일 전 "우리는 모두 사랑하고 있습니다"포스터 속에서부터 느껴지는동감즈의 설렘 가득한 모습🔥설렘 지수 한도 초과&amp;#x1f52···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDhfMzAg/MDAxNjY3ODgzNjI1MjY2.QK3c6dExxREG3t2j7ZgR6yLoQiRDfiNgREZttoAq1YQg.VNDuO0JBRLsOc0sqIGy_aR7Maz8xLbO_6WchDcCG_ggg.JPEG/IowSQMdAShAeFUJnMNPj3oPRLaSY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찾았다! 가면산장 속 황선희]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34682165&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34682165&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[어두운 산장 속 가장 환하게 빛나고 있는&nbsp;황선희 배우 선희 배우는 연극 &lt;가면산장 살인사건&gt; 속 '레이코'로&nbsp; &nbsp;무게감 있는 연기를 보여주며&nbsp;관객들에게 많은 사랑을 받고 있는데요(-‿◦☀) 긴장감이 흐···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjVfMjI3/MDAxNjY2NjcyMTc1Njcw.Rff-Hc5rOuDV6Xb6RHo6ZcRhsqrT4jcaPtAUpFrWSsAg.ujBkvNDkQQTS6yI4rT_cuu5FazKO80oh0wfuBI4Jwn8g.JPEG/I9jl8OAPZswB2yY4ZiRywJvOFvPw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아름답던 '한아름별']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34626336&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34626336&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[뒷모습부터 느껴지는설렘 + 긴장감 오늘 주인공은 바로 KCM의 새 앨범 '아름답던 별들의 밤'MV에 출연해 여러분에게 얼굴을 알린 IHQ(sidusHQ)의 신예 한아름별 배우입니다! 설렘 가득한 마음으로&nbsp;폭풍 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTRfMjAx/MDAxNjY1NzI3NTI0NTIy.Vp77DvjX4P7bS0GxvYObiXVaqv3pKEZi8tmLkCLUUMsg.shU_BfYUvFeMG5TWVXBPS3jF8v-imE2B5A55ocFwWJ4g.JPEG/IzXombtSHaCZHf9c_JBB8IBvxHbo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김혜윤 NEW 프로필? 당연히 보여주지!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34585865&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34585865&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[싸하 -! 오늘의 소식은 바로 (함) 혜윤 배우의 새로운 프로필 사진이 공개되었습니다! (성) 다채로운 모습이 담긴 혜윤 배우의 프로필 사진을 여러분에게 하루빨리 공유하기 위해 싸더지기가 달려왔···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDZfMjk4/MDAxNjY1MDM2ODkwMTY2.R-J6mfO5TgP5dRYaMb8tCAsIxVDd-v7ET3Cu8S6DTJUg.ci8TQdOJPJ4C_0RYRhjF00KwiV3igTL8dXe-TTh8xLwg.JPEG/ItU47yGXxmmPBUOz4IJJPdKIW0J0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변화무쌍 오세영]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34492288&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34492288&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[싸-하!지난주 tvN &lt;블라인드&gt;에 출연한 세영 배우를 모두 보셨나요?  [사진 제공 : tvN '블라인드'] 세영 배우는 &lt;블라인드&gt;&nbsp;속&nbsp;사건의&nbsp;시작을 알리는 '백지은'으로 출연하며&nbsp;시청자분···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfNjgg/MDAxNjYzNTY0MDMxMzA3.wUo3sG-WZguHXiLsRsW0-g1XTJixHfM_3GT9AIwEEy0g.4d90U65Va0Vkj5kyfaCvOmJynKTRDzzh8ICDv7qHTz4g.JPEG/Ile0HiuV74pa80BncjlRa6V32o1M.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동현 특 : 절제 섹시]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34471536&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34471536&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[절제 섹시미 뿜어내며 뮤지컬 &lt;테레즈 라캥&gt;&nbsp;'로랑'으로 돌아온 동현 배우 "그녀의 모든 걸 가지는 거야" 인간의 이기심과 탐욕,&nbsp;원초적 번민을 그려낸뮤지컬 &lt;테레즈 라캥&gt;의 포스터 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTRfNDkg/MDAxNjYzMTM0MjgxMTkx.WSOE0wd3stG9wUe16_YgTIslHuZNZMCTdAZuxeDFSGQg.4sAEr9RlRP_vjnUgLIRBQMbi_D-OR6CDRLp5mnl_Rbcg.JPEG/IznUU5JUgAQ0AUcOq6TgTuxGzXy8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기쁘다♬ 황선희 오셨네°ʚ(*´꒳`*)ɞ°]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34260745&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34260745&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 싸더지기입니다 (⑅˘͈ ᵕ ˘͈ ) 지난주에 이어 IHQ(sidusHQ)에 아주 반가운 소식이 또 한 번 찾아왔습니다! 바로 황선희 배우와 IHQ(sidusHQ)가 한식구가 되었는데요!황선희 배우···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDRfMTAg/MDAxNjU5NTc1MTE2MDU4.hno0C6wbhaXSwXQM0bhNgtV8sAMZvheVErX2khUiK04g.YcLffh5UAZ1_mR0x4lUV1-5kiYqHIz0p1irLdpQ3Kogg.JPEG/ITw8lTRYg14IFqDhewsHgN8wxIY0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정 to the 민 to the 성~]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34212129&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34212129&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[싸-하!오늘 싸더지기가 아주 특별한 소식을 가지고여러분에게 찾아왔는데요 &nbsp;바로 정민성 배우가 IHQ(sidusHQ)에 새로운 식구가 되었다는 소식입니다!(감격에 말을 잇지 못하는)정민성 배우는 &lt;슬기로운 감빵생활···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjZfMjEg/MDAxNjU4ODE2NjExOTQ2.10aY0aEqHNPqG5sF6SLcY97v2MrrzEJ1lgCOPLiWv14g._711Jf-KP5a3JJlnqme-DT701V0GtC9wk68EN6YXzRUg.JPEG/IMdHpFWyLmU3J2nvRLqDyW-IvRqc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장혁 용안이 시끄러워서 안경을 썼습니다.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34176740&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34176740&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[싸-하! [사진제공 = MBC '전지적 참견 시점' 방송 캡처] 장혁 배우가&nbsp;MBC &lt;전지적 참견 시점&gt;에 출연해 [사진제공 = MBC '전지적 참견 시점' 방송 캡처] 화보 촬영 현장을 공개했는데···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjFfMjg2/MDAxNjU4Mzc5NTY1MTQ1.zbPOKdgQu3PREQwCdmpHdziUaOJAYgYPEBR7gu2oxccg.Kws2CCWUjAbP4lvvleTPPtbzTysEE20mKLlSIZWg4e4g.JPEG/Im57phGeVx-JmsKM-QOoqv8eOUzk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[죽어도 장혁]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34125085&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34125085&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 싸더지기입니다 : ) 드디어 오늘(13일) 한미 동시 개봉한 영화 &lt;더 킬러: 죽어도 되는 아이&gt;장혁 배우는 은퇴 후 호화로운 생활을 즐기던 전설의 킬러 '의강' 역을 맡아 어느 날 납치···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTJfMTky/MDAxNjU3NjA5OTE0NjEx.ooELv88sRN-l7HEQ8GjezI3HWlecxukkHJw-LEd05SAg.idcp2_RjWtfpGRf4R6ZpceMsu6NyOtmF0Zv05OLQacog.JPEG/IBCjqHob00HR3g1Wy-9LZOQidvoU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손준호에 반하다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34103701&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34103701&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[싸-하! 오늘은 손준호 배우의화보 촬영 현장에 다녀..!는 아니고 첫 MC 도전에 나서며 만능 엔터테이너로 자리매김하고 있는 손준호 배우의&nbsp;AXN &lt;공연에 반하다&gt; 시즌 2&nbsp;촬영 현장에&nbsp;싸더지기가 발 빠르게 다···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDhfMjIz/MDAxNjU3MjQ2MjYxNTY2.uO9SGkrFOcOXhseZ_JrWN3g-4khKNrL-qXwIheV_Fqcg.UGf-E6GwA6ktAWOgS21TvaW85X9x_Oy-3hTOxrr52fgg.JPEG/ITPfyTx-VRxMgkYcTCxQ73JnuFNc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숨 참고 오세영 매력에 DIVE]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34086432&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34086432&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[싸-하! 2022년 상반기 여러분의 눈길을 사로잡은 배우가 있었으니JTBC &lt;서른, 아홉&gt; 속 혜진웹드라마 &lt;나의 로켓&gt; 재희 역을 맡은 오세영 배우입니다! 세영 배우는 데뷔 이후 bnt와 함께 첫 화보 촬영을···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDVfMjUz/MDAxNjU3MDAyNzM5NDEx.oH-HvvfPLRvaS10XteyyevWB9qk5LhsAqvaqRVWwJ60g.Mum_mTIYdNK2jG1EFou90MGah3O7nl2joyrkpV2cJtog.JPEG/I9VZ4g9_T2sGNyT5A5kv2F_prF6A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[펜싱부 그 선배]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34058203&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34058203&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 기억나시나요..? 학창 시절 복도에서 펜싱부 선배 몰래 훔쳐보다 혼났던 우리를... 얼굴, 목소리, 성격 모든 것을 갖춘 전설의 선배는 바로동현 배우입니다 ✦‿✦ 동현 배우는엘리트 스포츠 학교에 입학한 펜싱···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MzBfNDEg/MDAxNjU2NTUzNTMyNjYw.Vl-hDUsmwGtdlJRsqDb2eFWXK2CmApBcQ_UFFZtO05Mg.mpkQq4Tuy3Wz6-jukWydgPjn6H4hrd6JUXSi3nLRPIwg.JPEG/I73VcZIaS0BfVrVQRhUZmBEJ9mbc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카메라 박박 찢은 박선호 NEW 프로필]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34016358&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34016358&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 싸더지기입니다!! (๑╹ワ╹๑)여러분! 아주 반가운 소식이 있습니다! 바로..!1년 6개월 동안 군 생활을 마치고 전역한 박선호 배우의 ☆ NEW 프로필 업데이트☆ (모두 전방에 함성 질러으아...!으···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjFfMjUy/MDAxNjU1ODE5OTExMTgz.-0ysArTWyIhnzbhsdJjes1DHffuJkporv-mQpysUNsgg.L-2nzf-9wXn3UhT0TY62oiHzNYhkFEIOUiF_KFLEnzEg.JPEG/IVSBriBFiYB16QsJ4FqFBlqh3dec.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장혁에게 수여하는 사극 개근상]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34000240&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34000240&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[Aㅏ... Aㅏ...오지 말라는 그날이 오고 말았습니다...바로 KBS2 드라마 &lt;붉은 단심&gt;이 끝나버렸습니다&nbsp;(˘•̥-•̥˘)모두 마지막까지 재미있게 보셨나요?&nbsp;지난 8주 동안 월요병을 치유해 준 장혁 배우! [사진 제공 :···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTdfMTU5/MDAxNjU1NDUyMzU4ODg1.oCelCAlem-ujmO5-XtAwDABqw-udzc2g8bgyeG6MNSsg.6oj19Es7AVn4dIJFRmG6-2F80WXHaeed-FNtK-uK7T8g.JPEG/I6Zx1x8JuXqmjiKBlLHuKnlZyRRU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호영 앓이 끝내는 법 그거 뭔데. 어떻게 하는 건데.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33946860&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33946860&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[싸-하( ˵•́ ᴗ •̀˵)(˵•́ ᴗ •̀˵ ) [사진 출처 : tvN '별똥별'] 토요일(11일) 막을 내린tvN 드라마 &lt;별똥별&gt; 모두 보셨나요?  [사진 출처 : tvN '별똥별'] 이제 호영이를 볼 수 없다는 사실에싸···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDlfMjQy/MDAxNjU0NzUzNTg2ODY2.WScctLUZTnvMrNSkQkJ0o12GGaMe8v4mDrgS25_o0Ucg.hV7k_rXrBG9ypghRoF3Z5ukL-6RPXps5spvjTaHbdeog.JPEG/I4tcN_caUtnFpkk228bn4r_kFSyA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박호영 귀염 수치 한도 초과]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33927883&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33927883&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[최근 짝사랑에 성공하고 나서 설렘 지수 + 귀염 지수 폭발로 많은 시청자들의 마음을 덕통사고 시키고 있는 주인공은? tvN 드라마 &lt;별똥별&gt; 속 긍정 에너지 매니지먼트 2팀장 '박호영'역을 맡은 윤혜 배우인데···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDdfNDIg/MDAxNjU0NjA5MDI2ODEz.v-MGHKuNuFXbh89_KToK-hRujuslB4yASwWOv1a9B2Qg.EI3NRiqoshHk2pKWJdkW_KE4qkwHcxTNY2qd90n5zf0g.JPEG/IYHKKiBZSEvxLKRgvM29trcDM6uM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[취준생이 된 배우]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33909509&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33909509&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 모두 보셨나요? 그건 바로JTBC 토일드라마 &lt;클리닝 업&gt;에 혜윤 배우가 '주현'으로 특별 출연했습니다!싸더지기가 그 비하인드 현장을 담아왔는데요! 그럼 함께 보러 가실까요?손이 시릴 정도로 찬바람···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDJfMjY0/MDAxNjU0MTMzMzQ0ODk3.dDvzt-aPb4HEl8r7V1PTXfkj0r_pWGFUoRjugAWPLmQg.tWDCxhyo3uvJbmdvv7KS9BzwMHeB84I8vuTirnd-7dgg.JPEG/IsBDV00hYC7HkcewxKGsYBaXKtS0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[약속해줄게¸ⓞ원히¸혜윤만을¸ 사랑해♡〃]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33888013&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33888013&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[싸하!  오늘 포스트 주인공은?  화보 장인 혜윤 배우입니다 ❤(ᵔᵜᵔᶹ) 혜윤 배우는 얼마 전'앳스타일' 6월 호 화보 촬영을 진행했었는데요! 이번에도 싱그러운 비주얼을 뽐낸 혜윤 배우의 '앳스타일' 화보 촬영 현장!···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzBfMzEg/MDAxNjUzODc3OTQ3MzY5._Y12q3cYZPWR9n7xVVer3GNH6mnv1gyOaqacCJyb0BEg.Rts33McycP8VLKUuSOOy-EaAEokXsNWZok7-0anuzS8g.JPEG/IjNKqj_IpaQA25gjDPqcVjklANMo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재희랑 다시 재회하는 그날까지]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33876617&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33876617&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 싸더지기입니다!(๑╹ワ╹๑)여러분, 바로 26일(목)을 끝으로 웹드라마 &lt;나의 로켓&gt;이 막을 내렸습니다(˘•̥-•̥˘)가장 현실적인 스타트업 이야기를 그려낸&lt;나의 로켓&gt; 마지막 회까지 모두 재밌게 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjdfMTAy/MDAxNjUzNjE5MTk3NDEx.GYr96CxVqCd2kZq8xAwizBXjsyK7iJdh0OM_GW8dMwkg.04ens9sO-yJl-0IICx3eir_5RrPvXnp8N8OjuEQTb9kg.JPEG/I7citFPmJB8j-mOOOT2xWiwEkio4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

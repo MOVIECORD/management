@@ -1,8 +1,181 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.post.naver.com/my.naver?memberNo=44834478</id>
-    <title>네이버 포스트 ─ ACE FACTORY</title>
-    <updated>2022-11-16T16:38:22.318Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.post.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ ACE FACTORY</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:37:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기억하세요, 최대훈입니다.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34785475&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34785475&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA['천원짜리 변호사'서민혁이제는서민혁보다최대훈을 기억하세요 ;)그럼 이제 본체 매력 풀어볼까요?출근하면대본을 손에서 놓지 않는 열정러현장 스태프들을 웃음 짓게 하는 분위기 메이커반듯하게 모니터하는 모···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTRfNzkg/MDAxNjY4NDAyNTIwNjgw._STsARFwlpeq4Gpwix3Iwi1i39Z9Ia-SQIbFlWpqcwYg.fwEuqmEaFB_MCTfOQtcUJ0x7qpEDn9iwdOWOqPmgo4Mg.JPEG/IeVC8hQGpCijvK6Qkt2e-ai6cueY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하준, '진검승부' 다크 히어로🖤]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34775682&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34775682&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[여기다크하지만왜인지 듬직한 느낌을 주는 이 남자블랙 검사였다가 야망 변호사였다가정의의 히든카드그야말로 다크 히어로가 된 이 남자'진검승부' 오도환 ▶▷ 하준오로지 위만 바라보고 성공만을 좇던 오도환이검사···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTFfODMg/MDAxNjY4MTU1ODc0Mjg4.FXxkisg4tBnVLBFJLu7mJAMTlRwrlApASvAPpfHigyUg.AFZbVq8NcE1U5xMcXi0_3MPcsbkKTiIB2Nr4YC9xuLcg.JPEG/I5r0XGyA61_Iyy2JiMDDhZSoVJrA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해만 작품 6개 나온 배우 최대훈]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34705826&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34705826&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC '인사이더' 남대문영화 '헤어질 결심' 수면클리닉 의사ENA '이상한 변호사 우영우' 장승준JTBC '모범형사2' 천상우방영 중인 SBS '천원짜리 변호사' 서민혁10월 31일 찾아오는 KBS 월화드라마 '커튼콜' 낙원 호···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjlfNzEg/MDAxNjY3MDI5NDE5MDYw.ffp--Dsy_iFXKmfO5ASM9AOA6i3x18rzOfaHfgkKmYIg.DaInexO4K0yIzHSY37UsLVE1F1rJXZeFyi148EZIqOIg.JPEG/IeWopmAZUUgz69jMqN94-M3fN5H8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘생김 자격증 있으면 
+장승조 하나 해줘라]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34702031&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34702031&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[잘생김 자격증 있으면 하나 해주고 싶은 우리의 ACE,,장승조 에스콰이어 11월호 화보 비하인드 왔어요-*무한 재생 부르는 치명적 화보 영상 먼저 보시고 잘생김 국가공인 필요한 짱승조 비하인드 아낌없이 풉니다 &amp;h···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjhfMjQz/MDAxNjY2OTM3NzIwMTMx.GovBcAhqDU7m3wLmHxnI02qvQ-ysK5B35jqyGHp7l9Yg.obY_IfQwq3LYUBtCSAPVPFFeE65L8yCIU3nTmHowMlYg.JPEG/IZaDVgC7mH7O2nLda6LHbFcZelxo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['사랑의 불시착' 
+리정혁 된 이규형]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34697022&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34697022&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[※포스트에 '변론을 시작하겠습니다' 결말 스포일러가 포함되어 있습니다※ 12부를 끝으로 종영한 디즈니+ '변론을 시작하겠습니다'이규형 연기때문에 미쳐버리겠는 사람 여기있어요,,,좌시백이 은희준이고이규형이 표···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjdfMTc0/MDAxNjY2ODY0NDY5NDQ4.SvcrRWXNJcPul22c8qI3VwSnjuzi6AQZoKjgOZDJ7Lkg.4_zpcyCkD_MUmA7Za1EydHxsStBKdx_LiwrJqRAL9EUg.JPEG/IJCs5z410W1rodBgMhHSgkhim7N0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[믿고 보던 이규형의 자백]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34659560&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34659560&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[선량한 국선 변호사 좌시백의연쇄 살인 자백디즈니+ '변론을 시작하겠습니다' 이규형믿고 보는 캐릭터 제조기 이규형의 믿보캐좌시백 소문내러 온 ACE누구보다 좌시백 알리는데 진심인 홍보요정뀨 ♥훈훈한 홍···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjBfMjM1/MDAxNjY2MjU2OTQ2OTU3.LIE-eRAWwc-tfOcECBcYFk-Tzuy_fJUuS-KtiE_mS_Ug.jFq853PnjNyCD13LceCElwD22FO_Bqmh2U60SNoIrdQg.JPEG/IDizAEyVMFTDOM_05HqT0e7rt18o.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일 잘하기로 소문난 배우 하준]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34652889&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34652889&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[요즘일 잘하기로소문난 남배우KBS2 수목드라마 '진검승부'하준 ♥매일 열 일 하는 오도환 검사조금 덜 해줬으면 싶기도 한,, 도환쓰 열정 ^_^도환이 너어는 그렇게 열심히 해서지검장님 칼이 되어라,,,사실쉬···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTlfNSAg/MDAxNjY2MTY5MjI4MjEw.vhExjO8ib5nth-5_AhVhYcQR1yMDBS7e3PuuTguZcK8g.0orsRq_HuPfwv0ARmQ0RIEppprBo_hE0TWAwcEHzHjwg.JPEG/Iwv2mnrWp6lZdtWDeOJaBLq3HnnQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 부산국제영화제 ACE]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34639553&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34639553&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022 부산국제영화제 ACE 모음 ZIP염혜란 하준 최성은 이주영 2022 BIFF 현장 함께 보시죠 ;)제일 먼저 찾아간 곳은 부일영화상 현장 지난해 영화 '잔칫날'로 신인상을 수상했던 하준올해는 시상자이자 지난해 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTdfMjMx/MDAxNjY1OTg4NTIwOTc4.nV2RjLNQzaT0JGNnm7UhtmnF8O0LE9N7uG5iex6HFvcg.JOtehqMc-p4Tu65QC7leItrpg-7d2vQZRmJqc664rUcg.JPEG/Iq2vgjxKk3w_U-XDMa1XCC0c7ZUA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연기 잘 한다고 소문난 
+신인 배우 김동휘]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34625691&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34625691&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[장편 영화 데뷔작 '이상한 나라의 수학자'250 대 1의 경쟁률을 뚫고 주인공을 꿰찬 그 신인김동휘ACE의 ACE ♥춘사영화제 신인남우상의 주인공기쁜 수상 소식 이후 공개된 동휘의 마리끌레르 BIFF 에디션 화보···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTRfNDUg/MDAxNjY1NzIyNjU3Mjgz.WzAE1r8O2U7n0nly2UJ__Y5N2DdrMtqBAH03pEMCwWkg.YB7P9bOLyr3YahAXR8YzsDYEd53kFo2bwvKefQ-v8VIg.JPEG/IgtKX3uhVm9ZN8pns0U0FUspUnGk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[22살에 사법고시 패스한 배우 하준]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34614533&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34614533&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[여기서울중앙지방검찰청에서 만난최근 검사 된 배우하준KBS2 '진검승부'야망 검사오도환22살에 사법고시를 패스한 엘리트 무슨 수를 써서라도 위로 올라가고 싶어 하는 검사오도환이 되기 전 하준은세팅 완료-*프로 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTJfNzUg/MDAxNjY1NTczNzQ4NTY4.RZ0GpnyNKFE6TfZL5wuqG97pR89W6rrHI5jMGzVffw4g.rG952Ldan2EicNlVNsxQMM-pPe3dogUbQsdHkQ8_fGkg.JPEG/I8c_KkVKuCZH-oX9MiS54vPxzb58.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['치얼업'
+화제의 명문대 응원 단장 
+정신혜]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34608408&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34608408&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[SBS 월화 드라마 '치얼업' ♥신혜강림♥호경대 응원 단장 이하진으로 찾아온 정신혜연희대에호경 단장의 등장이ㄹr,,,그야말로 여신(혜)강림 ♥호대 단장이라 함은 역대급 레전드 단장카리···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTFfNDkg/MDAxNjY1NDkwNzMxNzE2.cbocvrYTRXand13qlsH53cbM4UZiTzpebUfwwGo3WuUg.I_hYHvRTE1gyN1zlGHuHSgPS1X47B6BqPjIVThc2djEg.JPEG/ILcEirkkg7BVdr0v_HeQ1wazwaLE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최대훈, 내가 아는 검사중에 제일 귀여워,,♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34594632&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34594632&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[ACE가 누굽니까 아는 검사가 정말 많아요,,그런데 최근에 알게 된 검사가 있는데요SBS '천원짜리 변호사' 서민혁 ▼ 최대훈미국 연수 마치고 한국으로 돌아온 엘.리.트.검.사스포트롸잇은 조금 부담스럽지만우리 민혀···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDhfMjUg/MDAxNjY1MTk5MzM2OTkw.MZgWC0bLnkZC1Z_5kXuteqiuMo_yGHHGouIWoqjW4REg.BFpYzEt6Tt95LIDZ7l5AlfxnIsMN6Yh1ZG4wrcegdkcg.JPEG/IpoFmp4fJCVjwsntyoh2b2Ua4SPA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생애 첫 파격 화보 공개한 
+배우 최대훈]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34559452&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34559452&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[배우 최대훈인생 첫 화보얼루어 10월 호를 통해 공개된최대훈 파.격.화.보그 뒷이야기 비하인드 컷으로 풉니다 ♥184cm 갓지컬로 풀어보는비하인드화보 촬영도크롭 남방도분리된 청바지도 처음이지만,,대후니···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MzBfMTM3/MDAxNjY0NTM3OTYwMDQ1.gm2fEGr3DhJEfQJOIMkrhUu-Me7ZCha2PxWnsx6lD9Yg.ymXFGqVwOqBVxYHVYuw2UtgrYj1xJ4q_lN1tlZ0qaNcg.JPEG/IDKWaw3wCMHLyoZnhPArpOzndN44.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['극동' 배우 유재명 
+857억 달러 비자금 추적]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34550206&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34550206&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[네이버 바이브 오디오 무비'극동' 북한&nbsp;비자금&nbsp;관리자&nbsp;‘이수영’(유재명)이&nbsp; 천문학적&nbsp;금액의&nbsp;돈과&nbsp;함께&nbsp;사라졌다 그의&nbsp;행방을&nbsp;쫓기&nbsp;위해&nbsp;한국,&nbsp;북한,&nbsp;미국,&nbsp;러시아의&nbsp;추격이&nbsp;시작된&nbsp;그&nbsp;때 국정원&nbsp;소속&nbsp;러시···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjlfMzEg/MDAxNjY0NDE5OTQ0NDM0.C1NYiynn_m2Jsoxc8-qR7ZNfWHC4NO6xWtPRZWYae0cg.rJDm8uG1XB5Eih6xbnvS86krMS2Bc0JFvplvyKyL3bEg.JPEG/Iouw9o_Lf2OCf29HW0VcUalvks8Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이규형,요즘 뜨는 국선변호사]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34546855&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34546855&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[요즘뜨는 국선변호사뀨하-*동네 슈퍼아이스크림 통 털어서,,개평 챙기는,,국선변호사 ^-^디즈니 플러스 '변론을 시작하겠습니다' 좌시백 변호사 ♥이규형의 문과무과 통합캐 ♥뀨러기력만렙변호사 &amp;hear···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjhfMzYg/MDAxNjY0MzYxMjU0NTcw.8RF4HJv9BCQUxu6AaFDkxS3j_9xSPT37mgAeL5Mas5wg.5eRfL69Iw96M_-hT9GRZIeuN6PYEnzFFpa6gBy2ZCEgg.JPEG/IQ9a1oJSMi1a8dX77BHmY7tZLINc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['천원짜리 변호사' 배우 최대훈 
+공개 프러포즈 현장]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34520377&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34520377&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[여기,한 사람만을 기다리는한 남자가 있습니다. 오늘부터 시작되는배우 최대훈공개 프러포즈 ♥SBS 새 금토 드라마 '천원짜리 변호사'서민혁 ʕ ᵔᴥᵔ ʔ 우리 민혀기는요검사에요법전정도는한 손으로 거뜬히 들어···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjNfMTcz/MDAxNjYzOTIyOTQzMDM2.WbETUDsgG0RoX_93GaUyVc8Pt21FTm0r9q1vQ9NG2Xwg.7g92qgh61Oyl7mPswdBjlZMRX9gtolmYFugFBNP6xpwg.JPEG/ItMxF028_bBkR_44h3zNyRpvz6IQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장승조,
+비주얼 인간문화재 발굴 현장]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34512749&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34512749&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 공개된장승조 '싱글즈' 10월호 화보 그리고 ACE가 들고온,,,천년의 비주얼(ACE 선정) 비주얼 인간문화재 장승조 발굴 현장,,,♥ 지금 바로 공개합니다 ;)美美오랜만에 찾은 화보 촬영 현장에서···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjJfMTM3/MDAxNjYzODMwOTg2NzQy.XOIt1BwksARiJl7Q2QXLxtYay8E-nvxcDYuSaMSxjBIg.uNl9CaWdZhei8V9KG3wu7Yhjv_fKkcl0MPp0-pGLI2cg.JPEG/IDHaURt4EE2ICpgUe0PEOBcmMaQw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['변론을 시작하겠습니다'
+국선 변호사된 이규형]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34507561&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34507561&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[최근 국선 변호사된 배우이규형디즈니+ '변론을 시작하겠습니다'좌시백입니다 ♥일명Dol + i 변호사 ^-^날카로우면서도살짝 돌아있는맑은 눈의 변호사 ◕ ◡ ◕시백이앙숙 노착희 변호사와벌일 연기파티 변호파티···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjFfMjUx/MDAxNjYzNzUxMTU3MTc4.1hjgWJ_MTidSBHXOzsEdwIgR2f-YIIbe1WzGIfPkqJAg.AnMz-qMC7eILTzNGRLVcigPLHidMXQ5C4F1o6jH0qj8g.JPEG/I0KV57CqPviqoDD9ho6BZ9iMqICA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족으로 알려진 장승조·최대훈]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34494451&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34494451&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA['모범형사2'장승조최대훈두 연기천재만재들은 ACE FACTORY FAMILY ♥ ACE 식구들의 '모범형사2' 성공적인 마무리에 기쁜 ACE는 오늘도 사진을 풉니다 ;)시즌 1에 이어 대체불가 오지혁으로 돌아온명불허전···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTk0/MDAxNjYzNTc1NDQxMDEx.M8hjxl2_FlbbEcnbaQPHqeimKVtn9TNhzD69NRyIiQ0g.rSrDAz_GVzGpGZEWOcWXRNeXtCeByro844glhagXyLog.JPEG/IWLwnUIW8lp0FK1SKfsCGoBYO7AY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 뜨는 연기천재 최대훈]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34456909&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34456909&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[요즘눈에 띄는연기 천재ʕ•̀ o •́ʔ최대훈 ♥'모범형사2'천상우 ʕ-᷅ᴥ-᷄ʔ징역 15년 선고 받고 항소 준비중이신 회장님,,,그런 상우를잠시 뒤로한 채본체의 매력을 살펴봅니다일명천상우 과몰입 방지 포···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTJfMTM3/MDAxNjYyOTc3MDUwOTY0.ujF3cHNaW5hYQd8O1vsY5Ho4nLvLSIOhgEqxrx9LXN0g.FPjDptt2cvWXAVpr0MCC4i-uFcavPiyrTgrASFCOwnMg.JPEG/IIpDsL1FSrF6eUWzo8iQkxeGc_c4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
