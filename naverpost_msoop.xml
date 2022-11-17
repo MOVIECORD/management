@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 08:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 10:26:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드라마 촬영 끝난 '남지현'의 하루]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34807237&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34807237&amp;memberNo=22903361</guid>
+            <pubDate>Thu, 17 Nov 2022 10:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 안녕하세요 :)  오늘은! 예측 불가한 전개로 매주 화재를 모았던 '작은 아씨들'&nbsp;촬영을 마치고 여유로운(?) 하루를 보내고 있는 지현 배우의 하루를 밀착! 취재해 보았습니다 (ㅎㅎ) 따라오세욧 여기는···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTZfMjU1/MDAxNjY4NTg3Njc1NzUy.40UA1YLy5yy_y5lfEbTn90neKqf9--hk18uuAE9ZNPkg.CHXjog-OLYmp9WvOq5fl5ZtBdz0c4l6O9_s4ScSVtk4g.JPEG/I15uNaOe6_ByaESuNy6l5ZP5VFSg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄 여름 ‘공유’ 겨울]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34759895&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:43 GMT</pubDate>
             <content:encoded><![CDATA[여러분,&nbsp;안녕하세요~ 숲블리입니다오늘은 효진 배우 소식으로&nbsp;인사드려요 효진 배우가 너무나 보고 싶었던 나머지 직접 찾아 나선 숲블리(?) 먼 길 끝에 효진 배우를 만난 이곳은바로 홈 스윗 홈 (아님) 그렇게 숲블···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTJfMjk2/MDAxNjU3NjAyNDM4Njc3.TE8WndUw5YKSC8NQGM6iAP9nTMh0Z5wBvv8ZbZ7SsR0g.kd7ClU1gdu9uonv8RRwROP2Aoy3U2c67sRT5eNkIh0Mg.JPEG/IYLYHjOLOBcoZkexLQhXGpwaINfE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유미와 안나, 그리고 ‘수지’]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34093726&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34093726&amp;memberNo=22903361</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[고단한 삶에 지쳐 평범함조차 버거웠던 유미와 모두의 관심을 한 몸에 받는 화려한 모습의 안나까지 역대급 연기 변신을 선보인ღ수지 배우ღ 지난 금요일(8일)수지 배우가 ‘유미’, ‘안나’ 역으로 활약한 쿠팡플레이 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDdfMTU2/MDAxNjU3MTgzMTIxMjUx.ac6zo66FUxEjLJklrNGJqlvAHx9cejnNcgXXcARmPzYg.YXFd-W6QyuPD7IgiY7ohQML_La4f7PslHWyIoJV8eLYg.JPEG/IhS3-kKco-M02qNXXiec8UntKg2U.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
