@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 13:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 14:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인조인간 유해진]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34839555&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34839555&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 23 Nov 2022 14:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[뜨거운 지열을 견디며 왕 앞에서 떨던 '왕의 남자' 광대가 왕이 되었습니다그는 바로 '올빼미'의 인조 유해진밤에만 앞이 보이는 맹인 침술사가 세자의 죽음을 목격한 후 진실을 밝히기 위해 벌이는 하룻밤의 사투를···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjNfMTg0/MDAxNjY5MTg4NzExOTUw.Be-1ed5uD1zAbWLtkUjrkNqluWIJIRIn6jZ4HJQkd4cg.0vJtxDMhjZGvudi9D9-H_5hssR6qsVd6_LfALeGxYX4g.JPEG/ILr0DNYTssSoisAf_q8JVuyQkqVo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 회사 데스크 직원 누구?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34832983&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요!오늘은 부산 여행이 처음일 분들을 위해유익한 정보를 준비해봤는데요!&nbsp;٩(&nbsp;ᐛ&nbsp;)و 한국에서 두 번째로 큰 도시이자어딜가도 바다내음을 맡을 수 있는 부산.그런데 부산을 처음 가본다구요? 젊은 MZ세대들은···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMThfMzAw/MDAxNjY2MTAwNjM3NDIz.miVfKA1AJaEnnhGoiVEm85JIh6lKfNmYAq7nXRh2Oc8g.Ylr4ibEQE0hD9ZZZlIhj0HWcSAWMcJLJrUKF7pX8ctUg.JPEG/ImBNdhYcP6C3I8JfWApBb1uZ0FeM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3수 해서 연대 입학한 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34640728&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34640728&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[3수 해서 연대 입학한 배우?근데 3수한 이유가 연대 응원단 때문인 사람??그 사람은 바로 드라마 '치얼업'에 김민재 역으로 출연하고 있는 현우석 배우입니다!SBS 월화 드라마 '치얼업'은 찬란한 역사를 뒤로하고 망···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTdfMTE4/MDAxNjY2MDE0MzQzMDMx.akWTPfJCwKuKqi_6iMkfK_nC_-iAt4ZMQJokh-baWFcg.g-MH0tldJsDWK2Lupu6q2TfhnUevZdrxTSWdftDuwekg.JPEG/Imw5nMKeFuC_msZi1wBu5unzjoCE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
