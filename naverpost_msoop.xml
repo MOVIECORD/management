@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 07:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 08:30:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신은 [공유] 중독입니다.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34864441&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34864441&amp;memberNo=22903361</guid>
+            <pubDate>Tue, 29 Nov 2022 08:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[보기만 해도 살짝 움직이기만 해도 분위기가 흘러넘쳐바다를 만드는 사람 치명적인 비주얼로 [공유] 중독에 빠지게 만든 장본인 공유 배우의 엘르 11월호 커버 촬영 비하인드 지금 시작합니다!  블랙&amp;화이트로 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjVfMjg5/MDAxNjY5MzY1MzU3ODc0.lgQ67jnMNAIuBRwz8GQoP0XKZ0LBbnNWskQLRLehCtYg.v2S1X0TOgdOjd3rK-48RbZiq_GV4zIdzQA2Yohu7-y4g.JPEG/IfEtq7p0EAjnveUrQXc_01KjlSrs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남친룩의 정석! [박연우] 코디 모아봄]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34834691&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:43 GMT</pubDate>
             <content:encoded><![CDATA[서현진 : 예쁠게&nbsp; 숲블리 : 기절할게&nbsp; &nbsp; 서현진 미모 맘껏 감상할 수 있는&nbsp; 사진들을 들고 왔습니다.&nbsp; &nbsp; go go!! 분위기가 너무 현진현진 해요♥ ☆ 천사 실존☆&nbsp; &nbsp; 손끝 하나, 시선 하나까지&nbsp; 아름다움… 포즈도 표정도···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTVfMjEx/MDAxNjU3ODU1MTA1MDEy.hfWw2rHiZu0ELg4_99BjUBCA-Yw-HilRoLD73XwJOlMg.Q6OKVkvbczCXgmbGtHWnMmNg22jLj7vAGV83tv1zH8Qg.JPEG/IsOYiqWepLpoLHphDlhOcisbtZWs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독보적인 존재, [전도연]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34130652&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34130652&amp;memberNo=22903361</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[아아 알립니다! 멋쁨의 정석 도연 배우의 등장을 알립니다! 살짝살짝 바뀌는 포즈에 오늘 날씨처럼 녹아내리는 중..♥  여러분 조명이 왜 필요하죠?  도연 배우가 바로 빛인데..ㅠ★ 도연 배우 보느라(두근) 심장 (두근···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTNfMTc3/MDAxNjU3Njc5NjY1NjI3.-gAhoSXbJ8lDEbO-dGDqRckwVHnDK37gbyMgQdkz4PUg.8whSP5LRr2PNeESjCNQ9orsQj7NSq_0fz1wxi9Z4ADYg.JPEG/IN0sD5Hm5NZAgam8xiiVAmogGq7E.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
