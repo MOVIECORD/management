@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 02:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 03:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이직도 RESPECT 하게!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34862569&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34862569&amp;memberNo=3247896</guid>
+            <pubDate>Thu, 01 Dec 2022 03:40:36 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;광고 촬영이 한창인 이 곳에서 만난 이는 바로! 퇴사 직전인 '노이직'.. 아니 '민정' 배우 그녀의 프로필&nbsp;최초공개&nbsp;합니다! 안경도 잘어울리는 민정 배우는 꾸밈없는 미소가 매력적이고 사랑 가득···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjhfMjI1/MDAxNjY5NjEyMzgwMjc2.laYPCt-rHjCenIkswtyqBy90b9zFk5MBttqDrP4XP0Eg.NVEcC5Hvr6DBOmJa2HUiRfYLJAywCQBGRs32KJbtrpwg.JPEG/Iri8ZLLc9bwS3zNuDmHW4QPzieRw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김재영]이니까]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34859138&amp;memberNo=3247896</link>
@@ -161,15 +169,6 @@
             <pubDate>Wed, 16 Nov 2022 17:36:10 GMT</pubDate>
             <content:encoded><![CDATA[쌀쌀한 바람이 부는&nbsp;완.연.한. 가.을.&nbsp;고혹미 넘치는 가을 무드로 차예련 배우가 돌아 왔습니다.  첫 장부터 심장에 무리를 드려 죄송합니다..&nbsp;이건 맛 보기라구요!!&nbsp; 예련 배우의 가을은 장르란 없어요. (진지) # ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjdfMjI4/MDAxNjY0MjUzNTQ4ODA3.QVpZtM09uzggpNpEKaLOcfJRgjF5WJPBM2WyoQ88cSkg.WuLpK6jS7JRgowdWckqRjwsWjeNYzHa2SrQ0Xws6CDsg.JPEG/IclvKFs3mRETjv89_n0WkWs1Jq8g.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[★ 리액션/비주얼/토크★
-소문난 맛집에 초대합니다!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34532492&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34532492&amp;memberNo=3247896</guid>
-            <pubDate>Wed, 16 Nov 2022 17:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[어느덧, 추석특집으로 기획된&nbsp;KBS1 TV 다큐멘터리 &lt;한식연대기&gt;가&nbsp;끝난지 사흘째 ,,&nbsp; 상욱 배우의 첫 다큐 프리젠터 도전인지라&nbsp;이대로 못 잃어 ~~ 외치던 파파라치비가&nbsp;만들어 버렸어요 ..&nbsp;#상욱배우_한식연···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjZfMTE5/MDAxNjY0MTcyMDA4NjQw.RsL-FYTY5FtAl0C5DTglnOZPs-m-cmsqQ9LS6pyfJQQg.vpEzkOxkitd0zM2XRhvoduc7gYAuPSxO8agvcQxSkvEg.JPEG/Ijo7vxpo_6fnUGrHk8OnETIm1Oac.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
