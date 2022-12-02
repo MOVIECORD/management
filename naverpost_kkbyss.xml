@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 01:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 02:53:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[킹콩by스타쉽] 야유회 뒤풀이]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34884445&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34884445&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 02 Dec 2022 02:53:19 GMT</pubDate>
+            <content:encoded><![CDATA[♬ 띠링 ♬ 초대장이 도착했습니다※ 킹콩 by 스타쉽 야유회 뒤풀이 안내 ※ - 일시: 2022년 12월 1일 (목) - 장소: 지금 여기 * 미방분 클립에 이은 미공개 컷들이 가득하오니, 필히 참석 바랍니다 * 이 초대에···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDFfOSAg/MDAxNjY5ODcyNTg1MTM0.8L5RScx6V9HRKwEryAeQyanEjoiBDGYMCvrZUIEIqM8g.i4M68f-H_IhMW5L8lCdW1dZodOyT7EmpgcpXFeCnKMwg.JPEG/Ilxt2xH2yOXyL2Rt_76Kt0AMNbt0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[손우현] 팬미팅 <우현이 만난,> 관람 안내]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34850025&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:36:37 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-) 오늘은! 소통장인이기 이전에 화보장인인 분과 함께합니다♡'W korea' 9월 호 화보를 찍은 배우 이동욱 씨♡ 휴대폰 배경화면은 오늘 포스트에서 꼭 골라보세요(찡긋) 포스···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDFfMTMx/MDAxNjYyMDIzOTgzMzY0.TIndb1WFY1TPbJIxusMKaYahj5R9PctI87XS5KKUgsMg.C0Fdxq47YKlxvlLqTxfj15rhEltD_QvbTJcE7yZkj3Yg.JPEG/IgU-IFujbwf9uyZ9FgA4xGRGJqgE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정원창]과 핏(?!)빛 데이트]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34400603&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34400603&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 16 Nov 2022 17:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 매주 월, 화 밤 10시 30분tvN &lt;조선 정신과 의사 유세풍&gt;에서감찰어사 '조신우' 역으로 활약하고 있는배우 정원창 씨 오늘은신우 본체 원창 씨의 피&nbsp;땀&nbsp;눈물 서사를알아···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MzBfMTcg/MDAxNjYxODQ3OTU4NzA5.dOF3uv6DB0HPsfWevi17fVgSMsIHNVB0-YeL4hI1dekg.HNZ9GeFosRoVfGQ8lRZH8Z1NfH0kRCT1rG5vhEAwMDkg.JPEG/IhTIXRjmUn8b2q-SlUW_ONwnB3MU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

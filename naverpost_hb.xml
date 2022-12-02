@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 01:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 02:53:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[충무로에 새로운 ★이 떴다던데]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34868293&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34868293&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 02 Dec 2022 02:52:51 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요파파라치비입니다!!&nbsp;현재 박스오피스 1위를 달리고 있는 영화 '올빼미' 사진 출처 : 영화 '올빼미' '올빼미'밤에만 앞이 희미하게 보이는 맹인 점술사가&nbsp;소현세자의 죽음을 목격 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjlfMTA3/MDAxNjY5NzE0MDk0NTI5.VYbseC5g4YKU6m88O3lCu6Qohn_QZUm13_L9jccQ5W0g.2gpXx413MT5FNyHtPVqX0l7g6lGOhTrL7yi8YSoevUEg.JPEG/IailM6ECs0zfVUoOBFw7Rr4sZZwQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이직도 RESPECT 하게!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34862569&amp;memberNo=3247896</link>
@@ -161,14 +169,6 @@
             <pubDate>Wed, 16 Nov 2022 17:36:10 GMT</pubDate>
             <content:encoded><![CDATA[오늘도 어김없이&nbsp; 찾아온 파파라치비 인사드립니당 :) 그 어떤 의상을 입혀도 찰떡같이&nbsp; 소화해낸다는 주인공은 누//구?? 두구두구두굳구둑두굳굳구 tvN 수목드라마 &lt;월수금화목토&gt; 속&nbsp;슈퍼스타 ‘강해진’ 역을···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjdfMjg1/MDAxNjY0Mjc0MTQ4Mjgy.9boKbfD0sJk3-cSUmFv13kebWFwbV15DP_PD6PzLoa4g.i0Y7QDrAnr5QozFJIsafhdh99YV0v7RLQ6aPBOJQcfsg.JPEG/IVwIGEkbG7eSijDhT6FYYeV9vb5s.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을이 찾아왔어요]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34538588&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34538588&amp;memberNo=3247896</guid>
-            <pubDate>Wed, 16 Nov 2022 17:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[쌀쌀한 바람이 부는&nbsp;완.연.한. 가.을.&nbsp;고혹미 넘치는 가을 무드로 차예련 배우가 돌아 왔습니다.  첫 장부터 심장에 무리를 드려 죄송합니다..&nbsp;이건 맛 보기라구요!!&nbsp; 예련 배우의 가을은 장르란 없어요. (진지) # ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjdfMjI4/MDAxNjY0MjUzNTQ4ODA3.QVpZtM09uzggpNpEKaLOcfJRgjF5WJPBM2WyoQ88cSkg.WuLpK6jS7JRgowdWckqRjwsWjeNYzHa2SrQ0Xws6CDsg.JPEG/IclvKFs3mRETjv89_n0WkWs1Jq8g.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
