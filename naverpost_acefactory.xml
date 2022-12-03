@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 02:41:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 03:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[15년 복수 꿈꾼 배우]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34888049&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34888049&amp;memberNo=44834478</guid>
+            <pubDate>Sat, 03 Dec 2022 03:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이규형&nbsp;새 뮤지컬 ’스위니토드‘ 빅토리아&nbsp;여왕&nbsp;시대의&nbsp;런던. 영국의&nbsp;귀족&nbsp;문화는&nbsp;정점에&nbsp;달하고, 상인들이&nbsp;산업혁명을&nbsp;통해&nbsp;더욱&nbsp;부유해졌으며, 권력층은&nbsp;무소불위의&nbsp;힘을&nbsp;휘둘렀다.&nbsp; 젊고&nbsp;재능&nbsp;있는&nbsp;이발사&nbsp;벤···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDNfMjcz/MDAxNjcwMDA5ODgyMTc2.aILbNqbMZqidA4N7nCkdQXs6B6MVeuARJOBoWg7RWGEg.nCIA-_1CDukgzLBOJJce68SFGyP4iS0IRTdb_WkPnVAg.JPEG/Iw9OyJ16ueA8K3GmQbewZ-olNqtM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이준혁 목소리로 듣는 영화]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34860883&amp;memberNo=44834478</link>
@@ -167,15 +175,6 @@
             <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
             <content:encoded><![CDATA[오늘 공개된장승조 '싱글즈' 10월호 화보 그리고 ACE가 들고온,,,천년의 비주얼(ACE 선정) 비주얼 인간문화재 장승조 발굴 현장,,,♥ 지금 바로 공개합니다 ;)美美오랜만에 찾은 화보 촬영 현장에서···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjJfMTM3/MDAxNjYzODMwOTg2NzQy.XOIt1BwksARiJl7Q2QXLxtYay8E-nvxcDYuSaMSxjBIg.uNl9CaWdZhei8V9KG3wu7Yhjv_fKkcl0MPp0-pGLI2cg.JPEG/IDHaURt4EE2ICpgUe0PEOBcmMaQw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['변론을 시작하겠습니다'
-국선 변호사된 이규형]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34507561&amp;memberNo=44834478</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34507561&amp;memberNo=44834478</guid>
-            <pubDate>Wed, 16 Nov 2022 17:36:30 GMT</pubDate>
-            <content:encoded><![CDATA[최근 국선 변호사된 배우이규형디즈니+ '변론을 시작하겠습니다'좌시백입니다 ♥일명Dol + i 변호사 ^-^날카로우면서도살짝 돌아있는맑은 눈의 변호사 ◕ ◡ ◕시백이앙숙 노착희 변호사와벌일 연기파티 변호파티···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjFfMjUx/MDAxNjYzNzUxMTU3MTc4.1hjgWJ_MTidSBHXOzsEdwIgR2f-YIIbe1WzGIfPkqJAg.AnMz-qMC7eILTzNGRLVcigPLHidMXQ5C4F1o6jH0qj8g.JPEG/I0KV57CqPviqoDD9ho6BZ9iMqICA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
