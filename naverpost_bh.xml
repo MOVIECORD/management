@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 05:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 06:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트]12월의 BH ON AIR●]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34888841&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34888841&amp;memberNo=21724264</guid>
+            <pubDate>Sat, 03 Dec 2022 06:24:41 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDNfMjIw/MDAxNjcwMDAxOTMxMDgz.ffBelhdLKF_hhteN14C-aGOdM1kBYwCfGEecJS1psk0g.SsGNxXuFSDDwQLF9XSpbCFamQVlpOseogftStxEhYEwg.JPEG/I09H-F1HsIeKjYYBQ-6d-UyXa6uw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찬 바람 불 때 [주종혁]]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34754994&amp;memberNo=21724264</link>
@@ -156,14 +163,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:50 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요녕수니...아 아니 해피비입니다:) 찍자마자 포스트 쓸 말이 많아해피비 손이 바빠 바빠아가새들 진영이 대화가 끊기지 않게 오늘 이 포스트 모든 순간 모든 사진극락 좌표인 거 예고하고 시작해도 될까요?···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDhfMjY0/MDAxNjU0NzAwMjg5NzUw.BJ6pelbKvXVQXCwHKiKVkSX0l-aBBdF4YXBN2kVBOh0g.noQuq7SPdXnCay3HnO6vw3au8bppzMEm6fN9f_AzmdQg.JPEG/Ia4_L9lbCgv3xeDpJuQys3j0apLE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말 타고 달리다가 봐도 잘생긴 [이진욱]]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33929008&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33929008&amp;memberNo=21724264</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요해피비입니다:) 여기 한 남자가 있어 내가 너무 사랑한~ 저는 이런 기본 티 잘 어울리는 남자이상형이잖아요 눈웃음 진욱감동 심하다... 일부러 이러는 거죠 이것은 해피비 업무를 방해하는멋짐으로 대표···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDhfMTcy/MDAxNjU0NjkzMzU2MjMy.zDmqLG90HQeTuh6oxa0CrOZRWgl_kgmyl_LKpp3tH7Ag.uo8GwDQrNRi650ch37NI5zScQta0lPAiJstsIKgxwJEg.JPEG/IQJMfO5PiXWPaYHZAVjm-S2RaTuI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
