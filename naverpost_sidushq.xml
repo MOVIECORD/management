@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 01:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 02:48:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대중문화예술상을 빛낸 박선호]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34898586&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34898586&amp;memberNo=28456565</guid>
+            <pubDate>Tue, 06 Dec 2022 02:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[싸-하! 지난 24일에 열린&lt;2022 대한민국 대중문화예술상&gt;으로첫 시상식 MC 도전을 했던박선호 배우 선호 배우는 외모만큼이나 완벽했던 진행 실력을&nbsp;선보였는데요!공익 목적을 위해&nbsp;&lt;2022 대한민국 대중문···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDVfMjgg/MDAxNjcwMjI2Mjg1NTgx.RMwlyDsTFMVpmUhrTnZHAQdEZWMZdEkbHPzlLQtPd1Qg.1SLrQc-9yKal2MSXhe7aguqHIzkldeXvUfJuvp9dg3cg.JPEG/IUhgAG8xCceKLv2lwWZ2VPXA2UOQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김혜윤과 서한솔을 연결하시겠습니까?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34866049&amp;memberNo=28456565</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
             <content:encoded><![CDATA[최근 짝사랑에 성공하고 나서 설렘 지수 + 귀염 지수 폭발로 많은 시청자들의 마음을 덕통사고 시키고 있는 주인공은? tvN 드라마 &lt;별똥별&gt; 속 긍정 에너지 매니지먼트 2팀장 '박호영'역을 맡은 윤혜 배우인데···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDdfNDIg/MDAxNjU0NjA5MDI2ODEz.v-MGHKuNuFXbh89_KToK-hRujuslB4yASwWOv1a9B2Qg.EI3NRiqoshHk2pKWJdkW_KE4qkwHcxTNY2qd90n5zf0g.JPEG/IYHKKiBZSEvxLKRgvM29trcDM6uM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취준생이 된 배우]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33909509&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33909509&amp;memberNo=28456565</guid>
-            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 모두 보셨나요? 그건 바로JTBC 토일드라마 &lt;클리닝 업&gt;에 혜윤 배우가 '주현'으로 특별 출연했습니다!싸더지기가 그 비하인드 현장을 담아왔는데요! 그럼 함께 보러 가실까요?손이 시릴 정도로 찬바람···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDJfMjY0/MDAxNjU0MTMzMzQ0ODk3.dDvzt-aPb4HEl8r7V1PTXfkj0r_pWGFUoRjugAWPLmQg.tWDCxhyo3uvJbmdvv7KS9BzwMHeB84I8vuTirnd-7dgg.JPEG/IsBDV00hYC7HkcewxKGsYBaXKtS0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
