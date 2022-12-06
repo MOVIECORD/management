@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 07:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 08:27:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[얼굴맛.zip] ‘전소니’ 편]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34903339&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34903339&amp;memberNo=22903361</guid>
+            <pubDate>Tue, 06 Dec 2022 08:26:29 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 여러분,보고만 있어도 황홀해지는 숲속 &lt;얼굴 맛집&gt;에 오신 것을 환영합니다. [얼굴맛.zip] ‘전소니’ 편 지금 바로 시작합니다.   벌써부터 빠져드는 비주얼  역시 비주얼 맛집이죠?  카리스마 눈···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDZfMjc1/MDAxNjcwMjkxNTUwNzg3.i1KK_vysGOmRiIxmn9js8HUgwRurtUyRXYoN2OJLVuMg.Fr0X3HtcgZIbCKtYOVg2HtuEL4i_NgVNTjnLHTGFxJ4g.JPEG/IgdasWx63K7zsf_h9oRrGl4isxZo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신은 [공유] 중독입니다.]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34864441&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:43 GMT</pubDate>
             <content:encoded><![CDATA[오늘 포스트의 주인공은? 얼음처럼&nbsp;투명하고&nbsp;깨끗한&nbsp;매력을 지닌 숲블리의 사랑 여러분의 사랑 ❤ 윰블리&nbsp;❤ 윰블리의 숨길 수 없는 귀여움에  숲블리는 벌써부터 광대승천 중,,, ◠‿◠ 십자수와 유미 배우의 조합? 이것···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MThfOTQg/MDAxNjU4MTEwNTAzMDc1.okNsyY-UJ8VnZukiS8OS_C7UF5NtBWSKb2G8VHr8M2wg.FU7xaYGpJIswER_iVrWGKEy4m-8skB6-XRXEOaLMxHog.JPEG/Itwhnq20B5foGhglsPsNnL7sY5J0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서현진짜로 예쁘다 2탄]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34138762&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34138762&amp;memberNo=22903361</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[서현진 : 예쁠게&nbsp; 숲블리 : 기절할게&nbsp; &nbsp; 서현진 미모 맘껏 감상할 수 있는&nbsp; 사진들을 들고 왔습니다.&nbsp; &nbsp; go go!! 분위기가 너무 현진현진 해요♥ ☆ 천사 실존☆&nbsp; &nbsp; 손끝 하나, 시선 하나까지&nbsp; 아름다움… 포즈도 표정도···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTVfMjEx/MDAxNjU3ODU1MTA1MDEy.hfWw2rHiZu0ELg4_99BjUBCA-Yw-HilRoLD73XwJOlMg.Q6OKVkvbczCXgmbGtHWnMmNg22jLj7vAGV83tv1zH8Qg.JPEG/IsOYiqWepLpoLHphDlhOcisbtZWs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
