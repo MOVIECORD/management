@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 23:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 01:47:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱] ※스포주의※ 첫 시즌 그리팅 미리 보기]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34907382&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34907382&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 07 Dec 2022 01:46:55 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-)어느덧 다가온&nbsp;2022년&nbsp;연말가는 한 해가 아쉬운 분들을 위해킹콩지기가&nbsp;특별한 연말 선물을 준비했습니다 배우 이동욱 씨의(무려) 첫 번째 시즌 그리팅! 2023LEE DONG WOOKSEASON'···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDZfMTA3/MDAxNjcwMzExMDIwMjEy.NO6POIFi7BifZkNd4kgfOhrBt2ClNhgm2HSN6ZPSe2gg.SIR7WjYPfaGcP70ig-MKaJBUrSOO8IUzTmF2xcq2bgIg.JPEG/IVqj9GBj7E06QIAJN65XY_dl6gtY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유연석] 에이맨! 청룡은 잘 보셨어?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34893232&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:36:37 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 어제(6일, 화)부로 잠시 이별한 tvN &lt;조선 정신과 의사 유세풍&gt;최대 빌런 좌상 조태학(유성주 분)의 편에서 그대로 흑화한 줄 알았던 '조신우'가 돌아왔다.···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDdfMjYz/MDAxNjYyNTE0ODExOTU3.pFt-gGjGpzzfNnWzS7DJVf3rtGRMIhmbEKqSoX6EbIUg.m1kK4VBh8U9ugjxdhfeIx2pciMUe-NlC5lPN2Nyfx_wg.JPEG/I0LfqtVniS_faMJfULQsZR2I_7oo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신현수] 위기의 (미스터리) X]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34417691&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34417691&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 16 Nov 2022 17:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다! [사진제공: WAVVE] 어제(2일, 금)웨이브 오리지널 &lt;위기의 X&gt;가첫 공개되었는데요!그런데, [사진제공: WAVVE] 아직 공개되지 않은 포스터 속 이 인물도대체 그는 누구인가...!오늘···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDNfMTIg/MDAxNjYyMTQwMTQyMDM0.MM83nvlFKj_3yN1Z4ppIZHOo8xG3Uu8-ANKwqAyRkTMg.s5yXagMAzB4RAaT5HJuZpBJP_fTsHNv2sZzw24b3OWsg.JPEG/I4-t2Q4MiPn-mgvqiIs5dF3Hf8fw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
