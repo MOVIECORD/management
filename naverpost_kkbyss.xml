@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 05:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 06:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[채수빈] <SNL 코리아> 이마짚 레전드]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34923112&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34923112&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 09 Dec 2022 06:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 지난 토요일(3일)쿠팡플레이 &lt;SNL 코리아&gt; 시즌 3에배우 채수빈 씨가세 번째 호스트로&nbsp;출격했다는&nbsp;소식! 초반부터깜짝 놀람의 의미로&nbsp;이마짚 한 번하고바로 수빈 씨의 비하인드 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDhfMTUg/MDAxNjcwNDg0MDU1NTkx.A6_AEBTE0h-MsTYzaQwsBUk4QOAHH7YdHd9kzPtgiRkg.RWy-InQmapSw-u0betVZUpRUIy9YhZchsO5ONUFjg0cg.JPEG/IbvSJ9CcwZ6lxrt-rPK7C22bFjT8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신승호]의 멀티버스]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34915669&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:36:37 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 드디어 오늘(9일, 금) 넷플릭스 시리즈 &lt;수리남&gt;이 전 세계에 공개됐습니다!'데이빗 박'으로 또 한 번 새로운 얼굴을 선보일 배우 유연석 씨어떤 모습일지 너-무 궁···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDlfMzMg/MDAxNjYyNzA4NzQwNTIx.RVxgcgi5r9vUlFWn28BxG4TiNGfn7LfjugiRSzcUk-Eg.obHIrhPxoq7fiN6VRwrHVV6JC2TMP9ju68GDQvtHr-4g.JPEG/ITzSjaPiQ1BSD07GJ_9vAQGjARbc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이광수]와 존버라이어티에서 살아남기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34444928&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34444928&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 16 Nov 2022 17:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :D 8개의 극한 상황 시뮬레이션 존버라이어티 긴장감 재미 스펙터클 보기만 해도 웅장해지는 이 모든 것을 만나 볼 수 있는디즈니+의 오리지널 예능 &lt;더 존: 버텨야 산다&gt;가 바로 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDVfMSAg/MDAxNjYyMzU3NjA0NTc3.PiXkbveF529EjNdGDI0fiaAkAo4TRZdLNA90J83Oa_Eg.pMiywlQjX2_krEPiYe5sbLFQUKn0c4nGxBUNH2DwVrog.JPEG/IMWlWBEPzx6Xy2ASn8OY0E1OwAJ8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
