@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 13:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 14:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[평생 잊을 수 없는 
+명작]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34925813&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34925813&amp;memberNo=51396641</guid>
+            <pubDate>Fri, 09 Dec 2022 14:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[넋 놓고 감상하다 정신 차리고 보니안테나만큼 높이 올라간 광대 발견저절로 나온 물개 박수광대는 치솟고, 손뼉 칠 수밖에 없던 그 이유황홀한 눈, 코, 입말하면 입만 아픈 미친 것 같은 옆선한 마디로 말하면 축복···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDlfMTkx/MDAxNjcwNTg5Mjc5ODky.HyZL89h0reR2-E4IKvjOyhikbbVua5K1nkpO1zrLfrcg.1RTRE78Tn0GSUUHFz2wHQu86cT-WX_v6a0IViwOz0fAg.JPEG/I7Ka-8JqQvcJM199jm2ZcvejEt7A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장르가 김혜은]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34895807&amp;memberNo=51396641</link>
@@ -165,15 +174,6 @@
             <pubDate>Wed, 16 Nov 2022 17:36:24 GMT</pubDate>
             <content:encoded><![CDATA[낮에는 고혹적인 아름다움이밤에는 시선을 강탈하는 멋쁨이쉴 틈 없이 24시간 내내 열일하는 오늘의 주인공바로 정수정 배우입니다♥비주얼도 영롱하고 존재감도 빛나는데촬영에 대한 열정도 불타는수정 배우···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTlfMTYg/MDAxNjUyOTU5NTY3MDcz.Hh5fRSOIscBAiHh_9TYiIdkwnoK9ZR63sAYL803mZlEg.YFD8-SoIwC2i1a22ShYqPyGnKJJ-rRiZz83omCLxGDgg.JPEG/IaxIp2MKdebus40zaEDJ3wWpd_Bg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[D-1 손담비♥
-Wedding Day]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33788460&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33788460&amp;memberNo=51396641</guid>
-            <pubDate>Wed, 16 Nov 2022 17:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 13일! 손담비 배우가 결혼 합니다!!내일(13일) 결혼식을 앞두고 지난 2월말 '엘르 브라이드' 봄, 여름호를 통해 웨딩 화보를 공개했는데요.사랑에 빠진 손담비 배우의 찐행복 가득한! 화보 비하···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTJfNTYg/MDAxNjUyMzUzNjE0ODEw.s1qeXkeq0njnxmmGMMsEJEvsUU_s9QiYo6rEF2uJI7Mg.eCjcISkxX96Rk2Mc-9CjMtRKzjPVz358SwHuxstkuaEg.JPEG/IwL63YQ0AoBTqc7uYatx_UEbY6CQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

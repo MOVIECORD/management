@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 13:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 14:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실시간 주정뱅이로 등극한 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34925812&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34925812&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 09 Dec 2022 14:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[엄마,, 나 주정뱅이를 좋아하게 된 것 같아...아니 그니까 지이이이인짜 예쁘고애교도 또 어어어어엄청 많아!근데 지성도 갖췄어, 어쩔 때보면 천재 같다니까?!또 친구들을 어찌나 아끼는지 무슨 일 생기면 자기 일···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDlfNDkg/MDAxNjcwNTkwOTkwNDc0.NIsrqWVmUcPggVUt3Rik0_26Mrrm2jDYuJh6kfjw7Dkg.eDwcgTpoNAusD7Dilk7MHRXss8nMWn0F_LKgtJDEj_og.JPEG/IZggxxn0uVSFraEI93Uv0dk7Ipy8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마침내 1위 찍은 김서형]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34919486&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
             <content:encoded><![CDATA[뭐야 이 귀염둥이는 진짜.. 좀 많이 심각하게 사랑스럽네팬분들의 뜨거운 성원에 힘입어 돌아온 키동 콘텐츠!권지우 배우의 '같이 걸었어' 2탄을 들고 왔습니다.◆같이 걸었어◆는 키동이 배우들과 함께 걸으며 숨겨진···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDhfMjM1/MDAxNjY3ODkyNzY4MTQw.V0gM5ZQqvJeTYCELlTBOSIeBWUJkHcW6oEyrPWAYN88g.GjGiFSIHMsU1UosOP_GN4vuM3znsLLi0LO8y9jqVLq4g.JPEG/IUZm8R_qDbciLjI0WjTzjLoxfpEs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿨한 언니의 파격적인 일탈]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34751912&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34751912&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[hey, 모두들 안녕!내가 누군지 아늬?정아늬다! 정안이다!!길을 걷다 한 번쯤 뒤돌아보게 만드는 비주얼롱 원피스로도 숨길 수 없는 독보적인 비율과 아우라감추려 해도 도저히 감춰지지 않는 세련미⚝⋆누가 이 언니 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDdfMTI3/MDAxNjY3ODA5NDE5MTIy.jfHtGZT3AYZWZb4hvHwVuxdHCgaQyteYC2cf7slq2GMg.k7b_pwuB5NsRmhCu13JAQ9B5_8fMXDXqRKEIrHU_h9og.JPEG/IKN2L_YwnktThkgwjx1HCRPxfeOY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
