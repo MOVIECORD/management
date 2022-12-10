@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 13:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 14:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타 중에 스타]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34929372&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34929372&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 10 Dec 2022 14:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[스타 중에 스타 ★유해진★오늘은 유해진 배우가 스타 중에 스타 ☆파스타☆ 광고를 찍는날!멋진 수트차림을 하고 나타나 촬영을 시작합니다※과몰입 주의※ 오늘의 컨셉파스타 요리사가 된 유해진그의 요리 실력이 궁금하···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTBfMTI2/MDAxNjcwNjY1MDgzODc3.vmh7-EHvBTQX26DDwo_JljgBeMRTJmjwZZuIp7XX0Fkg.1N4GCky-IwZJNbhjNk5xNmWul6-hltMUGgTofQBFe3Yg.JPEG/Is50MSjxP_bHPA5ZoGfa46TgVwW0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실시간 주정뱅이로 등극한 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34925812&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
             <content:encoded><![CDATA[[자유게시판] 연희대 서울캠 익명: 어제 축제 보고 왔는데, 응원단에 하늘색 단복 입은 사람 누구임?ㄴ익명: 신곡 무대 할 때 앞으로 나와서 판넬 들고 호응 유도하는데 장난 아니더라ㄴ익명: 아 춤 겁나 열심히 추던 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDlfMTY5/MDAxNjY4MDAxODU3MTk0.zT5gVFhVLAXyXbWcpXz9Af4h3l7wWMHSAHwB9DkT81sg.0A0-uqayt2dwhYQnhOIFzT_-AqL4gIVCUOUKvC3DhD8g.JPEG/IlQZgv8dlhn5niy09lv7cXeyhTjA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남친짤 부자 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34758350&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34758350&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[뭐야 이 귀염둥이는 진짜.. 좀 많이 심각하게 사랑스럽네팬분들의 뜨거운 성원에 힘입어 돌아온 키동 콘텐츠!권지우 배우의 '같이 걸었어' 2탄을 들고 왔습니다.◆같이 걸었어◆는 키동이 배우들과 함께 걸으며 숨겨진···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDhfMjM1/MDAxNjY3ODkyNzY4MTQw.V0gM5ZQqvJeTYCELlTBOSIeBWUJkHcW6oEyrPWAYN88g.GjGiFSIHMsU1UosOP_GN4vuM3znsLLi0LO8y9jqVLq4g.JPEG/IUZm8R_qDbciLjI0WjTzjLoxfpEs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
