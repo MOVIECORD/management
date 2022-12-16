@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ YNK엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 23:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 01:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김현주] 미스터리 딜레마 멜로, 당신의 선택은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34966611&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34966611&amp;memberNo=33175148</guid>
+            <pubDate>Fri, 16 Dec 2022 01:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[정답이 없는 선택의 순간에 마주한 외로움과 두려움 속에서끝내는 도망치지 않고 최선을 다해 ‘선택’하는 것에 대한 이야기그 이야기가 시작될 드라마 &lt;트롤리&gt;의 포스터 촬영 현장에 와엔캠이 다···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTZfNzEg/MDAxNjcxMTUyMzQwMzk2.3N_Ioct8QKk9PxXi0zwfyWcYf6wwb-3kLw4wyRPh7gwg.WA51vv-qWKJLgKKfibMvMnLE55C_JYgL2DrIbf3p0yMg.JPEG/ILklsh-6qouX4V4nQlOq5RtR-bnQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박경리] 초란이라 하옵니다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34925321&amp;memberNo=33175148</link>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:21 GMT</pubDate>
             <content:encoded><![CDATA[어느 덧 데뷔 9주년을 맞이한 혜선 배우와 매주 수요일마다 만날 2021년 12월 우리는 이 달을 【혜선한 12월】이라고 부르기로 했어요. 혜선한 12월 그 첫번째, 혜선 배우의 모든 것을 알아보는 50문 50답 지금 시작합···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfMjYy/MDAxNjM4MTYyMTAwNDkw.RYarDpzkWR0loYF27HtSj5Nb1404xaOozz2av1IrcMsg.gkYpgm9FcqgOYq83p_Z2hX5cwg3RDW9RZ0dp65vC6NAg.JPEG/IJnkm_jfxzgd9AccpkWtnW688nzc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김현주] 우리는 이 포스트를 극락행 좌표라고 부르기로 했어요]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32819814&amp;memberNo=33175148</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32819814&amp;memberNo=33175148</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[모노톤의 화보로 잔잔했던 뉴런에 고자극을 선사한 현주 배우의 &lt;바자&gt; 12 월호 화보!모노톤 받.고. 컬러 버전의 비하인드를 혼자만 볼 수 없었던 와엔캠이 왔~어요 왔~어!심장들 꽉 잡으세요… 지금부···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjRfOTgg/MDAxNjM3NzU3OTQ5MTU3.W9jSZO8G649Pf6vIzo7aH00FdsZsDLT61c7HfuNfke8g.EaezEP1gPiUWaEFP4G7q9OH6GLBjVL0RGc4P3MU9TnAg.JPEG/I0zwMQfaMCCJRSXHLz23L438cGS0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
