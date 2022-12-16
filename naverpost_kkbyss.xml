@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 08:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 09:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[유연석]의 이해]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34970466&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34970466&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 16 Dec 2022 09:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 벌써 첫 방송이 성큼 다가온 JTBC 새 수목드라마 &lt;사랑의 이해&gt;&lt;사랑의 이해&gt;라니...! 저~ 깊고 깊은 곳에서 잠자고 있던 멜로 갬성이 살아날 것만 같은 이 느낌 &amp;bul···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTZfMTMg/MDAxNjcxMTIwNjE1MDEy.FBfpZ5lPFfwo4T3X6Iw3D30mIslOmseD6pOEcVW8Kg0g.l3IAoEjFp18kgrRt_FguBqCV8uvoDJj2bcuLEOVQW1Ig.JPEG/IrfysBYbY_Ors-iRYOkf1QYzsb8s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전소민] 스킵 불가! 테라피 비법 공개]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34962801&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:36:37 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-) [사진 출처: 월트디즈니컴퍼니 코리아] 오늘은디즈니+의 오리지널 예능 &lt;더 존: 버텨야 산다&gt;부터 웨이브 오리지널 드라마&lt;위기의 X&gt;까지다채로운 ZONE에서열일 중인···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTNfMjQ2/MDAxNjYzMDUzNDE0NTEy.BxZ91YrYb9Evm1C4eQrcS8lBkFNnG1nDzY3KAlMJX2Qg.dLCyMgaVFePMj2wbVDe51kcAfjHsK9B5F-0DhkqJa8cg.JPEG/Iqdx-35WNYPPUMe4gHMmB-XiRvkA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전소민] 연휴 마지막 날 교통 상황 알려드립니다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34455901&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34455901&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 16 Nov 2022 17:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요!&nbsp;킹콩지기입니다:) 온 가족이 함께즐거운 한가위 보내셨나요?어느새꿈만 같았던&nbsp;연휴의 마지막 날눈물이 차올라서 고갤 들어~흐르지 못하게 짜-잔! 배우 전소민 씨의&nbsp;비하인드로 찾아왔습니다 [급 앵커 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTFfMjQg/MDAxNjYyODk3OTYyMzg3.kXG3Haaa0hWHzAANlVcSzAUtsbXGMy80BkIlX6DajA0g.YmsPLSRqr0tKHnnPFh_EHGGUvR7Tnf_EQy9ziStqpEgg.JPEG/IixGUAxDx0wCcl0YSPWdcPk7Qp8E.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
