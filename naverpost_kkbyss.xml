@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 05:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 06:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신승호] 손톱에 낀 가시 같은 배우]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34974030&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34974030&amp;memberNo=35839671</guid>
+            <pubDate>Sat, 17 Dec 2022 06:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :)tvN &lt;환혼: 빛과 그림자&gt;에서손톱에 낀 가시같이자꾸만 신경 쓰이는 한 분이 있다던데,,,  신경 쓰이는 당사자 등장 어허 길을 비켜라-고원 세자 저하께서 행차하신다 위엄 있고 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTVfMTMx/MDAxNjcxMDk5NTQyNTM4.C3eO2DXqpGxQzQTVAS4rJV3yiKsTrADnWcPasgY1Ctog.r8dXC0uZRhXicFa4czMZb1kAMzFVoHLMcEudOKgSUfEg.JPEG/IRM_7MskuMJ4B_Ca-hc_AvdWo21k.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유연석]의 이해]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34970466&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:36:37 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)매주 금요일 오후 4시에 공개되는 티빙 오리지널 예능 &lt;청춘MT&gt; 포스터 속 파릇 파릇 청량 청량 에너지를 발산하고 있는 배우 채수빈 씨 하지만수빈 씨는 &lt;청춘MT&gt;를 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTVfMjY0/MDAxNjYzMjA5OTk4MTM0.s0q-rHUIehHRADj_Ps41b48itpRW1XXJ7ylsMLjg3q4g.zWJmC49-M10wH3u0hVRLZUmch_eCZU6UYgtnl2ErDFwg.JPEG/IXcGkZ2uYc-OsfaTF3uPohwI3ATI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이광수]의 ZONE으로 떠나요]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34468507&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34468507&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 16 Nov 2022 17:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-) [사진 출처: 월트디즈니컴퍼니 코리아] 오늘은디즈니+의 오리지널 예능 &lt;더 존: 버텨야 산다&gt;부터 웨이브 오리지널 드라마&lt;위기의 X&gt;까지다채로운 ZONE에서열일 중인···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTNfMjQ2/MDAxNjYzMDUzNDE0NTEy.BxZ91YrYb9Evm1C4eQrcS8lBkFNnG1nDzY3KAlMJX2Qg.dLCyMgaVFePMj2wbVDe51kcAfjHsK9B5F-0DhkqJa8cg.JPEG/Iqdx-35WNYPPUMe4gHMmB-XiRvkA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
