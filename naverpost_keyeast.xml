@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 13:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 14:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연기 좀 살살하세요..]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35014295&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35014295&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 23 Dec 2022 14:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[맑은 눈동자에 푹 잠긴 목소리건조하지만 현실적이면서도 차분한 연기 톤투병이라는 무거운 소재이지만 담담하게 진행되는 매력슬픈데 예뻐... 예쁜데 슬퍼... 예쁜데 슬퍼... 슬픈데 예뻐...목소리 좋은 배우들 덕···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjNfMTI2/MDAxNjcxNzg4OTc1ODEy.QBATdm6EncEzKq86feAm39GPVvJc_Q98QUlsRgGnYXsg.kunMBOVWsB-IB3_87RH4paTLyBM9ZvQdK2vLaiqX0pMg.JPEG/IOfYxFYLaDIkzFjAlV6YcOO-E9vA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[군 입대한 여자 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35008289&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Nov 2022 14:21:51 GMT</pubDate>
             <content:encoded><![CDATA[조여정, 진선규, 이희준, 김수미, 서효림, 수현, 박호산, 오나라, 김수로, 김호영 등등 수많은 톱스타들이 소속된 국내 최대 엔터테인먼트 메쏘드엔터에서데스크 직원으로 일하면서 틈틈이 대학로 연극 무대에 서고,···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjJfMTI0/MDAxNjY5MTAwMTg0MTk3.-ceVExWvGJ_fTclfZE-bPdxz5zdtIntXfvC-NdlEULcg.WUcRs3weHEhTXkD6VWC-60Yhtx6SEm3BQh3KMquKjU8g.JPEG/Ia6Q77IH8MEVGFtQi-sccMDW1wZc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌로 전향한 문가영]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34826315&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34826315&amp;memberNo=29770009</guid>
-            <pubDate>Mon, 21 Nov 2022 14:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[다채롭고 탄탄한 필모를 가지고 있는문가영 배우의 깜-짝 놀랄만한 소식이 전해졌습니다삐빅- 삐빅- 어머 대체 무슨 소식이죠?!!!배우인 본캐를 넘어 화보 장인, 뭉여신 등의 수많은 타이틀을 가지고언제나 다양한 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjFfMjg0/MDAxNjY5MDI3OTgxNDYz.NY4LxGEBRRL1TDO6W0s4_L0PWlALjfc1K1wksUUx9YUg.SvantuGhGwle6w10eHbyn-T82Dqzz4u81gZ9CNBLgQ0g.JPEG/IueF9QEPFl7WSEoMiCxfOKncKyFA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
