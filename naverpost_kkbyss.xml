@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 05:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 06:26:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신승호] 대호국 거북이 사랑꾼]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35025905&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35025905&amp;memberNo=35839671</guid>
+            <pubDate>Mon, 26 Dec 2022 06:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 오늘은 대호국에서 제일가는 사랑꾼을 만나러 왔는데요저 멀리 등장하는세자 고원! (두둥)그의 눈에 띈 것은?세자의 거북이♡안 그래도 애지중지하던 거북이를 담은 물에 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjZfMTg5/MDAxNjcxOTgyODc5OTQy.grlaVgVeNeyzI8OtY9-t9QA864ZOseZBePzNIbgPjaMg.Hb83uI87bXaELtkDUtg37jZLeisNFMJ3FB2klrgNeJIg.JPEG/Id-nU8YCfv2aI9eFslQC-m9XZQns.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[채수빈] <더 패뷸러스>한 배우]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35012396&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:36:37 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 '0'// 초대장 // 킹콩즈 대잔치에 초대합니다 참석: 배우 전소민, 김범, 보나 장소: 2022 코리아드라마어워즈킹콩즈가 총출동했다는 ‘2022 코리아드라마어워즈’, 그 비하인드···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTZfMTYg/MDAxNjY1ODk5MTEyMTg4.9skPeNViHyoLwaR_yGQHqgwN6FI5LsDzbFyXFS_l7Aog.Jp8n5BDxL1Ux6HMp-6umJukrdHIrD9vkKx62x6RpCCIg.JPEG/IKXb4lEOiNIuh5b_nTd8B0SzmIcU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[손우현, 송지연]의 순간포착! 세상에 이런 일이]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34625481&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34625481&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 16 Nov 2022 17:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 어느덧 쌀쌀해진 가을에특별하게 찾아온 봄을&nbsp;순간포착!&nbsp; 세상에 이런 일이...(에 제보해야 해) 바로 어제(13일, 목)벚꽃 필 무렵 단 7일간 허락된두 남녀의 사랑을 그린웹무비&nbsp;&lt;뷰···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTFfMjgx/MDAxNjY1NDgxMTUxNjg4.rXDeRAcmrYguIAVBAhaNNFLwKrdVtY-wfg3iPPW-T8Eg.Z9PCdBqMw4FhrWAuqnPT94DGFucgg94yX_xXgAXsMN0g.JPEG/IAcG3uLA27q2p8LFHoNqJ_U00qGQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
