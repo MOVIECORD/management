@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 13:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 14:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나이스한 개XX의 등장]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35043814&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35043814&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 28 Dec 2022 14:17:50 GMT</pubDate>
+            <content:encoded><![CDATA["유년 시절 폭력으로 영혼까지 부서진 한 여자가 온 생을 걸어 치밀하게 준비한 처절한 복수극" - 넷플릭스 시리즈 '더 글로리' -파트 1 공개 일이 앞으로 이틀밖에 남지 않았다는 사실!첫 공개를 앞두고 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjhfNzIg/MDAxNjcyMjE3OTIxNDk0.DiFqcT8hj3G50QKIexCiCkt-_UDx5kTcLWB06ypXJB0g.ZmAuiXuGvsTDV8907lg4X-aIiP8kc4QYHlc7f5p6P1sg.JPEG/IYaEpsK2GVuXyvn4-Ctke78WAPWU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올타임 레전드 문가영 실물 후기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35036338&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 03 Dec 2022 14:17:12 GMT</pubDate>
             <content:encoded><![CDATA[언니 저랑 결혼해 주세요!!!!서형사랑러들의 무수한 외침이 드디어 이루어졌습니다!!들 숨에 김서형!!!날 숨에 결혼해애애!!!근데 이제 상대가 내가 아닌..... (˵¯͒⌄¯͒˵)출연하는 작품마다 화제와···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDNfMTUw/MDAxNjcwMDYwMzUxNTky.X9ReuOpMf011EgUHxOQufOCEbuzGIxVUZpl0Bdcq4Wkg.iObfn-CRIG2dKAfXXsBPfAdSZyDVoJrm7fWzO5MDkKkg.JPEG/IK33pq_w5LBDLm_Bh6UmyitiLBBE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신인 배우로 살아남기]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34875779&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34875779&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 30 Nov 2022 14:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 여러분~~ 오늘은 제가 근무하고 있는 회사를 소개해 보려고 해요바로 국내 최고의 엔터사 메쏘드엔터테인먼트에요저희 회사 문을 열고 들어오면 저 '강희선'이 제일 먼저 보이실 거예요요렇게저도 알아요···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMzBfMTgg/MDAxNjY5Nzg3NjU5NzM0.-kEllxPwOOCYqGu5xWRyULgICXogvGcG3JHHN_MIprgg.Ig-rUXNcb7CckU9wA7zyxtCs1PA15ew05TKFzvY8llsg.JPEG/IO7QOHJyKpQmvEYBjMuPZjJTC91I.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
