@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 13:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 14:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김서형이 건네는 위로]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35049784&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35049784&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 29 Dec 2022 14:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[올겨울 우리의 마음을 따뜻하게 녹여준 왓챠 오리지널 드라마 '오늘은 좀 매울지도 몰라' 재미있게 보고 계신가요?바쁜 일상 속 잊고 지냈던 가족과의 작고 소중한 행복을 찾아가는 '다정'으로 분한 김서형 배우! 그···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjlfMjcy/MDAxNjcyMjk0ODUwMzYw.imc5DltIyed5y6Q6aaxBf-DuFmVYdmWAQ-iNjTxsZrsg.7KrK_pW3n8-Nx_XOGQy43Ik_2n9oZB2if1I0C3oXjysg.JPEG/I_xJP2CtSfM1C2S9iaPwfBSNSdVY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나이스한 개XX의 등장]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35043814&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 05 Dec 2022 14:19:24 GMT</pubDate>
             <content:encoded><![CDATA[우리 배우 나.쁜.사.람 아니에요항상 잔뜩 화가 나 있다고요??오해예요! 항상 멋진 웃음을 가진 분이시라고요비열함의 끝판왕 아니냐고요??오해예요! 언제 어디서나 섬세한 다정 인간이라고요몰입감 넘치는 완벽한 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDVfMjc0/MDAxNjcwMjQ2MzY4ODk5.EY2eSJcv80xcriov8SwN3-W141XELoyb2TYOMh5-REUg.F8qCUVHFgEB_0v2DWWWhtv_aJvp_I7Npj4I-hTH0ZiYg.JPEG/IENnED9LTr5IoIPOGO3_9m2phQbo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼해달라고 했더니 진짜 결혼한 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34891007&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34891007&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 03 Dec 2022 14:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[언니 저랑 결혼해 주세요!!!!서형사랑러들의 무수한 외침이 드디어 이루어졌습니다!!들 숨에 김서형!!!날 숨에 결혼해애애!!!근데 이제 상대가 내가 아닌..... (˵¯͒⌄¯͒˵)출연하는 작품마다 화제와···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDNfMTUw/MDAxNjcwMDYwMzUxNTky.X9ReuOpMf011EgUHxOQufOCEbuzGIxVUZpl0Bdcq4Wkg.iObfn-CRIG2dKAfXXsBPfAdSZyDVoJrm7fWzO5MDkKkg.JPEG/IK33pq_w5LBDLm_Bh6UmyitiLBBE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
