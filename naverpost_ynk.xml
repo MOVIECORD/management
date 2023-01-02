@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ YNK엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 04:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 05:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김현주] 트롤리, 제 선택은 '김현주'입니다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35059789&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35059789&amp;memberNo=33175148</guid>
+            <pubDate>Mon, 02 Jan 2023 05:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[휘몰아치는 전개와 숨 막히는 긴장감, 그 중심에서 다채로운 연기로 60분을 60초처럼 만든 우리의 혜주 (므찌다 므쪄!) &lt;트롤리&gt; 1회부터 4회 다들 재밌게 보셨나요? 그리고 다시 돌아온 &lt;트롤리&amp;g···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDFfMTk3/MDAxNjcyNTYzMDk1MTkz.2DSOjIBSa03iNxkbvKhWoEwIjBgT4POwknqSFe-vFnYg.wf4JhDUtPe39l6gem1ilwqZHBBr8aErudSK7cEhvcIAg.JPEG/IXWyPMYDOy9mCox80bJDFL1Ge5Nw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[채종협] 난 몰랐어 '박인성' 이리 다채로운지♪]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35006763&amp;memberNo=33175148</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:21 GMT</pubDate>
             <content:encoded><![CDATA[2022년 새해인사를 통해 프로필 떡밥을 눈치채고 기다리다 목 빠질뻔한 우리...드디어 뉴프로필을 영접하고 눈물이 앞을 가려 정신을 못차릴 때 즈음와엔캠이 프로필 현장 비하인드를 들고 왔습니다!!! (소리~~···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjhfMjkg/MDAxNjQzMzY4NjY4MTMy.PhXyZ1sZcwL4TgOk7v0sn6P4cra6E-sFmzHTu61LJ8Ig.b33cLosYbs187JT1tMr4s6COmyOSRL0QoW8VowzLNgkg.JPEG/In9a7H5x15Vr2d1M3JA4kcikgOZM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[차청화] 박원장 내과에 월급루팡 하러 갔다가 배꼽루팡 당했어요]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33180117&amp;memberNo=33175148</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33180117&amp;memberNo=33175148</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[지난 18일 화요일, 초짜 내과 개원의 박원장이 운영하는 &lt;내과 박원장&gt; 제작발표회 현장에 와엔캠이 다녀왔습니다!잘 찾아오셨습니다!TVING &lt;내과 박원장&gt;에서 월급 루팡을 꿈꾸는, 베테랑 간호사 차미···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjRfMTQ5/MDAxNjQzMDE3MTEyMjU3.3ZaAXkRzpafdcKNVe63uvRpLrX2MfN_PJf-Q6cTMOCkg.1bYAs-bhaG_wacZYrkL7hYv5TpDRLo0JiSHIj67uVPMg.JPEG/IoJ-0a1A0rYDxSTVd-fb4f3gtCtk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
