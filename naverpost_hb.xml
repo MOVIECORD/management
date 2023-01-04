@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 08:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 09:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[별을 담아왔다는 카메라]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35072370&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35072370&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 04 Jan 2023 09:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요:)&nbsp;2023년&nbsp;&nbsp;치비 인사드립니다.&nbsp;2023년 '계묘년' 검은 토끼의 해가 시작 되었습니다.&nbsp;모두 모두 건강하시고&nbsp;새해 복 많이 받으세요 ♥ 활기찬 기운 가득, 치비가 준비한 2023년 대망의 첫 포스트!!···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDNfOTcg/MDAxNjcyNzQ4MTk5MTc1.3oWBGfGB5FsUDeyAw8HcdQLsYo0ncGG2tH7yoOBqZywg.mLBs6RaaRMZcN9e4nGmtU_wnKta9IXMnjeAT3dlGBKMg.JPEG/IFbMcrpVGp-Zih6LPSxvBxwy7D2A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천상에서 김지은 보고 온 후기]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35054166&amp;memberNo=3247896</link>
@@ -161,14 +169,6 @@
             <pubDate>Wed, 16 Nov 2022 17:36:10 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 파파라치비입니다 :-D 요즘 취미생활로 골프를 찾는 분들이&nbsp; 많아졌다고 하는데요&nbsp; 여기, 골프의 여제로 이름을 올린 이가 있으니 ..!!!&nbsp; 지금 바로 소개합니다! &nbsp;&nbsp;의류 촬영에 한창인&nbsp;차예련 배우가 그 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjBfMTIy/MDAxNjY2MjUzMTI0MDg4.3YyiPxUC2v8oTLLPsRXbYFlsbMpWFr4emulxu8Td6ecg.hAulHjGW6jf4pTbuAhbA6X1qZJ6JHlMcdq8dIbS_eYIg.JPEG/IYCr8uWomLbOvKwUG2YwkweSYPgg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김재영]에게 반, 해진 ♥︎]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34684433&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34684433&amp;memberNo=3247896</guid>
-            <pubDate>Wed, 16 Nov 2022 17:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 이 남자가(a.k.a 강해진)&nbsp;자주 가는 곳을 따라가봤습니다. &nbsp;&nbsp;▿▿▿▿▿▿▿&nbsp; ▿▿▿▿▿▿▿▿▿ 해진’s 아지트 ➊ Entertainment 옆태 미남 발견&nbsp; 해진이 가는 그곳,&nbsp;&nbsp;같이 가볼까요?! 여기는 해진의 소속사&nbsp;‘강한'엔터테···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjVfMTAy/MDAxNjY2Njg3NjI3Nzcz.a0EpOg9JpsxmCBbs7YkZFLher9XUfmnkNzyRvzinfLUg.yFiesAouOsI9xQeuhQAPdIpbrViGEKTkyd_7VzpXluwg.JPEG/InYc_3vM5ma0ftkk9Sq62tOs7DXI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
