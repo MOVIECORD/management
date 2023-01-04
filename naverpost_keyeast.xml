@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 13:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 14:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[은행에서 줄 안서는 꿀팁]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35078804&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35078804&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 04 Jan 2023 14:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[제가 요즘 즐겨 찾는 은행이 있어요.365일 열려 있는 은행 답게 365일 사람들이 넘쳐나는 KCU 은행인데요!요 근래 이 은행을 찾으면서 발견한 꿀팁이 있거든요?! [줄 안서고 바로 은행 업무 보는 방법!] (*&amp;bull···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDRfMjcx/MDAxNjcyODM2Mjk3OTY1.w1bVwuqe0YSs5XBzMcYs73cpTalYWz5ajwotBVPB7Tcg.6RS6yV1EWnfppax2Q_KpG-RcLLK4Xt_1w0EXyFIUZNcg.JPEG/IVjn6Vb39rNDVbi59P4vLVwel2VU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누아르 찍은 김서형]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35072593&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 09 Dec 2022 14:18:34 GMT</pubDate>
             <content:encoded><![CDATA[엄마,, 나 주정뱅이를 좋아하게 된 것 같아...아니 그니까 지이이이인짜 예쁘고애교도 또 어어어어엄청 많아!근데 지성도 갖췄어, 어쩔 때보면 천재 같다니까?!또 친구들을 어찌나 아끼는지 무슨 일 생기면 자기 일···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDlfNDkg/MDAxNjcwNTkwOTkwNDc0.NIsrqWVmUcPggVUt3Rik0_26Mrrm2jDYuJh6kfjw7Dkg.eDwcgTpoNAusD7Dilk7MHRXss8nMWn0F_LKgtJDEj_og.JPEG/IZggxxn0uVSFraEI93Uv0dk7Ipy8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마침내 1위 찍은 김서형]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34919486&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34919486&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 08 Dec 2022 14:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[12월 첫 주말 기준 왓챠 유입기여도 1위공개 후 왓챠 시청 순위 1위 직행6일 연속 1위!왓챠피디아 별점도 ★★★★.512월의 시작을 서형 배우의 따뜻한 연기로 시작한 키동!서형 배우의 작품을 지금까지 여럿 봐왔지만 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDhfMTA4/MDAxNjcwNTA1MzkxNzMy.TB9Rmku5cL9Dx3WE2N_Ep1_TrzYyc440mnB9MdtBywog.BeDXwMrWx3fty4lus0sLh_QMYxi6l8K-oxYkMzTW4i8g.JPEG/IwMyX67TY4RZP7amQ2iatyXcd6o4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
