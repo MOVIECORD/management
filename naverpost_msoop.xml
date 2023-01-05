@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 07:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 08:28:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[정가람] 찾았다 내 남친 내가 찾던 남친]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35084260&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35084260&amp;memberNo=22903361</guid>
+            <pubDate>Thu, 05 Jan 2023 08:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[이 곳에 들어오신 여러분, 추운 날씨 탓에 허한 마음을&nbsp;채워 줄 사람을 찾고 계시다구요? 그렇다면 잘 찾아오셨습니다  오늘 포스트의 주인공은 바로 뒷모습마저 듬직한 숲블리 선정&nbsp;‘사랑에 빠지고 싶은 남자 1위’&nbsp;···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDVfNzMg/MDAxNjcyODk2Nzk4NzAw.ybG01tjM85s48guX351A22OK1NbhjKWOG0YTnGpzjykg.gPQAjXj_7oFAnrG9ARd9oGZ2MgUFV_5RLlEQq-wKYwsg.JPEG/I6oS1yoLHWUGB9YGnRSqY17RQtjo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[은행에 출근도장 찍게 만든 배우 [정가람]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35038990&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:43 GMT</pubDate>
             <content:encoded><![CDATA[현진 배우 보고 싶어서 하루하루를 지새다 보니 어느덧 가을! 보고픈 얼굴을 한껏 담아왔습니다.  처음부터 너무 심멎 모먼트죠?♥ 하지만 이제 시작에 불과해요. 요리조리 살펴봐도 너무 예쁜 현진 배우 머리부터 발···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjVfNDkg/MDAxNjYxNDExMTQ0Mjc2.1Gl9qWo722iPoLoh2FSJUZuWyDxbIhivFnjkg_AgzNMg.T7xqYCCS44Q-Y7wjtN1bGfidOwpIpqV1N2_VdKym_hEg.JPEG/IcQMxKa5mJ2OPFOES7ISi8ut8MAQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작은 아씨들 ‘오인경’으로 왔‘지현’ღ]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34362008&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34362008&amp;memberNo=22903361</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 2022년 9월 3일 밤 9시 10분 tvN 토일 드라마 &lt;작은 아씨들&gt;이 방송됩니다! 첫 방송을 기다리고 계실 여러분을 위해 준비했습니다! 열혈 기자 오인경으로 돌아온 지현 배우의 ‘작은 아씨들’ 포스터 촬···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjRfMTgz/MDAxNjYxMzE5NjQ3NjE1.XxF-rx8toSjQ0OD9kRwna-TCXq0jU9idusdBpkwAk1gg.jRWaM-JIFi6OtVuQUrUMZmXmAMzmF0HpOaz5opkybEQg.JPEG/Ie39Phcqreks0vnkfJ5BThW2B7b0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
