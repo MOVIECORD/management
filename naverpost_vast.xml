@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 08:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 09:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현빈] 새해 빈
+많이 받으세요♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35095501&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35095501&amp;memberNo=32146648</guid>
+            <pubDate>Fri, 06 Jan 2023 09:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST] HYUN BIN ♥여러분 ★햅삐 뉴 이어★2023년에도 변함없이 베스트리랑 덕(질) 메(이트) 해달라고 3N개나 되는 복(이라고 쓰고 빈이라 읽는)을 바리바리 가져왔답니다 (···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDNfMjQ5/MDAxNjcyNzMzNDgxMjQ1.GjYnKxpNSA1IwC1yLzVj0TSnK2aU63yCTdokLyqpoY8g.4-924-LH0rq8chHkT139EwJ-ehd5fyoCj8Y4rQSJAaog.JPEG/IfguhggXhyA2iTk27sEX7_IvbfRc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현빈] 포스트인데 안 볼 거야?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34663304&amp;memberNo=32146648</link>
@@ -158,14 +167,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST] PARK E HYUN ♥드디어 이날이 오네요 여러분께 비주얼 천재만재 이현 배우의 '류설' 소식을 들려드릴 날이!!!화양고에서 사랑스러움 TOP, 솔직한 매력 TOP 을 찍고'주호 바라기'로 시청자들의 마···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTZfODkg/MDAxNjM5NjQxODkzNjYx.fU-vW4DAUSLg96boMAs6StrcfpjBaJhRhHZLqqD_Udwg.3ayXDtEPp_6mBwL7SDEqr_TDLOAml-CKLFbqfnPXwNgg.JPEG/IXGpfdEpAkdiaUnmXSo-ngA-zE10.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BACK TO THE HyunBin ♡]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32635683&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32635683&amp;memberNo=32146648</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST]HYUN BIN♥여러분,제가 왜 현빈 배우를 좋아하는지 아시나요? 여기엔 엄청난 비밀이 숨겨져 있습니다 그 비밀, 여러분들께만 공유드릴게요 (쉿) 1. 손에 물만 묻혀도 분위기 있기 때문 2. 설거지하다가 돌···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjdfOTkg/MDAxNjM1MzE5OTAyMDQ0.dW2gTrlbMzdvKmNZw2DOlghx50eohV0ck2JIYgbrwywg.ltnr0RLO50UH8AjmcK5mzyszmiLWzN-7p4Bwy_HgXckg.JPEG/Iogrq-MnJO3yZfH-4mTzALg589cI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
