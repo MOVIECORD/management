@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 05:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 06:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<더 글로리> 전재준 본체 봤어?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35097049&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35097049&amp;memberNo=21724264</guid>
+            <pubDate>Sun, 08 Jan 2023 06:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[누구보다 맑고 선했던 KBS &lt;흑역사 오답노트&gt; 만인의 첫사랑 필승이.. KBS &lt;하나뿐인 내 편&gt; 최고의 신랑감 고래쌤... tvN &lt;싸이코패스 다이어리&gt; (싸이코패스지만^^a) 웃는 게 예뻤던&nbsp;인우.. KBS···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDVfMjE1/MDAxNjcyODk0MDAwODc2.mBCa_TZP0YZJzN_JftntXBMWMVVc19bMV8WwSXbAA2Qg.hOJLPBLVSCdHdWkZTUFcQ-lQn6kH7iwThMForMgaF5wg.JPEG/In_vIp1zfDW55BwH0fQ0Sr3FKMpE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어둠을 비춰준 달의 여신 [이지아]]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34968316&amp;memberNo=21724264</link>
@@ -153,14 +161,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:50 GMT</pubDate>
             <content:encoded><![CDATA[소문난 원조 맛집&lt;유미의 세포들&gt;&nbsp;윰밥 덕분에&nbsp;요즘 밥 안 먹어도 배부른 사람= 나 윰밥 투샷 보고 있자니너무 달달해서이빨 잔뜩 썩어버린&nbsp;해피비 해피비&nbsp;"이&nbsp;투샷은 진짜 다 같이 봐야 해" 그렇···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTdfMjI0/MDAxNjU1NDc3NjI5NDgx.54ys0AHhopjhxutYhv4V5_zlEVgkO6qgOHZyDfLkyZQg.n6G_oAD4NPr6_yKY5gxjG36MnjDK7DXK2GqpsPw84ssg.JPEG/IukL2Fz_pJvOO5OQWBLCFHt-kwnw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인간 루테인 [추자현]]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33742764&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33742764&amp;memberNo=21724264</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요해피비입니다:) 마더스클럽을 뒤흔들며 우리의 마음까지 뒤흔든 울언니추언니추자현 천상계 미모로 인간계 뒤흔들러 왔다고 해서 해피비 당장 달려갔는데요 렌즈 끼고 간 해피비갑자기 렌즈 빼고 촬영 가···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDRfNjUg/MDAxNjUxNjQyMjk0NTIw.PdCO0KgNPrVXQmQEnxKUy87boJ96oOqL5fThsKaiLisg.YGD8nrN0ADLt-OB4tWvuc7neSr8g1CRH3OYoVTOQdsAg.JPEG/IIRxn7Ay1G9EM0oDMmwzN3h9nm-U.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
