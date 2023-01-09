@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 03:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 04:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신승호] 나 왕인데]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35111440&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35111440&amp;memberNo=35839671</guid>
+            <pubDate>Mon, 09 Jan 2023 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요:) 킹콩지기입니다!어제(8일, 일)&lt;환혼: 빛과 그림자&gt;가대단원의 막을 내렸습니다 &lt;환혼&gt;의 파트1부터(왠지 모르게 더 귀여웠던 팥1의 세자 저하)&nbsp; 파트2 &lt;환혼: 빛과 그림자&gt;까지 세자···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDlfMjA3/MDAxNjczMTk5Njk2NDMy.Tt5AYF1LcN1We-YGX5lJgAIQucaeq6zUc_4wnUN6eocg.whodoDY_yOHg5axHNBl8dSrm0udCa-Wxnh1_BZ2ky18g.JPEG/IjOkeMC_N29-pwwT9h1yNCPMfDdI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유연석] 나 줘 하상수♥]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35094561&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 03 Dec 2022 06:25:23 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 의사 선생님, 지난 11월 26일(토) 배우 손우현 씨의 팬미팅 &lt;우현이 만난,&gt;에 다녀온 후부터 뭔가 이상해요귓가에 하루 종일 워커 워커 워커 그롤링~ 소리가 맴돌고···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDNfMzAg/MDAxNjY5OTkzNTQ1MTE2.plOZyZD_29_Q-0CvCxE3PDTkpFsI4Zk9oA2UT0P0Phwg.PkfljofKc5r-YCMPFX5JSUGq_qeMnBuKT0olVpPADlgg.JPEG/IF1tBJSidkMb3g15k2k8ZhLs_S_M.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[킹콩by스타쉽] 야유회 뒤풀이]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34884445&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34884445&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 02 Dec 2022 02:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[♬ 띠링 ♬ 초대장이 도착했습니다※ 킹콩 by 스타쉽 야유회 뒤풀이 안내 ※ - 일시: 2022년 12월 2일 (금) - 장소: 지금 여기 * 미방분 클립에 이은 미공개 컷들이 가득하오니, 필히 참석 바랍니다 * 이 초대에···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDFfOSAg/MDAxNjY5ODcyNTg1MTM0.8L5RScx6V9HRKwEryAeQyanEjoiBDGYMCvrZUIEIqM8g.i4M68f-H_IhMW5L8lCdW1dZodOyT7EmpgcpXFeCnKMwg.JPEG/Ilxt2xH2yOXyL2Rt_76Kt0AMNbt0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
