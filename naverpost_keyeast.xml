@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 13:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 14:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타임머신 탑승 완료]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35123439&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35123439&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 10 Jan 2023 14:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[삐리릭- 오늘은 타임머신에 탑승한 키동입니다.음주 가무를 즐기는 '술꾼도시여자들' 지연이가 80년대로 돌아간다면?!80년대라지만 헤어밴드와 볼드한 액세서리로 그 시절의 유행은 놓치지 않았을 거고풍성한 컬을 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTBfMzkg/MDAxNjczMzM5MDQzMjMy.5Ttv_hOAKou0KTDbPBiQi7rzOaY3bzE2OB6Oj29n1QIg.ZyO57c2yXiOhvNEcJD89KjwgzqGiS3qd9dRABwMNQ3Ag.JPEG/I77C9oC0W1Dbcd8jr-U1-ED1C64I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김서형 제주 여행기.txt]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35115907&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 15 Dec 2022 14:21:32 GMT</pubDate>
             <content:encoded><![CDATA[내가 잠에 들었다가 꿈을 꿨는데나(황세온)랑 어떤 사람이 나를 보면서 반갑게 인사를 하는 거야자꾸 아는 척하고브이도 하면서 장난치더라고내가 자꾸 유체이탈해서 보이길래 아! 이건 꿈이구나 느꼈어근데···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTVfMjIg/MDAxNjcxMTExMDQ3ODIz.1rvLpNHlrvXEymsQpCG7pin4dCXkoPK7kCrqAjKNKy8g.JfEST19C6JPdJ7D3o06coKdN4MM1KbxSuIdJsAuV37Qg.JPEG/IXf2aVoGXLnhdDkJUqXVCZ9oZ2Fk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키동내일 표지모델]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34957292&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34957292&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 14 Dec 2022 14:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[[속보] '치얼업' 김민재 빌런인 줄 알았는데 심쿵남으로 밝혀져...극 초반에는 어딘지 음산해 보이고 응원단에도 잘 섞이지 못하며 의심을 샀지만알고 보니 그저 응친놈이었고비록 몸치였지만 끝까지 포기하지 않고 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTRfNCAg/MDAxNjcxMDEyNjMzOTg0.zd8mMLESkV2vwkoknWAH9khUk91StFDRo2NXapT10RIg.a4OVcXTNeWcZ2aY149XUwXC1o_bR6buDDjpgvOv0IZAg.JPEG/IjDhsSwKsJMAHD1OVEE9wp3PhuQE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
