@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 13:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 14:28:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GQ 1월호 17페이지]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35137718&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35137718&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 12 Jan 2023 14:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 최고의 HOT 이슈 넷플릭스 시리즈 '더 글로리'당신이 한국의 양조위 같은 배우가 됐으면 좋겠다. -'더 글로리' 안길호 감독-목소리가 좋아서 어떻게 써도 명대사처럼 들렸다. -'더 글로리' 김은숙 작가-이런 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTFfMTIy/MDAxNjczNDIyNjY0NzY5.QqaZDCOEVVLMvZdpuyQqix81g2HXRtX0NVH92FuCINMg.LN087Sx6XykBfU5nT-ekdhJ-A3XVXikQaftGo9JZ4yQg.JPEG/IpL1GrhPYnfUd0B21vEfiCtUdHGs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[타임머신 탑승 완료]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35123439&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 16 Dec 2022 14:17:46 GMT</pubDate>
             <content:encoded><![CDATA[호외요~ 호외~ 호외요~ 호외~키이스트의 자랑! 문가영 배우가 엘르 싱가포르 표지를 장식했다는 소식입니다!도전을 두려워하지 않고 항상 새로운 모습을 보여주는 문가영 배우당당히 세계 시장에 진출한 가영 배우의···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTZfMTIx/MDAxNjcxMTc3NjQwMjc3.N7ww29T5SCnzdcxTIp0Vv3YYFxRiOmkrhZzaXmR9MXEg.3WLQeURMwn88HaI_pWL12uLbRG8FSo7ZZ6XuzfA2Eucg.JPEG/Is3-Lm4JTgJ57rS4lGt9t9QW7xjY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나랑 계약할래요?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34964662&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34964662&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 15 Dec 2022 14:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[내가 잠에 들었다가 꿈을 꿨는데나(황세온)랑 어떤 사람이 나를 보면서 반갑게 인사를 하는 거야자꾸 아는 척하고브이도 하면서 장난치더라고내가 자꾸 유체이탈해서 보이길래 아! 이건 꿈이구나 느꼈어근데···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTVfMjIg/MDAxNjcxMTExMDQ3ODIz.1rvLpNHlrvXEymsQpCG7pin4dCXkoPK7kCrqAjKNKy8g.JfEST19C6JPdJ7D3o06coKdN4MM1KbxSuIdJsAuV37Qg.JPEG/IXf2aVoGXLnhdDkJUqXVCZ9oZ2Fk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
