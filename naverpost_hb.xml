@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 04:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 12:40:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천정명 혼자 산다.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35113828&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35113828&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 13 Jan 2023 12:39:12 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 파파라치비입니다!&nbsp;오늘 HB 포스트를 방문한 배우는&nbsp;&nbsp; MBC '나 혼자 산다' 464회의 &nbsp;★주인공★&nbsp;&nbsp;천★정★명 배우입니다! 움짤 출처 : MBC '나 혼자 산다' 화면 캡처 정명 배우가 오랜만에 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDlfMjg0/MDAxNjczMjQ2NDM2ODkx.va-tqRUKPc-VY0iDNPcdobGp7wHP0KNdZDF7cJuU3Csg.-SBwhpSFKekI_VwvoyWEfqp6F9gXrHktq0Vc19xsGJ0g.PNG/IXt0I52KYPTgMoiDBghUcrJpgWBw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정명의 시간은 느리게 간다 ⏰]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35085936&amp;memberNo=3247896</link>
@@ -161,14 +169,6 @@
             <pubDate>Wed, 16 Nov 2022 17:36:10 GMT</pubDate>
             <content:encoded><![CDATA[끝끝내 일어나버린어제의 일 .. ㅠㅠ월수금화목토ㅠㅠ아니ㅠㅠ해진이가ㅠㅠ우리 곁을 ㅠㅠ 떠났으여엉ㅇ으우엉유 ㅠ그래서파파라치비 그동안 꽁꽁 숨겨둔 ‘HB 하드’에 손을 대고 말았습니다 .. 그럼 주저 없이 (···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTBfMjAz/MDAxNjY4MDU0NDc1NjM0.uPrsdRyeEf7xXegrB1eGTSzmQftfIVRa4rCh0hosJpgg.11vmLtLhYACQnd-8c6RdEnYx3JzwONwm4MakcYUGccAg.JPEG/IYLvOUfebjjSuPaRcoo81jRiaPug.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[/형용사/러블리하다 : [김지은]을 영어로 표현함]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34700551&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34700551&amp;memberNo=3247896</guid>
-            <pubDate>Wed, 16 Nov 2022 17:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[아아-안녕하십니까오늘은, 무엇을 하던 러블리한 매력 뿜뿜하는백마리 씨가 있다고해서 찾아와 봤습니다 :)무언가 심각하게 이야기 하는 중인백시보 등/장/모-든 사건 꿰뚫어 보는날카로운 눈빛은 변호사 그 잡···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjdfMjkw/MDAxNjY2ODM1MDAwMjMz.JeIFwRuiJf2-dMhQCnM-F53brm9Hr4_-3sT4PS_Ubagg.PtY60HZjvLt537SIu4D8-8ayLDDHdP9b-LxOhkKD5IQg.JPEG/IQ0VaP3-geCldddvuaVht0wVnJbA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

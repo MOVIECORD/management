@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 04:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 12:40:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신도현] 포스팅은 못 참지]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35142784&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35142784&amp;memberNo=32146648</guid>
+            <pubDate>Fri, 13 Jan 2023 12:38:55 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST] SHIN DO HYUN ♥안녕하세요 베스트리입니다!오늘은! 베스트리가 준비한 신도현 배우의 거부할 수 없이 짜릿한 메이킹 속으로 빠져보아요★ㅍ ㅜ ㅇ ㄷ ㅓ ㅇ시작부터 눈길을 사로잡는 쿨뷰티세상에는 숨···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDlfMTcx/MDAxNjczMjQzNTg2MTEw.GPmFF3mkx4PuUMZV0hN-S7F1C13hLOtkhd8pqgSj-twg.LntjUMBPyLLNSzEZ4PdETWZagmEpG2Fz4JKBnSbXoBcg.JPEG/It8tkLAFmdmm-ViokZQ2JxxZAJdI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현빈] 새해 빈
 많이 받으세요♥]]></title>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST] HYUN BIN ♥ 안녕하세요 베스트리입니다♥포스트 제목을 보고 호다닥 달려오신 더순이 여러분 아주 잘하셨습니다현빈 배우를 오래 지켜보신 여러분께서는 어느 정도 예상하셨을 빈느의 MBTI···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfMjU0/MDAxNjM4ODYyMDUwOTY1.ieyzYyvC96yFelDm3EpZg75rKrhXUMRMDeTlsA2IpA8g.17y1_ooXgiUuGRm8g7pE2XA0IXFpbD0w_X0PTdPkp9Yg.JPEG/I12BA2Ci2qqM_FgdDPegfJa1xhzE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박이현] 비주얼 천재 그녀가 돌아왔'설'♥]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32957729&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32957729&amp;memberNo=32146648</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST] PARK E HYUN ♥드디어 이날이 오네요 여러분께 비주얼 천재만재 이현 배우의 '류설' 소식을 들려드릴 날이!!!화양고에서 사랑스러움 TOP, 솔직한 매력 TOP 을 찍고'주호 바라기'로 시청자들의 마···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTZfODkg/MDAxNjM5NjQxODkzNjYx.fU-vW4DAUSLg96boMAs6StrcfpjBaJhRhHZLqqD_Udwg.3ayXDtEPp_6mBwL7SDEqr_TDLOAml-CKLFbqfnPXwNgg.JPEG/IXGpfdEpAkdiaUnmXSo-ngA-zE10.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
