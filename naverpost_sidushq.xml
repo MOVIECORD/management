@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 08:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 09:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동현 폼 美쳤다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35298021&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35298021&amp;memberNo=28456565</guid>
+            <pubDate>Mon, 30 Jan 2023 09:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[싸-하!오늘의 주인공은...! 오랜만에 새 프로필 사진을 공개한&nbsp; 동현 배우 입니다&nbsp;♡✧(&nbsp;ु•⌄•&nbsp;)싸더지기는 더 이상의 설명은 생략하고&nbsp;바로 비하인드 사진 공개합니다 첫 번째 착장은 동현배우 미소처럼 포근한 니트 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMzBfMTU2/MDAxNjc1MDQzODIzNjM2.AJ4BUXBQMfUWHG7jI10TuzzmYLwHqu8LshqCa2v7SQQg.jAK692DwGiH-0D4xxK-bPjSvHsV3oOiYr6PXP1Nr1SQg.JPEG/Im_BvI-xgiwMS3Xo2sVtJjoFmWRo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김혜윤 장점이 뭔지 알아? '신'인 배우인 거야]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35047346&amp;memberNo=28456565</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
             <content:encoded><![CDATA[여러분 기억나시나요..? 학창 시절 복도에서 펜싱부 선배 몰래 훔쳐보다 혼났던 우리를... 얼굴, 목소리, 성격 모든 것을 갖춘 전설의 선배는 바로동현 배우입니다 ✦‿✦ 동현 배우는엘리트 스포츠 학교에 입학한 펜싱···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MzBfNDEg/MDAxNjU2NTUzNTMyNjYw.Vl-hDUsmwGtdlJRsqDb2eFWXK2CmApBcQ_UFFZtO05Mg.mpkQq4Tuy3Wz6-jukWydgPjn6H4hrd6JUXSi3nLRPIwg.JPEG/I73VcZIaS0BfVrVQRhUZmBEJ9mbc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카메라 박박 찢은 박선호 NEW 프로필]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34016358&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34016358&amp;memberNo=28456565</guid>
-            <pubDate>Wed, 16 Nov 2022 17:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 싸더지기입니다!! (๑╹ワ╹๑)여러분! 아주 반가운 소식이 있습니다! 바로..!1년 6개월 동안 군 생활을 마치고 전역한 박선호 배우의 ☆ NEW 프로필 업데이트☆ (모두 전방에 함성 질러으아...!으···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjFfMjUy/MDAxNjU1ODE5OTExMTgz.-0ysArTWyIhnzbhsdJjes1DHffuJkporv-mQpysUNsgg.L-2nzf-9wXn3UhT0TY62oiHzNYhkFEIOUiF_KFLEnzEg.JPEG/IVSBriBFiYB16QsJ4FqFBlqh3dec.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
