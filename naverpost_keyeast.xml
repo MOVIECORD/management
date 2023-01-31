@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 13:31:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 14:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그때 그 칸 휩쓸었던 여배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35318403&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35318403&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 31 Jan 2023 14:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[그때 그 칸을 휩쓸었던 배우가 다시 돌아왔습니다!혼자 왔냐구요?두 손 꼭 잡고 오매불망 기다렸습니다! 아기다리고기다린 이 날!! (๑•͈ᴗ•͈)현지 관객들에게 7분간 뜨거운 기립 박수를 받은 바로 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMzFfMTg1/MDAxNjc1MTY4MjQ4NzU5.IwSSMVZccIiy8bVyfcESMRz4KDQrNLuMTKKxtsB2Al0g.0W_uCtJXEfzIgWLQLK7KdELJzpP-ynVU30WH5hZl_6kg.JPEG/IKuD6xT_v0ms03FRW6GhwteeuvFE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['원조 사약남'의 과거]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35281793&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 26 Dec 2022 14:17:51 GMT</pubDate>
             <content:encoded><![CDATA[직업만 들었을 땐 정말 침착할 것 같지만중간이 없는 '여전히 기 완전 쎈' 2021-2022년을 뜨겁게 달군 센세이셔널 캐릭터 그 자체 한지연그리고 이 캐릭터를 미친 연기로 소화해낸 한선화"도대체 어떻게 연기하···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjZfMTUw/MDAxNjcyMDQ0ODA1NzYy.vvo3shjt9Ys6pclUqIL0QRhr7koEsm_ltMtjAEIV4LYg._tpzSzGeQs0cJb_i1PINbRm2TXFzAtOBh4k8zItWxycg.JPEG/Ig811qGl6Gv8Czarzp3U0Q0rLdXk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말룩 못 정한 사람?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35018474&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35018474&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 24 Dec 2022 14:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[얘들아 안녕~↗(지연 ver.)너네 아직도 크리스마스에 뭐 입을지 못 정했니? 연말 모임 때 뭐 입을지도 못 정했다고?!?!?내가 알려줄게^^ 돈워리 돈워리~~어떤 조명에서도 이렇게 분위기 넘치구우~이렇게 뒤태···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjJfMjUw/MDAxNjcxNzA0NDU0OTI4.EuIbSF3uzJycaLzbDnhrKKkCuzemmuLD7q9dOUND9Cwg.8Kx8A0O1MLnjqQ7SkNsSHpC39Cl2dwG9BZ2RT8WT21gg.JPEG/IqK6kD056PPzYBWiTxr5CK-io-oM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
