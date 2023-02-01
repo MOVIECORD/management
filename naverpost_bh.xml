@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 08:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 09:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트]2월의 BH ON AIR]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35323873&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35323873&amp;memberNo=21724264</guid>
+            <pubDate>Wed, 01 Feb 2023 09:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[시리즈BH ON AIR [BH엔터테인먼트]2월의 BH ON AIR●]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDFfMTIz/MDAxNjc1MjQyMjIyNzk5.giRo8avlXIthjfuOPi0di0PsCYOFFrCW0OI9kRnDoAwg.5qXSSrr5VQvXI4GtDZEQq2AUAjF1vRl3ZDG38dABvkQg.JPEG/IC6kGdo3kZM1kYLjzssJMLJZVN0Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<더 글로리> 전재준 본체 봤어?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35097049&amp;memberNo=21724264</link>
@@ -153,14 +161,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:50 GMT</pubDate>
             <content:encoded><![CDATA[느슨한 일상에달콤함을 뿌리고 계신 두 분 과한 당충전으로인생 최대 몸무게 찍은 해피비&nbsp; 하지만 이 조합놓칠 수 없잖아! 사람인 게 맞나이토록 아름답나 인간 자양강장제인간 비타 오백인간 박카스... 짜잔모두의 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjJfODkg/MDAxNjU1ODkxOTIxNDQ3.gLqtAUvcuhoWiJujnB6jInsbxxO5vZOYpDW6EIZ5sQog.mdRMEzw3-3QzJzAdrvXqYbwlovU2mu31ojz9NAu01nkg.JPEG/IEPZBeru8oniluNoNBmcdLLTiIVE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 내 주식 윰밥 ◥█̆̈◤࿉∥]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33982142&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33982142&amp;memberNo=21724264</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[소문난 원조 맛집&lt;유미의 세포들&gt;&nbsp;윰밥 덕분에&nbsp;요즘 밥 안 먹어도 배부른 사람= 나 윰밥 투샷 보고 있자니너무 달달해서이빨 잔뜩 썩어버린&nbsp;해피비 해피비&nbsp;"이&nbsp;투샷은 진짜 다 같이 봐야 해" 그렇···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTdfMjI0/MDAxNjU1NDc3NjI5NDgx.54ys0AHhopjhxutYhv4V5_zlEVgkO6qgOHZyDfLkyZQg.n6G_oAD4NPr6_yKY5gxjG36MnjDK7DXK2GqpsPw84ssg.JPEG/IukL2Fz_pJvOO5OQWBLCFHt-kwnw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
