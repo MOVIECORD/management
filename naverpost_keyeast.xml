@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 13:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 14:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 아이는 자라서 유퀴즈에 출연합니다.]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35331783&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35331783&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 02 Feb 2023 14:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[똘망똘망한 눈망울과귀여운 뽈살이 매력적인 아기누나의 사랑을 한 몸에 받고개구쟁이가 된 이 아이는마치 어제 찍은 듯, 흑역사 따위 존재하지 않는 졸업 사진을 남기며훈훈하게 성장근데 이제 장꾸력은 여전히 겸···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDJfMjY3/MDAxNjc1MzI5NDQ3NjU3.HH1A7otOwqhVfjReZewoab3DOq9roBEsPz1AsaHD-CQg.7FboZZsn1qmUtf5tsXJP-B10UOLVWnyQYLu5AfWBPngg.JPEG/IomQWmRSWaZFlp47RDTpnNM5hbFs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그때 그 칸 휩쓸었던 여배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35318403&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 27 Dec 2022 14:17:36 GMT</pubDate>
             <content:encoded><![CDATA[결국 저는 사랑으로 움직여요.코 끝 시린 계절과 함께 찾아온로코 여신 &amp; 멜로 퀸 가영 배우 ( ˆ͈̑꒳ˆ͈̑ )੭♡'어른들의 현실 멜로', '섬세한 짝사랑 감성' 등 공개되자마자 시청자들의 공감을 1···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjdfMjcy/MDAxNjcyMTIzMTA0NjAy.mN2ZZwjz0VH5zT8vF5EjTCOwjWL8DyXosofsE0p-QFYg.GNOv0pCOq04-Dp67jVCOU0WiAnacF4UuJzZZ2ySCpjwg.JPEG/IEe4dCXHbzo8XD_wCiy0ydo3HsB8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연기 폼 미쳤다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35029415&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35029415&amp;memberNo=29770009</guid>
-            <pubDate>Mon, 26 Dec 2022 14:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[직업만 들었을 땐 정말 침착할 것 같지만중간이 없는 '여전히 기 완전 쎈' 2021-2022년을 뜨겁게 달군 센세이셔널 캐릭터 그 자체 한지연그리고 이 캐릭터를 미친 연기로 소화해낸 한선화"도대체 어떻게 연기하···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjZfMTUw/MDAxNjcyMDQ0ODA1NzYy.vvo3shjt9Ys6pclUqIL0QRhr7koEsm_ltMtjAEIV4LYg._tpzSzGeQs0cJb_i1PINbRm2TXFzAtOBh4k8zItWxycg.JPEG/Ig811qGl6Gv8Czarzp3U0Q0rLdXk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
