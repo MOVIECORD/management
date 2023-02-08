@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 13:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 14:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칸 찢고 한국 찍은 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35389530&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35389530&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 08 Feb 2023 14:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[포브스 선정 2022년 가장 영광스러운 한 해를 보낸 배우2022년 칸 영화제 중 가장 반짝이는 샛별2023년 키동 선정 충무로와 브라운관을 말간 얼굴로 섭렵할 배우이게 다 한 사람이 가진 수식어라구요!? (๑･ิ◡･ิ๑···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDhfMTIx/MDAxNjc1ODU4NzIxMTcy.NfQkJJa71piUaUiy4ZownHOP7A5bL4i6Gd-h7TPRvDIg.BQ0s8W9oWNcGKbuVbdq2ygyGtItQPoKoTAqlfICUDW0g.JPEG/ItJh_lgwDUvqHzHd-dMStBN6-LhE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[01년생 아기 호랑이]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35378264&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 30 Dec 2022 14:17:21 GMT</pubDate>
             <content:encoded><![CDATA[독립군 최고의 명사수가 21세기 최고의 힙스터로 환생했습니다바로 그 위대한 이름 조도선그리고 배정남볼거리와 들을 거리를 동시에 충족하며 풍성한 영화적 체험을 선사하고 있는 영화 '영웅'의 배정남 배우가우리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMzBfMTM5/MDAxNjcyMzkwMTQzODUw.sCLUPHuiflDPeRZ3dk-8QN7nvDEPCHwjUwwJy1d-w_sg.cMv9ZaxY7Nozn7SD6-ZoGaz1RaM510pjMwrRshjFWKog.JPEG/IUiN0cCbCQXv_YCDn3kducaIQBZ4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김서형이 건네는 위로]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35049784&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35049784&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 29 Dec 2022 14:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[올겨울 우리의 마음을 따뜻하게 녹여준 왓챠 오리지널 드라마 '오늘은 좀 매울지도 몰라' 재미있게 보고 계신가요?바쁜 일상 속 잊고 지냈던 가족과의 작고 소중한 행복을 찾아가는 '다정'으로 분한 김서형 배우! 그···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjlfMjcy/MDAxNjcyMjk0ODUwMzYw.imc5DltIyed5y6Q6aaxBf-DuFmVYdmWAQ-iNjTxsZrsg.7KrK_pW3n8-Nx_XOGQy43Ik_2n9oZB2if1I0C3oXjysg.JPEG/I_xJP2CtSfM1C2S9iaPwfBSNSdVY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
