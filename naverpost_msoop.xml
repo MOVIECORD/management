@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 14:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 15:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[정가람] 잘가요, 내 종현... 이젠 보내 줄게요...( Ĭ ^ Ĭ )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35402930&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35402930&amp;memberNo=22903361</guid>
+            <pubDate>Thu, 09 Feb 2023 15:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 숲블리입니다 오늘은 슬픈 소식과 함께 찾아왔는데요...바로 오늘, JTBC 수목드라마 &lt;사랑의 이해&gt; 가 종영했습니다...&lt;사랑의 이해&gt; 없는 수요일, 목요일이라니...정가람과 정종현 없는 수···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDlfMTEy/MDAxNjc1OTI5MjQ1OTc5.8nRty8CRTJ2l7u7fpr_UHhLtV3Jy8rq19QFc4_Hmj24g.ft4oX0rvHJ1OaOn7NkLZpXPbH4bo_X2sZ67RjvhhnAgg.JPEG/IEw0qHLTJiMyFUI2LJke0PwMnqMc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[※전소니※ 이 여인을 찾습니다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35361927&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:43 GMT</pubDate>
             <content:encoded><![CDATA[여러분 그거 아세요? 요즘 엄청 핫한 훈남 쉐프가 있다는 사실?그의 이름은 존장! 이름부터 잘생긴 이 쉐프님은요훈훈한 외모와 남다른 요리 실력으로 핫하게 떠오른 스타 쉐프랍니다 ★TV프로그램 ‘라면쉐프&amp;r···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTNfNzkg/MDAxNjY1NjM4NDE2NjIz.PoSOuSYCeyY1Yh9nfm9nOwHdzHtasEMa7wjKhHerfCgg.jnVg0siS_i0OOBQlbuI4ejsf8MWSklO3pJOkBAzSVQ4g.JPEG/IKG8fEwFDxu642kQ_SgLXLP7sRcY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남지현] 굿바이 작은 아씨들!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34584561&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34584561&amp;memberNo=22903361</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[시작부터 큰 화제를 모았던&nbsp;tvN 토일드라마&lt;작은 아씨들&gt;&nbsp;이  바로 어제(9일) 종영했습니다.. ˃̣̣̥᷄‸˂̣̣̥᷅ 열정 가득 지현 배우를 이제 못 본다구요 ,,? 독기 가득 인경을 이제 떠나보내야 한다구요 ,, ? 아쉬···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDZfMTM1/MDAxNjY1MDM2MTQ0OTc4.vf22gUkmjOCZ5msUH0igW2URxLyK8H5c7FMhaznb_NIg.qvtHKyYmrci87QQtJ9VA4FzDPJDCZbh7s5zp_UfnwiIg.JPEG/IMGG4v2-98OigIlpydHHTL2Os0gw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
