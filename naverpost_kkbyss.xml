@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 08:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 09:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[손우현]의 강점 찾기]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35471090&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35471090&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 15 Feb 2023 09:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 킹콩지기입니다:) Q. 배우 손우현이 생각하는 배우로서의 강점을 꼽자면 어떤 게 있을까요?‘마음가짐’이요. 그동안 배우 생활을 하면서 좋고 나쁜 감정들이 다양하게 왔다 가는 경우가 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTNfMjYz/MDAxNjc2MjgzNzA0MTA4.wsL0rWmkwhGCrKReyZ6EzGWsRczXGOPTnA2QekSWhuEg.pUaKBpSb6w8XWrN61cgHesFpvZZ-AV7VR3c391Wj0NQg.JPEG/IheHsMTzqfdbxyxwSzSvJpDCCmAc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김샤나] 밸런타인데이 깜짝 선물]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35457107&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 19 Dec 2022 11:17:49 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)어느 날 킹콩지기 인별 타임라인에 올라온똥..아니 똥머리 사진 한 장 ???이 깜찍한 헤어스타일은 무엇인고?.?정체를 알아보기 위해대호국 저잣거리로 급히 발걸음을 옮겼는데요 찾았다···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTlfMjM2/MDAxNjcxNDM1NTI4Nzc4.acQnmUIH8Q9aZeGpnkgNJfX_3u9b4LlhKSPYTr-FR3Mg.UhoQqTkqZNvaSWb3ONMs1Uqrzok2iqmGTWhO-S4n8oEg.JPEG/IT5VddtTx800hh9Y8KvWLl0qnnjg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신승호] 손톱에 낀 가시 같은 배우]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34974030&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34974030&amp;memberNo=35839671</guid>
-            <pubDate>Sat, 17 Dec 2022 06:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :)tvN &lt;환혼: 빛과 그림자&gt;에서손톱에 낀 가시같이자꾸만 신경 쓰이는 한 분이 있다던데,,,  신경 쓰이는 당사자 등장 어허 길을 비켜라-고원 세자 저하께서 행차하신다 위엄 있고 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTVfMTMx/MDAxNjcxMDk5NTQyNTM4.C3eO2DXqpGxQzQTVAS4rJV3yiKsTrADnWcPasgY1Ctog.r8dXC0uZRhXicFa4czMZb1kAMzFVoHLMcEudOKgSUfEg.JPEG/IRM_7MskuMJ4B_Ca-hc_AvdWo21k.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
