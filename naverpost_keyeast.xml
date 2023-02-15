@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 13:31:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 14:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[떠오르는 복숭아상 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35474035&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35474035&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 15 Feb 2023 14:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[로튼토마토 신선도 지수 92%제75회 칸영화제 비평가주간 폐막작 선정제26회 판타지아국제영화제 폐막작 선정, 감독상 수상제6회 핑야오국제영화제 로베르토 로셀리니 최우수작품상 수상손에 꼽을 수 없을 정도로 다···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTVfMTUg/MDAxNjc2NDU4ODQ1MTE2.iaVxyR6I8kIrXnFdz70XmGbnEIzCkc5mEJn9-qBx7zUg.KQIDv0bUd-ckfMgLYIsG05FQbQotc9KbzJgHoOhjGGUg.JPEG/IUGDVIZQ5zO4dTEoDBHiYr61-nj0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호위무사의 속사정]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35459973&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 06 Jan 2023 15:24:31 GMT</pubDate>
             <content:encoded><![CDATA[드라마, 영화, 예능, 라디오, 수도 없는 OTT 등! 다채로운 플랫폼을 통해 팬들과 만난 키이스트 배우들!쉼 없이 달려온 키이스트 배우들과 함께 지난 22년을 되짚고, 23년 맹활약을 펼칠 배우들을 키동이 나열해 보···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDZfOCAg/MDAxNjczMDAxOTk5Mzg5.evfeli3sf9fKEWpXJVEQZu8Lck7KXiQTKnP1zeBzoAEg.XEOCqWlwiinPkidsqjYgoyQNhMY3oPze7EGghdwj-Pcg.JPEG/ItsYeQKPGUnWbEmNvcMMgIn9wr2A.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은행에서 줄 안서는 꿀팁]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35078804&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35078804&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 04 Jan 2023 14:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[제가 요즘 즐겨 찾는 은행이 있어요.365일 열려 있는 은행 답게 365일 사람들이 넘쳐나는 KCU 은행인데요!요 근래 이 은행을 찾으면서 발견한 꿀팁이 있거든요?! [줄 안서고 바로 은행 업무 보는 방법!] (*&amp;bull···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDRfMjcx/MDAxNjcyODM2Mjk3OTY1.w1bVwuqe0YSs5XBzMcYs73cpTalYWz5ajwotBVPB7Tcg.6RS6yV1EWnfppax2Q_KpG-RcLLK4Xt_1w0EXyFIUZNcg.JPEG/IVjn6Vb39rNDVbi59P4vLVwel2VU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
