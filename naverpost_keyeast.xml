@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 13:29:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 14:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5283 운행 다시 시작합니다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35497855&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35497855&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 17 Feb 2023 14:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[이분 전화 한 통이면 운행이 다시 시작됩니다뭐가? 무지개운수의 5283 운행이요! 그런데 오늘은 '모범택시2' 말고 키동운수가 출발할게요'무지개 운수'의 대표 '모범택시' 장성철 역의 김의성 배우와 함께요!(이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMTAz/MDAxNjc2NjI4OTI0NjU0.v-bLIVkSdJIa4EQgLzu5VPpoJt1IzjevTYFZInNcZm8g.nXrT6YR-bzMXhmFip5bFWrHKkSLzvqgSagn4nKEsVtog.JPEG/I4Tfw40eA1WFEIvyUrj-PqzSiHJg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023년 최고의 이슈메이커]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35486654&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 09 Jan 2023 14:22:36 GMT</pubDate>
             <content:encoded><![CDATA[서형 배우 따라 출장 다녀왔어요아름다운 자연 경관과 청정함이 멀리서까지 느껴지는 이곳보기만 해도 푸르름이 가득한 제주도에 왔습니다~~자연과 서형 배우의 조합이라니, 이것은 절대 거부할 수 없는 필승조합!^_···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDlfMTA3/MDAxNjczMjUzODQwNzk1.Qquqy6NTOGPum4A0hjME9f0TiUV4yGlF1vy7POBWyGAg.WSzumQuruTMld7kF1nX0xVhYzy5EiVADQvD1wJinCg0g.JPEG/InYAFh1OVmxStBjSfkY_Civ7d2iA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 최종_진짜 마지막]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35107584&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35107584&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 08 Jan 2023 14:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022 2023 키동이만 아직 연도 틀리나요?!아마도 2022년 연기대상을 빛낸 키이스트 배우들 자랑을 아직 못해서 그런가 봐요!SBS 연기대상 '모범택시2' (시상) 김의성KBS 연기대상 '붉은 단심' 강한나SBS 연···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDhfNjUg/MDAxNjczMTU0NTk5MzI4.W3Fm71s1bCHqVOfjbu-AhEL0o5fVrX1Vg_IOYDHw3V4g.H04UuW2LkpZ8O5ZWh_z2YEOKplIhZV_owm-HMmJ8IV4g.JPEG/IV-hFX3c2d5siJAJ3tzzePj8C_wY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
