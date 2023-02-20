@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 08:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 09:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현빈]의 집돌이 모먼트 공개❣]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35508581&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35508581&amp;memberNo=32146648</guid>
+            <pubDate>Mon, 20 Feb 2023 09:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST] HYUN BIN ♥좀처럼 쉽게 따듯해지지 않는 2월, 소파와 한 몸이 되어 뒹굴뒹굴 하는 집순이&amp;집돌이의 공감을 불러일으킬 현빈의 집돌이 모먼트를 준비했습니다지금부터 등짝을 소파에 딱! 붙이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMTU3/MDAxNjc2NjIyMTg1MzQ1.if4MILUV8MwMs1GQ-jxM5XNiSLUUBZ9rfHzAHIZ88DIg.PWSp3vrmJbmR8srr4pAuQxkhPG161iguZfbXzAniFiMg.JPEG/ITBSNOU1YGXw3s1FBPIxL3iN8MMY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[VAST 이사했zip] 현빈 배우에게 묻습니다.]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35301473&amp;memberNo=32146648</link>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST] HYUN BIN ♥ 여러분 안녕하세요 베스트리 입니다 ʚ♡ɞ 여러분 현빈 배우의 피부 타입이 뭔지 아시는 분 혹시 계신가요? 건성? (ㄴㄴ)그럼 지성? (ㄴㄴ)완.성 (ㅇㅇㅇ)확신의 '완···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTRfMTYx/MDAxNjQ3MjQ1MDgyOTg4.J60NeAvDSQbZrkMt-kWYY2la5tQWQm1oCd3hxA4l8_cg.J5DHafulR6Q6jgvuegeIqqSMZFoLPJukG2AlrlzurkYg.JPEG/INL_2FA2UjAhe-MIcgY43N-KhbEQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이연희'라 쓰고 '봄'이라 읽는다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33467513&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33467513&amp;memberNo=32146648</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST]LEE YEON HEE♥안녕하세요 베스트리 입니다✿ ̣。긴말하지 않고 바로 밝혀보는 오늘의 주인공은 바로 봄의 의인화연희배우 입니다 :-) 촬영장을 봄 그 자체로 물들였던 그날의 현장, 함께해보시죠! 화사함 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTdfMjMg/MDAxNjQ3NTAxNDk4NTQ3.3302I9qrEU6mq7ps0S93o55N36j28i31L0ySX5MHjj4g.RIoRfhP0HrKrYH7fshsIVM_ZaXEDKzauhGqxrhgXcTcg.JPEG/IoQNK_glyiHXTX6w2CHFUclFu9XA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
