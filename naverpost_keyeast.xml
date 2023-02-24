@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 13:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 14:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그녀의 근황]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35534122&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35534122&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 24 Feb 2023 14:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[정은채 배우 근황이요?얼굴이면 얼굴피지컬이면 피지컬아우라면 아우라 여전히 갓굴, 갓지컬, 갓우라로 화보만 찍었다 하면 관심집중!모든 스태프들을 감탄하게 만들고 키동이도 정신을 혼미하게 만든 화보 천재 은···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjRfMTg4/MDAxNjc3MjI5OTYwMjAx.Ji94JZldu4jcYJkbpcItQ1pM3SeHW7hnNtBPwdfH46og.NaQD3GG_waRgFBE1jpjfwZmhWu3752hvz7jIenanKVwg.JPEG/I0H7adL3zi3d6PlpkEAff_KBV8SI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어른 섹시 그 잡채]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35528340&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 13 Jan 2023 14:22:29 GMT</pubDate>
             <content:encoded><![CDATA[금요일, 그리고 주말 밤 다들 한잔 적시고 계신가요?21년부터 23년까지! 기쁠 때나슬플 때나오복집에서 모여술 한 잔 적시며, 우리를 즐겁게 해준 '술꾼도시여자들'의 모든 회차가 공개되었습니다!시즌1에서는 한 번···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTNfODEg/MDAxNjczNjA3NjQ5MDc0.cFe3OxI-E8GAFra9r3SeMTBCMSSUE4XBS_YCXpyzf8kg.U5jeafNhIqHFpK7EEXUHGcON0P8UTTKWVURTWFxZtf0g.JPEG/I_Gun2JI3Z0uWKJUDrUj0BRB_qN4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GQ 1월호 17페이지]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35137718&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35137718&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 12 Jan 2023 14:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 최고의 HOT 이슈 넷플릭스 시리즈 '더 글로리'당신이 한국의 양조위 같은 배우가 됐으면 좋겠다. -'더 글로리' 안길호 감독-목소리가 좋아서 어떻게 써도 명대사처럼 들렸다. -'더 글로리' 김은숙 작가-이런 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTFfMTIy/MDAxNjczNDIyNjY0NzY5.QqaZDCOEVVLMvZdpuyQqix81g2HXRtX0NVH92FuCINMg.LN087Sx6XykBfU5nT-ekdhJ-A3XVXikQaftGo9JZ4yQg.JPEG/IpL1GrhPYnfUd0B21vEfiCtUdHGs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
