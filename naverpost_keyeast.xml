@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 13:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 14:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도영아 드디어 3월이야]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35561579&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35561579&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 02 Mar 2023 14:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[키동은 3월이 너무나 기대돼요 봄기운에 설레서냐고요~? 아.니.요으른섹시의 정석 하도영을 만날 수 있는넷플릭스 '더 글로리' 파트2가 3월 10일에 찾아오기 때문이죠! 존버는 승리한다!!!갑작스럽게 하도영을 마주···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDJfMTIy/MDAxNjc3NzUxMTc2NDAy.iadA_13tiCDJ-Efz3ZUVw-ab7IG29vGdAhpk_txRzcUg.IRKRaahc-rZEYB1Gf6xDO1fzzQlhOUj1czje_pZPbXQg.JPEG/I_BSDLKk6fn2dzJspjp8D5xa2kRE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘자 뉴스 펑크낸 앵커 근황]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35552251&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 22 Jan 2023 03:21:11 GMT</pubDate>
             <content:encoded><![CDATA[설 덕담 추천해 드립니다. 누가요? 키이스트 배우들이요!여러분 즐거운 설 연휴 보내고 계시나요~~? 명절만 되면 뭐라고덕담을 전해야 할지 고민이셨죠! 그래서 키이스트가 2023년 덕담 식당을 오픈했습니다!새해와 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjBfODIg/MDAxNjc0MjE2NTAxNzQy.Gef_kfLWh1P-2WF5dSpAukX_K9Dxj7w864VohhFVK00g.mKM1By2ljt8iku_Q1rYg1aCG2an04QeDHwLLau3Sn38g.JPEG/IIvMy5Nq90mZaUum7_pVxwY8RryY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결국 다시, 문가영]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35203111&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35203111&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 20 Jan 2023 14:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. ( *˘╰╯˘*) 언제 사라질지 모르는 ♪키동이의 A4용지♬입니다~오늘도 'A4용지' 앞으로 A4용지를 꽉 채운 다양한 사연이 도착했는데요~!그 중 키동의 두 눈을 번쩍이게 만든 사연을 하나 소개해 드···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjBfMTE1/MDAxNjc0MTkzNTU3NTkx.OAna-v6Td-VIDO27hOP_6M3VlrY3uMV9iarVLN4TSnAg.T3MKtAuwrQtQlCtTt1QjPPXG9YCKhwkbrBufEM6dvHog.JPEG/IaoJWI9EmCjyWXQe3P8Lr33Jqubc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
