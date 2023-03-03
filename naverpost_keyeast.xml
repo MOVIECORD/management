@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 13:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 14:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한지연에 속아 한선화를 잊지말자]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35567515&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35567515&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 03 Mar 2023 14:19:21 GMT</pubDate>
+            <content:encoded><![CDATA['술도녀2' is Back'술꾼도시여자들2'가 매주 금토 밤 10시 50분 tvN을 통해 돌아옵니다!지연이~ 너어↗ 오는구나아~~??↗ 우리의 ♥예.또♥ 선화 배우를 만날 수 있다는 기쁜 소식이네요!!하지만 오늘은 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDNfMzYg/MDAxNjc3ODQ1MDQzMzUz.V4WyusLdQi0UIHiJet19C67SzwbWVMtRiGDFQpnAF3wg.TStAu_19N61mOMqhn7yndtA5kdI820h23Y6pBQDNRREg.JPEG/Iij-Tr6vOlsOKLPUSRVmFVcTd0Vc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도영아 드디어 3월이야]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35561579&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 26 Jan 2023 14:18:36 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 우리 언니들 자랑좀 할게요유쾌하고, 멋있고, 쿨한 매력이 가득한 우리 언니들한테는 제 속마음을 다 털어놓게 돼요 그 중에서도 특히 연 / 애 / 고 / 민썸남♥썸녀가 있다면 이 글을 보는 당신! 커플 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjZfNyAg/MDAxNjc0NzI5ODUxNjEy.dYPeMmTqRKrsLM_eU14HlpvqTcKQvdppsjnJqSZJy6kg.6C84m_hJOK3lzHStEzaUlEq-UQ2J-H8q4ms438x1990g.JPEG/IT9YTuVNTSAbiB-uPYRX1sae7-kw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 덕담 추천해 드립니다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35216033&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35216033&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 22 Jan 2023 03:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[설 덕담 추천해 드립니다. 누가요? 키이스트 배우들이요!여러분 즐거운 설 연휴 보내고 계시나요~~? 명절만 되면 뭐라고덕담을 전해야 할지 고민이셨죠! 그래서 키이스트가 2023년 덕담 식당을 오픈했습니다!새해와 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjBfODIg/MDAxNjc0MjE2NTAxNzQy.Gef_kfLWh1P-2WF5dSpAukX_K9Dxj7w864VohhFVK00g.mKM1By2ljt8iku_Q1rYg1aCG2an04QeDHwLLau3Sn38g.JPEG/IIvMy5Nq90mZaUum7_pVxwY8RryY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
