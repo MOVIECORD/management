@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 06:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 07:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[무료 전시] 고수 얼굴]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35596194&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35596194&amp;memberNo=21724264</guid>
+            <pubDate>Fri, 10 Mar 2023 07:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[엄청난 전시가 무료라고 해허겁지겁&nbsp;달려온 이곳 이어지는 현장의 탄성오..와~훠,,예↗ 제가 이걸 무료로 봐도 될까요? 좋은 건 같이 보라고 배웠습니다. 그래서 같이 봐요.고비드展기간: 2023.03.10~장소: 네이버 연···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjJfMTYx/MDAxNjc3MDQzMzYyMjM1.MBpvP0bLv0lDzbb2erEnbZKUlpj1tiTnFJNqOT5X5IEg.7uwQ-EGpZamrgFod5be2_8jVVd-lbiHYVR80UrQU-BAg.JPEG/Ijc7FNNCo5pX-WXGeX04ubftOkWk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BH엔터테인먼트] 3월의 BH ON AIR]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35559966&amp;memberNo=21724264</link>
@@ -153,13 +161,6 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34426482&amp;memberNo=21724264</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:50 GMT</pubDate>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDVfMTE1/MDAxNjYyMzY4MTcyMzgx.q2TCEIdmfHA2lYAc_Uc_Sjn6UvNh42-7gxEh2QPhTOEg.Oj3_4JDzFvRN0Jpf2Zl6UtgJXZmyKfhLgmf1XHufWmgg.JPEG/I8sRfota4e__yBkaQLJDOBecuCNc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BH엔터테인먼트] 8월의 BH ON AIR ●]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34254578&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34254578&amp;memberNo=21724264</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:50 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDRfMjQ1/MDAxNjU5NjAyNTIzNTA0.R_E6k3iKqpZQAni-VdIoaAkT6Z4XKpoqR8iCeLnnVLog.SIDEE7TE1kGwcZeXP3SIxlM9A_NTG00RwDM2_OqNkjAg.JPEG/IbCtSX6NxO4RXhlgz0cXkX0as6TE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
