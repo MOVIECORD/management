@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 13:31:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 14:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연진아 난 오늘 화보를 찍었어]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35603869&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35603869&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 10 Mar 2023 14:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[지금까지 '나이스한 화보' 가 뭔지 몰랐던 분들, 키동이 지금부터 얘기해 줄게요.오늘 집으로 들어가는 길에 서점에서 다른 화보를 사요. 치즈도 좀 사고.그 다른 커버 화보를 먼저 보고그 다음 정성일이 커버를 장···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTBfMzYg/MDAxNjc4NDM0NTM2ODcw.jNy_Ak37JQuObkbiHR1wav1t35v00tsZo-17e1gCu_4g.5jaZgHAjXxHh6hp-dF_MSAoDEyB45FKCE6o_7vGvpAMg.JPEG/Iv56UNG1ccFEAhF__SvW6k1IDoVs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파리 간 문가영 근황]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35592162&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Feb 2023 14:18:44 GMT</pubDate>
             <content:encoded><![CDATA[안수영 씨 나랑 거짓말 게임할래요?지금부터 하는 모든 말은 거짓말로 말하는 거예요.어떻게 하는지 제대로 알려달라구요?흐음....ʕ ͡° ͜ʖ ͡°ʔ사실 영포점 여신은 안수영 씨가 아니고 나예요. ٩(✿∂···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDNfMjkz/MDAxNjc1NDE3MDUwMzk3.RaZLTKuIRpYC4sLTwChgLvYN5NvNmo8ZcsvJpSeTgLIg.3FqtQ_yCNTtrwhNzvagtxZ-Yoq6y5Aw3-Q6xr257e9Eg.JPEG/IwjWjc9ycQEEYLvIyjZGHcHclVmg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 아이는 자라서 유퀴즈에 출연합니다.]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35331783&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35331783&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 02 Feb 2023 14:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[똘망똘망한 눈망울과귀여운 뽈살이 매력적인 아기누나의 사랑을 한 몸에 받고개구쟁이가 된 이 아이는마치 어제 찍은 듯, 흑역사 따위 존재하지 않는 졸업 사진을 남기며훈훈하게 성장근데 이제 장꾸력은 여전히 겸···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDJfMjY3/MDAxNjc1MzI5NDQ3NjU3.HH1A7otOwqhVfjReZewoab3DOq9roBEsPz1AsaHD-CQg.7FboZZsn1qmUtf5tsXJP-B10UOLVWnyQYLu5AfWBPngg.JPEG/IomQWmRSWaZFlp47RDTpnNM5hbFs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
