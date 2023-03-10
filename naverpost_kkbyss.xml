@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 08:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 09:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱]에게로 떠나는 여행]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35602876&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35602876&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 10 Mar 2023 09:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-) 요즘같이 점점 따뜻해지는 날씨엔 여행이 딱이죠!여러분과 함께할 오늘의 목적지는요☆.* 이동욱이라는미지의 세계 ｡ﾟ✶준비되셨다면, 지금 바로 출발합니다!도착해 보니 미리 캐리···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDlfMTM1/MDAxNjc4MzU5ODUwMTg1.IJdtZVM0YAsiAf9LI7VGkZmOuOGikzMl7d8-OxU1JQkg.yTszCT30wujNSsqvOfHYlIZw1aBUugMJS75QJZWQte8g.JPEG/IDxBJNyU2kfE0GqIXZ7WSfwuwLeU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유연석] 우리 집 멍뭉이는 놀토를 좋아해]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35554128&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 26 Dec 2022 06:26:18 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 오늘은 대호국에서 제일가는 사랑꾼을 만나러 왔는데요저 멀리 등장하는세자 고원! (두둥)그의 눈에 띈 것은?세자의 거북이♡안 그래도 애지중지하던 거북이를 담은 물에 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjZfMTg5/MDAxNjcxOTgyODc5OTQy.grlaVgVeNeyzI8OtY9-t9QA864ZOseZBePzNIbgPjaMg.Hb83uI87bXaELtkDUtg37jZLeisNFMJ3FB2klrgNeJIg.JPEG/Id-nU8YCfv2aI9eFslQC-m9XZQns.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[채수빈] <더 패뷸러스>한 배우]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35012396&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35012396&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 23 Dec 2022 09:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 투-둠! 넷플릭스 시리즈 &lt;더 패뷸러스&gt;가 바로 오늘(23일, 금) 전 세계에 공개되었습니다 그 / 래 / 서올 연말 일과 사랑, 우정을 모두 잡기 위해 뜨거운 열정을 불···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjNfMjA2/MDAxNjcxNzYzNDcyNjQy.A_KHJWRweWz02t7mn3pTE98N_GvXlxw_TmIpr-uAhBog.yZRQxMLHSfBU7VBgNO9RIh0JTtn75hInbTroO_USAu4g.JPEG/IJDIWfrpEmFZ6MuusVxRDGMcLepw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
