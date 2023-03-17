@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 11:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 12:40:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1455,7 +1455,8 @@ H& 매력 토끼들 (네이버 포스트 ─ 에이치앤드)]]></title>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjhfMjg5/MDAxNjY0MzczMDA3ODU5.NArRWoCdOz3Z_zN3d_uJrEGuO9YE1fbEzcghpy8lkGEg.FRkwQOqmaQ22h8jHIMgvgHOWz9b6npNhRpQ_9gfyLygg.JPEG/ILsCN7UqGoF3eSNLEI9awLOtDxGA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이모님 구한 염혜란 (네이버 포스트 ─ ACE FACTORY)]]></title>
+            <title><![CDATA['더 글로리'
+이모님 구한 염혜란 (네이버 포스트 ─ ACE FACTORY)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35638304&amp;memberNo=44834478</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35638304&amp;memberNo=44834478</guid>
             <pubDate>Fri, 17 Mar 2023 10:23:11 GMT</pubDate>
