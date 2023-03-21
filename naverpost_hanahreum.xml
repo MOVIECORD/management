@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 한아름컴퍼니 </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 01:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 02:36:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['헬로 더 헬: 오델로'로 연극무대에 오른 [송재희]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35655960&amp;memberNo=34451204</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35655960&amp;memberNo=34451204</guid>
+            <pubDate>Tue, 21 Mar 2023 02:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 한아름컴퍼니 입니다~~~ 오늘은 송재희 배우의 소식을 들고 찾아왔습니다아아~~! 송재희 배우가 최근 연극 '헬로 더 헬 :오델로'로 연극 무대에 올랐습니답!!! '헬로 더헬: 오델로' 프로필 촬영 현장 사···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjBfNzgg/MDAxNjc5MjkzMDQxODg2.vntmPZBpsL1dDefXp7jvwv3uqWzSlkbZxqkTEwHYTIMg.y8AKG2unbeSZE5iabzbfeh2wr08GLHrPkX-hjn7bEFYg.JPEG/IgzguVGlJt7i4Sgh-jJWHM8je-j8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금혼령 시대에 결혼이 목적인 [송지우]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34970520&amp;memberNo=34451204</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:37:10 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요? 한아름지기 입니다~~~ 오늘은 드디어... 고온 배우의 소식을 들고 찾아왔는데요~~~ 고온 배우는 최근 한아름컴퍼니와 계약을 맺으면서 '고온' 이라는 이름으로 활동을 시작했습니당~~~ 고온 으로서의 첫···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjRfMTMz/MDAxNjMyNDY2ODM5MzQy.KAbVUbXp7BKjV2YAYrwBfBif5rt7-XQ08dqF1pCyARIg.N-y5Ic3NZdNE0yxHlNKqTsQw3Ut_5E04KR8vamze9I4g.JPEG/Ib93qGlBPVE2i_hwK_7X7FaWQIVg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루디고에 재입학한 [이상민]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32396728&amp;memberNo=34451204</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32396728&amp;memberNo=34451204</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요? 한아름지기 입니다~~~ 오늘은 최근 한아름컴퍼니의 가족이 된 이상민 배우의 소식을 들고 찾아왔습니다~~~ 이상민 배우가 웹드라마 '루디고'에 다시 한번 출연 했는데요~~ 그 현장 사진을 공개합니다~~~···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTBfMyAg/MDAxNjMxMjYzNjA2NjA5.uzIm-vg2BQU4VbR2zsb7dCxaLIhneDrEMzzxwFbYHk8g.j9i7ZwIoBN4roMKQUBhTi7QO1S91j_YssiueweGQ5T8g.GIF/I8lP22SpPIYoFfvQSQymwXQdOvIo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
