@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 09:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 10:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[VAST 이사했zip]오늘의 극락 좌표]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35508420&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35508420&amp;memberNo=32146648</guid>
+            <pubDate>Wed, 22 Mar 2023 10:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2021 여러분,&nbsp; 생각보다&nbsp;천국은&nbsp;가까이에&nbsp;있어요...★ 가만히&nbsp;서있어도,&nbsp;무언갈&nbsp;들고만&nbsp;있어도&nbsp; 멋있는&nbsp;현빈&nbsp;배우&nbsp;보면&nbsp;되거든요&nbsp;&gt;"&lt; 오늘의&nbsp;극락&nbsp;좌표&nbsp;드리고&nbsp;갑니다&nbsp;(총총···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjBfMzAw/MDAxNjc2ODgxODMwNTc5.WKf_qNzyjidUHmJBxnWEzkb35cedp3sEV2ybF14uVSAg.cvuaZkBQE7KfHF_8tyrDy45_3pzvWJhDftw4-r87IoYg.JPEG/IIqwB3L-4XvewMOTyq_8Jm_-CLIU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신도현은 화보를 찢어]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35620406&amp;memberNo=32146648</link>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST] LEE YEON HEE ♥ 여러분 안녕하세요 베스트리 입니다 ⸜❤︎⸝‍ 다들 카카오TV &lt;결혼백서&gt; 본방사수 하셨나요?공감을 불러일으키는 현실 연기와 첫사랑 기억 조작이 시작될 것 같았던 연희 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjBfMTEx/MDAxNjUzMDI0NDY4NTg5.laZhIhyxhkKwi_InXTX8MfHaqV3Nk-D-2NaBBgLH4Ocg._Eq8BpNqKUO2bz2EdONyIrWVE3Sjf6TgsfGeTYz3_XYg.JPEG/IEwoAe0-O8lXvEhrqgVxxIxJqeik.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베스트리 입꼬리 주체 불가;]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33452441&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33452441&amp;memberNo=32146648</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST] STEPHANIE LEE ♥ 안녕하세요 여러분 (˶ ᵔ ᵕ ᵔ ˶)오랜만에 파니 소식을 들고 온 베스트리 입니당 ♪룰루~ ♪♬♩♩♩♬♪ 오랜만에 와서 왜 이렇게 노래만 부르냐구요?~파니가 이렇게나 예쁘니까···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTVfMzkg/MDAxNjQ3MzIyMDEzNTQ4.-HFl84g54izRe51KvEoWw2zDs3EhdrHLUm6G5WT3Vbgg.Ze3XZU1a-Jh3tpQAdhtf3phvEpLx3e7Fpz-0X8J8OVQg.JPEG/Ir2cZkagrju9ttNFGgiJVghXkOug.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
