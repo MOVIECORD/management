@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 09:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 10:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[류혜영] 폼 미쳤다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35671421&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35671421&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 23 Mar 2023 10:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 킹콩지기입니다:) 패션 매거진 '마리끌레르'의 '젠더 프리 2023' 프로젝트와 함께한 배우 류혜영 씨한 마디로 표현하자면? 폼 미쳤다 Pom MichutdaA컷 못지않은 비하인드 속 류혜영 씨다시 한번요? ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjJfMTIw/MDAxNjc5NDc0MTMyNzMx.hqcCjaG-CmxwLHHQ54PQPGPvSkU_0402bYokfGqbXw0g.fV688gNc4AqE5bZ6XaNKBcVdLA1sODZAwGQrEezzgZEg.JPEG/IL2Ey_wEzm_evaYZO1XnoM2j4kDs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱]에게로 떠나는 여행]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35602876&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 27 Dec 2022 06:25:45 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)넷플릭스 시리즈 &lt;더 패뷸러스&gt;에서 '표지은'(채수빈 분)에게는 한없이 약하지만협상 테이블에서만큼은 절대 호락호락하지 않은 M&amp;A 전문가 '이남진' 역을 맡은 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjZfMTAw/MDAxNjcyMDM3NDIzOTQ1.yDXcCnl0DggXzohYv08fh0XXtvBUwDGwIVDok3k5BOsg.AEqqcFxjSDAglrGxauAA0qPssqliyWeNa-E2g_BDWXkg.JPEG/IjB-9gfLrQcX2U_cxbdPF193lU08.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신승호] 대호국 거북이 사랑꾼]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35025905&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35025905&amp;memberNo=35839671</guid>
-            <pubDate>Mon, 26 Dec 2022 06:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 오늘은 대호국에서 제일가는 사랑꾼을 만나러 왔는데요저 멀리 등장하는세자 고원! (두둥)그의 눈에 띈 것은?세자의 거북이♡안 그래도 애지중지하던 거북이를 담은 물에 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjZfMTg5/MDAxNjcxOTgyODc5OTQy.grlaVgVeNeyzI8OtY9-t9QA864ZOseZBePzNIbgPjaMg.Hb83uI87bXaELtkDUtg37jZLeisNFMJ3FB2klrgNeJIg.JPEG/Id-nU8YCfv2aI9eFslQC-m9XZQns.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
