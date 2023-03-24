@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 07:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 08:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['진짜' [정의제] 때문에 3월 25일만 기다려요.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35671448&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35671448&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 24 Mar 2023 08:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[내일(25일)은여러분들을 애태우게 만들 그리고 치비가 N 일째... 기다리던KBS2 주말드라마 '진짜가 나타났다!'첫 방송하는 날!!  사진 출처 - 빅토리콘텐츠 '진짜가 나타났다!'는&nbsp;배 속 아기 '···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjNfMTU4/MDAxNjc5NTYwNDg0MzI2.-y-n0gD75fczpO0vKNiwePe8AHVul0mvK3qrb8HiBJ4g.2WDLYtwcaMsVm7pJyLzUp51sG0bf90FCezMdYWuprF4g.JPEG/IZ9Nil6FF0BIM8jZCQLkfPYkKxxA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[직거래 하다가 생긴 썰]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35311987&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 25 Nov 2022 12:42:08 GMT</pubDate>
             <content:encoded><![CDATA[다시 돌아온 파파라치비입니다... ★'행복'과 '행운'이 가득했던 김재영 배우 2022 팬미팅 현장으로 돌아가 보겠습니다.약 5년만 팬 분들과 만남의 자리를 준비한 재영 배우" 팬 분들과 오랜만에 만나니 많이 떨···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjVfMTY3/MDAxNjY5Mzc3NjI0NDE1.7s6ZDolNIAAtqJH4rdg3W9TGqLx3JVahCF4ftlrvzSMg.5CnrgVI4bO2CaWCO_BWulxUC1vqTAGzf5grhA661_P8g.JPEG/In_kMboYYUqlvhYikFHzcy8mbIlk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지상파&공중파 다 잡은 배우 [공민정]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34804459&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34804459&amp;memberNo=3247896</guid>
-            <pubDate>Fri, 18 Nov 2022 06:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 :) 파파라치비 입니다 ~ '작은 아씨들' ⇨ '천원짜리 변호사' 연이어 흥행작에 출연한 '대세 배우'(a.k.a. 공민정 배우)의 새 행보 ♬ 흡족할 만큼 부랴부랴 들고 왔으니 맘껏 즐겨주세요 .ᐟ.ᐟ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTdfMTEz/MDAxNjY4NjQ5NTcyODc0.z90l6yHnrM4SoVxr3K5dOLHFHd_dejnX_eeECrsTy3Ug.QI4Edup_qzPd7VujDMyH6R4FhlFYyCT9avrkL8SNTdYg.JPEG/IzEl7BNr4uCou4PdtHFBhuw_ZT6g.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
