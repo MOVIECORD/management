@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 08:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 09:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현빈]이 1년 365일 바쁜 이유?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35677508&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35677508&amp;memberNo=32146648</guid>
+            <pubDate>Fri, 24 Mar 2023 09:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST] HYUN BIN ♥혼자 청순한데 섹시하고 귀엽고 다 하느라 1년 365일 내내 바쁜 배우가 있다고 하는데요?! 그는 바로...!검을 현 빛날 빈현빈입니다♥섹시한가? 싶으면촉촉 청순 그 잡채였다가···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjFfMTUg/MDAxNjc5Mzg3MjIzMzM5.HM7eUXPAEJ8H5mEXiQY7Hgx1KtXW257ASsu0Rl0ueoEg.rHWDfaVTnxQF6dDAmi7iYN-NTG5cJcQ4xaBLP_31ekYg.JPEG/IagkYOxOvbIJbJ6QzVoiKOS8rC5s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[VAST 이사했zip]오늘의 극락 좌표]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35508420&amp;memberNo=32146648</link>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST] LEE YEON HEE ♥바로 어제 (15일) 김나은 역으로 현실 공감 연기를 제대로 보여준 연희 배우의 카카오TV '결혼백서'가 종영했습니다!연희 배우 없는 월,화,수 이제 무슨 재미로 사나 &amp;#40···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDlfMjI0/MDAxNjU0NzYxMTg4NDk4.PhVNloHiwpHQHpc6fHfG5VctGwBoDQaA-EKoTug_DPwg.zPqAM38YgU-Q1gRQlOmAsm0lHP4ELv-FGoRKbuXUUfEg.JPEG/Im87aezN6bNPAUFPeQ8sMM-x4L2o.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫사랑 만난 SSUL.]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33831687&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33831687&amp;memberNo=32146648</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST] LEE YEON HEE ♥ 여러분 안녕하세요 베스트리 입니다 ⸜❤︎⸝‍ 다들 카카오TV &lt;결혼백서&gt; 본방사수 하셨나요?공감을 불러일으키는 현실 연기와 첫사랑 기억 조작이 시작될 것 같았던 연희 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjBfMTEx/MDAxNjUzMDI0NDY4NTg5.laZhIhyxhkKwi_InXTX8MfHaqV3Nk-D-2NaBBgLH4Ocg._Eq8BpNqKUO2bz2EdONyIrWVE3Sjf6TgsfGeTYz3_XYg.JPEG/IEwoAe0-O8lXvEhrqgVxxIxJqeik.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
