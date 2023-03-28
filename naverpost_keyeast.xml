@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 13:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 14:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[육아 난이도 최하였을 것 같은 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35696817&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35696817&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 28 Mar 2023 14:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 안녕하세요. 오늘은 아주 재미있는 사진들을 잔뜩 들고 왔습니다!!반말 모드 켜고 바로 시작할게요!나 키동, '청춘월담'에 태강 역으로 출연 중인 허원서 배우의 사진첩을 탈탈 털어왔어!!어떻게 털어 왔느냐···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjhfMTg3/MDAxNjc5OTg1MTA3MTA1.2DVWOBZURikHpjNlO6y_GPLObQzj8Uw3HbzTn3AIt_Ag.fGZWz-XpMn3QjUorTy65VQAMpG9RM1yYitY5F3455iIg.JPEG/IxTIL0sSbMX2MKjc5B7w0Uy0rlck.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공식] 우도환 차기작 누아르 확정]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35672490&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 17 Feb 2023 14:19:30 GMT</pubDate>
             <content:encoded><![CDATA[이분 전화 한 통이면 운행이 다시 시작됩니다뭐가? 무지개운수의 5283 운행이요! 그런데 오늘은 '모범택시2' 말고 키동운수가 출발할게요'무지개 운수'의 대표 '모범택시' 장성철 역의 김의성 배우와 함께요!(이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMTAz/MDAxNjc2NjI4OTI0NjU0.v-bLIVkSdJIa4EQgLzu5VPpoJt1IzjevTYFZInNcZm8g.nXrT6YR-bzMXhmFip5bFWrHKkSLzvqgSagn4nKEsVtog.JPEG/I4Tfw40eA1WFEIvyUrj-PqzSiHJg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년 최고의 이슈메이커]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35486654&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35486654&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 16 Feb 2023 14:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[걷는 길, 가는 곳마다 화제를 몰고 다니는2023년 최고의 이슈메이커 이 시대 최고로 나이스 한 정성일 배우무대로 다시 돌아와 주세요 ಥ﹏ಥ 염원하셨던 분들을 위해나이스 한 성일 배우가 뷰티풀 하게 연극 무대로 찾···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTZfMjE1/MDAxNjc2NTQ3OTg4ODg5.-Sc7Zy_jKABIVx-_mdSHdm96dXwNzfknucPLDe-iSnwg.6Qpz0lqb6jMeNccLNt0_qupO3AmLq0xtAMXnJyDq5dog.JPEG/ICoLRHmwUeYsKqPe8P0zcOFxdKoM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
