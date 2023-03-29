@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 09:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 10:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[VAST 이사했zip] a.k.a 무대요정 이연희]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35508433&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35508433&amp;memberNo=32146648</guid>
+            <pubDate>Wed, 29 Mar 2023 10:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2021무대&nbsp;위에서&nbsp;반짝반짝&nbsp;빛나던&nbsp;그녀, 그런&nbsp;그녀에게&nbsp;주어진&nbsp;합격목걸이 지혜로운&nbsp;공주&nbsp;'코딜리아'부터,&nbsp;유쾌한&nbsp;'광대'까지! 연극&nbsp;&lt;리어왕&gt;&nbsp;속에서&nbsp;빛났던&nbsp;···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjBfMjAz/MDAxNjc2ODgxOTY1MDQ4.EpjiFnkVFNKugh6oxAXtqhEfLAlxQSNUgjzas4nBPHQg.7QPSE0zgG6sxmeLXNKtQ1jmHNTi0KjKTp7gLkhHotqkg.JPEG/IbYNCcBSuh0Behvw64ahXSbFTFzA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현빈]이 1년 365일 바쁜 이유?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35677508&amp;memberNo=32146648</link>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST] HYUN BIN ♥지난봄 한강에서 열린 '현빈' 배우의 전시회에 다녀왔습니다!는 넝~담~( ͡° ͜ʖ ͡°) 이구요 밝아지고 환해지고 빛이 나게 해주는 뷰티 브랜드의 광고 촬영 현장에 다녀···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjJfMjYw/MDAxNjU1ODY1MTE0MTM1.xdf-F6jcBUu7piRe6oqDD964JtGBhV5ZR3DsRrASI_8g.JhsiJV70G1cs1FpoSbwhTN44OIbq61O6S9QBRiB8cpUg.JPEG/IpPbQTtPZ8-_s0dzJjssuBMoSuyA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 가득 담은 '연희백서♥']]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33934342&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33934342&amp;memberNo=32146648</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST] LEE YEON HEE ♥바로 어제 (15일) 김나은 역으로 현실 공감 연기를 제대로 보여준 연희 배우의 카카오TV '결혼백서'가 종영했습니다!연희 배우 없는 월,화,수 이제 무슨 재미로 사나 &amp;#40···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDlfMjI0/MDAxNjU0NzYxMTg4NDk4.PhVNloHiwpHQHpc6fHfG5VctGwBoDQaA-EKoTug_DPwg.zPqAM38YgU-Q1gRQlOmAsm0lHP4ELv-FGoRKbuXUUfEg.JPEG/Im87aezN6bNPAUFPeQ8sMM-x4L2o.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
