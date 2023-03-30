@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 09:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 10:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김지연] 소문난 조선의 공주]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35708216&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35708216&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 30 Mar 2023 10:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하시오 킹콩지기요.(사극 콘셉트이니 이해 바라오)흠흠&nbsp;오늘은&nbsp;조선에 소문난 공주가 있다고 하여&nbsp;찾아왔소  도대체 저 아리따운 자는 누구요! 설마 저 자가 소문 속의 그 공주요?너무 눈이 부셔서 쳐다볼 수가 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMzBfMTM0/MDAxNjgwMTUyNjYzNDcz.mJKpheHVVdrVa6dCoVR3h63O1nJ6vKZvkOloK_0qMjcg.sfSaPLS-fvRsd8F_alwy803rspS2Vl8fR2_slCFuI7Ig.JPEG/Iimc2TGXcCBC4ILGSV0oDaXLTbDc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김지연] 공주님 행차하십니다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35682583&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 02 Jan 2023 09:20:27 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요!킹콩지기입니다:-)오늘은tvN 토일드라마 &lt;환혼: 빛과 그림자&gt;의세자 '고원'으로 활약 중인배우 신승호 씨와 함께합니다☆ 감독님과 촬영 준비 중인 승호 씨 발견! 이날은 고원이&nbsp;장욱(이재···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDJfMjIy/MDAxNjcyNjI3NDI4ODI5.d363s547IC8m-OKN6jZuG8BkDqeh_TkwswG2ut_Xc4wg.2azTWCkGvmz25_0cIN_A5Qrdr7y_8q2xAIIRxqLZzgAg.JPEG/IhrvAJT8ClqQ4kiYmkQ-Bzs9_bTM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[채수빈] 홍보 담당자 채용합니다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35052798&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35052798&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 30 Dec 2022 11:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[(킹콩지기는 일일 휴가 中) 그래서 배우 채수빈 씨의 넷플릭스 콘텐츠 촬영 현장에 새로운 홍보 담당자분이 참석해 주셨습니다┌──────────────────┐ 표지은 / 홍보사 5년차 과장 - 넷플릭스 시리즈 &lt;더 패···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjlfNjQg/MDAxNjcyMjc3Mjc2MjYy.t-gIts7N2sgV8DEfk8dbbubZBw8gubhr2xQrCZE47Dwg.BrYoxPIc6UJ11CFrEP6mVGaf0riFLLOk4R4VgvD7VKgg.JPEG/IIzi6oOtWLp5Na_fDhLZiI7uxAFk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
