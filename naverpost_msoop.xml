@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 05:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 06:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아니 진짜 ✿봄✿ 요정 봤어? [수지]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35704848&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35704848&amp;memberNo=22903361</guid>
+            <pubDate>Thu, 30 Mar 2023 06:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[✿ 봄의 요정 등장 ✿ 수지 배우 등장과 동시에 촬영장에 봄이 왔어요 ⊰✿ 보기만 해도 달콤한 꽃 향기~~가 느껴져요! 오늘따라 더 화사한 그녀, ♥ 봄이 사람이라면 수지 배우 그 자체 여러분 잠시 심호흡하세요 후 하 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjlfNzIg/MDAxNjgwMDY4MjE1ODAx.XEbQHLTG2-tgTffdk9PYsUo-rkKs-dFmtFmsfHBn79kg.QV5i_j7v8bOWg0jHdne1WBTJa9yiGS5iIIwUCbEP1fog.JPEG/IQTsX4IE8EF_Sj2PJXlkjKUBoLmk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삐빅- 당신은 ‘소니’ 중독입니다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35690057&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 29 Nov 2022 08:29:02 GMT</pubDate>
             <content:encoded><![CDATA[보기만 해도 살짝 움직이기만 해도 분위기가 흘러넘쳐바다를 만드는 사람 치명적인 비주얼로 [공유] 중독에 빠지게 만든 장본인 공유 배우의 엘르 11월호 커버 촬영 비하인드 지금 시작합니다!  블랙&amp;화이트로 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjVfMjg5/MDAxNjY5MzY1MzU3ODc0.lgQ67jnMNAIuBRwz8GQoP0XKZ0LBbnNWskQLRLehCtYg.v2S1X0TOgdOjd3rK-48RbZiq_GV4zIdzQA2Yohu7-y4g.JPEG/IfEtq7p0EAjnveUrQXc_01KjlSrs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남친룩의 정석! [박연우] 코디 모아봄]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34834691&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34834691&amp;memberNo=22903361</guid>
-            <pubDate>Wed, 23 Nov 2022 14:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;사진 제공=kt스튜디오지니&gt; 오늘의 모델은 두구두구두구두구 (숲블리 마음대로) 남친의 정석 박연우 배우와 함께합니다 연우 배우의 #셔츠활용법 화려한 패턴의 셔츠와 브라운 면 팬츠를 매치! 이런 남자···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMThfMjYg/MDAxNjY4NzQwMDE5OTk5.h6ZWr6MdvCuBHpbQRpKUzB0BvlzfOyAxRzA--Nz-Sgwg.Xe-WuR2S1IrRpC0wuY7F6U4dm7_Z4lfnSlYqaIDTkEEg.JPEG/Il1q6_w59hkjuB17YIQFuRMPuuAk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
