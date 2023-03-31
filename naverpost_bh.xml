@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 06:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 07:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <파우스트>로 돌아온 박해수]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35695307&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35695307&amp;memberNo=21724264</guid>
+            <pubDate>Fri, 31 Mar 2023 07:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[이름만으로 장르가 된배우 '박해수' 다양한 장르와 작품을 넘나들며도전을 두려워하지 않은 그가 이번에는 독일&nbsp;문학의&nbsp;거장&nbsp;'요한&nbsp;볼프강&nbsp;폰&nbsp;괴테'가&nbsp;60년&nbsp;세월을&nbsp;담아&nbsp;만든&nbsp;필생의&nbsp;역작연극 &lt;···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjlfMjg3/MDAxNjgwMDcwMjE1ODMz.gnErxt2_AW6q8v8QZlhEylJCtJ8xBkw1pjzX1mLkyJUg.d-gscFQL-Aobn55xhsr1rc-EBEDc-Z19kWBFpiz_A9Eg.JPEG/IoT0J9YkQWqo07ifyJRv-YmLHH80.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호기심 천국인 사람은 꼭 눌러봐야 할 포스트]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35589352&amp;memberNo=21724264</link>
@@ -154,14 +162,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:50 GMT</pubDate>
             <content:encoded><![CDATA[쇼박스 전대미문의 항공재난 영화 &lt;비상선언&gt;에서 쇼박스 딸아이의 치료를 위해 비행기에 오른재혁 역을 맡은 이병헌 오늘은 &lt;비상선언&gt;의 프로모션을 위해다시 한번 비행기에 탑승했습니다! 그럼 오늘···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTVfMTU0/MDAxNjYzMjUwNzY0NzQ4.6U2pVBwNVsk1twcS_RfPYk63gO05azDAZIVnBYTArI8g.EtuO6jCAvSYUoWDOUb2hJsd5S75Doi4rPg43U0M2G6Ag.JPEG/IUnR7LoKpZ7GJGm6B5aXku25AjMc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두둥. 전 세계를 뒤흔들 작은 아씨들 등장!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34433401&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34433401&amp;memberNo=21724264</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[여기 작으면서도 크고,낮으면서도 높은 이야기 속 가난하지만 우애 있게 자란 세 자매가 있습니다 돈으로 가족을 지키고 싶은세 자매의 첫째 오인주 평범한 경리였던 인주는 700억 원 비자금 실종 사건에 휘말리며삶···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDVfMjAz/MDAxNjYyMzc2Njk3NDc1._NIcGftds6YPOxZZLI9qZocsuTG_VQWYDFP1TtxnSqMg.3aSnqbnyKprv4YHl8uPwhzobuNJNW05aAa47N6iF7PIg.JPEG/ImGx4sA2hpDVmQiNq8Pjnx4WIB0w.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
