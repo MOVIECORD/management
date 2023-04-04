@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 13:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 14:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김서형, 우아함, 파격적]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35733374&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35733374&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 04 Apr 2023 14:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[단 세 단어로 여러분들의 심장을 종잇장처럼 구겨놓겠습니다. 김서형, 우아함, 파격적 킹갓제너럴골져스를 장착하고 김서형 배우가 브라운관으로 돌아왔습니다![삽니다] 가짜 행복 [팝니다] 유이화 인생"인생이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDRfMTEg/MDAxNjgwNjAyNzI4ODM4.Lmzek_asusos-Y0TzvP2WkE4uZeSMgiQvMPdqHN2U9Mg.IRDanJyFpRrTLsP9UtNLgBwqhjn6IOpaYmNlkEjMEmUg.JPEG/ISABsemCWwTGsTQUNoMoJYN3xTJk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뱀파이어 실사판.jpg]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35718242&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 24 Feb 2023 14:19:36 GMT</pubDate>
             <content:encoded><![CDATA[정은채 배우 근황이요?얼굴이면 얼굴피지컬이면 피지컬아우라면 아우라 여전히 갓굴, 갓지컬, 갓우라로 화보만 찍었다 하면 관심집중!모든 스태프들을 감탄하게 만들고 키동이도 정신을 혼미하게 만든 화보 천재 은···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjRfMTg4/MDAxNjc3MjI5OTYwMjAx.Ji94JZldu4jcYJkbpcItQ1pM3SeHW7hnNtBPwdfH46og.NaQD3GG_waRgFBE1jpjfwZmhWu3752hvz7jIenanKVwg.JPEG/I0H7adL3zi3d6PlpkEAff_KBV8SI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어른 섹시 그 잡채]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35528340&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35528340&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 23 Feb 2023 14:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[얼굴도 안 보고, 이메일만 주고 받고 사귈 수 있어요??우린 그 만남을 CYBER LOVE라고 부르기로 했어요 (ღˇᴗˇ)｡o♡근데 실물이 이런 비주얼이라면,,? 이런 나른함이런 섹시함을 가진 사람이라면?인생 베팅 완···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjNfNDAg/MDAxNjc3MTM5NjQ0NzA4.hQ8LLY_tqME8ZvXI-sQ9qVYCBj0ArITQ_-EJ0k7y5LYg.lr37ZpPEr1hGZENgaH3lParau4rlbh8qsJpjobYVDeUg.JPEG/IPUELFRAMY1YiAhul0lTGD2e2Kws.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
