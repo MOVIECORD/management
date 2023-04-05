@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 08:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 09:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[VAST ZIP] 세계 3대강을 아시나요?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35706107&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35706107&amp;memberNo=32146648</guid>
+            <pubDate>Wed, 05 Apr 2023 09:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2022여러분. 세계&nbsp;3대강이&nbsp;뭔지&nbsp;아세요?&nbsp; 나일강,&nbsp;아마존강,&nbsp;김지인&nbsp;이러면&nbsp;나&nbsp;오늘&nbsp;집에&nbsp;못강!! 드라마&nbsp;'아이돌'&nbsp;에서&nbsp;비주얼,&nbsp;실력,&nbsp;매력&nbsp;ON&nbsp;TOP으로 난리나게&nbsp;만들었던&nbsp;지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMzBfMzYg/MDAxNjgwMTQ3MTMxOTYx.VrVMiCl61OHpbjKMDclckOIpmaVKw6Yie_7pXveBI3sg.oiID5sxImT30q8apK_OIh9nRkLsVTye7E9CVMPPc5lQg.JPEG/IuCF0JjO5IK5fK4STGoUatjac0xE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[VAST 이사했zip] a.k.a 무대요정 이연희]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35508433&amp;memberNo=32146648</link>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST]SHIN DO HYUN♥여러분,어떤 사람이랑 있을 때 거기가 어디든지 다 좋고그 사람 없이 하루조차 견딜 수 없다면&nbsp;이거 사랑 맞죠..?&nbsp; 제가 사랑하는 사람이 생긴 것 같은데&nbsp;그게 누구냐면.. /// /// © AER MU···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjNfNTYg/MDAxNjU1OTYzMTY3Njkw.BumVjgHQcZJBflqnEyOGyzi60MwnTnYjYpTTUVZ97l0g.dz8MWh7Ojk3R8OPLKnjh6j5_kH1_HPgzCRsOfWLsE7sg.JPEG/IUQlgAbm89vbb5S8sCFIypbvAJOY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한강 위에서 개최된 '현빈' 전시회]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34003217&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34003217&amp;memberNo=32146648</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST] HYUN BIN ♥지난봄 한강에서 열린 '현빈' 배우의 전시회에 다녀왔습니다!는 넝~담~( ͡° ͜ʖ ͡°) 이구요 밝아지고 환해지고 빛이 나게 해주는 뷰티 브랜드의 광고 촬영 현장에 다녀···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjJfMjYw/MDAxNjU1ODY1MTE0MTM1.xdf-F6jcBUu7piRe6oqDD964JtGBhV5ZR3DsRrASI_8g.JhsiJV70G1cs1FpoSbwhTN44OIbq61O6S9QBRiB8cpUg.JPEG/IpPbQTtPZ8-_s0dzJjssuBMoSuyA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
