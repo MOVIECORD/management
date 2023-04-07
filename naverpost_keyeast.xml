@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 13:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 14:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[치트키 입고 등장한 정성일]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35750964&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35750964&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 07 Apr 2023 14:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[키동 사무실 책장에 매거진이 한 권, 두 권 쌓일 때마다나날이 자연스러워지는 POSE절제된 카리스마와 클래식한 MOOD여유롭다 못해 흘러넘치는 장난기 ( •͈ᴗ-)ᓂ-ෆ슈트 차려입고 언더락잔 하나 들었을 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDdfMTk1/MDAxNjgwODcxNzYwMzkw.sL9TPao-XdNnmvCr0QsQbUOWQRBIM8ypNdNR3fA63Dcg.p-gXhcRWihj6_DJS-8x6728_TMly23MzhSKUwGaNHkwg.JPEG/IrDzSu9LZfyZ4G3EhZwzP2RD6uA8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김서형, 우아함, 파격적]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35733374&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Sat, 25 Feb 2023 14:17:59 GMT</pubDate>
             <content:encoded><![CDATA[진짜 문화 충격이었다니까요 제 말 좀 들어보세요아니 그니까 나는 문가영 팬미팅에 갔을 뿐인데팬미팅 시작 전에는 내 배우가 커피차도 쏘고집에 갈 때는 두 손 가볍지 말라고 선물도 챙겨주고근데 이제 무대에서는···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjVfMTMg/MDAxNjc3MzMyNjMyNjAx.h2S0KKMOsVpKN8NX38Q6_8yvmkGI7LR8A8bb_X4U-Okg.3BUncca4yeHN1RDlm3i3GXbAUGwdayW6EoOxrGITOMog.JPEG/I8lzervgu2dQThxWJazaNmxUcv1A.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그녀의 근황]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35534122&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35534122&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 24 Feb 2023 14:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[정은채 배우 근황이요?얼굴이면 얼굴피지컬이면 피지컬아우라면 아우라 여전히 갓굴, 갓지컬, 갓우라로 화보만 찍었다 하면 관심집중!모든 스태프들을 감탄하게 만들고 키동이도 정신을 혼미하게 만든 화보 천재 은···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjRfMTg4/MDAxNjc3MjI5OTYwMjAx.Ji94JZldu4jcYJkbpcItQ1pM3SeHW7hnNtBPwdfH46og.NaQD3GG_waRgFBE1jpjfwZmhWu3752hvz7jIenanKVwg.JPEG/I0H7adL3zi3d6PlpkEAff_KBV8SI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
