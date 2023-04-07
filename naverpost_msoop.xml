@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 09:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 10:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조선판 셜록? '민재이' 사건 일지 [전소니]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35750126&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35750126&amp;memberNo=22903361</guid>
+            <pubDate>Fri, 07 Apr 2023 10:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[헉! 조선판 셜록이 있다..? 뛰어난 무술 실력! 명석한 두뇌! 남다른 추리력까지! 변모 능력까지 일취월장한 그녀! 아! 물론 어여쁜 미모도… (사심 tvN 월화드라마 &lt;청춘월담&gt;을 더욱 두근두근 거리게 만들어가···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDdfMTU3/MDAxNjgwODUzMDY1MTU2.SCDOiKFNCn7CGAmZacBneLhJBhOlxQl8Nn5RQJBkY7Yg.i_zp7dROuwBI5WNaS0EDFCR7uMdSPFwunrFyMzZXm9Mg.JPEG/IBdGze8qVmIURNuM2ABCGvqWNfQ8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아니 진짜 ✿봄✿ 요정 봤어? [수지]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35704848&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 06 Dec 2022 08:26:29 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 여러분,보고만 있어도 황홀해지는 숲속 &lt;얼굴 맛집&gt;에 오신 것을 환영합니다. [얼굴맛.zip] ‘전소니’ 편 지금 바로 시작합니다.   벌써부터 빠져드는 비주얼  역시 비주얼 맛집이죠?  카리스마 눈···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDZfMjc1/MDAxNjcwMjkxNTUwNzg3.i1KK_vysGOmRiIxmn9js8HUgwRurtUyRXYoN2OJLVuMg.Fr0X3HtcgZIbCKtYOVg2HtuEL4i_NgVNTjnLHTGFxJ4g.JPEG/IgdasWx63K7zsf_h9oRrGl4isxZo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신은 [공유] 중독입니다.]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34864441&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34864441&amp;memberNo=22903361</guid>
-            <pubDate>Tue, 29 Nov 2022 08:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[보기만 해도 살짝 움직이기만 해도 분위기가 흘러넘쳐바다를 만드는 사람 치명적인 비주얼로 [공유] 중독에 빠지게 만든 장본인 공유 배우의 엘르 11월호 커버 촬영 비하인드 지금 시작합니다!  블랙&amp;화이트로 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjVfMjg5/MDAxNjY5MzY1MzU3ODc0.lgQ67jnMNAIuBRwz8GQoP0XKZ0LBbnNWskQLRLehCtYg.v2S1X0TOgdOjd3rK-48RbZiq_GV4zIdzQA2Yohu7-y4g.JPEG/IfEtq7p0EAjnveUrQXc_01KjlSrs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
