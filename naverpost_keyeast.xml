@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 13:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 14:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우도환을 고소합니다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35763000&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35763000&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 10 Apr 2023 14:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[우도환을 고소합니다.고소 이유: 키동과 시청자들의 마음을 뺏어간 죄어느 순간부터 그 사람의 얼굴이 제 머릿속에서 떠나질 않거든요그래서 결심했어요. 송사를 하기로열심히 골똘히 생각해봤죠! 승소하기 위해서 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTBfMTg3/MDAxNjgxMTI1NDE5NTU0.ELuz4ouBC0Ch9aA3IKQs7KUxABn2WHc9-FItfxhv4Ukg.XysujE34VYw-a9yi5aFssyImvQprArZtsh1dUzAwZCMg.JPEG/IntDfxkeTGl1fx5RQ00eGTdxAxOg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인간 숙취해소제]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35754201&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 02 Mar 2023 14:21:47 GMT</pubDate>
             <content:encoded><![CDATA[키동은 3월이 너무나 기대돼요 봄기운에 설레서냐고요~? 아.니.요으른섹시의 정석 하도영을 만날 수 있는넷플릭스 '더 글로리' 파트2가 3월 10일에 찾아오기 때문이죠! 존버는 승리한다!!!갑작스럽게 하도영을 마주···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDJfMTIy/MDAxNjc3NzUxMTc2NDAy.iadA_13tiCDJ-Efz3ZUVw-ab7IG29vGdAhpk_txRzcUg.IRKRaahc-rZEYB1Gf6xDO1fzzQlhOUj1czje_pZPbXQg.JPEG/I_BSDLKk6fn2dzJspjp8D5xa2kRE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘자 뉴스 펑크낸 앵커 근황]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35552251&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35552251&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 28 Feb 2023 14:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[분명 두시간 전에는 이렇게 원고를 읽고 있었단 말이에요?앵커님이 오늘 녹화 해야 할 방송 순서도 확인하는거 체크도 했구요!아니 근데 갑자기 앵커님이 사라져버린거에요. 진짜 그냥 소리소문없이 사라졌어요...전···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjhfMjQy/MDAxNjc3NTc2ODUwMjY0.xtfq15a-ZhL0TK0X-Q7EQetO-1gSj8o3USWw5twnMTMg.2fipbM4TOQzrwoOVsLm1GnLhXM1MUFW9kpSxZrzIJD8g.JPEG/IBdxTg9nFhX8uZrZ0fHKN3GJib_g.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
