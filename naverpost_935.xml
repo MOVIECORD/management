@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 935엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 04:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 05:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[935] ✿ 봄 소식지 ✿]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35757283&amp;memberNo=36232354</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35757283&amp;memberNo=36232354</guid>
+            <pubDate>Thu, 13 Apr 2023 05:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;! ATTENTION !&nbsp;계절마다 찾아오는 기쁜 소식,앞으로 네이버포스트를 통해 935엔터테인먼트 식구들의 소식을여러분께 소개해드립니다 :)배우들의 소소한 일상부터인터뷰까지,지금 바로 그 첫번째 호를여러분께 공개···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTBfMjg2/MDAxNjgxMDU1MTk3Nzgy.a_-Ttue1cvAO03BzRsmea-Qit6Ij2dyGe8kdVJYYEyEg.z9kKYPdznDdcGGBrrDJVljr0LxCUjnCZl9fja5vYduwg.JPEG/IDQ89biGwFVYJ87ez1YCESp-UAC8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[남궁민] 춘곤증을 이겨내는 가장 확실한 방법]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35577621&amp;memberNo=36232354</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:35 GMT</pubDate>
             <content:encoded><![CDATA[한번도 안 본 사람은 있어도 한번만 본 사람은 없다는 전설의 드라마 &lt;너에게 가는 속도 493km&gt;너가속의 쭈인공, 코트 위에서 맵단맵단 빛나는 박태양을 만나러 피땀눈물이 '주'륵주륵 흐르는 경기장으로 가볼···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTlfMjkx/MDAxNjUyOTY4MDAxNDU0.nJTO--YUOzbIjALzcDGoZ93Tb3W3LVJQfalT-OGMtEog.PWMF0oh3JZtdcdmhAUS4JUS0NWv5gQRwgI9v0n3QW8gg.JPEG/Iok0rtl7CpcVQWhPbyupz7UFfrJA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박주현] 해볼게, 뭐든 다 잘하는 배우]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33800720&amp;memberNo=36232354</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33800720&amp;memberNo=36232354</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:35 GMT</pubDate>
-            <content:encoded><![CDATA[그리곤 보여줄게배우 박주현(몹시 뿌듯) 배드민턴도 잘해 시상도 잘해 못하는 게 없어 오늘도 동에번쩍서에번쩍 바쁘디 바쁜 우리 주현배우! 지난 5월 6일에는 작년 제 57회 백상예술대상 TV부문 여자 신인 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTVfMjY3/MDAxNjUyNjEyODYxNTIy.o4VDG_zf6rMrDruO0LDGNjpijObN1-xU6hzX6DOj4hAg.lhbGx_nHgj02Hy3x0CXn6SgXbBgDCuCgGewwofgxOjEg.JPEG/IobYmCz--MB7vajO1BJE5q2nwWjY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
