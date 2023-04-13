@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 07:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 08:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄 맞이 [김지은] 테라피]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35766991&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35766991&amp;memberNo=3247896</guid>
+            <pubDate>Thu, 13 Apr 2023 08:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요!오늘도 어김없이 찾아온&nbsp;파파라치비&nbsp;입니다&nbsp;(ꆧ⩊ꆧ&nbsp;)봄이 다가오는 이 시점,우리에게 필요한 건 뭐다? 지은 테라피... ♥︎ 그럴 줄 알고 준비한&nbsp;지은 테라피 시간&nbsp;꒰ღ˘‿˘ற꒱본격적으로 지은 테라피를 하기 위···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTJfMjkg/MDAxNjgxMjg2NjI0MDUy.r2S4Muj6OjI_Vl_pSQhazfaYJGX5kWZ6ILtSWRhScj8g.kNW2pugGgiPhrC770zCYr84-zG5HkamDR633T-lB9Xwg.JPEG/I9bw-IlFY-jIsfrLwpLE2Vg09mfk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#잔든주, 흥에 'cheers']]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35762626&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 02 Dec 2022 02:52:51 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 파파라치비입니다!! 현재 박스오피스 1위를 달리고 있는 영화 '올빼미''올빼미' 밤에만 앞이 희미하게 보이는 맹인 점술사가 소현세자의 죽음을 목격 후 진실을 밝히기 위해 벌이는 하룻밤의 사투를 그린···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjlfMTA3/MDAxNjY5NzE0MDk0NTI5.VYbseC5g4YKU6m88O3lCu6Qohn_QZUm13_L9jccQ5W0g.2gpXx413MT5FNyHtPVqX0l7g6lGOhTrL7yi8YSoevUEg.JPEG/IailM6ECs0zfVUoOBFw7Rr4sZZwQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이직도 RESPECT 하게!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34862569&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34862569&amp;memberNo=3247896</guid>
-            <pubDate>Thu, 01 Dec 2022 03:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[광고 촬영이 한창인 이 곳에서 만난 이는 바로!퇴사 직전인 '노이직'.. 아니 '민정' 배우그녀의 프로필 최초공개 합니다!안경도 잘어울리는 민정 배우는꾸밈없는 미소가 매력적이고사랑 가득한 반전 매력까지❤︎민정 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjhfMjI1/MDAxNjY5NjEyMzgwMjc2.laYPCt-rHjCenIkswtyqBy90b9zFk5MBttqDrP4XP0Eg.NVEcC5Hvr6DBOmJa2HUiRfYLJAywCQBGRs32KJbtrpwg.JPEG/Iri8ZLLc9bwS3zNuDmHW4QPzieRw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
