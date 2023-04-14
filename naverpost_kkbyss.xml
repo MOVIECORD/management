@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 06:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 07:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김지연] 보는 게 소원]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35784474&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35784474&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 14 Apr 2023 07:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :D킹콩지기에게는 소원이 하나 있어요매주 김지연 씨를 보는 것 그 소원저 소원이가 이뤄드릴게요 MBC 금토드라마 &lt;조선변호사&gt;에서조선의 공주 '연주'이자신분을 숨긴 채 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTNfMjY2/MDAxNjgxMzgwMzcxNjky.lGz6e4I97SRcqQ0Dp9hfaWEj33GVEF9JH1V89cPISC8g.j-4SxbOoIfbX-RZEw0TXbZQGS25zEghc2UpAA2Qlzj8g.JPEG/Ib8qMTKoQwWqCOQFi6z19OIBxLeo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신현수] 방과 후 특별활동]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35778996&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 11 Feb 2023 05:19:55 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :D이제는 우리가 헤어져야 할 시간 ♪갑분 노래 지난 8주간&nbsp;JTBC &lt;사랑의 이해&gt;에서KCU 은행 영포점의 막내 '김지윤'으로&nbsp;활약한 배우 오소현 씨를 떠나보낼 때가 왔습니다&nbsp;···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTBfMjYy/MDAxNjc2MDMzNzIwMDAw.R7UTKoW_VyAcoQF0RHpREfw_uih1ep3IJvvhwr9cZAIg.t1s1wHCFjUccqqKzeQbr-yer7gGSOJBKeQ9NjQbLBw4g.JPEG/IcMUOUiAnzqudqeT3se75D91zsoo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유연석] 인생의 한 시절에 <사랑의 이해>가 있었다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35411488&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35411488&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 10 Feb 2023 07:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요:-) 킹콩지기입니다!어제(9일, 목)배우 유연석 씨가 출연하는JTBC &lt;사랑의 이해&gt;의최종회가 방송됐는데요 안돼...돌아가...상수 못 잃어...과몰입에 과몰입을 부르며사랑의 감성이 가득한 겨울을 선···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTBfMTQ4/MDAxNjc1OTk2ODk5MTUy.aMbv41k0AbUrqGF4iwO2RvJjV6vC89k4fTrvAobJ9ckg.sVvnrK1I4TOgLI44aGa5SeT7axB2H-6fJWkj6t73AEMg.JPEG/IVcPvNaC5nmPFZ26pBFF775tAGxY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
