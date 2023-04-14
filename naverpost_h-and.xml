@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 01:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 02:35:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[존재 자체가 노블레스한 배우]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35783625&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35783625&amp;memberNo=51396641</guid>
+            <pubDate>Fri, 14 Apr 2023 02:34:29 GMT</pubDate>
+            <content:encoded><![CDATA[클래식이라는 단어가 유난히 잘 어울리는 배우 정려원Kind but not Soft 친절하지만, 무르지 않게친절함과 단단함 채움과 비움의 균형을 맞출 줄 아는려원 배우의 자연스러운 아름다움이 돋보인노블레스 4월호 화보 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTRfNTIg/MDAxNjgxNDMyMzkzNzY0.csIRdC5KUBlE7K85LA4JL0M-syDC0XV3wmE0cGo0r4Qg.ACcOpSpGXGW15UuEN_k-SCcTLzYJstrNvmXnsfmqtbcg.JPEG/IVsCDYM_cSuoHjOalYrA4gTElkf4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여섯☆들의 특별한 선물]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35618280&amp;memberNo=51396641</link>
@@ -166,14 +174,6 @@ H& 매력 토끼들]]></title>
             <pubDate>Wed, 16 Nov 2022 17:36:24 GMT</pubDate>
             <content:encoded><![CDATA[Q. 곽동연은 &lt;가우스전자&gt;의 직원이다??? A. 넵넵넵!!!오늘 공개된 &lt;가우스전자&gt;에서 마케팅 3부의 핵폭탄 이상식으로 변신했다는 사실!&lt;가우스전자&gt; 다국적 문어발 기업 '가우스전자' 내 대기 발···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MzBfMjE4/MDAxNjY0NTM5NTA4NzQz.HeyzQitDnXciZsqO5Pl8QK_u68cSqwt4r8ztvjaLWNAg.om6UY_7O5L7dpJZYz2G2jubJMiDR8vBDUlj2uM5GQEAg.JPEG/IVNUOSbN5Lv-JkXF1IweE3vinseI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검사에서 변호사가 된 정려원]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34547605&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34547605&amp;memberNo=51396641</guid>
-            <pubDate>Wed, 16 Nov 2022 17:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[엄청난 독종이 왔다요즘 재밌다고 난리 난 화제의 드라마디즈니+의 오리지널 변론을 시작하겠습니다그리고 글로벌 시청자들을 매료시킨전 세계적으로 유명한 소문난 변호사 노착희우리 착희는요★★ 승소율 92% ★★ 잘···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjhfMjg5/MDAxNjY0MzczMDA3ODU5.NArRWoCdOz3Z_zN3d_uJrEGuO9YE1fbEzcghpy8lkGEg.FRkwQOqmaQ22h8jHIMgvgHOWz9b6npNhRpQ_9gfyLygg.JPEG/ILsCN7UqGoF3eSNLEI9awLOtDxGA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
