@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 13:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 14:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[등장하자마자 텐션 미쳤다는 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35811244&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35811244&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 19 Apr 2023 14:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[나는 나, 날 갖고 싶어.나는 내가 이 집 빌트인 같아요.서형 배우의 입 밖으로 쏟아지는 명대사속도감 넘치는 연출과 짜임새 있는 대본무엇보다 연기 캡 잘하는 김서형 (ღˇᴗˇ)｡o♡유이화=김서형 단 4회 만에 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTlfMjYg/MDAxNjgxOTA5Njg2MjU5.GgRxREeIBSiJH1uiXcMOe5ytrSFOjGIhkhynC5RaHOog.7vHp_Ah2koNWECCj8Wlk4LgQXvHRcPTV96KCf9qvdOsg.JPEG/IbrC2cJCX_rlXBvahA1mVI4XkMLs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[울언니의 이중 생활]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35805058&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 16 Mar 2023 14:20:39 GMT</pubDate>
             <content:encoded><![CDATA[맑고 투명한 피부매끄러운 페이스 라인자기관리 끝판왕 채정안 배우가 뷰티 업계에 제대로 등판했습니다!당당하고 쿨한 매력은 물론귀엽고 상큼한 매력으로 트렌드를 리드하는 정안 배우의 뷰티 법칙! (o ╹‿ ╹ o···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTZfMjk1/MDAxNjc4OTU3NzY0OTU1.xG1QYKSNeJcfggcbLC0AbJbJVvxI_rSsni1NKm8LoPsg.HovKze5wZJJ1XP3bbHeX45ZcQu30XBhQC2dGWR5m4vUg.JPEG/IKMoaqz5bvpoXAi5VXNALbCIcNLI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투잡(2JOB) 뛰는 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35622450&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35622450&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 14 Mar 2023 14:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[기쁨 喜슬픔 悲인물의 희비를 가장 극명하게 목소리와 표정으로 표현할 줄 아는 배우박하선 배우가 새로운 장르에 도전장을 내밀었다고 합니다!듣는 이의 귀를 사로잡고보는 이들의 눈을 사로잡는특별한 작품에 참여하···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTRfMTM2/MDAxNjc4Nzc3NjEyNTcz.wrkSponJ9YdPUDlMBex_lEXhyTDbfUJFNXmAnYAkUP4g.5tce9KVx5JOchSovwFCOTBAztQihUollJ1LQ12BpmzMg.JPEG/IRpmAleQ-eE5OhKgliE-PMsB-z_8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
