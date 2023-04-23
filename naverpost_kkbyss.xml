@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 02:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 03:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김지연] 목격담 제보합니다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35827608&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35827608&amp;memberNo=35839671</guid>
+            <pubDate>Sun, 23 Apr 2023 03:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 엄청난 제보를 듣고 찾아온 킹콩지기입니다 o0o/// 제보 ///MBC &lt;조선변호사&gt;에서&nbsp;여러 가지 모습으로 변장하는배우 김지연 씨를 목격했어요 진실을 확인하기 위해 한양의 한 저잣거리로 떠난 킹콩···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjJfMTYg/MDAxNjgyMTY0MzgxNjEz.8rp8F9VG-P3nPceicU4T-yQpCY6qIB7FAVznHb6i2_8g.8UqFRaQ80Vmly5F3R0ihPFqg-HHMMn6VMoKXsQyyAUsg.JPEG/IMHKvC1Pmu6Fyzl7gRSX4M5MggXk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김지연] 보는 게 소원]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35784474&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Feb 2023 08:28:50 GMT</pubDate>
             <content:encoded><![CDATA[띵동 선물 왔습니다♥밸런타인데이를 맞아 도착한깜짝 소식에&nbsp;문을 열어보니 문 앞에 서있는 배우 김샤나 씨?!  그렇습니다오늘을 더 의미 있게 빛내줄 주인공 샤나 씨와 함께 행복한 밸런타인데이 보낼 준비되셨나요···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTNfMTA0/MDAxNjc2Mjc3NDU1MzIw.M8JhATqG_Crz5kokxl1MKASTwYF5oh0PCAYtpL-Duw8g.wdpg62K4m0eVuAvfMF3zuKaR8Qr2NMQsrkhHLhopZDQg.JPEG/IS7726FdDreflvWtyGvRUH2E_qJE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오소현]은 자유를 찾아 떠납니다 행복하세요]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35421212&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35421212&amp;memberNo=35839671</guid>
-            <pubDate>Sat, 11 Feb 2023 05:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :D이제는 우리가 헤어져야 할 시간 ♪갑분 노래 지난 8주간&nbsp;JTBC &lt;사랑의 이해&gt;에서KCU 은행 영포점의 막내 '김지윤'으로&nbsp;활약한 배우 오소현 씨를 떠나보낼 때가 왔습니다&nbsp;···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTBfMjYy/MDAxNjc2MDMzNzIwMDAw.R7UTKoW_VyAcoQF0RHpREfw_uih1ep3IJvvhwr9cZAIg.t1s1wHCFjUccqqKzeQbr-yer7gGSOJBKeQ9NjQbLBw4g.JPEG/IcMUOUiAnzqudqeT3se75D91zsoo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
