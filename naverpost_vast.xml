@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 08:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 09:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[VAST zip]열 마디 말보다 '한'번의 '은수']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35816073&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35816073&amp;memberNo=32146648</guid>
+            <pubDate>Mon, 24 Apr 2023 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST zip]여러분의 마음을환하게 밝혀주고보들보들 매끄럽게 만들어 줄VAST zip♥포스팅 한 번에 여러분의 마음 속 1등이 될은수 배우의 촬영 현장 메이킹을바닥까지 싹싹 모아 드릴게요 (찡긋#내_맘속_1등#한은수&nbsp;#···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjBfMjAg/MDAxNjgxOTYxMDIyMDQy.okiX_-StpG8whVEIpkxtWwkPo122b9yjcCWHUJOMt5wg.6HunO0cItRPRRP87NH_oBd2vlRx-Ra263Kq-vUgqAw4g.JPEG/IxOoohWSsZxd1fClrtFn5gfgymUA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[VAST 이사했zip] 어두울수록 빛나는✨]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35705606&amp;memberNo=32146648</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 06 Jan 2023 09:19:46 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST] HYUN BIN ♥여러분 ★햅삐 뉴 이어★2023년에도 변함없이 베스트리랑 덕(질) 메(이트) 해달라고 3N개나 되는 복(이라고 쓰고 빈이라 읽는)을 바리바리 가져왔답니다 (···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDNfMjQ5/MDAxNjcyNzMzNDgxMjQ1.GjYnKxpNSA1IwC1yLzVj0TSnK2aU63yCTdokLyqpoY8g.4-924-LH0rq8chHkT139EwJ-ehd5fyoCj8Y4rQSJAaog.JPEG/IfguhggXhyA2iTk27sEX7_IvbfRc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현빈] 포스트인데 안 볼 거야?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34663304&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34663304&amp;memberNo=32146648</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST] HYUN BIN ♥여러분 안녕하세요 베스트리입니다 오늘은 그냥 서론 없이 현빈의 현빈을 위한 현빈(덕후 베슽흐리)에 의한 현빈 관찰 포슽흐를 지체 없이 바로 시작합니다 컴 인현빈이 걷습···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjFfMjY0/MDAxNjY2MzIyMzI4NDIw.MkIcGsuTGjuRL2Q9w4TwJa9ZuLBeYLgML51iBWLm-8Ig.qwlG5HSUn3mxT5z0XswtXw-PE9YhEsa3a0Kx9JseTq4g.JPEG/Ii9cgvxHiu4QE2ujrrc3h_5CawuY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
