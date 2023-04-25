@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 05:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 06:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신현수] 방과 후 마지막 작전 개시]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35838176&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35838176&amp;memberNo=35839671</guid>
+            <pubDate>Tue, 25 Apr 2023 06:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 저 멀리 차를 타고 달려오는한 남자 그는 바로 성진고 3학년 2반의 영원한 소대장님♥배우 신현수 씨!오늘은 현수 씨의 포스트와 함께할 텐데요 이제는 전생같이 까마득하게 느껴지는소···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjBfMTM2/MDAxNjgxOTIwMzc2MTIx.030Kka2bMfuOUbZogUkaCFIldfWye3B2df9y_7g74xYg.f3ySvY6sob7m8I3pMvb81G8yc2YUEXipiL-IjXQXjnIg.JPEG/I6B80KkYEnKAuxsItSmpuWPosbpM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김지연] 목격담 제보합니다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35827608&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 Feb 2023 09:22:35 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 킹콩지기입니다:) Q. 배우 손우현이 생각하는 배우로서의 강점을 꼽자면 어떤 게 있을까요?‘마음가짐’이요. 그동안 배우 생활을 하면서 좋고 나쁜 감정들이 다양하게 왔다 가는 경우가 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTNfMjYz/MDAxNjc2MjgzNzA0MTA4.wsL0rWmkwhGCrKReyZ6EzGWsRczXGOPTnA2QekSWhuEg.pUaKBpSb6w8XWrN61cgHesFpvZZ-AV7VR3c391Wj0NQg.JPEG/IheHsMTzqfdbxyxwSzSvJpDCCmAc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김샤나] 밸런타인데이 깜짝 선물]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35457107&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35457107&amp;memberNo=35839671</guid>
-            <pubDate>Tue, 14 Feb 2023 08:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[띵동 선물 왔습니다♥밸런타인데이를 맞아 도착한깜짝 소식에&nbsp;문을 열어보니 문 앞에 서있는 배우 김샤나 씨?!  그렇습니다오늘을 더 의미 있게 빛내줄 주인공 샤나 씨와 함께 행복한 밸런타인데이 보낼 준비되셨나요···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTNfMTA0/MDAxNjc2Mjc3NDU1MzIw.M8JhATqG_Crz5kokxl1MKASTwYF5oh0PCAYtpL-Duw8g.wdpg62K4m0eVuAvfMF3zuKaR8Qr2NMQsrkhHLhopZDQg.JPEG/IS7726FdDreflvWtyGvRUH2E_qJE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
