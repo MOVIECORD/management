@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 07:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 08:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일요일엔 어디 가요??]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35815008&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35815008&amp;memberNo=3247896</guid>
+            <pubDate>Tue, 25 Apr 2023 08:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[*찡랑단 大&nbsp;환영**입덕 大大&nbsp;환영**함께 갈 사람 大大大&nbsp;환영* 스크롤을아래로 내려주시면파파라치비의 ✎'특별한 일기'가 시작됩니다&nbsp;☻ ✎ 치비 일기(a.k.a. 지은 배우 기록 일기)  2023.04.03(월) / 날씨_구름 조···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjBfMjk1/MDAxNjgxOTYwMjkxNDgw.P_wLUgINXQMzLoIDLagqp_URy_vIOwxNkCvW7OUilEAg.2Ue2m5Pjy3LBB8pTa7x2fCPiHIIyuQVTEIqmcCjhiYwg.JPEG/I6FUJynPVNV2v924yo1pl-f_R5pg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케이크는 역시 맞아야 제맛 ☺]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35822372&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 14 Dec 2022 02:52:27 GMT</pubDate>
             <content:encoded><![CDATA[네 맞아요 파파라치비 오늘도 왔지요 :D ~~~ 그 소식 들으셨나요!? 조윤서 배우의 '제 58회 대종상' 영화제 수상 소식을!영화 '이상한 나라의 수학자'로 '뉴웨이브'상을 수상한 윤서 배우!! '박보람' 향수병 도지기 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTNfNjkg/MDAxNjcwOTE5NDU4NTU0.FvkWlyt5zISxZFZQpA9kM6xEECeGNlBm15DcwEA1yg0g._r5ZhEIQ7s_gOGbovMavzpYtNlLhXfth3xIlbJshIMgg.JPEG/IBUyP2AX5c4tbNb8yhjl5UzJIRz8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독립 영화의 얼굴 [공민정]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34899731&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34899731&amp;memberNo=3247896</guid>
-            <pubDate>Fri, 09 Dec 2022 03:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[지난 1일 화려한 개막을 연 '서울독립영화제 2022'의 폐막식 사회를 맡게 된 공민정 배우는독립 영화의 얼굴답게 '씨네 21' 커버 촬영까지 함께했습니다첫 사진부터 시선을 제.압. 시켜 버린 분위기킹왕짱어메이징퍼···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDVfMTA1/MDAxNjcwMjQxMjk0ODA3.0zAgH7Yzh9tQoDGPpD6aC6zir8D8a1YRsQNcGeH0haYg.hoM0piF73B72MzZShcz6swcoUMrDdQyNbRmZ66XsGEMg.JPEG/I1vIYJXIwFheZo7cPD_ineFTpmQc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
