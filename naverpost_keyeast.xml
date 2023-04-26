@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 13:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 14:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김서형 퍼스널컬러=칸]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35847942&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35847942&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 26 Apr 2023 14:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[아니 여러분 키동 이야기 좀 들어보세요!요즘 눈코 뜰 새 없이 바쁜 서형 배우를 대신해 키동이 퍼스널컬러를 진단 받았거든요?근데 세상에 퍼스널컬러가 칸이래요!! (*˘︶˘*).｡.:*♡그냥 칸도 아니고 세계인···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjZfOTAg/MDAxNjgyNTA5NTU0MDEy.FYsYu-2Lnryw_f79--yARWa7LVuKBjqbZnZx8VRfaR8g.V2Pexfjsz3QMIWma74C2DXPOhQMjqPW4Q0JUvuPEvg8g.JPEG/I05AQz1sx71HYvxjlugRDbnIEP_Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조선의 피지컬 100]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35841740&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Mar 2023 14:20:33 GMT</pubDate>
             <content:encoded><![CDATA[여러분 안녕하세요. 오늘은 아주 재미있는 사진들을 잔뜩 들고 왔습니다!!반말 모드 켜고 바로 시작할게요!나 키동, '청춘월담'에 태강 역으로 출연 중인 허원서 배우의 사진첩을 탈탈 털어왔어!!어떻게 털어 왔느냐···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjhfMTg3/MDAxNjc5OTg1MTA3MTA1.2DVWOBZURikHpjNlO6y_GPLObQzj8Uw3HbzTn3AIt_Ag.fGZWz-XpMn3QjUorTy65VQAMpG9RM1yYitY5F3455iIg.JPEG/IxTIL0sSbMX2MKjc5B7w0Uy0rlck.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 우도환 차기작 누아르 확정]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35672490&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35672490&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 23 Mar 2023 14:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[올 봄, 당신의 심장을 뛰게 만들 단 하나의 영화!마주치기만 해도 등골이 서늘해지는 날카로운 눈빛!지금껏 본 적 없는 정통 비주얼 누아르가 탄생했다!"712죠!!? 우도환이 제 마음을 훔쳤어요!!"맑은 눈···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjNfNTIg/MDAxNjc5NTY0MTUyNDQ0.qf2GXVqtjRk7gPe0SDbgHBxmLGQp1vJyiotxtsrHHKkg.6AtXhCfrvXrY-peKyVNtcyd3NDvi8CsJondjhRuHr8Yg.JPEG/ItudyPf5_6891nMI_zzEztUkePVo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
