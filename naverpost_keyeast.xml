@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 13:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 14:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 마주친 김동욱]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35860311&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35860311&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 28 Apr 2023 14:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[웬 남자가 새빨간 자동차 옆을 어슬렁어슬렁 거리길래와 누가 빈티지한 새빨간 차를 뽑았네? 라고 생각을 하던 찰나에...! 그 남자가 뒤를 돌아 봤어요! (빨리 앞을 보라고! 당신 대체 누구얏!?)그 남자의 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjhfODcg/MDAxNjgyNjc2NzY2MTAw.YEojnnrLIrXo6itg_-XPpopYvY2toIya6BDxG9CIKUgg.r_NtQ0o1X4l60gIzRWAZUaETkFVJqO1_RV6Tv58quHcg.JPEG/ISHa-NbI32o5DNlyf3QyItoytmqE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['볼펜좌'의 선전포고]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35853971&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Apr 2023 14:15:26 GMT</pubDate>
             <content:encoded><![CDATA[흰 피부 검은 눈동자 헝클어트려진 젖은 머리 뱀파이어가 실존한다면 과연 이런 모습일까요?손으로 머리 한번 스쳤을 뿐인데그저 옷깃 한번 스쳤을 뿐인데섹시함 뚝뚝 치명적인 매력으로 모두의 시선을 강탈한 한 남···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMzFfMTky/MDAxNjgwMjU2NzgwNDM5.N4zlOKh2l9_zDeck7_B9YjxNhI3IEpAz6SvIZzhIBZ4g.ESXfQSXEDuqSF8xxYh0pZUIyVLJuurDKJz6KUxrIM3cg.JPEG/IwqKgH-OvQXxxHl6wJdAyWpZojBQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[★우도환 컴백★]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35703355&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35703355&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 29 Mar 2023 22:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[★우도환 is 컴백★ 3년이라는 군백기를 지나드.디.어우도환 배우가우리의 곁으로 돌아왔습니다! 본캐연기하는&nbsp;우도환으로 말이죠!!! 한양&nbsp;최고의&nbsp;비주얼외지부&nbsp;강한수 천과&nbsp;바람만&nbsp;있으면&nbsp;어디든&nbsp;갈&nbsp;수&nbsp;있어,,★ 어디···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMzBfOTkg/MDAxNjgwMTA0MTcyNDA0.NkyfmX-KCdn1mT2q8wWKA4cn3_BhDCdVjVums-fNPgwg.PndVj-MnA-wE7SpNTgo4_Wsex_OAhRS0akDDjeYKQVIg.JPEG/Ix-S7ZG9jhnQKqoBHGlJJWmdhj1g.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
