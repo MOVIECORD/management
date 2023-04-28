@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 09:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 10:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주도에서 만난 [신도현]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35856512&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35856512&amp;memberNo=32146648</guid>
+            <pubDate>Fri, 28 Apr 2023 10:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST] SHIN DO HYUN ♥꽃향기 가득 실린 봄바람이 불던 어느 날 제주도에 간 베스트리가 글쎄, 도현이를 만났지 뭐예요♥[안-녕★] 머리부터 발끝까지 오가닉 한 느낌 가득시야를 그득 채웠던 아름···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjhfMjkg/MDAxNjgyNjQ3MzI1OTgw.tf-8DAx5f3kN73cH6NKCsPdHvMTUz-1b-JAWVtC6SAQg.W7h5kv06bXQTpTS_RzJyRGiEqWutLbLvPpT_Lt_1i6Eg.JPEG/IgKpS4llSfI-hGHtQzYs2HTTI2IQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[VAST 이사했zip] 그녀가 오자 봄이 되어버렸던 날]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35705428&amp;memberNo=32146648</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 01 Feb 2023 10:22:52 GMT</pubDate>
             <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2021보는 내내 입꼬리가 내려갈 생각을 안 하던현빈 배우의 &lt;Smart Ako&gt; 온라인 이벤트혼자만 앓을 수 없어 빠르게 준비해본 현장 비하인드, 함께 앓아보아요 #영상이던_사진이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDVfOTYg/MDAxNjcyOTEyMjU5OTc4.l3yPZ3KG_IbYOCbCQhgC-HwaP3UYIXJR897Jec1M5R0g.T3EJ-_JvCZ5QjGWCuCLusmNuxXOusqnoF4GTYokmkXUg.JPEG/ID766aR1BasDbzzB1YiSJJB1kPlA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신도현] 포스팅은 못 참지]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35142784&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35142784&amp;memberNo=32146648</guid>
-            <pubDate>Fri, 13 Jan 2023 12:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST] SHIN DO HYUN ♥안녕하세요 베스트리입니다!오늘은! 베스트리가 준비한 신도현 배우의 거부할 수 없이 짜릿한 메이킹 속으로 빠져보아요★ㅍ ㅜ ㅇ ㄷ ㅓ ㅇ시작부터 눈길을 사로잡는 쿨뷰티세상에는 숨···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDlfMjk1/MDAxNjczMjQ3NjAwMDkx.bqVbJmh2iQYixg_lHo5EKa_OQTwaXiwUoZj2Z1YS5_0g.rHC7ArFRu7Nx5DGYR3qt4H7hTePXsxZejr81tz9Ysgsg.JPEG/IrnnpUwHjVxl1-LO9695QlvBaFxg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
