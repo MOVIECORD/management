@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 06:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 07:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 조각상,, 탐난다,, ♡정유미♡]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35857565&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35857565&amp;memberNo=22903361</guid>
+            <pubDate>Fri, 28 Apr 2023 07:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[여러분은 지금 세상에서 가장 아름다운♡ 조각상을 보고 계십니다  보고만 있어도 즐거움이 배가 되는 윰블리 조각상? 이건 못 참지!!!  아무리 멀리서 봐도 내 눈에는 정유미 당신만 보여.. ❣ 근데 진짜 뭐지,, 사람···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjdfMjYy/MDAxNjgyNTgwMDYzMjY5.FPzbMIDJ7V7iD1MTsxDPs7RYccJzOTJvKK0ZEwgutmQg.HspQziZ3ovBGs0m6ef1qFYwtJb7lQe4LtfGapfvTTY8g.JPEG/IaZjq-bGxr4L33BPMPBWHF8PGTWM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘전소니’ 컨셉 소화력 뭔데]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35844992&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 26 Dec 2022 06:25:24 GMT</pubDate>
             <content:encoded><![CDATA[세상에~&nbsp;여러분!7&nbsp;년&nbsp;전&nbsp;세상을&nbsp;떠난&nbsp;세자빈이 궁을 떠돌고&nbsp;있다는&nbsp;풍문&nbsp;들으셨죠? 아름다운 세자빈을&nbsp;잊지&nbsp;못한 세자 저하가&nbsp;너무&nbsp;이해되는&nbsp;바  얼마나 아름다우면 아직도 못 잊고 있냐구요? 제가 민(주에 美)친자로···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjZfMjk1/MDAxNjcyMDIyODUwNjQ4.sjvakU2vc72DmyzUdG3-wEV2a4MoMd6KmGYOfRxUmgwg.7xWsz1TzW8Z3g0k22UFPwYwkFfoCfU6piSvtOLfdvOkg.JPEG/IXmNNVm2gdfF_tQruV3z37m-Vafo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[얼굴맛.zip] ‘김민주’ 편]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34954052&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34954052&amp;memberNo=22903361</guid>
-            <pubDate>Wed, 14 Dec 2022 06:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 여러분,보고만 있어도 황홀해지는 숲속 &lt;얼굴 맛집&gt;에 오신 것을 환영합니다.[얼굴맛.zip] ‘김민주’ 편지금 바로 시작합니다.   ‘금혼령’ 속 세자빈 안씨 맞나요..?  세자빈의 변신은 무죄..!   빠···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTNfMTY1/MDAxNjcwOTE2ODkwMjYw.r_5Ts6YFk-7NSgcQK4aIQRhYOP6geR6ao5_MkdCVIY0g.B2gbeHlTT3kEyhUP2hC0lac9Q-4ED86pZxRpr9cGAh0g.JPEG/IHcsaY8TOPso1urv3yfMgidlSa1w.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
