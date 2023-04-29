@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 05:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 06:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김지연]을 지켜주길 바라옵니다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35861962&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35861962&amp;memberNo=35839671</guid>
+            <pubDate>Sat, 29 Apr 2023 06:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-) 여러분께 한 가지 간청하옵건데 MBC 금토드라마 &lt;조선변호사&gt; 속 배우 김지연 씨를 지켜주길 바라옵니다그를 지켜야만 하는 이유, 포스트로 알아 보시러 가시지요촬영장 메···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjlfMjky/MDAxNjgyNzQzNzUyODQ3.9grHXNMxiXvPGTeyjzlCAM9nI0Vdlq7XZRxg_ZfTmOsg.Wfg_nX6xABBtLvFqE_w-5iJAh-dvsGYFImIyUBZA6Ksg.JPEG/Io4CMH4twtkWNjLpTH4KrmcNevSY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김범] 바야흐로 이랑의 시간이다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35858451&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 10 Mar 2023 09:22:58 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-) 요즘같이 점점 따뜻해지는 날씨엔 여행이 딱이죠!여러분과 함께할 오늘의 목적지는요☆.* 이동욱이라는미지의 세계 ｡ﾟ✶준비되셨다면, 지금 바로 출발합니다!도착해 보니 미리 캐리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDlfMTM1/MDAxNjc4MzU5ODUwMTg1.IJdtZVM0YAsiAf9LI7VGkZmOuOGikzMl7d8-OxU1JQkg.yTszCT30wujNSsqvOfHYlIZw1aBUugMJS75QJZWQte8g.JPEG/IDxBJNyU2kfE0GqIXZ7WSfwuwLeU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유연석] 우리 집 멍뭉이는 놀토를 좋아해]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35554128&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35554128&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 01 Mar 2023 05:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-)오늘은 tvN &lt;놀라운 토요일&gt;에짠!하고 나타난 멍뭉이(유연석/배우)와 함께합니다♡ 이 멍뭉이로 말할 것 같으면,"킹콩에서 토크를 제일 잘한다"라는 칭찬···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDFfMSAg/MDAxNjc3NjA4MjEzMjM2.GT4qVXh8EpUJ8CoOoXXCCK2nFzfAIK-lkgqm0bSqyX0g.R9xzO2clMMtHMQhNPk6VcpE6jeTI58C33cQe1UdfmMMg.JPEG/IOiJ_-OII8Iz0FKIZHCL3HSLSDYA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
