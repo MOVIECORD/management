@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 13:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 14:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김서형 짜릿해, 늘 새로워, 예쁜게 최고야]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35870358&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35870358&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 01 May 2023 14:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[새빨간 배경에 원오프숄더독특한 디자인의 연두색 셔츠보디 슈트와 노란 롱스커트난 몰랐어, 김서형 이리 다채로운지 ♫͙◟̊₍ꃓ₎◞◟₍ꃔ₎◞̊♫͙형형색색의 김서형 인간 파스텔 그 잡채!!!화제의 중심!! 서형 배우가 또 하나···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDFfMjU2/MDAxNjgyOTQ1MzgxNzA3.UUNXmsXIS1Eq6MNgMsRiz_V6KV74JtkAh0DzfxCSHWAg.RQgsYhq0p1FM8CfdssiBD8O-h1dcg5UW4wKH5ryu80Mg.JPEG/IucmRvZvOP9t1dG9JNk0JO5oV7ZI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄의 요정 강림]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35863120&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Apr 2023 14:16:17 GMT</pubDate>
             <content:encoded><![CDATA[키동 사무실 책장에 매거진이 한 권, 두 권 쌓일 때마다나날이 자연스러워지는 POSE절제된 카리스마와 클래식한 MOOD여유롭다 못해 흘러넘치는 장난기 ( •͈ᴗ-)ᓂ-ෆ슈트 차려입고 언더락잔 하나 들었을 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDdfMTk1/MDAxNjgwODcxNzYwMzkw.sL9TPao-XdNnmvCr0QsQbUOWQRBIM8ypNdNR3fA63Dcg.p-gXhcRWihj6_DJS-8x6728_TMly23MzhSKUwGaNHkwg.JPEG/IrDzSu9LZfyZ4G3EhZwzP2RD6uA8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김서형, 우아함, 파격적]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35733374&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35733374&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 04 Apr 2023 14:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[단 세 단어로 여러분들의 심장을 종잇장처럼 구겨놓겠습니다. 김서형, 우아함, 파격적 킹갓제너럴골져스를 장착하고 김서형 배우가 브라운관으로 돌아왔습니다![삽니다] 가짜 행복 [팝니다] 유이화 인생"인생이···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDRfMTEg/MDAxNjgwNjAyNzI4ODM4.Lmzek_asusos-Y0TzvP2WkE4uZeSMgiQvMPdqHN2U9Mg.IRDanJyFpRrTLsP9UtNLgBwqhjn6IOpaYmNlkEjMEmUg.JPEG/ISABsemCWwTGsTQUNoMoJYN3xTJk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
