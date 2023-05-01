@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 02:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 03:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[✎닉값 중인 [안재현]의 풀네임은..]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35858328&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35858328&amp;memberNo=3247896</guid>
+            <pubDate>Mon, 01 May 2023 03:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[오늘에서야 밝힙니다.#안재현_풀네임_공개[성] → '안'[이름] → '재현 어김없이 잘생겼다' 닉값 제대로 한 &nbsp;안재현의&nbsp;✯Legend✯ 화보지금 바로 만나보시죠 사진 출처 : esquire 여러분은 지금 역대급 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjhfNDYg/MDAxNjgyNjYwNzIzMTk2.IYC0biAJ-P3dGGitglAWleXukkA2CwpC6xoTPADgcNMg.7ThxRPVHLcygZiwW0zoSNhSiHaRfJfd3lqHSL50nLHkg.JPEG/IlbGppCyXymsmbkx2g89pkQ-fCA4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일요일엔 어디 가요??]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35815008&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 22 Dec 2022 09:19:56 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 파파라치비입니다 :) 오 늘 은왼쪽에서 봐도정면에서 봐도오른쪽에서 봐도예쁜 '김지은' 배우의 지난주 행적을 쫓아 보았기에 문단이 요리 갔다 조리 갔다 할 예정입니다 &gt;&lt; (정신없어도 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjBfMTg0/MDAxNjcxNTIzNjc4NTg3.e4v3xP1YCM-JdBRBwTxLbY3u95yFyWlj9IFrb9SWkHsg.b9VZYmw7oigkwagO2iQq1la-wReyNm4F6RJYCT5_g4cg.JPEG/IKuzpGiya9GNMH6tnBtAVeN3BUnw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그, 겨울 우리가 좋아한 배우 [조윤서]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34924124&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34924124&amp;memberNo=3247896</guid>
-            <pubDate>Wed, 14 Dec 2022 02:52:27 GMT</pubDate>
-            <content:encoded><![CDATA[네 맞아요 파파라치비 오늘도 왔지요 :D ~~~ 그 소식 들으셨나요!? 조윤서 배우의 '제 58회 대종상' 영화제 수상 소식을!영화 '이상한 나라의 수학자'로 '뉴웨이브'상을 수상한 윤서 배우!! '박보람' 향수병 도지기 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTNfNjkg/MDAxNjcwOTE5NDU4NTU0.FvkWlyt5zISxZFZQpA9kM6xEECeGNlBm15DcwEA1yg0g._r5ZhEIQ7s_gOGbovMavzpYtNlLhXfth3xIlbJshIMgg.JPEG/IBUyP2AX5c4tbNb8yhjl5UzJIRz8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
