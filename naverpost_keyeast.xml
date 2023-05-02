@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 13:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 14:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[간호사가 찰떡인 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35876726&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35876726&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 02 May 2023 14:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[다시 우리의 금토 밤을 설레게 만든 '낭만닥터 김사부3'그리고 돌담병원에서 빠질 수 없는 우리의 러블리 주간♥트레이드마크인 땡글한 뿔테와 야무짐+러블리한 성격을 동시에 가진 주영미 간호사역의 윤보라 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDJfMjUg/MDAxNjgzMDE5NTM4MDE1.v58WPGHAnDNehGKpiIuPrzVJ23e2sLEqlJV6zjWeEnUg.Nri7T7_fAVxTK_ZlSye1gqiSNqFGiUR_HDZamGRWhjMg.JPEG/I_-egEiJZdjlob05tD08EIcB_iSE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김서형 짜릿해, 늘 새로워, 예쁜게 최고야]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35870358&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 08 Apr 2023 14:15:39 GMT</pubDate>
             <content:encoded><![CDATA[띵동! 주말에 보면 더 반가운 ★한선화★ 등판왜냐고요? 오매불망 기다리던 불금에 쓰윽- 퇴근해서다양한 술들이 모인 곳에서 ♬친구들과 즐겁게♬시원~~~하게! 술 한잔 즐기고 나면,뿅!(❁´◡`❁) 선화 배우···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDdfMTM4/MDAxNjgwODU0OTczOTY5.9AXdlPle84gvJdF7h0wsTmJj5gpEGJtOTRsucqlbfx8g.-WxOoPpUCc7FhYzuvTaTvXqEA0f--yBnD9qmyX1BGaEg.JPEG/I8mYcV_tM2QpR5iqKRvxYKrkBdbw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치트키 입고 등장한 정성일]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35750964&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35750964&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 07 Apr 2023 14:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[키동 사무실 책장에 매거진이 한 권, 두 권 쌓일 때마다나날이 자연스러워지는 POSE절제된 카리스마와 클래식한 MOOD여유롭다 못해 흘러넘치는 장난기 ( •͈ᴗ-)ᓂ-ෆ슈트 차려입고 언더락잔 하나 들었을 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDdfMTk1/MDAxNjgwODcxNzYwMzkw.sL9TPao-XdNnmvCr0QsQbUOWQRBIM8ypNdNR3fA63Dcg.p-gXhcRWihj6_DJS-8x6728_TMly23MzhSKUwGaNHkwg.JPEG/IrDzSu9LZfyZ4G3EhZwzP2RD6uA8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
