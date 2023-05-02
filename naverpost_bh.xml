@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 08:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 09:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[충격 한지민 실존]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35874860&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35874860&amp;memberNo=21724264</guid>
+            <pubDate>Tue, 02 May 2023 09:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[[오늘의 주요 뉴스] 충격 한지민 실존 (별안간 뉴스톤으로 작성된)프랑스 파리 루브르 박물관,영국 런던 대영 박물관,바티칸의 바티칸 미술관이찾아 나선 한지민(배우)이 문화 예술계에 파란을 일으키며 서울특별시 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTZfMjYg/MDAxNjc4OTMyNzc3MzEz.h6UQbhg27E5fzB1KtIvWkpAYcnMyDw6qdHYxJaANZHgg.Ah_sGSyanDJgUpnvPVnWOI0-6FwxMP7_9WrCxrGl1e0g.JPEG/ID0pBMIe5__GovIAScFDIKOCZjkg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BH엔터테인먼트] 4월의 BH ON AIR]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35700187&amp;memberNo=21724264</link>
@@ -153,14 +161,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:50 GMT</pubDate>
             <content:encoded><![CDATA[요즘 제 끼니 걱정해 주는&nbsp;이 남자 여기 한 남자가 있습니다 양치를 하다가도머리를 말리다가도밥을 먹다가도 생각나는 이 남자 생각나면 바로바로 볼 수 있는휴대폰 속에 나오는 이 남자 OTT 콘텐츠의 남자박. 해. ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjBfMTQ4/MDAxNjYzNjM2NTI2NjI5.PquMJ8HD2tEgww1O3Y_v9LTqIOSrGkJzRr0rG3g9RDYg.SdhOXLKxQQNzZFHn6QJKILXkSQwK1bmbfMjripKkqFcg.JPEG/I22Otp035Ek834vfajfpcqgTuV84.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 김고은 너무 좋아 (੭•̀ᵕ•̀)੭]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34475973&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34475973&amp;memberNo=21724264</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[새해 복 많이 받으세요건강하세요사랑해요고맙습니다잘 먹겠습니다날씨 좋다로또 당첨 우린 이걸 김고은이라고 부르기로 했어요 왜냐하면 ㅎ ㅋ ↑ 김고은이기 때문 ^-^ 화이트 고은 봤으니이제 블랙 고은 볼 차례 엘레···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDZfNiAg/MDAxNjYyNDY4ODgwMjUw.VmIm7m7G0mj8FrMlhl9H1DYAYFYmpa-iLexYb_olia4g.OJWjloy_yNonpLnphWz62CI5b7cyR16N4QHW3w49Q84g.JPEG/IDxmOkrxc-YATkxpI2rnl-qfZ1pg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
