@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 08:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 09:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[VAST 이사했zip] 지이니와 함께 한 여름]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35705542&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35705542&amp;memberNo=32146648</guid>
+            <pubDate>Wed, 03 May 2023 09:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2021 -   출처 / VAST엔터테인먼트본 콘텐츠는 VAST엔터테인먼트에서 발행한 콘텐츠입니다.무단 수정을 금하며, 출처 표기 후 비영리 목적으로 이용하실 수 있습니다.소속 아티스트에···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMzBfMjYz/MDAxNjgwMTQ2MDEzMzIz.fx_dHIdkSlfbVTPsk5dTdoEZyTFkw7sPwT2yi0fgoGMg.F3xblC9tXHMTCBlMZhdFBXHkuGApvo4dAQCdrBrsOsQg.JPEG/IUztP5wEZdHBh_l-0r7mkzm6OeIA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주도에서 만난 [신도현]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35856512&amp;memberNo=32146648</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 03 May 2023 05:18:32 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST] DO WOO ♥굳 이브닝 덕메들오늘은 [비주얼은 냉미남의 정석] X [심장은 온미남의 정석] 아니, 사실은 그냥 미남의 정석 배우, 도우의 포스팅입니다☆군중 속에서 시선을 잡아 끄는 한 사람촉촉한 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjBfMjQ1/MDAxNjc0MTk0NTIzOTM3.TxlcLTyXwitqIKIwoqxOCp6giIyhordp5zcXfNM1UNcg.bHDxk0-q268CFvVGaZFmPf6K9_Gar-LBowQ9iwVSB-Qg.JPEG/IFfcrbc9ZbPYg25YY-znOuQGERRU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[VAST 이사했zip] 웃음치료가 자격증이 있는 배우? ft.Smart Ako]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35301404&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35301404&amp;memberNo=32146648</guid>
-            <pubDate>Wed, 03 May 2023 05:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2021보는 내내 입꼬리가 내려갈 생각을 안 하던현빈 배우의 &lt;Smart Ako&gt; 온라인 이벤트혼자만 앓을 수 없어 빠르게 준비해본 현장 비하인드, 함께 앓아보아요 #영상이던_사진이···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDVfOTYg/MDAxNjcyOTEyMjU5OTc4.l3yPZ3KG_IbYOCbCQhgC-HwaP3UYIXJR897Jec1M5R0g.T3EJ-_JvCZ5QjGWCuCLusmNuxXOusqnoF4GTYokmkXUg.JPEG/ID766aR1BasDbzzB1YiSJJB1kPlA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
