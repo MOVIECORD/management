@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 07:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 08:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 집 고양이가 말을 하는데요?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35875528&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35875528&amp;memberNo=21724264</guid>
+            <pubDate>Thu, 04 May 2023 08:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[찍었다 하면 레전드 비하인드도 레전드 갱신하는 우리 집 말하는 고양이 안소희 무슨 색을 입어도퍼스널 컬러가 화보인 화보 천재 안소희 사실 오늘 사진이좀 많습니다^^ 아무래도 말하는 고양이는 희귀하기에... 모···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDhfMjc2/MDAxNjc4MjYyODA4Nzgx.5_GFv0LDDOwGozswScVOjtr4JrB4cJZYep2xn2QQQJEg.oysEExFu3K3koCnUsKu56Zxz2Jc04-fgEwc5LbrEaOUg.JPEG/I3Lz_gjiR54xgh0BJyYMq6tsriGQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BH엔터테인먼트] 5월의 BH ON AIR]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35882178&amp;memberNo=21724264</link>
@@ -152,14 +160,6 @@
             <pubDate>Thu, 04 May 2023 07:18:10 GMT</pubDate>
             <content:encoded><![CDATA[오늘도 기도합니다 아씨 of 아씨 &lt;작은 아씨들&gt;의 막내 인혜가 저 새장을 열고더더 멋지게 날아올라 전 세계를 제패하고 앉으나 서나자나 깨나언제나 행복하게&nbsp;해주세요 해피비의 간절한 기도가 이루어진 걸까···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDVfMTg0/MDAxNjY0ODk5NDUzODcw.z1ZvirKEb4P10SRWF2aDYV1dUkZBcaaeeTnH0IFcF98g.wXw6aNlJZeFJeeGkTJpBbWN0b4EuKtS_RljFFRgxCVog.JPEG/IJz5grcUSPwT7uVsy3cpqM02ZPSk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김고은X박지후] 말해 뭐해 진행시켜]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34521993&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34521993&amp;memberNo=21724264</guid>
-            <pubDate>Thu, 04 May 2023 07:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[도전 BH벨 Q. 밥 안 먹어도 배부른 조합은 누구일까요?정답은 우리 둘&gt;&lt;푸하하핫 꺄르르륵 딩동댕동!요즘 대한민국에서 가장 HOT한 두 배우 김고은 X 박지후연락 차단 전문, 한 성격하는 오자매가 화보계 기강···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjNfNTkg/MDAxNjYzOTA5MTUyMzk2.DZXAjpg0QxW7J4ubsV9OfOhis4PmbS6WK-QJgB8qok0g.lgTfVbd6vM8SKfOWIFWz5z3Cc1yf1YxwbX7q3CGxJFUg.JPEG/IBcXfIdW71WGdb2scMscf1WRBqEQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
