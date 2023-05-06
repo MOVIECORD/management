@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 07:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 08:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱, 김범] D-day! "(본방사수) 사냥의 시간이다"]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35895836&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35895836&amp;memberNo=35839671</guid>
+            <pubDate>Sat, 06 May 2023 08:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요:-) 킹콩지기입니다!드.디.어 그날이 왔습니다 tvN 새 토일드라마&nbsp;&lt;구미호뎐1938&gt;의첫.방.송1938년으로 떠나는 D-day 하지만 떠나기 전 잠시 들릴 데가 있습니다 배우 이동욱, 김범 씨를 미리 만나···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDVfMTIw/MDAxNjgzMjY3Nzg3MzY5.HlUUxlIyj_u4kv0s2uJ4gHGyc-W1KRTRJSTHL4QtbHwg.r7LnOKYQGsJwqVIiXKiqCvRElhLoGlR7eUVSXH-YiUog.PNG/IfRqiFPpjLNLxggpLeS8oyy-1atk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김지연]의 럭셔리 라이프]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35889531&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 May 2023 06:23:10 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 :-) 기다리고 기다리던배우 손우현 씨의 포토북&lt;새봄을 기다리며,&gt;&nbsp;비하인드와 함께 ✿ 킹콩지기가 찾아왔습니다&nbsp;✿ 지난 겨울,&nbsp;우현 씨는&nbsp;팬분들에게 가장 먼저 ✿봄✿을 선물하고자제주도 여행을 떠···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjNfODAg/MDAxNjc5NTYwMDExOTYx.PVHAcSbnLHApq-nrBrKvukS6zVGwpAMpDyCin02xl8Ag.TzzqFDuAHaXgocz1WMxRBYozr_f5XUFEVr7_JA31lNQg.JPEG/IUnLmFuspt7wARyg6skQSUjPzB1Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[류혜영] 폼 미쳤다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35671421&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35671421&amp;memberNo=35839671</guid>
-            <pubDate>Sat, 06 May 2023 06:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 킹콩지기입니다:) 패션 매거진 '마리끌레르'의 '젠더 프리 2023' 프로젝트와 함께한 배우 류혜영 씨한 마디로 표현하자면? 폼 미쳤다 Pom MichutdaA컷 못지않은 비하인드 속 류혜영 씨다시 한번요? ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjJfMTIw/MDAxNjc5NDc0MTMyNzMx.hqcCjaG-CmxwLHHQ54PQPGPvSkU_0402bYokfGqbXw0g.fV688gNc4AqE5bZ6XaNKBcVdLA1sODZAwGQrEezzgZEg.JPEG/IL2Ey_wEzm_evaYZO1XnoM2j4kDs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
