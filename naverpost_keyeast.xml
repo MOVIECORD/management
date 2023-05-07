@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 23:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 01:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생애 처음!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35897420&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35897420&amp;memberNo=29770009</guid>
+            <pubDate>Sun, 07 May 2023 01:39:24 GMT</pubDate>
+            <content:encoded><![CDATA[5월은 푸르고, 푸른 하늘 아래 새싹들이 쑥쑥 자라는 따스한 봄!신인 배우 김시은신인 배우 강현오키이스트의 새싹 김시은, 강현오 배우의 찬란한 미래를 꿈꾸게 만들었던 '제59회 백상예술대상'특별 무대 맛집 백상···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDZfMjUx/MDAxNjgzMzg0ODI3ODc1.tKuwOTnxpve7nafAG96730SHxrGTA8rSHRc3Hcyhzpog.lJxPDUajCNTMXIQIb60D4EpX8qzN7ddmNckKlKraVakg.JPEG/Is1U-jnqZFrkTC38XP0ZJauG2IKg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찾았다 내 오천련]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35890369&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 May 2023 21:15:46 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 키동입니다! 오늘(11일) '청춘월담'이 대단원의 막을 내렸습니다허당기 넘치는 귀여운 호위무사 태강이부터가슴 아픈 사연을 지닌 흑막 쌍둥이 태산이까지1인 2역을 멋지게 소화하며 대활약을 펼···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTFfMjM1/MDAxNjgxMTY4MTc1OTY4.N5LK0xyWUrLzhJ_GHtQjLYAFgXu5YzlcSBQT_HG5x80g.LJnihC4gRK78MFRg5uXNCyvKobldteVtmYM75aUrl5kg.JPEG/IW20A5MvOnaLAtJBk2pv6SoH-GyY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우도환을 고소합니다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35763000&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35763000&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 06 May 2023 21:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[우도환을 고소합니다.고소 이유: 키동과 시청자들의 마음을 뺏어간 죄어느 순간부터 그 사람의 얼굴이 제 머릿속에서 떠나질 않거든요그래서 결심했어요. 송사를 하기로열심히 골똘히 생각해봤죠! 승소하기 위해서 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTBfMTg3/MDAxNjgxMTI1NDE5NTU0.ELuz4ouBC0Ch9aA3IKQs7KUxABn2WHc9-FItfxhv4Ukg.XysujE34VYw-a9yi5aFssyImvQprArZtsh1dUzAwZCMg.JPEG/IntDfxkeTGl1fx5RQ00eGTdxAxOg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
