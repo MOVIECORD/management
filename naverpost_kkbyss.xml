@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 07:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 08:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱] 옛날 옛적에 구미호가 살고 있었대요. 그런데 어느 날...]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35898322&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35898322&amp;memberNo=35839671</guid>
+            <pubDate>Sun, 07 May 2023 08:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[시청자 여러분 안녕:) 오늘은 구미호가 주인공으로 등장하는 &lt;구미호뎐1938&gt; 이야기를 들려주려고 해요옛날 옛적(?) 민트초코를 너무너무 사랑하는 구미호 '이연'이 살고 있었대요하지만 이연이 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDdfNDkg/MDAxNjgzNDQwNjU3OTg5.jraJsDTh2XQB17McHfL5_aZg2W6vkGS-YY7a8y-uZgUg.RLaMD3Ro89OSyiFOCfK6_nXLm33wc5_xtUzW4G9FfKkg.JPEG/IuORtdnVzN-ZfMZHpxrtvYlZA5Cs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱, 김범] D-day! "(본방사수) 사냥의 시간이다"]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35895836&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 May 2023 18:23:00 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 킹콩지기입니다:)지난 1월 29일(일)&nbsp;첫눈에 반한 후그저 사랑할 수밖에 없는배우가 있습니다 [사진출처: 쇼노트] [사진출처: 쇼노트] 연극 &lt;셰익스피어 인 러브&gt;를 통해진한 감동과 웃음을 선사한···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjJfMjE5/MDAxNjc5NDc4ODg2NDU5.PmSfz9_8CXsklz0K1lp3uDKx0uMfevvaLykudR7vkKEg.ZrfPz3vMnuApMfznDpnO5NGIXSp4m0o0F3O7SVO7kHMg.JPEG/I9jgNt-0ZM_doYxQmeRMC8lKlgpg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[손우현] 새봄을 기다리며,]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35677564&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35677564&amp;memberNo=35839671</guid>
-            <pubDate>Sat, 06 May 2023 18:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 :-) 기다리고 기다리던배우 손우현 씨의 포토북&lt;새봄을 기다리며,&gt;&nbsp;비하인드와 함께 ✿ 킹콩지기가 찾아왔습니다&nbsp;✿ 지난 겨울,&nbsp;우현 씨는&nbsp;팬분들에게 가장 먼저 ✿봄✿을 선물하고자제주도 여행을 떠···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjNfODAg/MDAxNjc5NTYwMDExOTYx.PVHAcSbnLHApq-nrBrKvukS6zVGwpAMpDyCin02xl8Ag.TzzqFDuAHaXgocz1WMxRBYozr_f5XUFEVr7_JA31lNQg.JPEG/IUnLmFuspt7wARyg6skQSUjPzB1Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
