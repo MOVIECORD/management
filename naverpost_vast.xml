@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 09:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 10:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연희와의 '레이스' 시작해볼까?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35889618&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35889618&amp;memberNo=32146648</guid>
+            <pubDate>Tue, 09 May 2023 10:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST]LEE YEON HEE♥ ©싱글즈 매거진 5월호 끝없이 도전하는 그녀의 레이스오늘은 새로운 작품으로 돌아와&nbsp;색다른 매력을 보여준연희 배우의 화보 비하인드를 들고 왔어요 여전히 열일하는 연희의 미모부터,새···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDRfNTcg/MDAxNjgzMTkxNjU2Njcw.DhXdX_H3YWp4FiIxraCtSGug9_O0Y2GvZ1gBssar-gYg.MwLxPHMbcJ6hWk3EvK9zzI6na-3r7yG6LYqucBqmwwcg.JPEG/IWz6njCgC526MkYQMoUpN789-nxo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[VAST 이사했zip] 지이니와 함께 한 여름]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35705542&amp;memberNo=32146648</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 08 May 2023 22:18:16 GMT</pubDate>
             <content:encoded><![CDATA[[VAST 이사했zip] BACK (UP) TO 2021BENCH와 함께 진행됐던 현빈 배우의 온라인 이벤트 &lt;I WILL ALWAYS FIND YOU&gt; 현장! 늘 여러분과 '함께'인 현빈 배우 보면서 월요병 완치 하세욥 ♥ -출처 /···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDVfMjk5/MDAxNjcyOTEyNTE5NDM3.lHzWSu8cbJ947cB249aEEvuqzTKvnnS7Dv5OBJXp4jcg.pu3TS8G8MeKDEOMx-kIAfe0QA5QjB3fC1_iXtLgdCNAg.JPEG/I86Gj_Me9cXHEE3Q7KKjRbsBm_Eo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[도우] 냉미남의 정석]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35337486&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35337486&amp;memberNo=32146648</guid>
-            <pubDate>Mon, 08 May 2023 22:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST] DO WOO ♥굳 이브닝 덕메들오늘은 [비주얼은 냉미남의 정석] X [심장은 온미남의 정석] 아니, 사실은 그냥 미남의 정석 배우, 도우의 포스팅입니다☆군중 속에서 시선을 잡아 끄는 한 사람촉촉한 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjBfMjQ1/MDAxNjc0MTk0NTIzOTM3.TxlcLTyXwitqIKIwoqxOCp6giIyhordp5zcXfNM1UNcg.bHDxk0-q268CFvVGaZFmPf6K9_Gar-LBowQ9iwVSB-Qg.JPEG/IFfcrbc9ZbPYg25YY-znOuQGERRU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
