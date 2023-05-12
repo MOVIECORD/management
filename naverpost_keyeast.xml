@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 13:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 14:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신의 조보아에게 투표하세요]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35931405&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35931405&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 12 May 2023 14:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[당신의 단발 스타일에 투표하세요1번. 신비하고 묘한 분위기의 칼단발2번. 당장 미용실로 뛰쳐가고픈 중단발3번. 성숙하고 매혹적인 숏컷아니면...장꾸력 대폭발 톰보이 컷?? 조보아 is 뭔들.. 중요한 건 어떤 스타···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDRfMSAg/MDAxNjgzMTkwMjI5MTI1.w3TSyJWe0yFRd8wqRtFrV0Q1oATt44rA4r6y951fSVIg.VaSJILdYUsi7WOJP-Q42ikvF0cjlLt9J4WmN3B8SHHkg.JPEG/IysBFGofumDJu1ZFofpUWv0NiR0g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갓벽한 우도환]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35925087&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 May 2023 09:18:10 GMT</pubDate>
             <content:encoded><![CDATA[그날이 와버렸어요...↑요런 표정으로 ↑ 매주 금토 밤 10시를 기다리게 만들었던 '모범택시2'의 종영이 오고야 말았어요 (｡•́︿•̀｡)아쉬운 마음을 가득 담아 준비한 우리의 짱대표님! 김···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTdfMTM3/MDAxNjgxNzE1Mjk4Njkx.LMSL9MlLaznwIqazGOI-JQJs8ls4009Z-od37NvbERIg.rUSINtIsr5NtRlQC8sf-qx35Stl5VEjj7LbyKwIm-xog.JPEG/I1IoKq3wapEmbigbYp8BlVj7_J1A.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["받아쳐 봐"]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35790218&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35790218&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 12 May 2023 09:18:10 GMT</pubDate>
-            <content:encoded><![CDATA["답답해서 내가 던지러 왔다.받아쳐 봐"(농담-^^) '역대급 시구''시구의 정석''보문산 핵잠수함 실존' 온 곳곳을 주황색으로 수놓은이 곳은 한화 생명 이글스 파크! 첫 시구에 야구···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTVfMjgx/MDAxNjgxNTY5OTgyMzQy.wDaztjJ4fITBsL23mnwFcuMj8Dg2Ab-UYA2uhhOEM0gg.GqQYG-4w6P-iOEcUNMPKEioiJdyHwd4GNU7-VymilBEg.JPEG/IXYNEEezZN94naK1VB9Log5e5Q_U.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
