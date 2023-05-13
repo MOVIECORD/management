@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 02:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 03:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김지연] 공주의 눈물]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35932562&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35932562&amp;memberNo=35839671</guid>
+            <pubDate>Sat, 13 May 2023 03:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 ( ᐪ ᐪ )킹콩지기가 시작부터 울고 있는 이유는MBC &lt;조선변호사&gt; 와 배우 김지연 씨가&nbsp;너무 좋아서 ♥그래서 오늘의 포스트로 지난 이야기들을낱낱이 파헤쳐 보고자 합니다레츠고-!  ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTJfMjk4/MDAxNjgzOTAwMDg1MzAx.zVEZX67Mlg8Q5XXtLZJB8lO2RZhCzSa6WxpZxEGU9MYg.ZUbG2jWf1xJ8yZ-wabioKzbpNc_xVqyWLgQPWkZKFYYg.JPEG/IrsraOsSFwkltBOEFgXlD087Wivg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[송승헌]을 무기로 세상을 지배한다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35930534&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 May 2023 09:19:23 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-) "소대장님 사랑해요!!!!!!!" 냅다 사랑고백으로 시작하는 오늘의 포스트 요즘 티빙 오리지널 시리즈 &lt;방과 후 전쟁활동&gt;으로 이 구역 과몰입 끝판왕으로 거듭난 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDVfMjg3/MDAxNjgwNjg4MTkyNjg3.Rkh_w77GU5GaVIbw6xJGha0y-t_0r1hPmVuuPgxZ6p4g.clle2Ey4FiWLDVbmi18fLDCqrZe0R6Z-g8ikwbmgztsg.JPEG/I_HEncLsM__645qob5KYi7xUpkcc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김지연] 프로필 대백과사전]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35732321&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35732321&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 12 May 2023 09:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :) 최근 공개된༶•┈┈⛧┈♛&nbsp;♛┈⛧┈┈•༶ 배우 김지연 씨의&nbsp;NEW 프로필༶•┈┈⛧┈♛&nbsp;♛┈⛧┈┈•༶&nbsp;을 가만히 보고만 있을 수 없었던 킹콩지기,김지연 프로필 대백과사전을 편찬하기로 결심했습니다  [ CLEAR ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDRfMzcg/MDAxNjgwNTk4Mjc5NzE4.1nElpx1umvBcvSnK266tj5i0DDrnqUWKOArcgWgigp0g.CdlT19PyRvSDf4OoWXT_F0cAS0I1qg7nKEkUG4Fqf9Ag.JPEG/IQ9zsl1TpJ4wjM6MvRVABS4n6wZE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
