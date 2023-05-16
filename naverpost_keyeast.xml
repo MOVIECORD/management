@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 13:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 16:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웃어?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35949003&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35949003&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 16 May 2023 16:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[웃어?네...키동 자꾸 웃음이 나요 윤해준 때문에요...운전하는 모습도 멋있고 난리인 김동욱이타임머신 타고 1987년으로 가국어 선생님 윤해준이 됐습니다.판서하는 모습도 믓찌고책 펴는 모습까지 한 폭의 그림모든···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTZfMjYy/MDAxNjg0MjMxNDk2NTU2.uaR6C2qL3TPMkgyuaynDmTzUCpgrNUgjdUE67P23hqIg.gyY2dnRg5Hl6at79Ch0UsdTFma2tSeGfzwDrZ3zqH8Qg.JPEG/IvZ8YCPb9cIBATe5oCNvDlX1mOXc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김서형 핸드폰 사진첩을 털어봄]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35942882&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 16 May 2023 13:23:42 GMT</pubDate>
             <content:encoded><![CDATA[여보시오~ (흔들~) 일어나보시오~~(흔들~흔들~)저 멀리 한양에서 소문 듣고 왔소바로 이곳에 훈훈한 생김새와 본업까지 기가 막히게 잘하는 사람이 있다던데..이렇게나 완벽한 사람이 대체 누구란 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjFfODcg/MDAxNjgyMDYxMTk5MzAx.fjpoab90aBYA9fx4jwbB_qZFQJWpfwbbufjMqzZfN68g.PegJijj4-f0qiQ-qWbvOALAJPLJ-pqn2qmJceEl1S9cg.JPEG/I6jj9Ol-jYmeeLbzFRBoLqifps0Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[등짝 스매싱 유발자]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35817409&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35817409&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 16 May 2023 13:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[착붙 은행 유니폼과 ~깨발랄~똘망똘망한 눈빛바라보기만 해도 미소가 지어지는 ෆ러블리ෆ함의 소유자'종이달'에서 ✿ SD 저축은행 이루리 주임✿ 역을 맡은 윤보라 배우!!!장난기 가득하게 명함을 자랑하는 모습을 본 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjBfMjE2/MDAxNjgxOTg0NzM2MzM0.h__W9leIcFssa62PlwP3zaTAvEdXjP5122ihMqL5spsg.Cpp5cgbF0badeCRrtnX7FdupLJY0to5D4VZOjms0VlMg.JPEG/I2j--37ezhNumONvDv_jMzLvug4U.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
