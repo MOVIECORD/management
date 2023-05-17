@@ -1,8 +1,172 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.post.naver.com/my.naver?memberNo=3247896</id>
-    <title>네이버 포스트 ─ HB엔터테인먼트</title>
-    <updated>2023-05-17T09:20:06.780Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.post.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ HB엔터테인먼트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 17 May 2023 10:22:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2주 밖에 안 남았다고? 이거 맞아..?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35946739&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35946739&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[어느덧 시간이 흘러...&nbsp;ENA '보라! 데보라'가 막방까지 벌써 2주 밖에 안 남았다구요!!!!! 그래서 세상 서운한 치비가 시간을 거슬러 올라&nbsp;상욱 배우가 열심히 드라마 홍보에 참여했던 그 순간을 풀어보려 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTZfMTAw/MDAxNjg0MjE3NjE0Nzc0._m5iG1bl8CPLx66Gt9hQkDQHD0oV5ozvESiacxh21UUg.3IeNx6fbjZed_hzmHWbTeskYecuHGMwoYABokZ3kNpEg.JPEG/IKY9_Ab9mA1cquoYlVjo7E6RmdeE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[조윤서]가 완벽하단 말은 ‘바른 말이지!’]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35905271&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35905271&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[D-1내일 5월 17일수요일 사진 출처 : 영화 '말이야 바른 말이지' 영화 ‘말이야 바른 말이지’가 세상 밖으로 나오는 날.ᐟ.ᐟ  사진 출처 : 영화 '말이야 바른 말이지' ‘윤서’로 변신한 조윤서 배우를 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDhfNzMg/MDAxNjgzNTQzMTM0ODc4.85Aiex-evoU31i7YXJgu9JiFlGJe0M2-Z5EWWnFyyV8g.CGvW8RaVPuZyWCVKlTXdRFjLb7VibzsgMRm43IgD0ZEg.JPEG/IMe5eYxCeldkPWFr5NzlW4cx51I0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[막 찍어도 막 예쁜 [차예련]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35865637&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35865637&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[오월 삼십일일 차에련 배우가 돌아옵니다ENA 새 수목드라마 '행복배틀'로!"SNS에서 치열하게 행복을 겨루던 엄마들 중 한 명이 의문투성이인 채 사망하고, 비밀을 감추려는 이와 밝히려는 이의 싸움을 그린 서···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MzBfMTIw/MDAxNjgyODQ2NTMyNzI0.DCoVdLHUbMD2UBzzayMIA7VCLwqySgYk9WKp-kvuK7Qg.sWsBRNnbDxMt825LJgnkVYar7SfvR-h47v6zViJeyL8g.JPEG/INdgOPy5iZ3isFhBSwKgJDWN1MYs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HB ent,
+'주상욱에 대한 거의 모든 것' 출간]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35889848&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35889848&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[HB ent가 출간한 '주상욱에 관한 거의 모든 것' 지금 바로 시작합니다 !! . . .Page 1. HB의 말 (뚫)(어)(져)(라) 상욱 배우가 벽 뒤에 숨어 몰래 보고 있는 이곳! 도서관..?Nope! ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDRfMTk4/MDAxNjgzMTk0OTA4MTYx.iHopCZXDANWPSvQIFtI6JipiVa7C9GwM8OQNCZLEcfQg.KuLK3a-GaHljeJ-K1SHhJjW1Tbb_N-xXIyr67fh9JV4g.JPEG/IfK8hVPOrkpukSACLLDa0eftDeyo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[✎닉값 중인 [안재현]의 풀네임은..]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35858328&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35858328&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[오늘에서야 밝힙니다. #안재현_풀네임_공개 [성] → '안' [이름] → '재현 어김없이 잘생겼다'닉값 제대로 한 안재현의 ✯Legend✯ 화보 지금 바로 만나보시죠여러분은 지금 역대급 조합을 보고 계십니다.안재···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjhfNDYg/MDAxNjgyNjYwNzIzMTk2.IYC0biAJ-P3dGGitglAWleXukkA2CwpC6xoTPADgcNMg.7ThxRPVHLcygZiwW0zoSNhSiHaRfJfd3lqHSL50nLHkg.JPEG/IlbGppCyXymsmbkx2g89pkQ-fCA4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일요일엔 어디 가요??]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35815008&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35815008&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[*찡랑단 大 환영* *입덕 大大 환영* *함께 갈 사람 大大大 환영*스크롤을 아래로 내려주시면 파파라치비의 ✎'특별한 일기'가 시작됩니다 ☻✎ 치비 일기 (a.k.a. 지은 배우 기록 일기)2023.04.03(월) / 날씨···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjBfMjk1/MDAxNjgxOTYwMjkxNDgw.P_wLUgINXQMzLoIDLagqp_URy_vIOwxNkCvW7OUilEAg.2Ue2m5Pjy3LBB8pTa7x2fCPiHIIyuQVTEIqmcCjhiYwg.JPEG/I6FUJynPVNV2v924yo1pl-f_R5pg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[케이크는 역시 맞아야 제맛 ☺]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35822372&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35822372&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[오늘의 배우 : 정의제 매주 주말 우린 이렇게 부르기로 했어요.김준하준하는 KBS2 주말 드라마 '진짜가 나타났다!' 속 인물로자신이 택한 직업으로 자수성가한 케이스라 직업에 대한 열망과 자부심이 뚜렷한 편! + ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjFfMjc2/MDAxNjgyMDY2NDA4NzUw.W9Q4r9SzqBpGX-JLjbc0mc6lTNdP3ZpdvmutAKCj3uAg.jWpurRoLRjbs8bnCq4JTPz1SeO7OV9vU0-CqGOrU1skg.JPEG/IV10YxEk3X8ZhFZSoht4Dkjk3osc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[출판사 차린 [주상욱]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35797968&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35797968&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[일주일 중, 가장 씬♪나는 수요일! 주상욱X파파라치비 'COME BACK'하~이 텐~션 이었던 상욱 배우와 함께한 (치비만 아는) ENA &lt;보라! 데보라&gt; 제작발표회 현장을 가지고 왔습니다! ↓↓지금 BA···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTdfOCAg/MDAxNjgxNzEwODM0NzMx.e9MVfvAmIBCE6DUautwwXdcWcucETNBaudnDPYbgUiIg.fNS_uIBXl-ALGuw4Jba3VFg_Vm9JE-GlGRODxyEhiTog.JPEG/IirN-Ap3gQOwDYAKOCVb1ADHIqUA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[츤데레 대명사 [안재현]이 나타났다!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35768852&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35768852&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[주말에도 잊지 않고 찾아온 파파라치비입니다♬~♪ 주말에도 저 봐서 좋으시죠? (절대) 네!! (강요^^) 저는 오늘 KBS2 '진짜가 나타났다!' 봐서 좋아요 ㆅㆅ첫 방송한지 엊그제 같은데 벌써 4주 차..!! ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTFfMzIg/MDAxNjgxMjE1MDU3NzY2.4CL2nbWdQGtIeVdi49_fn8ywvnw52oLRd-T1HbGyiFwg.wKIYlRCSEEYGAkFqfcVlk7f6i_iwfXUHvOFsxBNYxqkg.JPEG/Ix5ISwanroxJn0s1x-FTNKvL2ccg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄 맞이 [김지은] 테라피]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35766991&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35766991&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요!오늘도 어김없이 찾아온&nbsp;파파라치비&nbsp;입니다&nbsp;(ꆧ⩊ꆧ&nbsp;)봄이 다가오는 이 시점,우리에게 필요한 건 뭐다? 지은 테라피... ♥︎ 그럴 줄 알고 준비한&nbsp;지은 테라피 시간&nbsp;꒰ღ˘‿˘ற꒱본격적으로 지은 테라피를 하기 위···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTJfMjkg/MDAxNjgxMjg2NjI0MDUy.r2S4Muj6OjI_Vl_pSQhazfaYJGX5kWZ6ILtSWRhScj8g.kNW2pugGgiPhrC770zCYr84-zG5HkamDR633T-lB9Xwg.JPEG/I9bw-IlFY-jIsfrLwpLE2Vg09mfk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#잔든주, 흥에 'cheers']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35762626&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35762626&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[쁘-2안녕하세요! 상욱 배우의 비하인드 사진과 함께 돌아온 치비입니다 ㆅ연애는 전략이 필요하다는 연애코치 '데보라'와 연애는 진정성이라는 출판 기획자 '수혁'이 함께 연애서를 만들면서 시작되는 과몰입 유발 로···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTBfMjU2/MDAxNjgxMTIxMTI0MjYx.R_HJstsQITdKz8xa7ZobYrAZ8bHzMWKuXjMb5Xm1xysg.LnbZm0qiuGCO-pXia4SyUReUNyVZcA6Co_QvJYnChF8g.JPEG/ImnMuRIi3Iqtpmq7cMdEpQlTSni0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['주♥차' 부부의 압도적 비주얼]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35316075&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35316075&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[? 이 무슨 조합인가. 오랜만에 나타난 파파라치비 엄청난 조합을 가지고 금의환양했습니다. 비주얼과 분량 다 잡은 '주(상욱)차(예련)' 부부의 광고 Behind ※여기서 단독 공개합니다※Step1. 부부는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjhfMzAg/MDAxNjc5OTg0MzAzNjg5.7u5yPX0wJ2UuDeRMayfrbKnPtUbVM9niqg3mbLUhiEwg.lbzIWOR0Cl9LcyG_yk_ANkk1XxEzGZGMf5ZLq2xLr5cg.JPEG/IeASbLqmkgGYeOQ8YJg1z4Dn-pBk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['진짜' [정의제] 때문에 3월 25일만 기다려요.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35671448&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35671448&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[내일(25일)은 여러분들을 애태우게 만들 그리고 치비가 N 일째... 기다리던 KBS2 주말드라마 '진짜가 나타났다!' 첫 방송하는 날!!'진짜가 나타났다!'는 배 속 아기 '진짜'를 둘러싼 미혼모(오연두)···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjNfMTU4/MDAxNjc5NTYwNDg0MzI2.-y-n0gD75fczpO0vKNiwePe8AHVul0mvK3qrb8HiBJ4g.2WDLYtwcaMsVm7pJyLzUp51sG0bf90FCezMdYWuprF4g.JPEG/IZ9Nil6FF0BIM8jZCQLkfPYkKxxA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[직거래 하다가 생긴 썰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35311987&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35311987&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 파파라치비 왔습니다~ 오늘은 치비가 조금 특별한 썰을 풀어볼까 합니다 :)썰의 주인공은 3년 연애하고 헤어진 준표(김재영 배우)와 2년 만난 남자친구의 바람을 목격하고 이별을 맞이한 주아&amp;#4···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMzFfMTY1/MDAxNjc1MTQyNTAyMzE0.Ig24tctCbujWzG9giJGQTLnjnj8NftDonjzTqr7k37og.aP-J9vNyyXDInHHNHdrxR_BJGaTZneTrDhHqV1ou5r4g.JPEG/IdW1GluuKFzibUDq8HQrRA7b0M1w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천정명과 함께라면]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35321140&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35321140&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[11월 어느날. 천정명 배우와 함께 뜻깊은 시간을 보냈습니다. . . .아동권리 보장의 첫걸음을 위해 소리를 낸 천정명 배우 촬영 전,대본을 꼼꼼히, 쉬는 시간에도 꼼꼼히,준비,비주얼 완벽! 천정명 배우의 촬영이 시···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDFfMjc0/MDAxNjc1MjIwNjExMjgz.bsoskX-j-Saj2jW8CsN7BNVaTeFB8UefNSK660F5i0cg.XTy3W0Yv9nkrcAgpQiQu6YQfwVBBmn4oyAZZe-PXgv0g.JPEG/IhjYDMaP4Oo1ClgDlezlYyUhc96g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿀, 먹지 말고 귀에 양보하세요♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35202122&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35202122&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023년, 재영 배우를 처음 포착한 현장은 다름 아닌..! 녹 음 실재영 배우가 저세상 (꿀)보이스를 녹음하는 이유! 궁금하시다면 스크롤 멈추지 마세요♥추운 겨울, 연희동 사진관 앞에 서 있는 그와중···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjBfNzkg/MDAxNjc0MjExNzQyNTgz.MjrlIqvcjrj5nah_bVD1Y7Pow9db5R8nnmFFtPzhkGEg.AohbFLXXpLCOJOy8WmhCQ40iN-br7zDPM-QNBUhDMDMg.JPEG/I2bYCBIzuLwBc-tozYvwLzKty9Wg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신이 Pick한 토끼는? ㅣHello 2023]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35157335&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35157335&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 파파라치비입니다~ HB 배우들이 2023년 검은 토끼의 해인 ო̤̮계묘년ო̤̮을 맞이해 특★별★한 시간을 가졌습니다HB에 찾아온 특별한 토끼 같이 확인해 보아용 ↓↓↓난이도 ★ '나만의 토끼 그···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTlfMjUw/MDAxNjc0MTEwMTEyNTAz.y244rYnWk0UYm49zeadslXPxz0O-ZWpRzGJpMHHwG0sg.Ro5oSf7GNqdBS-G3zz_xsEVUxRl_QbQaMKGcyQl60Zsg.JPEG/IC-OgQKJoHGXM2DwsZyEqMgyIaaw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천정명 혼자 산다.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35113828&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35113828&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 파파라치비입니다! 오늘 HB 포스트를 방문한 배우는 MBC '나 혼자 산다' 464회의 ★주인공★ 천★정★명 배우입니다!정명 배우가 오랜만에 근황을 알려 화제가 된 회차! 국민 연하남의 시초 천정명 배우의 일···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDlfMjg0/MDAxNjczMjQ2NDM2ODkx.va-tqRUKPc-VY0iDNPcdobGp7wHP0KNdZDF7cJuU3Csg.-SBwhpSFKekI_VwvoyWEfqp6F9gXrHktq0Vc19xsGJ0g.PNG/IXt0I52KYPTgMoiDBghUcrJpgWBw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정명의 시간은 느리게 간다 ⏰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35085936&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35085936&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[틱 .톡 .틱. 톡. 유독 시간이 흐르지 않는 다는 배우 천.정.명 배우를 탐구해보겠습니다.먼저, 넓은 어깨와1cm 만 나눠주었으면 좋겠는...우월한 기럭지시간이 느리게 가는 걸 넘어서 멈춘듯한✨동안 외모 ✨ 주인공 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDVfMjkg/MDAxNjcyOTA1MTY2NTA4.a8TsjPp4wIRYTKJSQrAgo_t9WfF2eK8_5ny0Cpqin68g.9y4litF_FG8CTECUwJ13DmP7vhSe9ZbuMb_qS25II-Eg.JPEG/IBmIJfgjpir3CMs_MH2CrIX3N3-M.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[별을 담아왔다는 카메라]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35072370&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35072370&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요:)&nbsp;2023년&nbsp;&nbsp;치비 인사드립니다.&nbsp;2023년 '계묘년' 검은 토끼의 해가 시작 되었습니다.&nbsp;모두 모두 건강하시고&nbsp;새해 복 많이 받으세요 ♥ 활기찬 기운 가득, 치비가 준비한 2023년 대망의 첫 포스트!!···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDNfOTcg/MDAxNjcyNzQ4MTk5MTc1.3oWBGfGB5FsUDeyAw8HcdQLsYo0ncGG2tH7yoOBqZywg.mLBs6RaaRMZcN9e4nGmtU_wnKta9IXMnjeAT3dlGBKMg.JPEG/IFbMcrpVGp-Zih6LPSxvBxwy7D2A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
