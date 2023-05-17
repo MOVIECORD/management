@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 05:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 08:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2주 밖에 안 남았다고? 이거 맞아..?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35946739&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35946739&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 May 2023 08:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[어느덧 시간이 흘러...&nbsp;ENA '보라! 데보라'가 막방까지 벌써 2주 밖에 안 남았다구요!!!!! 그래서 세상 서운한 치비가 시간을 거슬러 올라&nbsp;상욱 배우가 열심히 드라마 홍보에 참여했던 그 순간을 풀어보려 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTZfMTAw/MDAxNjg0MjE3NjE0Nzc0._m5iG1bl8CPLx66Gt9hQkDQHD0oV5ozvESiacxh21UUg.3IeNx6fbjZed_hzmHWbTeskYecuHGMwoYABokZ3kNpEg.JPEG/IKY9_Ab9mA1cquoYlVjo7E6RmdeE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[조윤서]가 완벽하단 말은 ‘바른 말이지!’]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35905271&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 17 May 2023 05:18:26 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요:)&nbsp;2023년&nbsp;&nbsp;치비 인사드립니다.&nbsp;2023년 '계묘년' 검은 토끼의 해가 시작 되었습니다.&nbsp;모두 모두 건강하시고&nbsp;새해 복 많이 받으세요 ♥ 활기찬 기운 가득, 치비가 준비한 2023년 대망의 첫 포스트!!···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDNfOTcg/MDAxNjcyNzQ4MTk5MTc1.3oWBGfGB5FsUDeyAw8HcdQLsYo0ncGG2tH7yoOBqZywg.mLBs6RaaRMZcN9e4nGmtU_wnKta9IXMnjeAT3dlGBKMg.JPEG/IFbMcrpVGp-Zih6LPSxvBxwy7D2A.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천상에서 김지은 보고 온 후기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35054166&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35054166&amp;memberNo=3247896</guid>
-            <pubDate>Wed, 17 May 2023 05:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 :) 올해 하루 남기고 파파라치비가 들고 온 김/지/은/ 배우의 광고 촬영 비하인드 사진!!... 만나볼까요?"입구 컷? 그게 뭐죠?" 천상계 입구 프리패스 상.jpg10660일째 갓 생 사는 영앤리···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMzBfMTAy/MDAxNjcyMzg5ODA1OTM5.Ug0JPpKJqX0LwOUpYvN3LCuJguNcN7XGPtDYHH6KNYgg.fcBNro1JVndpyj2DeIf1InHIoF_xfOSdMf7pLXLUK1og.JPEG/InzCIKMjYxByv3msMGxeOHvaoao0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
