@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://post.naver.com/my.naver?memberNo=29770009</id>
-    <title>네이버 포스트 ─ 키이스트</title>
-    <updated>2023-05-17T18:24:20.005Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://post.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ 키이스트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 17 May 2023 19:16:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웃어?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35949003&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35949003&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[웃어?네...키동 자꾸 웃음이 나요 윤해준 때문에요...운전하는 모습도 멋있고 난리인 김동욱이타임머신 타고 1987년으로 가국어 선생님 윤해준이 됐습니다.판서하는 모습도 믓찌고책 펴는 모습까지 한 폭의 그림모든···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTZfMjYy/MDAxNjg0MjMxNDk2NTU2.uaR6C2qL3TPMkgyuaynDmTzUCpgrNUgjdUE67P23hqIg.gyY2dnRg5Hl6at79Ch0UsdTFma2tSeGfzwDrZ3zqH8Qg.JPEG/IvZ8YCPb9cIBATe5oCNvDlX1mOXc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김서형 핸드폰 사진첩을 털어봄]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35942882&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35942882&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 키동입니다! 드라마 '종이달' 종영의 아쉬움이 유독 크게 느껴지는 월요일인데요 키동처럼 아쉬움 한가득일 여러분들을 위해 키동이 아주아주 특별한 컨텐츠로 찾아왔습니다!무려 서형 배우의 사진첩과 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTVfMTQ1/MDAxNjg0MTU3NzEwMjM3.8TYkwKQhwWKLnXzAzQxZrwUmq_HOvgSQPLX1Hh4kz4Mg._ZPqIVIxLYGY4hrNsk8S7S-3u5TaHkgT370XzJhadXUg.JPEG/IhvgZUZVh2hDMOd-NqjsuCZxiOIc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼스널 컬러가 채정안]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35936776&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35936776&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[보자 보자~ 어디 보자~여러분은 오늘 핸드폰 용량을 아주 넉넉~히 확보해두셔야 할 거예요!비주얼 한도 초과 주인공인 정안 배우의 사진들을 무자비하게 뿌릴 거거든요! (b˙◁˙ )b 아름다움에 Kijul,,,,★저 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTRfMjEz/MDAxNjg0MDM1NzE4MDYy.7ToLudKAw1acoU544Fsb3jJc_9EaogQeGipMBtDqRSYg.s9bkBE7nxW6hs625VItNWDFMJZKO0RHW8OvpPTtx24Ig.JPEG/IG9wYS398GcBqB7RmcKY84Viazi4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중요한 건 부서지지 않는 보라]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35933988&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35933988&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA['종이달'에서 SD 저축은행 주임으로 일하던 이루리냉랭하고 속을 알 수 없던 루리는결국 악의 굴레를 끊지 못하고 손권과 함께 부서지고 말았습니다.'종이달'의 스토리를 한 층 더 긴장감 넘치게 만든 루리.. 이제는···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTFfMTgw/MDAxNjgzNzg3MDUwOTM4.aInwuTvBLUZ6vH11ojkbe1026rm1igTn9ouoK6mFzQIg.cBrloOrwHo5XSmL-n7i_awnKmMlOnGjyNUqThJIqvP8g.JPEG/Iu4zHCoMZ2myHevPErmoy4ffIyfA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신의 조보아에게 투표하세요]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35931405&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35931405&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[당신의 단발 스타일에 투표하세요1번. 신비하고 묘한 분위기의 칼단발2번. 당장 미용실로 뛰쳐가고픈 중단발3번. 성숙하고 매혹적인 숏컷아니면...장꾸력 대폭발 톰보이 컷?? 조보아 is 뭔들.. 중요한 건 어떤 스타···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDRfMSAg/MDAxNjgzMTkwMjI5MTI1.w3TSyJWe0yFRd8wqRtFrV0Q1oATt44rA4r6y951fSVIg.VaSJILdYUsi7WOJP-Q42ikvF0cjlLt9J4WmN3B8SHHkg.JPEG/IysBFGofumDJu1ZFofpUWv0NiR0g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갓벽한 우도환]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35925087&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35925087&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[드! 디! 어! 우도환 배우가벗었네요... 갓을...센스있는 언변에 의로움까지 겸비한 갓벽한 갓도환?!!! 물론 멋있죠...하지만 이렇게 훤히 보이는 그윽한 눈빛셔츠 하나 걸쳤을 뿐인데 터지는 섹시미스타일별로 골 라···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTFfMjUx/MDAxNjgzODAwNTc4NzY1.ID1SBcoyyaNSzEyz8WzJ1J9UI6ZVxmaz6M98uBhuqfkg.No4zLHpIWqbY2_kYVjb5huyh0U3Z0zmZaxjJcmrfsYgg.JPEG/I6la8sSXcpoWdTChlJfG0VHZkY5w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혹시 배우예요?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35918187&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35918187&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[키동 혹시 월요일엔 뭐해요?ㄴ '종이달' 9회 봐요.. 화요일에는 뭐해요?ㄴ '종이달' 마지막 회... .. 그럼 수목금토일에는?ㄴ '종이달' 비하인드 보고...1회부터 정주행하기...? '종이달&amp;#···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTBfMjc3/MDAxNjgzNzEzNjUzNjU3.1ShRo9K_bA4nJw5m79vOahl0zU4dUl3gW0BmqNHkb6cg.i4BzoE9t0LceR43jH5fGGd9mZzPcRKYKQtWxZHFbMxUg.JPEG/InxV-XVcfnlUobkjPvIrDyzcIwAw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어쩌다 보니 1987년도]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35905447&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35905447&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[지난주, 야심 차게 출사표를 던진 KBS2 &lt;어쩌다 마주친, 그대&gt; 시간 여행자로 컴백한 동욱 배우가 등장하자마자 현실 세계에서 뿅~ 사라졌답니다!정신을 잃은 그가 도착한 곳은 무려... 1987년도였는데요! 그···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDhfMTkg/MDAxNjgzNTM5MjcxMDc1.9hSa_Qd5S3WAxCHgEQ9I5DXS95n6DQwaTWQjDD24iq8g.dbCzY7M1uWxW6ZOhn1QAwAKO8N_i-oiyky6H73Y2_Cog.JPEG/I7W6wG6VSxf9we4HvPuxBKeBD-vs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생애 처음!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35897420&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35897420&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[5월은 푸르고, 푸른 하늘 아래 새싹들이 쑥쑥 자라는 따스한 봄!신인 배우 김시은신인 배우 강현오키이스트의 새싹 김시은, 강현오 배우의 찬란한 미래를 꿈꾸게 만들었던 '제59회 백상예술대상'특별 무대 맛집 백상···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDZfMjUx/MDAxNjgzMzg0ODI3ODc1.tKuwOTnxpve7nafAG96730SHxrGTA8rSHRc3Hcyhzpog.lJxPDUajCNTMXIQIb60D4EpX8qzN7ddmNckKlKraVakg.JPEG/Is1U-jnqZFrkTC38XP0ZJauG2IKg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찾았다 내 오천련]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35890369&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35890369&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[아~ 경치 좋고 날씨는 더 좋고~ 소주 한 잔에 회 한 점 먹으면 더할 나위 없을 이곳 키동과 회포 풀어줄 사람 어디 없나~외로운 키동의 마음을 눈치챈 듯 반가운 손님이 찾아왔어요 ~!바로 tvN 월화 드라마 &lt;패밀···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDRfODMg/MDAxNjgzMTg2NTU0MTEy.kE0SlPf_CqGLwRRjAsl_Ko1HXXvQC74_vn3gCguhdhEg.NqhonDHA4971-GeWjHhFYKKBe_hGBccPLv4CsA2q61Ag.JPEG/IBVE9L2KRTrxowg1DI4nylm8Zyus.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[간호사가 찰떡인 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35876726&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35876726&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[다시 우리의 금토 밤을 설레게 만든 '낭만닥터 김사부3'그리고 돌담병원에서 빠질 수 없는 우리의 러블리 주간♥트레이드마크인 땡글한 뿔테와 야무짐+러블리한 성격을 동시에 가진 주영미 간호사역의 윤보라 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDJfMjUg/MDAxNjgzMDE5NTM4MDE1.v58WPGHAnDNehGKpiIuPrzVJ23e2sLEqlJV6zjWeEnUg.Nri7T7_fAVxTK_ZlSye1gqiSNqFGiUR_HDZamGRWhjMg.JPEG/I_-egEiJZdjlob05tD08EIcB_iSE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김서형 짜릿해, 늘 새로워, 예쁜게 최고야]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35870358&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35870358&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[새빨간 배경에 원오프숄더독특한 디자인의 연두색 셔츠보디 슈트와 노란 롱스커트난 몰랐어, 김서형 이리 다채로운지 ♫͙◟̊₍ꃓ₎◞◟₍ꃔ₎◞̊♫͙형형색색의 김서형 인간 파스텔 그 잡채!!!화제의 중심!! 서형 배우가 또 하나···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDFfMjU2/MDAxNjgyOTQ1MzgxNzA3.UUNXmsXIS1Eq6MNgMsRiz_V6KV74JtkAh0DzfxCSHWAg.RQgsYhq0p1FM8CfdssiBD8O-h1dcg5UW4wKH5ryu80Mg.JPEG/IucmRvZvOP9t1dG9JNk0JO5oV7ZI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄의 요정 강림]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35863120&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35863120&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[찐으로 내일 모레가 5월인데 왜때문에 춥죠...?추운게 싫은 키동은 어서 ♥봄♥이 왔으면 하는 마음에봄의 요정을 불러봤습니다 똑똑-봄의 요정 &gt;&gt;&gt; 문가영 강림 &lt;&lt;&lt;가영 미소 한방이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjlfNDcg/MDAxNjgyNzYwMTc3NDQx.VGTrHsP67v0R53X7-Om2Avccdra8Nm3o0WyiMpcLvqIg.YpiWI0nWkXkXAzUXKzmbuPhn8oUC99xuPtZ2hjOfXWQg.JPEG/I0oScHH8-9T7EIv5IQJMVBtX8LzE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어 마주친 김동욱]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35860311&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35860311&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[웬 남자가 새빨간 자동차 옆을 어슬렁어슬렁 거리길래와 누가 빈티지한 새빨간 차를 뽑았네? 라고 생각을 하던 찰나에...! 그 남자가 뒤를 돌아 봤어요! (빨리 앞을 보라고! 당신 대체 누구얏!?)그 남자의 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjhfODcg/MDAxNjgyNjc2NzY2MTAw.YEojnnrLIrXo6itg_-XPpopYvY2toIya6BDxG9CIKUgg.r_NtQ0o1X4l60gIzRWAZUaETkFVJqO1_RV6Tv58quHcg.JPEG/ISHa-NbI32o5DNlyf3QyItoytmqE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['볼펜좌'의 선전포고]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35853971&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35853971&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[(볼펜) 톡톡 흰달에게는 이게 knock knock(똑똑) 같은 거예요 나 들어가겠다~ 선전포고하는 거죠 (섬뜩) knock knock 선전포고를 한 다음에는 바로 '볼펜좌' 출격! 불쌍한 블랙 요원 넘버 1···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjdfMjA0/MDAxNjgyNTk4NTI4MzQy.gmMUfqqVvWenMyWT3qg0O8gJ0Wg_d6OP4ek0p8l_NrIg.JHGbTNIm33JNvJZ_CShcqMT3p7y2s3qwXerk31aXZPQg.JPEG/I273HNgVH97knndRgtPCfFQXbdnY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김서형 퍼스널컬러=칸]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35847942&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35847942&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[아니 여러분 키동 이야기 좀 들어보세요!요즘 눈코 뜰 새 없이 바쁜 서형 배우를 대신해 키동이 퍼스널컬러를 진단 받았거든요?근데 세상에 퍼스널컬러가 칸이래요!! (*˘︶˘*).｡.:*♡그냥 칸도 아니고 세계인···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjZfOTAg/MDAxNjgyNTA5NTU0MDEy.FYsYu-2Lnryw_f79--yARWa7LVuKBjqbZnZx8VRfaR8g.V2Pexfjsz3QMIWma74C2DXPOhQMjqPW4Q0JUvuPEvg8g.JPEG/I05AQz1sx71HYvxjlugRDbnIEP_Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조선의 피지컬 100]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35841740&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35841740&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[훤칠한 키와 첫인상부터 듬직한 피지컬구멍 송송 난 옷을 입고 있어도 빛이 나는 훈훈한 비주얼우직한 카리스마를 지니고 있는 새로운 얼굴, 당신은 누구 인가요?!바로! 키동이 처음 소개하는 특급 신예라는 소식인···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjVfMjE3/MDAxNjgyNDAwOTY2NTg3.pIkZ05uo9G6Z9PAQVG5HHyw1qtZtDp2g01gznjEBVrEg._m_USpws32w-Tnc7e1YJ5C2lFS4a2m9b79NPwdwDTJsg.JPEG/IS8S6rHeZwW6PSU_TFZYMWlNH7Xs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[놀라운 E기세 채정안]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35835403&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35835403&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[E 기세로 멋있찌잉~~하게 토요일을 사로잡은 배우진동조차 파워 E 같은 놀라운 기세로 가창까지 완료한 우리의 스타남다른 존재감과 아름다운 예능감으로 주말 예능 기강 완벽히 잡고새 드라마 '패밀리'에서도 미친 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjRfODIg/MDAxNjgyMzM0MDU0Mjk4.LyNRq-lCuEWBzjPYtWN0UbyD48ttlWMxtApnncij3d4g.GMJeovvfVZ57gv5kHZarMYWdEdUPTV2hw3u9wwgyx1Yg.JPEG/IGv1URgfNGgWuCjrXh0RZLNr_GgA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넌 웃을 때 제일 예뻐(?)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35826393&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35826393&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[으리으리~해보이는 요기가 어디게요 ~? ㄟ( ▔, ▔ )ㄏ바로 &lt;스틸러: 일곱 개의 조선통보&gt; 촬영 현장입니다! 누가 조~오기에 귀엽게 하트를 그려 놨네요♥그리고 키동은 바아로 독보적인 아우라 뿜···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjJfMjk1/MDAxNjgyMTcxNDcwMzE3.GYt7IiKGOMudF5eIFcwTKxO2qRWbmlJtOEP0rAd4ZlQg.yLLZy7J1jqIHC1qU_YmAwD3RQDWvILDYqTKpo6bwX6wg.JPEG/IxATI7j1rPa7NmWjm_6cWxLkZphQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우도환 소문 듣고 왔습니다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35823397&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35823397&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 17 May 2023 19:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[여보시오~ (흔들~) 일어나보시오~~(흔들~흔들~)저 멀리 한양에서 소문 듣고 왔소바로 이곳에 훈훈한 생김새와 본업까지 기가 막히게 잘하는 사람이 있다던데..이렇게나 완벽한 사람이 대체 누구란 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjFfODcg/MDAxNjgyMDYxMTk5MzAx.fjpoab90aBYA9fx4jwbB_qZFQJWpfwbbufjMqzZfN68g.PegJijj4-f0qiQ-qWbvOALAJPLJ-pqn2qmJceEl1S9cg.JPEG/I6jj9Ol-jYmeeLbzFRBoLqifps0Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
