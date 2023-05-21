@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 13:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 14:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전주가 사랑한 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35972905&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35972905&amp;memberNo=29770009</guid>
+            <pubDate>Sun, 21 May 2023 14:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[여러분은 어디로 가고 싶으신가요?키동은 전주로 가고 싶어요!제22회 전주국제영화제 개막식 사회제23회 전주국제영화제 국제경쟁 부문 심사위원제24회 전주국제영화제 폐막작 선정3년 연속으로 전주국제영화제와 함···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MThfMTgy/MDAxNjg0Mzk4NDQzNDIz.1qEY_fgVYSfEmF2NscDLOSZM_hyHFPPlG508Roa08T8g.om1XX6U64J6OXdzCyXfjUL1cycZAcIjsogC6spHHU7Yg.JPEG/IkJe-fsGo3MM7FwcFGDD7MrBZvT8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두 얼굴의 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35967304&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 21 May 2023 09:16:11 GMT</pubDate>
             <content:encoded><![CDATA[훤칠한 키와 첫인상부터 듬직한 피지컬구멍 송송 난 옷을 입고 있어도 빛이 나는 훈훈한 비주얼우직한 카리스마를 지니고 있는 새로운 얼굴, 당신은 누구 인가요?!바로! 키동이 처음 소개하는 특급 신예라는 소식인···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjVfMjE3/MDAxNjgyNDAwOTY2NTg3.pIkZ05uo9G6Z9PAQVG5HHyw1qtZtDp2g01gznjEBVrEg._m_USpws32w-Tnc7e1YJ5C2lFS4a2m9b79NPwdwDTJsg.JPEG/IS8S6rHeZwW6PSU_TFZYMWlNH7Xs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[놀라운 E기세 채정안]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35835403&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35835403&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 21 May 2023 09:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[E 기세로 멋있찌잉~~하게 토요일을 사로잡은 배우진동조차 파워 E 같은 놀라운 기세로 가창까지 완료한 우리의 스타남다른 존재감과 아름다운 예능감으로 주말 예능 기강 완벽히 잡고새 드라마 '패밀리'에서도 미친 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjRfODIg/MDAxNjgyMzM0MDU0Mjk4.LyNRq-lCuEWBzjPYtWN0UbyD48ttlWMxtApnncij3d4g.GMJeovvfVZ57gv5kHZarMYWdEdUPTV2hw3u9wwgyx1Yg.JPEG/IGv1URgfNGgWuCjrXh0RZLNr_GgA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
