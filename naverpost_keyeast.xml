@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 13:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 14:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[B하인드란 건 없어]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35979011&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35979011&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 22 May 2023 14:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[※ 글을 읽기 전 주의 사항이 하나 있어요 ※ 가영 덕후 키동의 주접이 평소보다 심할 예정이니 주의 부탁드려요 (꾸벅)문이 열리네요 ~♪ 그녀가 들어오죠 ~♪ 첫눈에 난 가영 키동 사람인 걸 알았죠 ~♪문 열고···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjJfNzUg/MDAxNjg0NzYxMzA1ODgx.1FArDvNLQKJrrIrplnHGI-faZ0w5dBNMBMLFI3o9ZjEg.KkdDErZ5xqtNAUcQCNW_cm3utpkE0M3v5PzuL8SZOEsg.JPEG/IXm3sBQ2DE-K5P1S7G18QY79jE-s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전주가 사랑한 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35972905&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 22 May 2023 11:15:28 GMT</pubDate>
             <content:encoded><![CDATA[아니 여러분 키동 이야기 좀 들어보세요!요즘 눈코 뜰 새 없이 바쁜 서형 배우를 대신해 키동이 퍼스널컬러를 진단 받았거든요?근데 세상에 퍼스널컬러가 칸이래요!! (*˘︶˘*).｡.:*♡그냥 칸도 아니고 세계인···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjZfOTAg/MDAxNjgyNTA5NTU0MDEy.FYsYu-2Lnryw_f79--yARWa7LVuKBjqbZnZx8VRfaR8g.V2Pexfjsz3QMIWma74C2DXPOhQMjqPW4Q0JUvuPEvg8g.JPEG/I05AQz1sx71HYvxjlugRDbnIEP_Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조선의 피지컬 100]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35841740&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35841740&amp;memberNo=29770009</guid>
-            <pubDate>Mon, 22 May 2023 11:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[훤칠한 키와 첫인상부터 듬직한 피지컬구멍 송송 난 옷을 입고 있어도 빛이 나는 훈훈한 비주얼우직한 카리스마를 지니고 있는 새로운 얼굴, 당신은 누구 인가요?!바로! 키동이 처음 소개하는 특급 신예라는 소식인···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjVfMjE3/MDAxNjgyNDAwOTY2NTg3.pIkZ05uo9G6Z9PAQVG5HHyw1qtZtDp2g01gznjEBVrEg._m_USpws32w-Tnc7e1YJ5C2lFS4a2m9b79NPwdwDTJsg.JPEG/IS8S6rHeZwW6PSU_TFZYMWlNH7Xs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
