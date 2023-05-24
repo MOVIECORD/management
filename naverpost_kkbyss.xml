@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 08:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 09:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이미연] 레전설 화보의 탄생]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35989864&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35989864&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 24 May 2023 09:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)오늘은 반가운 소식을 들고 왔는데요! [사진제공: 로피시엘 YK 에디션] [사진제공: 로피시엘 YK 에디션] '로피시엘 YK 에디션' 2023년 봄/여름호의커버를 장식한배우 이미연 씨···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjRfNDgg/MDAxNjg0ODkzMzUxNjk2.n-byMgG90y_WHCM4XiEIUfgzedwzXzhsuqTTogtgIhYg.3alU0ibd9T3mIwrDAzwZQqwkQFZ89X_w124eQ6nSdRcg.JPEG/ILPGdnroFikRvqd2W21S7VARlgJM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김범, 우현진] 구미호와 인어의 이야기]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35984184&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 24 May 2023 04:23:44 GMT</pubDate>
             <content:encoded><![CDATA[때는 2020년, 동영상  버튼을 누르면 현재 화면에서 재생됩니다. [네버엔드엔딩] 조보아와 달달 신혼, 환생한 김범과의 조우까지! '진짜 보고 싶어? 이동욱이 사는 세상' | tvN 201203 방송 구미호뎐 | #이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjdfMTkg/MDAxNjgyNTY3OTMxMzU1.qo8SXa7JDryqeahBm9Mj9aZ-juXHqBGO6jEtLwaM7B8g.dPgaoFLhrEiALYJgYZSxEM-z7KgeHEfnR3wDxTdiRp8g.JPEG/I3cN_Osmu2DMjfhkFQZovbcDxaXg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신현수] 방과 후 마지막 작전 개시]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35838176&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35838176&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 24 May 2023 04:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 저 멀리 차를 타고 달려오는한 남자 그는 바로 성진고 3학년 2반의 영원한 소대장님♥배우 신현수 씨!오늘은 현수 씨의 포스트와 함께할 텐데요 이제는 전생같이 까마득하게 느껴지는소···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjBfMTM2/MDAxNjgxOTIwMzc2MTIx.030Kka2bMfuOUbZogUkaCFIldfWye3B2df9y_7g74xYg.f3ySvY6sob7m8I3pMvb81G8yc2YUEXipiL-IjXQXjnIg.JPEG/I6B80KkYEnKAuxsItSmpuWPosbpM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

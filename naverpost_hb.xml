@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 08:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 09:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[차예련] '미모 배틀' 1등 각]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35984995&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35984995&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 24 May 2023 09:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[[단독] 차예련, ENA 새 수목드라마 '행복배틀' 캐스팅 소식 듣고 찾아온 파파라치비 입니다:) 사진출처 - ENA '행복배틀' 행복배틀?SNS에서 치열하게 행복을 겨루던 엄마들 중 한 명이 의문투성이인···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjNfMTcx/MDAxNjg0ODQxNTcwNDUy.Vf6_G-vBfUWU7pY3dn7aYtc9inzOf_LTnAUTBbMyj7Qg.6bhL_95Bs2nLf7Hx29wscWM84QEMC6DFXzsWv2LvUe8g.JPEG/I3w65DQMaIPmBrlfK3u9zeD7AMBU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ready, Set, Go! [공민정]과 함께 달리실 분?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35981047&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 24 May 2023 04:23:12 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 파파라치비입니다~ HB 배우들이 2023년 검은 토끼의 해인 ო̤̮계묘년ო̤̮을 맞이해 특★별★한 시간을 가졌습니다HB에 찾아온 특별한 토끼 같이 확인해 보아용 ↓↓↓난이도 ★ '나만의 토끼 그···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTlfMjUw/MDAxNjc0MTEwMTEyNTAz.y244rYnWk0UYm49zeadslXPxz0O-ZWpRzGJpMHHwG0sg.Ro5oSf7GNqdBS-G3zz_xsEVUxRl_QbQaMKGcyQl60Zsg.JPEG/IC-OgQKJoHGXM2DwsZyEqMgyIaaw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천정명 혼자 산다.]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35113828&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35113828&amp;memberNo=3247896</guid>
-            <pubDate>Wed, 24 May 2023 04:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 파파라치비입니다! 오늘 HB 포스트를 방문한 배우는 MBC '나 혼자 산다' 464회의 ★주인공★ 천★정★명 배우입니다!정명 배우가 오랜만에 근황을 알려 화제가 된 회차! 국민 연하남의 시초 천정명 배우의 일···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDlfMjg0/MDAxNjczMjQ2NDM2ODkx.va-tqRUKPc-VY0iDNPcdobGp7wHP0KNdZDF7cJuU3Csg.-SBwhpSFKekI_VwvoyWEfqp6F9gXrHktq0Vc19xsGJ0g.PNG/IXt0I52KYPTgMoiDBghUcrJpgWBw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
