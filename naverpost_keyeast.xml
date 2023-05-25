@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 13:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 14:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자꾸 가족 행사 참석하는 부장님]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35997875&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35997875&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 25 May 2023 14:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[[키동판] 직장생활 │ 직장 상사가 자꾸 가족 행사에 따라와요...어쩌다 딱 한번! 딱!! 한번 초대했는데자꾸 우리 집 행사에 찾아와서 춤을 추질 않나..술 마시고 자기 과거를 만국기처럼 와다다 쏟아내질 않나 ㅠ오늘···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjVfMjc0/MDAxNjg1MDA2OTMwMzcx.M1QdgU4d-a6bxLCRBPnKU76p8PfnHng5-PdcmvPbQ6Ug.nTu1u3Umx2R__eqRbAOfUSJ33bDvDAxPtQTytKt1WnEg.JPEG/IEyw-sIii94ksl21LkfjxSoRLmOI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[떡잎부터 남다른 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35985393&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 May 2023 11:15:40 GMT</pubDate>
             <content:encoded><![CDATA[웬 남자가 새빨간 자동차 옆을 어슬렁어슬렁 거리길래와 누가 빈티지한 새빨간 차를 뽑았네? 라고 생각을 하던 찰나에...! 그 남자가 뒤를 돌아 봤어요! (빨리 앞을 보라고! 당신 대체 누구얏!?)그 남자의 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjhfODcg/MDAxNjgyNjc2NzY2MTAw.YEojnnrLIrXo6itg_-XPpopYvY2toIya6BDxG9CIKUgg.r_NtQ0o1X4l60gIzRWAZUaETkFVJqO1_RV6Tv58quHcg.JPEG/ISHa-NbI32o5DNlyf3QyItoytmqE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['볼펜좌'의 선전포고]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35853971&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35853971&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 25 May 2023 11:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[(볼펜) 톡톡 흰달에게는 이게 knock knock(똑똑) 같은 거예요 나 들어가겠다~ 선전포고하는 거죠 (섬뜩) knock knock 선전포고를 한 다음에는 바로 '볼펜좌' 출격! 불쌍한 블랙 요원 넘버 1···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjdfMjA0/MDAxNjgyNTk4NTI4MzQy.gmMUfqqVvWenMyWT3qg0O8gJ0Wg_d6OP4ek0p8l_NrIg.JHGbTNIm33JNvJZ_CShcqMT3p7y2s3qwXerk31aXZPQg.JPEG/I273HNgVH97knndRgtPCfFQXbdnY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
