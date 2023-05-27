@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 05:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 06:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[송승헌] 택배기사 선발대회]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36005655&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36005655&amp;memberNo=35839671</guid>
+            <pubDate>Sat, 27 May 2023 06:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :)아아- 오늘은 택배기사 선발대회가 있는 날입니다참가자 여러분은 모두 모여주세요 1번 참가자 송 승 헌어랏 어딘가 익숙한데..혹시 넷플릭스 시리즈 &lt;택배기사&gt;의류석 대표님?! ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjdfMjkg/MDAxNjg1MTUzNTgxODAx.m8B5MAOtYv1JfGbZ8jGBL5HEGPR9Yn4VXCXVJVpVPxMg.jR5A3G_LU8YvtoGTrLm_kVme8GxHtGFwd7r7LjSHbBAg.JPEG/IFQgksGaftAg9ImTS09jzDv28LmM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김범] 그 화보가 왔다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36002692&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 27 May 2023 03:19:54 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :D오늘은 배우 김지연 씨의 럭셔리 라이프를파헤치기 위해 찾아왔습니다! 역시 포즈부터&nbsp;럭셔리한&nbsp;지연 씨 이렇게 지연 씨처럼 귀티가 좔좔 흐르는 비법,궁금하시지 않나요? 그 비법은두···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDNfMjk1/MDAxNjgzMDc4NjQ4MDA1.LZZ-W3bA2KCk_JAMawyxmh55TXS_r63IxckyXTtLtB4g.oM2NtYpVgRziRNp9YqknfITKZqCJinQgoXMtNI_xOz0g.JPEG/IYL4r6e3iBoK3EMYEFv-Ts5r5OSI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김지연]을 지켜주길 바라옵니다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35861962&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35861962&amp;memberNo=35839671</guid>
-            <pubDate>Sat, 27 May 2023 03:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-) 여러분께 한 가지 간청하옵건데 MBC 금토드라마 &lt;조선변호사&gt; 속 배우 김지연 씨를 지켜주길 바라옵니다그를 지켜야만 하는 이유, 포스트로 알아 보시러 가시지요촬영장 메···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjlfMjky/MDAxNjgyNzQzNzUyODQ3.9grHXNMxiXvPGTeyjzlCAM9nI0Vdlq7XZRxg_ZfTmOsg.Wfg_nX6xABBtLvFqE_w-5iJAh-dvsGYFImIyUBZA6Ksg.JPEG/Io4CMH4twtkWNjLpTH4KrmcNevSY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
