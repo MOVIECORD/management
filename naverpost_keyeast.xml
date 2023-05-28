@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 13:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 14:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 제일 수상한 사람]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36009310&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36009310&amp;memberNo=29770009</guid>
+            <pubDate>Sun, 28 May 2023 14:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[어딘가 쎄-하고 차가워 보이는 이 소녀┌──────────┐ │⌕ 어│ └──────────┘ 연관 검색어 ↳ 어쩌다 마주친 그대 ↳ 어쩌다 마주친 그대 고미숙 ↳ 어그대 지혜원 ↳ 어그대 용의자훗날 윤영이 담당하게 될 베스트셀러 작가···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjZfMjY0/MDAxNjg1MDgxMDcwOTUy.2heg6DopsdB-oq__4Vv6vbzvb2sXR5uXz_cyjPSCDygg.emo_Gw63IubiRcWmVlQSdaFV6sTrL3AcdkuThODcWmog.JPEG/IexbsV6wDNHNLwYqfsr-ngXDtKf0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 심장에 이로운 김동욱]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36006733&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 28 May 2023 07:16:36 GMT</pubDate>
             <content:encoded><![CDATA[다시 우리의 금토 밤을 설레게 만든 '낭만닥터 김사부3'그리고 돌담병원에서 빠질 수 없는 우리의 러블리 주간♥트레이드마크인 땡글한 뿔테와 야무짐+러블리한 성격을 동시에 가진 주영미 간호사역의 윤보라 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDJfMjUg/MDAxNjgzMDE5NTM4MDE1.v58WPGHAnDNehGKpiIuPrzVJ23e2sLEqlJV6zjWeEnUg.Nri7T7_fAVxTK_ZlSye1gqiSNqFGiUR_HDZamGRWhjMg.JPEG/I_-egEiJZdjlob05tD08EIcB_iSE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김서형 짜릿해, 늘 새로워, 예쁜게 최고야]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35870358&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35870358&amp;memberNo=29770009</guid>
-            <pubDate>Sun, 28 May 2023 07:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[새빨간 배경에 원오프숄더독특한 디자인의 연두색 셔츠보디 슈트와 노란 롱스커트난 몰랐어, 김서형 이리 다채로운지 ♫͙◟̊₍ꃓ₎◞◟₍ꃔ₎◞̊♫͙형형색색의 김서형 인간 파스텔 그 잡채!!!화제의 중심!! 서형 배우가 또 하나···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDFfMjU2/MDAxNjgyOTQ1MzgxNzA3.UUNXmsXIS1Eq6MNgMsRiz_V6KV74JtkAh0DzfxCSHWAg.RQgsYhq0p1FM8CfdssiBD8O-h1dcg5UW4wKH5ryu80Mg.JPEG/IucmRvZvOP9t1dG9JNk0JO5oV7ZI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
