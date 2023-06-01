@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 08:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 09:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☀️믿고 보는 [문지후]의 24시간]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36020952&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36020952&amp;memberNo=3247896</guid>
+            <pubDate>Thu, 01 Jun 2023 09:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[여러분,제가 오늘 준비한 '이것' 제가 준비한 '이것'은...!바로 어제 연극 마지막 공연을 성공리에 마친문지후 배우의 24시간을 여러분들께 소개해 드리려고&nbsp; 합니다! 그럼, 지후 배우의 24시간 함···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MzFfMjMz/MDAxNjg1NDk4ODYzOTU1.S6vPHtIUvEux6i4vjYymU16CyTgJ8_uJiedFvaL-BuMg.ZdfHRX0u7iEChoelVbfVf8LTs8-JCGnz5SUNFTAEeKEg.JPEG/IFRFmLaXeA83F8NzO0Y4jv1U9HWI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공민정]의 ON&OFF가 궁금해?!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36008832&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 01 Jun 2023 06:25:10 GMT</pubDate>
             <content:encoded><![CDATA[내일(25일)은 여러분들을 애태우게 만들 그리고 치비가 N 일째... 기다리던 KBS2 주말드라마 '진짜가 나타났다!' 첫 방송하는 날!!'진짜가 나타났다!'는 배 속 아기 '진짜'를 둘러싼 미혼모(오연두)···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjNfMTU4/MDAxNjc5NTYwNDg0MzI2.-y-n0gD75fczpO0vKNiwePe8AHVul0mvK3qrb8HiBJ4g.2WDLYtwcaMsVm7pJyLzUp51sG0bf90FCezMdYWuprF4g.JPEG/IZ9Nil6FF0BIM8jZCQLkfPYkKxxA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직거래 하다가 생긴 썰]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35311987&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35311987&amp;memberNo=3247896</guid>
-            <pubDate>Thu, 01 Jun 2023 06:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 파파라치비 왔습니다~ 오늘은 치비가 조금 특별한 썰을 풀어볼까 합니다 :)썰의 주인공은 3년 연애하고 헤어진 준표(김재영 배우)와 2년 만난 남자친구의 바람을 목격하고 이별을 맞이한 주아&amp;#4···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMzFfMTY1/MDAxNjc1MTQyNTAyMzE0.Ig24tctCbujWzG9giJGQTLnjnj8NftDonjzTqr7k37og.aP-J9vNyyXDInHHNHdrxR_BJGaTZneTrDhHqV1ou5r4g.JPEG/IdW1GluuKFzibUDq8HQrRA7b0M1w.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
