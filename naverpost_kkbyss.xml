@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 07:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 08:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[송승헌] 불변의 법칙]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36029089&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36029089&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 01 Jun 2023 08:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[세상에 변하지 않는 법칙이&nbsp;한 가지&nbsp;있습니다바로송승헌 = 화보 장인 [사진제공: '아레나 옴므 플러스'] '아레나 옴므 플러스' 6월 호와 함께한배우 송승헌 씨의 A컷을 보니더욱 납득이 가는군···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDFfMTIg/MDAxNjg1NjAyMDQ3Njg2.W-aXGxxTiKwCguu69R0iGyfrMjcRwEQv1ZHkXxeXBu0g.FxNK-0hrba8025SOMic3fVq6f3reTTZVLsSnUzy4a5cg.JPEG/I0bbIE1UbPa9If7_QSBMw-H0bbmM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[채수빈] 아이돌 데뷔♪]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36021658&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 01 Jun 2023 06:25:37 GMT</pubDate>
             <content:encoded><![CDATA[안녕?난 2연. 이 시대의 탐정.안경, 망토, 지팡이까지 완벽한 탐정이지.나 2연이 최근 수사하고 있는 미스터리가 있어바로붉은 머리칼의 이 남자야. 1938년, 이 시대에 갑자기 나타나서 많은 사람들을 혼란에 빠뜨리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDlfMTI5/MDAxNjgzNTc0MjM3MDY0.RdWICsoWdFLjB3z8k6GCs4J389LTWAcsW1j9GevyQ2Ig.3aWuL0r9RQ4z9wSqTfq7Ans-fRWMdPtVvNSzI3Owmk0g.JPEG/ITzJBNe2r_GawKLB_xQIz0X5XDIA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김범] 두목이 되어 돌아온 이랑]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35903963&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35903963&amp;memberNo=35839671</guid>
-            <pubDate>Thu, 01 Jun 2023 06:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[따라다라단♪&nbsp;따다단(갑자기 흐르는 서부 영화 BGM) 휘이잉고요한 바람만이 부는 황무지에 나타난 사내가 있었으니그의 이름은 이랑 / 마적단 두목인간과 구미호 사이에서 태어난 반쪽 구미호좋아하는 것: 우리 형싫···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDdfMyAg/MDAxNjgzNDcwMzgzNjMw.kz5vCn_Glunx2j3sRp0YpjpTcrO6jqGHcRO_McLlAhYg.dR_Mu0e6U-P0byoOU0lbcgsk5EDetgZQITnxouHu45Qg.JPEG/I5SmVwB7pAeBl8FgCY4k2timwZwc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
