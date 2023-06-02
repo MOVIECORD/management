@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 13:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 14:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박하선 부캐 알리기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36037595&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36037595&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 02 Jun 2023 14:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[오늘의 키동 포스트박하선 부캐 알리기가 기준입니다 (feat. 식품의약품안전처)ㅎㅎ극과극 모습으로 같은 사람 맞는지 의심하게 만드는 하멜레온^_^박하선 배우의 매력을 하나하나 샅샅이 들여다보고제대로 재···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDJfMTc1/MDAxNjg1NzEwMDU5Mjg2.Ey2BpjjmzeAdhzUNfHJZXW_3FG3_LTgmyHYmWo-GczYg.oY5yiIl7BrJ_XweVYTaQ8i14fKTMnbc1iXSx3Of2uwog.JPEG/I_516eJpXLglBpv9F-vQAdhb23to.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[덕업일치 한선화]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36031076&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 02 Jun 2023 07:16:33 GMT</pubDate>
             <content:encoded><![CDATA[키동 혹시 월요일엔 뭐해요?ㄴ '종이달' 9회 봐요.. 화요일에는 뭐해요?ㄴ '종이달' 마지막 회... .. 그럼 수목금토일에는?ㄴ '종이달' 비하인드 보고...1회부터 정주행하기...? '종이달&amp;#···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTBfMjc3/MDAxNjgzNzEzNjUzNjU3.1ShRo9K_bA4nJw5m79vOahl0zU4dUl3gW0BmqNHkb6cg.i4BzoE9t0LceR43jH5fGGd9mZzPcRKYKQtWxZHFbMxUg.JPEG/InxV-XVcfnlUobkjPvIrDyzcIwAw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어쩌다 보니 1987년도]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35905447&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35905447&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 02 Jun 2023 07:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[지난주, 야심 차게 출사표를 던진 KBS2 &lt;어쩌다 마주친, 그대&gt; 시간 여행자로 컴백한 동욱 배우가 등장하자마자 현실 세계에서 뿅~ 사라졌답니다!정신을 잃은 그가 도착한 곳은 무려... 1987년도였는데요! 그···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDhfMTkg/MDAxNjgzNTM5MjcxMDc1.9hSa_Qd5S3WAxCHgEQ9I5DXS95n6DQwaTWQjDD24iq8g.dbCzY7M1uWxW6ZOhn1QAwAKO8N_i-oiyky6H73Y2_Cog.JPEG/I7W6wG6VSxf9we4HvPuxBKeBD-vs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
