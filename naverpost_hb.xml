@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 08:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 09:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 주상욱, N번 째 꿈의 집 건설..!?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36030180&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36030180&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 02 Jun 2023 09:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 포스트로 돌아온 치비와새로운 집으로 돌아온 주상욱 배우가 여러분께 인사 올립니다 :) 작년 하반기 KBS2 &lt;세컨 하우스&gt;를 통해많은 사랑을 받았던&nbsp;찐친 케미 끝판왕 '주★조' 형제가&nbsp; 동영상 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDJfMTcz/MDAxNjg1Njg3Njk4NDcx.DDvbH4KyyCUkvlzRkd1m8gVaUmxZEv8gZOo-RMnHu6gg.BfBBGkYdmLmvdHwbshxMB0LIfArQns6D-038POlr9Uog.JPEG/IfH0zD9FWnYhHBCm8qVLpmofSL6g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[☀️믿고 보는 [문지후]의 24시간]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36020952&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 02 Jun 2023 07:17:18 GMT</pubDate>
             <content:encoded><![CDATA[? 이 무슨 조합인가. 오랜만에 나타난 파파라치비 엄청난 조합을 가지고 금의환양했습니다. 비주얼과 분량 다 잡은 '주(상욱)차(예련)' 부부의 광고 Behind ※여기서 단독 공개합니다※Step1. 부부는 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjhfMzAg/MDAxNjc5OTg0MzAzNjg5.7u5yPX0wJ2UuDeRMayfrbKnPtUbVM9niqg3mbLUhiEwg.lbzIWOR0Cl9LcyG_yk_ANkk1XxEzGZGMf5ZLq2xLr5cg.JPEG/IeASbLqmkgGYeOQ8YJg1z4Dn-pBk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['진짜' [정의제] 때문에 3월 25일만 기다려요.]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35671448&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35671448&amp;memberNo=3247896</guid>
-            <pubDate>Fri, 02 Jun 2023 07:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[내일(25일)은 여러분들을 애태우게 만들 그리고 치비가 N 일째... 기다리던 KBS2 주말드라마 '진짜가 나타났다!' 첫 방송하는 날!!'진짜가 나타났다!'는 배 속 아기 '진짜'를 둘러싼 미혼모(오연두)···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjNfMTU4/MDAxNjc5NTYwNDg0MzI2.-y-n0gD75fczpO0vKNiwePe8AHVul0mvK3qrb8HiBJ4g.2WDLYtwcaMsVm7pJyLzUp51sG0bf90FCezMdYWuprF4g.JPEG/IZ9Nil6FF0BIM8jZCQLkfPYkKxxA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
