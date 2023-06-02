@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 06:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 07:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공유]의 여름]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36033739&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36033739&amp;memberNo=22903361</guid>
+            <pubDate>Fri, 02 Jun 2023 07:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[눈 깜짝할 새 지나가버린 봄이 아쉽다고요? 아쉬워하지 마세요 우리에겐 여름 공유가 있으니까요 ♥ 보기만 해도 시원해지는 바다에서 만난 공유 반짝이는 푸른 바다 + 공유 진정한 필승 조합 아닐까요?  숲블리···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjZfMjIy/MDAxNjg1MDY1OTQxNjg5.ZomNbeWq0lBNNJT4WxlRShoWEkI0CajUR5-bF9bJzLsg.cMVV6bYQxQYxkJaQZ2cPb3-bNW2Dc9gM1iWHV_du3vgg.JPEG/IEWNt7HX_OoQ0KHbM0dZFdrBPWdE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 스멀스멀 유행하는 녹색들]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35990412&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 02 Jun 2023 04:22:09 GMT</pubDate>
             <content:encoded><![CDATA[오래 기다리셨습니다-! 2023년 우리를 행복하게 만들어 줄 그녀! 몽환 청초 큐트 모든 매력 소화한 ★전 소 니★ 핫하다 핫해!넋을 놓게 되는 비주얼 보러,,♡ 소니 배우와 동생인 뮤지션 전주니 님이 함께한'얼루···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTlfNTEg/MDAxNjc0MTA5MDc1MzEz.GQXLOXr_--lbdgd7qXGPOF6td0JnuwN9kh19Wc7Yf1Eg.cfcxPJhXDuUS2CFM9xNVq3MuHOxFOZ8DJJxuWnPagaQg.JPEG/IdrP8G6Gug0vkwMJQBeHS2xkusdo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국에 전도연 모르는 사람 있나?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35077866&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35077866&amp;memberNo=22903361</guid>
-            <pubDate>Fri, 02 Jun 2023 04:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[제목에 대한 대답은 단연코 NO! 겠죠? 그중에서도 원조 로코퀸, 로코퀸의 근본이자 계보의 맨꼭대기! 로코퀸의 바이블~ ଘ(੭˃ᴗ˂)━☆ﾟ.*･｡ﾟoh 전도연 oh 로코로 돌아왔다는 ☆웰컴백☆ 소식핸드볼 국대출신 반찬···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDRfOSAg/MDAxNjcyODI0MjIyOTgy.AYN6KUggKVew5lyPCahhMC1PAV687Zk9YloehKHvQTwg.lwQMIOPrsGR9BtI7vfUWNdNj1g9nxxNM1tQCBIGODZ8g.JPEG/IS8cT76vJlGtL9zGNg1LV-t9Jc10.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
