@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Jun 2023 13:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 14:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상 제일 똑순이]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36040273&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36040273&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 03 Jun 2023 14:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 안녕하세요-!요즘 낭만닥터 김사부 3 보는 재미로 금토를 보내고 있는 키동입니다! 여러분도 매주 본방사수하시죠?!그중에서도 단연코 돋보이는 우리들의 주블리 ♥주영미 간호사♥우리 ♥···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDNfMjI3/MDAxNjg1NzkxNTMxODAy.HmCY0y7ygtsTgHCvftO90Z1Gu4dsyptbgeeAQsUDUzYg.6Af14fOMaeRGRnznLkj5D5UmuzWSpW4xlX5I_44uaGEg.JPEG/Iycj6KeZiGuCQ-rDQPx4AYluC_tk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박하선 부캐 알리기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36037595&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 03 Jun 2023 01:48:51 GMT</pubDate>
             <content:encoded><![CDATA[드! 디! 어! 우도환 배우가벗었네요... 갓을...센스있는 언변에 의로움까지 겸비한 갓벽한 갓도환?!!! 물론 멋있죠...하지만 이렇게 훤히 보이는 그윽한 눈빛셔츠 하나 걸쳤을 뿐인데 터지는 섹시미스타일별로 골 라···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTFfMjUx/MDAxNjgzODAwNTc4NzY1.ID1SBcoyyaNSzEyz8WzJ1J9UI6ZVxmaz6M98uBhuqfkg.No4zLHpIWqbY2_kYVjb5huyh0U3Z0zmZaxjJcmrfsYgg.JPEG/I6la8sSXcpoWdTChlJfG0VHZkY5w.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혹시 배우예요?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35918187&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35918187&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 03 Jun 2023 01:48:51 GMT</pubDate>
-            <content:encoded><![CDATA[키동 혹시 월요일엔 뭐해요?ㄴ '종이달' 9회 봐요.. 화요일에는 뭐해요?ㄴ '종이달' 마지막 회... .. 그럼 수목금토일에는?ㄴ '종이달' 비하인드 보고...1회부터 정주행하기...? '종이달&amp;#···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTBfMjc3/MDAxNjgzNzEzNjUzNjU3.1ShRo9K_bA4nJw5m79vOahl0zU4dUl3gW0BmqNHkb6cg.i4BzoE9t0LceR43jH5fGGd9mZzPcRKYKQtWxZHFbMxUg.JPEG/InxV-XVcfnlUobkjPvIrDyzcIwAw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
