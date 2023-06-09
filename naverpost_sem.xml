@@ -1,8 +1,183 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.post.naver.com/my.naver?memberNo=47621827</id>
-    <title>네이버 포스트 ─ 샘컴퍼니</title>
-    <updated>2023-06-09T22:19:21.047Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.post.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ 샘컴퍼니</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 09 Jun 2023 23:21:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김도훈]이랑 일주일 동안
+데이트 할 사람?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31589293&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31589293&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 MBC 드라마 &lt;목표가 생겼다&gt;의 윤호로 훈훈한 모습을 선보이며 시청자들의 마음을 설레이게 하고 있는 배우 김도훈!드라마 속 소현이는 물론, 보는 사람 심장까지 제대로 저격해버린 김도훈 배우,새미도 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjZfMjIw/MDAxNjIyMDIxNDMwNDM0.vX9UWv2WNBOddQ643XQseUyLO2Fie2acIZFBrIiNcmIg.HjOUCjZOviqneFE-8qhoH7p4ZpADtwQ03WrpOyL5-Kwg.JPEG/I5CENvHj7f-jlrpaTdQmGOh-PVIw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['김도훈'이라는 목표가 생겼다.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31540450&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31540450&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[5월 19일 새롭게 시작한 MBC 드라마 &lt;목표가 생겼다&gt;!!자신의 삶을 불행하게 만든 사람들에게 복수하기 위해 '행복 망치기 프로젝트' 를 계획한 19세 소녀 소현의 발칙하고 은밀한 작전을 담은 드라마드라마에···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjFfMjU1/MDAxNjIxNTY0ODcwMzI5.__o9Y8y5_9uShMtGvCT2G44zv4aNn-50mUT_l6_sWB4g.cKmz3omt_YFN3XlxvUK3P1urzYvyLsrPcPqGSpkBKgEg.JPEG/IZ9PZucWTOEGVUW4DbEhidNQDUYU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[류승범만의 
+느낌 충만 캠핑 패션에 '류며들다']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30716075&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30716075&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[지치고 힘든 요즘, 답답하고 우울한 마음을 달래기 위해 캠핑을 떠나는 사람들이 많아졌죠 하지만 한번 캠핑을 가기 위해서는 챙겨야 할 것들이 한두가지가 아닌데요, 그중에서도 가장 중요한 건?여러분들도 위 답들···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMTVfMTA5/MDAxNjEzMzU4Nzg2NDAy.oC0Ce0-bwXRIWFoCh6L8QIFHWUBME3Y0kkdO0eirNGUg.1WBE008VBzlXRw1t7DqYpqserl3LQM2o205p-E6JBO8g.JPEG/IZ6eVzhUT8CtLH5o94SWAPNRYzWI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저 오늘 퇴사 합니다!
+거짓말을 멈추고, 
+입 닥칠 때까지. H.U.S.H]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30670670&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30670670&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[지난 주 일요일 16회를 마지막으로 JTBC드라마 &lt;허쉬&gt;가 막을 내렸습니다! 이제 금,토 밤 무얼 봐야할지 슬픈 이 마음.. 이 아쉽고 슬픈 마음을 달래줄, 쿨~하고 시크~하게 매일한국 퇴사하고 나온 기자들의 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMDhfMjQw/MDAxNjEyNzYxNDA4ODMy.gFHWuKAFFOa7Xe2b6_je5d_l9v0VEGUKQHr5aItRpcMg.qT1ik-8tBRtpQZMl5MvFLmQSI6Ram05qKIWfKO1hnTog.JPEG/ICQ5ohE3zIH4YdoK6Yao5E4Fl-Hk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[출근룩 고민 타파! 백주희가 알려주는 활용도 100% 데일리룩]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30646037&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30646037&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC드라마 &lt;허쉬&gt;에서 센스있고 따라하고 싶은 욕구가 가득해지는 패션을 선보이고 있는 백주희 배우! 오늘의 새미는 패션잡지 에디터로 변신하여 재은의 오피스룩을 파헤쳐 볼 예정입니다. 아침마다 하는 고···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMDRfODIg/MDAxNjEyNDI4OTQzODQy.yb7h0TYIBf3FzfPz_c65HW1fjtemL1Bt_N9c5XrWZUwg.996630yCj4t0uP-wF5EI4JjZtAZc1rkOb3Mn5TL2deAg.JPEG/IAWc5xgDpwlJ-bY28w8OmEI5YNe0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[백주희] 오해 풀러 왔습니다. 
+저 그렇게 나쁜 사람 아니에요!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30449627&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30449627&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[안녕? 난 이재은이야 대한민국 1등 언론사인 매일한국의 디지털뉴스부 기자지 오늘 기사 대신 이 포스팅을 쓰는 이유는 이 자리를 빌려 허심탄회하게, 쉬이 보여주지 못했던 내 속마음을 알려주고 싶어서야그게 무슨···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTFfMTAw/MDAxNjEwMzQ0OTk1NjY4.PY6vodRqfH0g-nvVnTiFmWpWOVxX5dj3U_RdLTLUGREg.wyALTGVBlVn5ypbTL4MXJuR-yBuQfOGC4PVjTGCRChog.JPEG/INbeG1lAECSLQPVjTqyC1zLHb9mc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[허쉬] 인생은 실전, 회사는 현실! 직장인을 위한 직장생활백서]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30448699&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30448699&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[직장생활 만렙 이재은 VS 좌충우돌 열정 신입 강주안뜨겁게 끓어오르는 열정! 그럼에도 언제나 떨리고 눈칫밥 투성인 신입사원의 회사생활과 눈치? 그런건 이미 통달! 일도 적당히 책임도 적당히~ 쉽게 살아가고 싶···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTRfMjQx/MDAxNjEwNjA1ODY4MjIx.pLT2w-pUcBXHGFVajapeGh2ILqYtshQobtEctlzKAMMg.LcqMzggIK5Sap7CM06ZS525BX7r_kR_t4S18ar8JSgEg.JPEG/IuXPeIEO4Hdt36WwcgKbl1gVtOmY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[허쉬] 난리났네 난리났어~ 황정민 명대사 몰라주면 서러워서 살겠나]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30425264&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30425264&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 드디어 JTBC 드라마 &lt;허쉬&gt; 7화 방송 날!! 저번 주 결방으로 더욱 기다려지는 &lt;허쉬&gt;! 오늘 방송을 기다리며 명대사와 함께 지난 회차를 복습해 볼까요? 거기에 샘컴퍼니 공식 포스트에서만 볼 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMjlfNDAg/MDAxNjExOTEyODE3MzAw.p5xK3bm8BVCfPZ7lUhGRwtBBUJ1EuviTd3W4NwW89yog.Oc5iE1EEr_vd-Uc9dgBj68fCdCkUvECJusyQkXPBr9kg.JPEG/I8X5tJp01fE0PnUpTT8XLgEX0nWI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 8년만의 드라마 복귀, 황정민 배우 '허쉬' 포스터 촬영 현장 공개]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30248277&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30248277&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 샘컴퍼니의 새미 기자입니다! 새미가 황정민 배우의 포스터 촬영 현장을 단독 입수하였습니다!오늘만큼은 기자로 변신해본 새미! 무슨 일이냐구요? 바로 8년 만에 드라마 &lt;허쉬&gt;로 돌아온 황정민 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMjlfMTEz/MDAxNjExOTE0MzA4OTE2.P7YYmMIHNNFDTGxr27MA2V-xr62394uNJReHgkPajp0g.0F3HUm0QNXjgfxKMsszv3KK-E98zeaaYX3qLlA6lJkUg.JPEG/IRXQR3Wy3x0E1OURUMXuURiEHzaQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화려한 액션의 국정원 
+VS 
+은밀하고 조용한 스파이]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29796766&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29796766&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[부잣집 막내아들로 태어나기 VS 브래드피트 같은 잘생긴 외모로 환생하기!여러분들이라면 어느 것을 고르겠나요? 최강의 밸런스로 선택 장애를 불러일으키는 "밸런스 게임" 오늘 새미가 준비한 내용은캐릭···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMjZfMjkw/MDAxNjAzNjgyNTU5MDIy.J7hUp_L7v9MBbpggrKdkKnB0CGBrtzuTjBMbKGOimAMg.qXLOXYB84WRJavKZBNeFjmVP2tvg-vqFhUt2WnyYyUQg.JPEG/ICap62RtGcY-virowBCPFkfh5xh8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키워드로 알아본 박정민 배우 화보장인 모먼트 (Feat. 빅이슈 비하인드)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29555175&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29555175&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[날이 갈수록 더욱 빛을 발하는 박정민 배우의 화보! 빅이슈 화보촬영 현장에서도 어김없이 화보 장인의 모습을 보여준 정민배우. 그런데? 화보 속 정민배우가 특히 더 빛나는 순간을 발견하고말았습니다! 새미가 발···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MjVfMjEx/MDAxNjAxMDI1NTg3MTA5.IYPFh4XZsRRH3G8A556uTn-RY7xvnPm_MLwj2yZU8Fkg.KPcwTE3D1paEvVr0C09ToHw801pHmrbkrdljDQiwBd4g.JPEG/ILLot3vFkZutCKHvG4woxLRLzHzA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[놓치고 싶지 않은 '정민'의 모든 순간 -  다.만.악 가이드북]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29384647&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29384647&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요~! 여러분들을 다.만.악으로 가이드할 가이드 새미입니다! 갑자기 웬 가이드북이냐고요? 한국, 일본, 태국을 넘나들었던 인남 처럼 &lt;다만 악에서 구하소서&gt;를 위해 이 곳 저 곳을 종횡 무진한 황정···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MTVfMTE4/MDAxNjAwMTU3NzU5ODc1.62r-kBdVMMuhqtrZtzIaRkTd-gL0NjARptvU-CyqQT4g.qnHwAKeaIIkJdIAdoVnUzstrBZf_VVGYTw4ULRUssk8g.JPEG/If2601jBRLkogmq5wZN363uMESKQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을엔 뭐입지?
+백주희가 알려주는 오피스 데일리 룩!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29285009&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29285009&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[다가오는 가을, 무엇을 입어야 할 지 고민되시나요? 그렇다면 잠시 주목!! KBS2 드라마 &lt;그놈이 그놈이다&gt; 에서 직장인 '미옥'으로 완벽 변신한 백주희 배우! 매 회 다양한 오피스 데일리 룩 을 선보이고 있는···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA4MzFfODgg/MDAxNTk4ODYzNjYyOTYy.X8QsfA7FzTcPfo5x96Ve03tdaRI9eFCT0U6s0M2e5r4g.6Lq6lnlhLdeyQFiIdL5PumiBN3Ri-k8xxEgOYMNibNcg.JPEG/IQJ9xxFCPCwYEffMm5km74Zhp9EY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[괜찮아! 
+돌아보면 '황정민'이 있으니까]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29206372&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29206372&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 오늘은 잡지 [월간JUNGMIN]의 8월호 창간 소식 을 가지고 온..!? 새미입니다이번 비하인드는 조금 색다르게 시작해봤는데요, 어떠신가요? 오늘 포스트에서는 잡지 표지로도 손색없는 광고 촬영장 비하인···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA4MjRfMjIz/MDAxNTk4MjYwNTA2ODY3.WwT5PjgyJpILMfehq2mU4ZHWRIh7vkv3az09Z2HFKYog.k0xefGKWp8rE2yYyL5rGdK2KJmFKMrcZ9GjEcpRkhRog.JPEG/IkHSB6humMaifHu0RDuTltVHf2aM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무대를 더욱 다채롭게 만드는 이들, 무대 뒤 갓(GOD)상블의 세계]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28973341&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28973341&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[화려한 무대 위, 현란한 탭 댄스가 별처럼 수놓아지는 &lt;브로드웨이 42번가&gt; 여기 브로드웨이 무대 위, 무대를 더욱 빛내주고 있는 분들이 있습니다. 바로 갓(GOD)상블 그 자체, 브로드웨이 42번가의 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA4MDNfMTU3/MDAxNTk2NDMwMzgzNzY3.59Wrl0ZZ_qVQjdS044CrVEfPfdhvZycOggKubF5l1MEg.n3K362gYRPStm91fXpKKWC_0UVccNfCEuNpLtTpZpKIg.JPEG/IkNEsw3fSqkA4759A1sGLpJ3Syp0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다만악] 슈퍼 콤비 Two정민 현장 비하인드]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28945753&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28945753&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[자 모두 집중 집중!!두 배우분들도 집중! &lt;다만 악에서 구하소서&gt; 개봉이 이제 단 하루밖에 남지 않았다는 사실! 알고 계셨나요?! 개봉을 애타게 기다리고 있을 여러분들의 마음을 달래기 위해 새미가 &lt;다···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MzFfNjAg/MDAxNTk2MTMwNTk4NTE1.QYg2uyRT-MpSLcV6rrJq65HD9Fe3oq6NAARCDzxkk1Ug.7BMwMcfXR5GQNLQEJz3g8Mu4yiUxgZp8a2Y2VcqaJc4g.JPEG/Ix0aknyfpWqB7zWY8bPo4GePdDjk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[색다른 시점에서 만나는 
+<브로드웨이 42번가>! 
+백스테이지 사진 대방출]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28866905&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28866905&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[화려한 조명과 음악, 경쾌한 리듬의 탭댄스 여기에 배우들의 열연까지! 한순간도 눈을 뗄 수 없는 현란한 쇼뮤지컬의 극치, 24년 전통의 스테디셀러 뮤지컬 &lt;브로드웨이 42번가&gt; 그동안 객석에서는 볼 수 없었···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjFfMTQ0/MDAxNTk1MzEyMTk5MDIz.pmza55SAox_TjFpBOrv_OKLwdp7tJIQbrE-R0W1nMQsg.-lQJ4alZx_Y9sxjzp2QDo6cSnqFkwESR13qW5OjNKqkg.JPEG/IRikp8WE96mtUBeSKNde9Hs37Iso.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[직장인이 직장인이다! 백주희의 오피스 라이프는?!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28866308&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28866308&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[거칠 것이 없던 그녀, 인간수업의 미정! 강렬한 연기와 매력으로 시청자들의 시선을 완벽하게 사로잡았었죠.그랬던 그녀가 ... 180도 달라진 모습으로 돌아왔다? KBS2 월화 드라마&lt;그놈이 그놈이다&gt;에서 팔도···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjNfMjE2/MDAxNTk1NDcxMDgxNjk5.TaD1q8qqRTFEYtHvvDoBmdi4OKaaRpQcjzqBGXKHNWkg.yKDSkMAYb8xyGkE8_zR-U4kl7EvQOovYvkFs8HvAH0wg.JPEG/Ih6sM-CfSb-8qsZBB9sNPVuNx8u8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두 남자의 미친 "아우라",
+궁금하면 드루와]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28682815&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28682815&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[아우라 aura 명사 (예체능 일반) : 예술 작품에서 느껴지는 고상하고 독특한 분위기. 또는 독특한 품위나 품격.여기 '아우라' 라는 말이 완벽하게 어울리는 두 남자가 있습니다.마치 예술 작품을 방불케 하···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MDZfMjU4/MDAxNTk0MDE4MTY4MTEz.YSEuVuu_Zm50SmA4JpgaUEt-lkaGR99SxRU5JzznxX8g.x9tYCf4tSn9MtJjqMY__7hX-jkCGNtVcWqKFVZeUkb8g.JPEG/IiA-VO30TAZ7mZKnbN74-kog8H5w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SEM-HIND] 성원에 힘입어 돌아온 샘컴퍼니 프로필 촬영 사진 2탄!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28247163&amp;memberNo=47621827</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28247163&amp;memberNo=47621827</guid>
+            <pubDate>Fri, 09 Jun 2023 23:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[신이나요 신이나~새미는 신이 납니다!왜냐면 여러분들이 포스트에 뜨거운 관심을 보여주셨기 때문이죠!그래서 돌아왔습니다!여러분들이 그토록 원하던, 빠-밤!!바로 시작합니다! 초콜렛 보다 더 달콤한웃음으로 우리···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTFfMTkz/MDAxNTg5MTk5MTg1MTQx.9OT1XBPFMzveuWiAlyiw-l8Wu49ulVqcGLf9m_UxRoQg.MSgwuDbrG2DFwscvfLMEw9TbGR27rHSsOP-T_VJ974cg.JPEG/IJ4Kc43ek5vtdnazmGe70VEFAvAM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
