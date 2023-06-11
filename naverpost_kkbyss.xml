@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 13:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 14:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱] 이것은 그 버라이어티한 시대 한복판을 지나온 한 구미호의 이야기다.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36076972&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36076972&amp;memberNo=35839671</guid>
+            <pubDate>Sun, 11 Jun 2023 14:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 결국 오고야 말았습니다. &lt;구미호뎐1938&gt;의 최종회...말이에요 ( ᵒ̴̶̷̥́ _ᵒ̴̶̷̣̥̀ )이대로 우리의 히어로 이연을 보낼 수 없잖아요! 마지막까지 누구보다 빠르게 동···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTFfMjI2/MDAxNjg2NDU4ODQ4Mjkx.LhB-wR4xDkot5NXDWorGA8sIwwNP-6htBOt_5ei0s0cg.W48qL3u7xI47erAiTf_3gvqxg2RJ476LlESFnyO-kmQg.JPEG/IyGx-qHyhsC5KnhhGVaCh9rNJwtQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유연석] 돌담병원에 강동주가 돌아왔다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36073471&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 11 Jun 2023 07:17:12 GMT</pubDate>
             <content:encoded><![CDATA[영심이~! 영심이 짝짝 맞아?! 네, 보고 싶고 만나고 싶은 그 영심이가 맞습니다추억의 만화 '영심이'를 실사화한 지니 TV 오리지널 &lt;오! 영심이&gt;가 찾아왔습니다 &lt;오! 영심이&gt;는 소꿉친구에서 어른으로,···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MThfMTkg/MDAxNjg0Mzk1MTc1ODIw.qrz64OOoIT9WpgHa1ZFEs4zv4r5qXeR21idgl8Q5jUAg.ZNdBEuGrZX3r-LxUn8CrYXjS9uFIM4M9bV0tupTgn3Qg.JPEG/ImpZBpMLV8wweW9O-gTb2l0OsBZ0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김지연] 고백합니다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35960181&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35960181&amp;memberNo=35839671</guid>
-            <pubDate>Sun, 11 Jun 2023 07:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다&nbsp;(ﾉ›_‹)ﾉ킹콩지기 오늘은 고백하렵니다. 연주 공주에게&nbsp;솔직한 마음을요 하지만 이미 강한수(우도환 분)에게빼앗긴 차례이번에는 양보하겠수다 (찌릿) 유지선(차학연 분)과 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTdfODYg/MDAxNjg0MzI4MTA0NDI0.yqFanrEa07yxMQqZtsIKxBBgSBRK5t9Thb9JzU6cKzQg.JwIg7RJHNT2p1LKEcSv0fDYbydh4pQhIL-RDZdDpelEg.JPEG/I2MA9r0jEF5R92SMrKkr7SYlkoJM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
