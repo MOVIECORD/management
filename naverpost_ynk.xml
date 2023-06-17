@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ YNK엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 10:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 11:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신혜선] 이번 생은,
+온전히 너를 만나기 위해 태어난 거야]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36105763&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36105763&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 17 Jun 2023 11:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 바로! 기다리고 또 기다리던 저돌적 환생 로맨스 &lt;이번 생도 잘 부탁해&gt; 첫 방송일!드/디/어 신혜선이 연기하는 19회차 인생 PRO환생러 반지음을 만날 수 있다니!!! 본업존잘 신혜선 영접할 생각하니 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTZfMjAy/MDAxNjg2ODgyOTY5MTk3.TgoYRh42PqZXu9Hz6dnDErGiPU1ZDtNFNzQDR37cMLsg.jXFjDgU95COt_w8PNC27OKcn8AxnOK7HF8mmKfyBR7sg.JPEG/I3m7xuwMv_rQIanDOmYr9oAAYdiQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신혜선] 인생 19회차 살아본 환생러 본 적 있음?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36069962&amp;memberNo=33175148</link>
@@ -159,14 +168,6 @@
             <pubDate>Sat, 17 Jun 2023 03:19:13 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요!! 무더위를 뚫고 와엔캠이 돌아왔습니다(YEAH!)7월 4일, 무더위를 식혀줄 10cm의 청량한 보이스와 함께, 종협 배우가 출연한 그라데이션 뮤비(drama ver.)가 공개되었습니다 쏴리질러~~~···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDhfMjM3/MDAxNjU3MjU2OTk0NzMz.nLQia4N_klxcxjnVE_Clf8P4SO84KNPvzK82hwHYSoAg.YgSEuymeEfNDtirjV-g5ATHO0ALvqFjks3eDjvpfvsUg.JPEG/IkiK1HBmjXLeVYjwIce0l9pBUpns.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[채종협] 청춘 그 자체였던 박태준, 안녕!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33955526&amp;memberNo=33175148</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33955526&amp;memberNo=33175148</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 와엔캠입니다.오늘은 아쉽게도..드라마 &lt;너에게 가는 속도 493km&gt;마지막 비하인드로 찾아뵙게 되었습니다.함께 울고 웃었던 태준이가 없는&nbsp;수,목이라니.. 누구 마음대로 끝이래!!!라고외치고 싶은···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTNfMTM4/MDAxNjU1MTMxMDUxNDI2.gOHfHqkgUScohqHr86S8QEdxYehx-X9877pI7N1dPZUg.62PAYabGdsxmQ3J3As_-ISB_kir_BEqZID3UWiDi0qEg.JPEG/IOT7whrj9JRpx_WtRbr6jPGTCkao.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
