@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 11:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 12:34:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 돌아와 준 [정의제]에게 
+압도적 감사]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36081529&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36081529&amp;memberNo=3247896</guid>
+            <pubDate>Sat, 17 Jun 2023 12:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[!!!!!!!돌아왔다!!!!!!!  동영상  버튼을 누르면 현재 화면에서 재생됩니다. [깜짝엔딩]＂왜 이렇게 애타게 찾아?＂ 돌아온 정의제 안재현을 향한 마음을 깨달은 차주영 | KBS 230603 방송 진짜가 나타났다 | [깜짝엔···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTJfNjYg/MDAxNjg2NTUyMTQ4MTkx.9wbEyUQhmTtQuof5lc7xGA21Bh0GRq0c_502tO9A7J0g.AuaosorqL0oYvD_HHpjK08TF-pF0txStIIVjhadCBWUg.JPEG/IdFlGAXf_prR0LXDl-qwie8Wp9XA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김지은+인기가요='♥︎']]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36094773&amp;memberNo=3247896</link>
@@ -159,14 +168,6 @@
             <pubDate>Sat, 17 Jun 2023 03:20:03 GMT</pubDate>
             <content:encoded><![CDATA[*찡랑단 大 환영* *입덕 大大 환영* *함께 갈 사람 大大大 환영*스크롤을 아래로 내려주시면 파파라치비의 ✎'특별한 일기'가 시작됩니다 ☻✎ 치비 일기 (a.k.a. 지은 배우 기록 일기)2023.04.03(월) / 날씨···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjBfMjk1/MDAxNjgxOTYwMjkxNDgw.P_wLUgINXQMzLoIDLagqp_URy_vIOwxNkCvW7OUilEAg.2Ue2m5Pjy3LBB8pTa7x2fCPiHIIyuQVTEIqmcCjhiYwg.JPEG/I6FUJynPVNV2v924yo1pl-f_R5pg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케이크는 역시 맞아야 제맛 ☺]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35822372&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35822372&amp;memberNo=3247896</guid>
-            <pubDate>Sat, 17 Jun 2023 03:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[오늘의 배우 : 정의제 매주 주말 우린 이렇게 부르기로 했어요.김준하준하는 KBS2 주말 드라마 '진짜가 나타났다!' 속 인물로자신이 택한 직업으로 자수성가한 케이스라 직업에 대한 열망과 자부심이 뚜렷한 편! + ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjFfMjc2/MDAxNjgyMDY2NDA4NzUw.W9Q4r9SzqBpGX-JLjbc0mc6lTNdP3ZpdvmutAKCj3uAg.jWpurRoLRjbs8bnCq4JTPz1SeO7OV9vU0-CqGOrU1skg.JPEG/IV10YxEk3X8ZhFZSoht4Dkjk3osc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
