@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 13:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 14:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변호사 김동욱 어떤데]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36109984&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36109984&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 17 Jun 2023 14:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 논리 갑 말끔한 비주얼 정확한 딕션 갖추지 못한 능력이 없는변호사 어떤데(요)파워T처럼 보이지만 의뢰인의 진심을 변호하는 파워 F 변호사김동욱 어떤데(요)사람이 맞나.. 이 세상 사람 아···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTdfMTM1/MDAxNjg2OTkyNzI5NDU4.-zcPDkyBayzlaXHLFlJKQeltYNDR9p8hsldmJATSQZQg.JsJSgnjA5IHGiyHjg0OBoDo8OdafAAxxUBkf-s8oOA0g.JPEG/IoALoRM7DL66d5cQa6bt29014IAQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피 땀 눈물에 최적화된 배우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36101364&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 17 Jun 2023 03:19:20 GMT</pubDate>
             <content:encoded><![CDATA[[키동판] 직장생활 │ 직장 상사가 자꾸 가족 행사에 따라와요...어쩌다 딱 한번! 딱!! 한번 초대했는데자꾸 우리 집 행사에 찾아와서 춤을 추질 않나..술 마시고 자기 과거를 만국기처럼 와다다 쏟아내질 않나 ㅠ오늘···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjVfMjc0/MDAxNjg1MDA2OTMwMzcx.M1QdgU4d-a6bxLCRBPnKU76p8PfnHng5-PdcmvPbQ6Ug.nTu1u3Umx2R__eqRbAOfUSJ33bDvDAxPtQTytKt1WnEg.JPEG/IEyw-sIii94ksl21LkfjxSoRLmOI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떡잎부터 남다른 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35985393&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35985393&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[여러분! 저번에 키동이 소개해 드렸던 특급 신예 기억 하시나요?ㅎㅎ'조선변호사'에서 훤칠한 키와 듬직한 피지컬로 보기만해도 훈훈함 ~을 안겨줬던지선(차학연 분)의 호위무사 강현오 배우!언제 어디서나 지···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjNfMTkw/MDAxNjg0ODM1MTI3Njk1.ujfXHS0Sp0Z5TvFUxP0G0GsAKxtxqSMNPh-ve1HV_EEg.rRKP0QlBkvCPtUhBu9X4xKSGiN3wJPSiQycpkuHwO2gg.JPEG/Ir0pi8-qWwX98JyuIDCPFo3TqZ1M.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
