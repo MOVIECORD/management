@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 08:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 09:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[유연석] 낭만이여 영원하라]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36112063&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36112063&amp;memberNo=35839671</guid>
+            <pubDate>Sun, 18 Jun 2023 09:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)어제(17일, 토) 막을 내린&lt;낭만닥터 김사부3&gt; 그리고 특별히 많-이 출연이라특별출연이었다는&nbsp;(압도적 감사♥) 우리의 강동주쌤배우 유연석 씨! 너무나 반가웠던 만큼 너무나 이별···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MThfMTAz/MDAxNjg3MDcxMjUzMDAz.-ZP2PdBD6pfEfmBiGf7rNc1tmyT0mrxGXIcUXnuiQKsg.3w7WbqtbsMR0wu2YOtm5JmjPY8KiUSyQ4k3RK3SM4Bwg.JPEG/IDV10uDHX8a_cToN35v-t9r-BfOQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이광수] 버티는 자가 승리한다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36099888&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 18 Jun 2023 06:23:43 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)오늘은 반가운 소식을 들고 왔는데요! [사진제공: 로피시엘 YK 에디션] [사진제공: 로피시엘 YK 에디션] '로피시엘 YK 에디션' 2023년 봄/여름호의커버를 장식한배우 이미연 씨···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjRfNDgg/MDAxNjg0ODkzMzUxNjk2.n-byMgG90y_WHCM4XiEIUfgzedwzXzhsuqTTogtgIhYg.3alU0ibd9T3mIwrDAzwZQqwkQFZ89X_w124eQ6nSdRcg.JPEG/ILPGdnroFikRvqd2W21S7VARlgJM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김범, 우현진] 구미호와 인어의 이야기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35984184&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35984184&amp;memberNo=35839671</guid>
-            <pubDate>Sun, 18 Jun 2023 06:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[♪&nbsp;언젠가 이 마음 알까끝이 보이지 않는 바다 위 달빛내게 비쳐오면 그대가 올까낮밤 없이 마중 나가 있는 꿈 ♪0:22 ━━♡━━━━━━ 3:09⇆&nbsp;⠀⠀⠀⠀⠀◃&nbsp;❚❚&nbsp;▹&nbsp;⠀⠀⠀⠀&nbsp;↻여희(우현진 분)&gt;&gt;&nbsp;첫 데이트는 거기였어 말을 탄 채 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjJfMjc2/MDAxNjg0NzU5MTgxMDMx.sq_41Bb4ox4ypq9U9rsrseNHOJImNLk8my-AKI9fK-4g.9eMS4DwRFseuxyXgWLKzXs1e_uVo9mXF_1VmCqfWfP8g.JPEG/I3OScUnHQL5q_EYHzBhEDOhtMcec.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
