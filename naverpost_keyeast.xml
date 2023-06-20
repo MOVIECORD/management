@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 13:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 14:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아니. 우도환 넌 귀여워]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36125184&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36125184&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 20 Jun 2023 14:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[공개 3일 만에 넷플릭스 TV 쇼 부문 글로벌 TOP 2위공개 3일 만에 2,797만 시청 시간 기록!15일(금) 기준, 넷플릭스 TV 쇼 부문 글로벌 TOP 1위 달성!이 시간에도 이렇게 흐뭇^ㅡ^ 그 잡채로 건우를 보고 계···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjBfMjQ5/MDAxNjg3MjU2MDgyMjQ2.ufWA2ErHVtOeSgt6fzM2IAPyzEYy1HlnaAx8TcaBGjUg.6gxbrWVSSyhQybuVrXi_llycSt_g5V0OkTJph1BGCQUg.JPEG/ID6o0vCcSXuPnPUGnXlx0Id2Vpyc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[월요병 퇴치에는 보아 미모]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36119066&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 20 Jun 2023 07:18:14 GMT</pubDate>
             <content:encoded><![CDATA[어딘가 쎄-하고 차가워 보이는 이 소녀┌──────────┐ │⌕ 어│ └──────────┘ 연관 검색어 ↳ 어쩌다 마주친 그대 ↳ 어쩌다 마주친 그대 고미숙 ↳ 어그대 지혜원 ↳ 어그대 용의자훗날 윤영이 담당하게 될 베스트셀러 작가···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjZfMjY0/MDAxNjg1MDgxMDcwOTUy.2heg6DopsdB-oq__4Vv6vbzvb2sXR5uXz_cyjPSCDygg.emo_Gw63IubiRcWmVlQSdaFV6sTrL3AcdkuThODcWmog.JPEG/IexbsV6wDNHNLwYqfsr-ngXDtKf0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 심장에 이로운 김동욱]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36006733&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36006733&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 20 Jun 2023 07:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 대한민국은 한무영 변호사 보유국 의뢰인보다 더 공감을 잘해줘서 유명한무영!봐봐요. 얼굴부터 신뢰 가능하잖아요? 저 강인해 보이는 팔뚝(?), 단단한 손(?)신입 때부터 이렇게 유명했냐구···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjZfMTk4/MDAxNjg1MDkxNTEzMTIx.fCMi2bvh3vhpxlbFkONHU6naelAWCBQI_xOFAeoM2ycg.etDGy8dOP-KlLi-koRL7TIobyUp6ZrEHim28RM6ZYD0g.JPEG/Iyg2p6ys1N1vF31MLDYOo9gCIxRI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
