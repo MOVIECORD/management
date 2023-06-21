@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 13:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 14:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보]김동욱 시간 여행 종료]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36131127&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36131127&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 21 Jun 2023 14:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[[속보] 타임머신을 타고 1987년으로 시간 여행을 떠났던 윤해준 씨가 2021년으로 다시 돌아왔다는 소식입니다이번에 특별히 키동 기자가 윤해준 씨의 마지막 1987년의 현장을 함께 했다고 하는데요그 놀라운 현장을 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjFfNDUg/MDAxNjg3MzUxNjYzMTk4.AwgIffM4PJiOPSmb75nQYfF69Wi5Z3zCxOqskXVlesEg.9xhtaRsgZJPtVyWtgDuDHX6C8hXQ0KrNLsmTSuRtfBUg.JPEG/IKZBKfwOAz5i7gyoinxJqouQm1Ns.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아니. 우도환 넌 귀여워]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36125184&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 21 Jun 2023 06:24:08 GMT</pubDate>
             <content:encoded><![CDATA[오직 법을 통해 권력을 휘두르는 빌런들을 이겨내며마침내 진정한 복수에 다다른 우리의 외지부 나리 돤 한수가 마침내 최종 승소길을 걷게 되었습니다!!!완벽한 ♥해피엔딩♥을 맞이한 '조선변호사' 모···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjlfOTUg/MDAxNjg1MzYxNjQ0OTY4.19L_bOlEFm3diF5I-8-62YLREKB-f3r0DYHLaZHvJg8g.eF9AQo2A3Ena_xBcWOmzPS6ydnfnd_ma8rDvSHm24I4g.JPEG/IENBkyWa6ZR4XT5R_9FRCHI2Lz58.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 제일 수상한 사람]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36009310&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36009310&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 21 Jun 2023 06:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[어딘가 쎄-하고 차가워 보이는 이 소녀┌──────────┐ │⌕ 어│ └──────────┘ 연관 검색어 ↳ 어쩌다 마주친 그대 ↳ 어쩌다 마주친 그대 고미숙 ↳ 어그대 지혜원 ↳ 어그대 용의자훗날 윤영이 담당하게 될 베스트셀러 작가···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjZfMjY0/MDAxNjg1MDgxMDcwOTUy.2heg6DopsdB-oq__4Vv6vbzvb2sXR5uXz_cyjPSCDygg.emo_Gw63IubiRcWmVlQSdaFV6sTrL3AcdkuThODcWmog.JPEG/IexbsV6wDNHNLwYqfsr-ngXDtKf0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
