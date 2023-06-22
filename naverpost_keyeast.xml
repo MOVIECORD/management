@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 13:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 14:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 세계가 그녈 주목해]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36136865&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36136865&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 22 Jun 2023 14:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[최근 패션쇼 참석을 위해 스웨덴 스톡홀름으로 떠났던 문가영공항부터 HOT 다들 아시죠?그렇지만..우린 조금 더 더 찐~한 비하인드를 원하거든요..그래서! 준비했습니다. 오늘은 키동 아니고, '키맨' 스파이 A FEW H···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjJfMjA1/MDAxNjg3NDM2MzA3NDM4.FtUQqcfdqNu-AmJm3_hSrtTonCjjn6xZvyvNSy9Qp9Ig.mvd4jkhHElRgEkPKUZlUqZ1-BCg4EjkoZsvcZUMnq0Yg.JPEG/I6GTq2Z9vrsBQ8O_week9q7R_Gqk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[속보]김동욱 시간 여행 종료]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36131127&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 22 Jun 2023 13:28:30 GMT</pubDate>
             <content:encoded><![CDATA[일일 체험학습 하는 거야 긴 시간 동안 그대로인 김동욱 구경하면서오늘은 계절, 날씨 가릴 것 없이오랜 시간 그 자리 그대로에서 한결같이 멋있고매일같이 귀여운 본체를 투척하며 팬들의 심장을 동농하게 만드는 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MzFfMTUw/MDAxNjg1NTI2ODM4NjI1.5Y3fGEA5UfMDtLGqOZDQThzEzOYEzlZ3j2zx4mFv1msg.0FD5YIavCvRndzOzaTAh0tzKJp6LUxPnQZlcrlWJ588g.JPEG/Ips1qjQ39VicADDvSYu29euGOYN8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마침내 승소한 우도환]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36012746&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36012746&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 22 Jun 2023 13:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[오직 법을 통해 권력을 휘두르는 빌런들을 이겨내며마침내 진정한 복수에 다다른 우리의 외지부 나리 돤 한수가 마침내 최종 승소길을 걷게 되었습니다!!!완벽한 ♥해피엔딩♥을 맞이한 '조선변호사' 모···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjlfOTUg/MDAxNjg1MzYxNjQ0OTY4.19L_bOlEFm3diF5I-8-62YLREKB-f3r0DYHLaZHvJg8g.eF9AQo2A3Ena_xBcWOmzPS6ydnfnd_ma8rDvSHm24I4g.JPEG/IENBkyWa6ZR4XT5R_9FRCHI2Lz58.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
