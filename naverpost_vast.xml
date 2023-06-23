@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 08:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 09:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현빈]을 생각카라]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36141854&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36141854&amp;memberNo=32146648</guid>
+            <pubDate>Fri, 23 Jun 2023 09:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST] HYUN BIN ♥오른쪽 각막에는 '현' 왼쪽 각막에는 '빈' 언제나 현빈을 두 눈에 품고 다닐 여러분을 잘 알지만서두 항시, 언제나, 24/7, 365일, Always 현빈만을 생각하라는 의미에서 준비했습니다 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjFfMzYg/MDAxNjg3MzI3NTY5ODQ5.XN7v8TZH6i3nukR8iWbJfjpDwNHWhvIwJ7fykOuVMfwg.kQJdW85rHGyCqOptBuOlsmH-iZt3NCFMHsu9YtA_Daog.JPEG/IBQmSKmQ55XHZUQD4XkRLtgFK86A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[취향 저격 923% 당한 썰 ★]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36022084&amp;memberNo=32146648</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 22 Jun 2023 22:21:13 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST]SHIN DO HYUN♥도현 배우가 보고 싶어&nbsp;하루하루 지내다 보니어느덧 날이 따뜻해지고 봄이 왔어요 보고픈 마음을 가득 담아도현 배우의 화보 메이킹을 풀어보도록 할게요(어휴 설레) 시작부터 포스트를 환···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTRfMjI4/MDAxNjc4Nzc3MTc4NTg3.dALtF96XCn_uDY8woxv916WVLLazL7sueyG3PbShaPYg.DYUsEoetNtS5GRoPfISUXFIaQtbm9UmztQvDXQFYd9Qg.JPEG/Ia94zRilSw18a6Y3twME_JpZEoyI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[VAST 이사했zip] 시력 5.0으로 교정된 그날]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35508400&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35508400&amp;memberNo=32146648</guid>
-            <pubDate>Thu, 22 Jun 2023 22:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2021조명도&nbsp;일자리를&nbsp;잃고, 흐릿했던&nbsp;시야도&nbsp;뚜렷하게&nbsp;교정됐던, 연희&nbsp;배우의&nbsp;연극&nbsp;&lt;리어왕&gt;&nbsp;포스터&nbsp;촬영&nbsp;날&nbsp;✨ 지혜롭고&nbsp;용기&nbsp;있는&nbsp;공주&nbsp;'코딜리아'로&nbsp;완벽&nbsp;변신한&nbsp;연···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjBfMjg3/MDAxNjc2ODgxNTg0MDM1.zwXMmimYUddhksJ5TRngjLLlByOh63DD7Fv2SqCf-p4g.yMWq1C7rauukOpmeesdPbiEZwUB_0BrZPyUoi2Ymi6gg.JPEG/IdrJ1GTkNZqUcEq7-BA0TUCIOt48.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
