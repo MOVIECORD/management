@@ -1,7 +1,344 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MOVIECORD.github.io/management/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2023-06-23T23:22:08.370Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 24 Jun 2023 01:56:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신혜선] 인생 19회차가 퀘스트를 완료하는 법 (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36129849&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36129849&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[전생의 기억이 마구마구 떠오를 것만 같은 이곳에인생 19회차를 기억하며 살고 있는 반지음이 있습니다이번 생은 온전히 서하를 만나기 위해 태어났다는 지음지음이가 만나야 한다면 만나는 게 인지상정 ₍ᐢ..ᐢ₎⊹ 그···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjFfMTc0/MDAxNjg3MzIxMzQ2MDMw.8QXgcx8iiXb1aRsDXwYmy0Mf6Z_kd7vmHXiePRed-3Ag.rDrY-mk0_ikHcXUZwucY2_xaPNf446R2ko5WLqp9F4gg.JPEG/IX5D3wgJATMMUIPi9KETvsV2jE88.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신혜선] 이번 생은,
+온전히 너를 만나기 위해 태어난 거야 (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36105763&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36105763&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 바로! 기다리고 또 기다리던 저돌적 환생 로맨스 &lt;이번 생도 잘 부탁해&gt; 첫 방송일!드/디/어 신혜선이 연기하는 19회차 인생 PRO환생러 반지음을 만날 수 있다니!!! 본업존잘 신혜선 영접할 생각하니 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTZfMjAy/MDAxNjg2ODgyOTY5MTk3.TgoYRh42PqZXu9Hz6dnDErGiPU1ZDtNFNzQDR37cMLsg.jXFjDgU95COt_w8PNC27OKcn8AxnOK7HF8mmKfyBR7sg.JPEG/I3m7xuwMv_rQIanDOmYr9oAAYdiQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신혜선] 인생 19회차 살아본 환생러 본 적 있음? (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36069962&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36069962&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[여기 인생 19회차 살아본 환생러가 있습니다반지음 : 신이 '반'할 정도로 '지'어냈'음' 이름의 의미와 걸맞게 갓벽한 비주얼을 뽐내고 있는인생 19회차 반지음!이번 생에서는 꼭 만나야 할 사람이 있다는데...생각하···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDlfMTA0/MDAxNjg2MjkxNjEwNzE5.Z87xW2kkUlpcxmUyHjyJMdPErDY3fgAH_LsV9VbwVZkg.VsI06wGRfYx7asWyHXfc8Nn32JR4gjag2YsgURHqcakg.JPEG/IWivze6_pmJwuH4LT_rgEMOuwYjo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신혜선] 자기주장 강한 인간주얼리의 비주얼 (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36055160&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36055160&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 와엔캠입니다!! (얏호) 두 말 없이 시작하려던 포스트에 한 마디만 덧붙이자면 인간주얼리 '신혜선'의 비주얼이 매우 눈부시므로 선글라스 착용을 권해드리며😎 그럼 인간주얼리 '신혜선' 지금 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDdfMjU5/MDAxNjg2MTAxMjAwMzYz.yWW_lzVA7vy1AUJ4rHSiIHqMk20XIz4KsZwnW6ehecYg.3qfOVeEDyZuyyJGXmUoptmQXOc25nxye1yf9FpAglxYg.JPEG/IZ5Dzxtz9ysahRXNzFR5R7czqrNA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김현주] 멋짐의 축복이 끝이 없네 (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35747811&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35747811&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요~ 와엔캠입니다! 멋짐의 축복이 끝이 없는 김현주 배우의 [데이즈드] 화보 비하인드로 찾아왔습니다~! 그럼 지금부터 김현주 배우의 멋짐 포인트들을 하나씩 찾아가볼까요?첫 번째 포인트 - 눈빛마주치는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDVfNDcg/MDAxNjgwNjY2NjgyOTc2.rf4aWwb5L8gynwM1fjcezbgh0p4ApB-Rd9t9-q7cT5og.wvlrIaE4nu_Qpi6447D0dBQw2D9fB3fTeugKmRZr-jMg.JPEG/IeE3jMPmfJ87Z25-ZdYUl24-9xyU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김인권x차청화] Good Bye 옥신각신 (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35678466&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35678466&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 와엔캠입니다. 오늘은 아쉽게도.. 드라마 &lt;꼭두의 계절&gt; 옥신각신 마지막 비하인드로 찾아뵙게 되었습니다.귀염둥이 옥신각신 안녕.. Good Bye.. 아쉬운 마음에 엔캠 하드털이 갑니다..! 마음 준···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjRfOTcg/MDAxNjc5NjYzMzI2NjE5.HaYC1H_zekJt9OnxLEBHZ3jgr6Mkd8nEwC--YBjwqOsg.k45E5QwH2935CyA9sWJYL6kV_y41tLYhFPAQheTqbK4g.JPEG/I403HNHC3FkKADY_PKwi1Gwb7AqM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신혜선] 사진에서 향이 나요, 내 취'향' ((향기 좋다)) (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35664091&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35664091&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[그런 생각 해본 적 있어요? 혜선 배우에게는 어떤 향기가 날까..지금 바로 알아보러 가시죠~!!1. 포근한 비누 향1-1. 포근한 비누 향에 살짝쿵 더해진 꽃 향2. 싱그러운 초여름 숲 향&lt;엔캠 대신 전해드립니다&gt;···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjJfNTcg/MDAxNjc5NDU2NjAyNzEz.gcogtUR9rZVRwCve9JzVr66puNWdjK4xHaPQIUr6cRIg.AJtdzT0C3FiaZcKiSto96Gfo9-K23eWaATH6C680GRMg.JPEG/IWlMYxl0RSGZXGZELZCRI_u2llHU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김인권x차청화] 옥신각신 이름부터 천생연분이잖아 (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35528480&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35528480&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 &lt;꼭두의 계절&gt;에서 옥신각신둘도 없는 케미를 보여주고 있는김인권, 차청화 배우의 비하인드를 준비했습니다! 탐욕의 반신 옥신 × 소문의 반신 각신인사드리옵니다_(._.)_ MBC &lt;꼭두의 계절&gt; MBC···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjNfMjQw/MDAxNjc3MTYzMjEwMzk4.6tEeuXJoJecuXh8CweXlIyfZvpDHfXVYb29RW0EoG1gg.z8Ibtq23zJnYC7ijaGoIBFlcZnNl7dIYqIhdpKIXQxIg.JPEG/ImvOHluoWjZf5ARxYaa0TDYluer8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김현주]언니가 어딜 봐서 Y2K야 그냥 힙하잖아, 멋있잖아 (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35493385&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35493385&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[카리스마 4스푼 Y2K감성 2스푼 힙함 4스푼 멋짐 와르르 쏟아버려 화제였던 김현주 배우의 &lt;마리끌레르&gt; 화보의 비하인드!! 와엔캠이 준비했죠! ദ്ദിᐢ._.ᐢ₎첫 착장부터 소리 지르고 시작했다는 것이 실화! 사실···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMjc2/MDAxNjc2NjE0MDA0NzIx.iP1nx-QJQBj_2owbX3RozeJzuWGwGmNncBueiQqs4YIg.2xMGrrk--HKKI4K1adwO2sZwD5xH5iPoWJIFQtpnCg8g.JPEG/IG8RRqhnw7Mfe4vmATnnSIz8ztGo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[문채원] 법쩐 Day니까! 박준경_하드털이_zip (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35335488&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35335488&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[죽다 살아난 준경이 활약을 펼치고 있는 SBS 금토드라마 &lt;법쩐&gt; 벌써 막바지를 향해가다니ㅠㅠ 다들 열심히 본방사수 중인가요!? (당연한 말씀!)다시 돌아온 법쩐DAY를 맞아 준경의, 준경에 의한, 준경···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDNfNTYg/MDAxNjc1Mzg3ODAzNDU4.jqdVx7VLtNq0z9hIGP5KRI_-oXjuzzyKN5PHNjs-szYg.vlHOjb120koZ9AuD_eXvXNwMOaw1u5KUmN3B-uS23n8g.JPEG/I97qZsJaRLSRW-JMCXatyKKVKL20.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김현주] A.I 전투용병 '정이'
+연구소를 탈출하라! (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35310262&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35310262&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[20일 첫 공개 이후 1930만 시청 시간을 기록하며 비영어권 영화 부문 1위를 차지한 영화!!NETFLIX 영화 &lt;정이&gt;연상호 감독의 새로운 SF 세계관 속 전투력과 전술력을 모두 갖춘 최정예 리더 출신 '윤정이' 팀···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMzFfMjc2/MDAxNjc1MTMwNzc1NzA4.fjgkYne0jQGw5d1QCueKD9TAlXGVGmeT5u2aiYtDqvgg.xMiRANf569Zz1Hzp9pvdJFxJBA_TRC4oxtZ-ehB2QLEg.JPEG/IVaBXLy5S6aQhYGjW3ASf2tlbz94.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[문채원] ‘법’과 ‘쩐’의 카르텔에 맞서 싸우는 박준경의 '눈빛' (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35261343&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35261343&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[여기 서울 법대, 사법고시, 연수원 수석까지 목표를 세우면 반드시 이루는 그녀, 준경이 있습니다우리 준경이는요 (I BELIEVE🎵) 정의로운 검사이고 싶었고검사로서의 삶이 스스로에게 가장 어울린다고 생각···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjdfMjgz/MDAxNjc0NzQ2NzI5NzU1.jZSoaOS6TD5Qb9oovdtCLrCVmPgGqMVFzGpF04T1fn8g.Suqml9hEArX9iRnRVl3DWKtPZ9W98XlwZVJ0JOawEj8g.JPEG/I_lk5UA46tLJH7mhZ2JXwcpW8Pq8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[차청화] 놀토를 찢고 온 그녀가 누구냐고요⁉️ (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35211900&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35211900&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[설 연휴를 맞이해 와엔캠이 다녀온 곳은 바로바로! 사계절 같은 매력을 가진 차청화 배우가 찢고 온 &lt;놀라운 토요일&gt; 현장입니다!"안녕하세요! 차청화입니다!" 두근두근 떨리는 마음으로 두 손을 모···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjFfNzEg/MDAxNjc0MzAyOTkzMzQx.CASjzUt0_3tCaNtVnHyXWTYBa6NR56ejiKzBcsfL3gAg.Li8nJfmKe26-syZPBYb6LLYBIE2OakROpqJH3j7m-gIg.JPEG/IC7MDENP3AG_G3x4rIuNoT0g4Fqk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김현주] 트롤리, 제 선택은 '김현주'입니다 (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35059789&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35059789&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[휘몰아치는 전개와 숨 막히는 긴장감, 그 중심에서 다채로운 연기로 60분을 60초처럼 만든 우리의 혜주 (므찌다 므쪄!) &lt;트롤리&gt; 1회부터 4회 다들 재밌게 보셨나요? 그리고 다시 돌아온 &lt;트롤리&amp;g···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDFfMTk3/MDAxNjcyNTYzMDk1MTkz.2DSOjIBSa03iNxkbvKhWoEwIjBgT4POwknqSFe-vFnYg.wf4JhDUtPe39l6gem1ilwqZHBBr8aErudSK7cEhvcIAg.JPEG/IXWyPMYDOy9mCox80bJDFL1Ge5Nw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[채종협] 난 몰랐어 '박인성' 이리 다채로운지♪ (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35006763&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35006763&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 드라마 &lt;사장님을 잠금해제&gt; 하는 날! 오늘 와엔캠이 준비한 비하인드는!!&lt;사장님을 잠금해제&gt; 1화에서 인성이의 대사처럼 아역 배우 빼고 정말 다~한!! 박인성을 만나러 함께 가보시죠! 난 몰랐···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjJfMjMw/MDAxNjcxNjk1ODU2NzE0.tyUvJUoRDuyB_LvmbwQI3TtJ7e73qZhiO66RMJrv8uog.fbD2ieC-ymRRZIQ0mF2h0MGPLsdEJV_kwWeeCF_Mx74g.JPEG/I3pQHMhivronAxvBWnSytm9P1wVA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김현주] 미스터리 딜레마 멜로, 당신의 선택은? (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34966611&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34966611&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[정답이 없는 선택의 순간에 마주한 외로움과 두려움 속에서끝내는 도망치지 않고 최선을 다해 ‘선택’하는 것에 대한 이야기그 이야기가 시작될 드라마 &lt;트롤리&gt;의 포스터 촬영 현장에 와엔캠이 다···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTZfNzEg/MDAxNjcxMTUyMzQwMzk2.3N_Ioct8QKk9PxXi0zwfyWcYf6wwb-3kLw4wyRPh7gwg.WA51vv-qWKJLgKKfibMvMnLE55C_JYgL2DrIbf3p0yMg.JPEG/ILklsh-6qouX4V4nQlOq5RtR-bnQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[채종협]을 잠금해제🔓 (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34906575&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34906575&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 &lt;사장님을 잠금해제&gt;의 첫 방송일이 되었습니다!방송에 앞서 포스터 촬영 현장에 와엔캠이 당연히 다녀왔죠!! ٩(ˊᗜˋ)و 긴 말 필요 없이 보러 가시죠!핸드폰을 꼬옥 손에 쥔 그는 누구?!바 로 !···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDdfMjEx/MDAxNjcwMzQwOTM3NDg1.huP7YnJRDcEankw5nvlzEi1p6XTSSvobnBLb3WBEXeIg.E877g1rI8HLA0S7UjFMcFTXZch7DSUE2GNQVrdjc-tUg.JPEG/IxjDqMREYD98HY773Oift7ZVYzV0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[채종협] 화보 천재 클라쓰.JPG (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34678790&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34678790&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 와엔캠입니다!소년미부터 으른미까지 매력이 흐르다 못해 차고 넘쳤던 종협 배우의 &lt;DAZED&gt; 화보 촬영 현장 와엔캠이 당연히 빠질 수 없죠!! 긴 말 생략하고 매력 주우러 지금 바로 가볼까요~?순···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjRfMjk1/MDAxNjY2NjEwNjk5OTE0.qw7TFmu7Sj6Ceej0xswMSFXYLWjOlfm8jp_L5rnL7igg.xKRfvyKhngx3B3K_Gpbp4_rhQe-ry-GbYfScgN_sRLkg.JPEG/IEhUHTBR1nKCk5zgik2v_XPxHMFQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신혜선] 가을맞이 혜선맞이 (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34607135&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34607135&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[오래 기다리셨죠?! 드디어! 와엔캠이 돌아왔습니다!!!!그것도 무려! 신혜선 배우의 화보 같았던 현장 비하인드를 들고 말이죠 (와아아아아아아아아아) 그 현장으로 함께 가시죠❤️가을을 맞이하여 꽃을 품은 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTFfNDAg/MDAxNjY1NDcxMDgwMTQ0.gK5finFPWt_n_mV8xwTKB73yeAEbuAG1qIXIxWGzJBog.z15inKtv7jf81bAZI2huSLaBMD1UWtKFAlMiInb7p70g.JPEG/IBhvDpQ2OfT4rD1l3JJSL4roHl0g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[차청화] 왜 채준희인가? (부제 : 굿바이 준희) (네이버 포스트 ─ YNK엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34173483&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34173483&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 24 Jun 2023 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[거침없는 입담과 상대를 편하게 하는 '채준희'만의 스타일로 "왜 오수재인가"의 감초 역할을 톡톡히 해준 우리의 채준희! 역의 차청화 배우어느덧 막바지에 다다른 "왜 오수재인가" 흐름에 발맞···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjFfMTE5/MDAxNjU4Mzg3Mjc2MDYw.d1Lz_EUJY8owY8ufw5Ohemt0icLzoRxN5YaArmfTRbkg.FACDr6pjgcA9sCYoXaED-6tSn7zLd4whQt8lmKJye5gg.JPEG/IBrPl77HwmW84bQPClUg1uSSlpGU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이영진] 늘 배고팠던 “연습“벌레에서 ”MVP“ 나비가 되기까지…zip✨ (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36136701&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36136701&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요!!!!!!! 디디터에요!!!!!!!!!21일 방송 된 "골 때리는 그녀들" 다들 보셨나요??!!!?!?지난 2회 슈퍼리그에 이어 팀 역사상 두 번이나 결승전에 입성한 FC액셔니스타! 모든 경기마다 승리를 이끌···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjJfMTMx/MDAxNjg3NDM4MDMzMjAw.ytCAiWz-L1B7pDbzQHQLQ5Ou7OGMueBuWdsG4eTdBIsg.HKtlHEnK65r5PoYpEmgGqlCcpR03sFeXx1v-VYttb7Eg.PNG/I1HS6DY-yaTgYeLApEV0DTmtbIu0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이상진] 딩동~♬ 상진 배우의 택배기사 비하인드가 배송되었습니다! (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35957762&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35957762&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[[Web 발신] [디컴통운_택배_배송완료] 반갑습니다, 고객님. 고객님의 소중한 상품이 배송 완료되었습니다. 상품명: 이상진 배우의 넷플릭스 &lt;택배기사&gt; 비하인드.zip안녕하세요! 디디터입니다 :)갑자기 웬···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTdfMiAg/MDAxNjg0MzEyMjcwNjI4.88sJSLE6OEIV07RWj3P5C8l1l500OUQe0cBvnF2-oeEg.KALNq7nQxQlBcSeV7hmCEFU_ZlylYoIHfzVAkJzmncgg.PNG/ITNOLe-P7fcSvZnU70sZqlYe1Cis.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[타쿠야] 타쿠야는 95점
+_오점없는 'JUNON' 화보 비하인드★ (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35841021&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35841021&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 디디터입니다~ 따뜻한 날씨✿와 함께 찾아온 오늘의 소식은 바로바로!일본 현지에서 촬영한 日매거진 JUNON 6월호 촬영 현장으로!말할 새도 없이 바로! 인터뷰 화보 현장으로 떠나보시죠!디디터도 일본 톡···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjFfMTcg/MDAxNjgyMDY5NDAzNDc5.kr4T1uCHc0JJ8Y6DVzSS68t_IT1E25Xs7Z6LSOfZFkwg.lsRE-5uGPbY_x5M0iZnFYaxeG7yGZduz_y9vc62z1R8g.JPEG/IJ8BIgFpLPzGxivip-ZAQlWAtQQ8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변서윤] 변서윤의 인생룩 = "얼룩"
+_KBS드라마스페셜2022 제작발표회 (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34868539&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34868539&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 오랜만에 돌아온 디디터입니다 :) 오늘의 주인공과 반가운 소식 빠르게 만나러 GO~변서윤 배우와 주연작 KBS2 드라마 스페셜 2022 '얼룩'의 제작발표회 현장!!서윤 배우의 첫 제작발표회인만큼 풋풋···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjlfMTI0/MDAxNjY5Njg3ODkzMTA3.gXSIySBmuEzgKpGVnt0lXpP_BjCcWFjHq4vHt7cNEd4g.5_x63DeXUFb9X14uA2icpC7cCRnP_vNLSS5VPu8u51Ag.JPEG/IM_J-XogliCWxMdeLPk1CQAlb958.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[타쿠야] 셀카는 언제나 옳타쿠야
+_'톡파원 25시' 미공개 사진 대방출 (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33864336&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33864336&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 디디터입니다. 최근, tvN '벌거벗은 세계사' 에서 의외의 뇌섹남 매력을 보이고 6월 방영 예정인 Mnet '뚝딱이의 역습' 티저에 깜짝 등장하는 등 2022 상반기 열일 행보중인 타쿠야! 오늘은, 매주 꽃미···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjZfODIg/MDAxNjUzNTQ3Mjc5NDUz.lFlt9v0vzFREFbY-7h3eKPzcTlPcOWI4vPd-vNbvLYkg.suspeepb1N2n5QKgDBnq5qeCAv1_21GCda0jZInwkKcg.JPEG/I9MN0wQDVK544O8swcIkxc6neJp0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이영진] 관객들의 혼을 '쏙' 빼놓은
+'서울괴담' 언/배 시사회 현장! (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33700755&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33700755&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 여러분:) 디디터입니다! 오늘은 오랜만에 영화 &lt;서울괴담&gt;으로 스크린에 돌아온 이영진 배우의 소식을 들고 왔어요~바로 지난주였죠?! 요즘 완전 핫!한 MZ세대 취향저격 공포 영화 &lt;서울괴···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjdfMTE1/MDAxNjUxMDM2ODA1Nzc4.b6gEF7uQ0n2D76M3vQ9fml69NRBLEz_Erp-EbBh-mNMg.2spkpqWEsnMeoQsr21DAikL2oB_TI_LeI2NjQE8nLoIg.PNG/ILs-_smjcSMFqpcJA1njzka52uX8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[타쿠야] 이 사람 착한 줄 알았는데, 안 착하네... (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33426125&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33426125&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 디디터입니다. 요즘 시국, 리얼한 세계 소식과 생생한 랜선여행을 선사하는 JTBC '톡파원 25시'! 재미있게 보고 계신가요? 오늘은 저 디디터가 여러분의 일일 탘파원이 되어보려 합니다! 바로바로 타쿠···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDhfNjYg/MDAxNjQ2NzMxMzkxMTA2.Z9dcUxKd090bu8JilJUZ49jzv0Hmh7tvQ6NsNIJ-Ts4g.7jlEb2clKxRC7FDO-tN2Oe_jCNtniEGiBVB8u0W79REg.JPEG/IhOYVt8HzibOcJiHhxd0CNkE0cXo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변서윤] 꽃 피면 '서윤' 생각하고
+_중전마마의 OOTD (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33352085&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33352085&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 디디터입니다! 오늘의 소식은 변서윤 배우가 '중전 연씨'로 활약한 "꽃 피면 달 생각하고" 촬영 비하인드!벌써 대단원의 막을 내려 디디터도 너무 아쉬워요 ʘ̥_ʘ 17화..정녕 없는 것입니까...···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjNfMTA1/MDAxNjQ1NjA5NzM4Mzk4.JmUZswepV6AaF3XbPbytAfoW-Eeps5Mgc8PKwxBjflsg.3dhWqa4BLrRoVHvpJV0T5_JrIsDEx1CWR2ZYpQ-LCAIg.JPEG/I66EMyCkxMjx5pR5fib1kYs4VrF4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[차미경] 넷플릭스가 사랑한
+K-할머니♥ (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33276941&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33276941&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 디디터입니다 :) 오늘 준비한 포스트는 한국 넷플릭스 인기 콘텐츠 단골손님이자! 넷플릭스가 사랑한 K-Halmeoni의 표상!으로 폭풍 활약 중인 차미경 배우!!! 완.벽.한 K-할머니로 변신을 거듭!해 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTFfNDIg/MDAxNjQ0NTYxMjU1NTkw.YErCDJfshOg9g6yXy1Uy4_6OSpnU6DmlKjViHb0TaeYg.TGXTn1Q2L2VrSUWKr_Nwb7jp553WDiam1Qe1pWPaFbYg.JPEG/I8sViAmNxth4FWfNX08X5uy8m9Pg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김주아] 지금 우리 "이삭이" 학교는_'지금 우리 학교는' 촬영 비하인드 (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33234655&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33234655&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 디디터입니다! 오늘 들고 온 소식은 김주아 배우가 출연한 화제의 그 작품! 많은 팬분들의 간절한 염원 끝에 10여년 만에 드라마화가 이루어진, 넷플릭스 시리즈 "지금 우리 학교는"다들 재밌···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfOTIg/MDAxNjQzOTQ4ODY3MTI3.e8cNkFw1zu2_q8ivkUqSkOwYIsOFrLwti5h0AB6kqyog.bxHLV21R1YGy990vpYWaGNPL4GFaYWQrfrldfzlJMS4g.JPEG/I6J_6cn1LIR8fhlN5BVA6JiFKT8Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이지해] '연극계 아이돌'에 입덕한 
+7가지 이유 (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33166375&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33166375&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 디디터입니다! 오늘 포스트의 주인공은!! 바로, 디컴과 새롭게 식구가 된 이지해 배우 ♥연극은 물론 영화, 드라마, 뮤지컬을 아우르며 탄탄한 필모그래피를 쌓아온 데뷔 18년차의 진정한 연.기.···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTFfMTY4/MDAxNjQxODgxNTM1MzM2.p-HvVmHn-Udg8TpPtyVMaZOjq-LGPxCIL31pQj_UFDsg.neXJHtGAUjE7aDg7J8UA06qWkX_QO0APZjLWEkCrYccg.JPEG/ITzRZgoWi3f_gliHx6XV-4CxPFc4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이상진] 입대(?)를 앞둔, 
+이자카야 사장님을 기억하며 (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33160006&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33160006&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 디디터입니다! 디컴의 재간둥이, 이상진 배우가 주당브라더스의 사장 '김정현'으로 등장해 활약한 플레이리스트 웹드라마 '백수세끼' 모두들 재밌게 보셨나요?'백수세끼'가 막을 내리면서 정현이와 작별···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjBfNTYg/MDAxNjQyNjY0MTc2NTcz.r694x2n0eWZY0sDnvfwmZlDBY1G6B2vT0vxbgcxdH5cg.7zHgSKOOXI5PEpOvusJRL4gH0WimWma-NX8jrpuob9Ug.JPEG/ImAHFk0Hz05X9lOb8b78UtWqqqnY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[디컴] 띵동! 디컴 배우들의 
+'크리스마스 다이어리'가 도착했어요! (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33006493&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33006493&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 안녕하세요! 디디터입니다 :-) 코로나19가 발생한 이후로 크리스마스를 즐기지 못하는 분들이 많이 계실 거라고 생각해요 (˃̣̣̣̣︿˂̣̣̣̣ ) 하루 빨리 코로나19가 종식되길 바라며 디컴 배우들이 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfMTg1/MDAxNjQwMTYwMDgxNzYx.klycWxFMzByKO3rNqtoHHuTIOK0xcRNNGP3ddkEGJvgg.gOz__BoiFYIM88FIBpjFEOXxxedVfSBuL4VFoMpX3yYg.JPEG/IRbiPi6xRGMMFoSeMHB1mbo-I9ss.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[차미경] '옷소매 붉은 끝동'에 잠자는 숲속의 OO가 있다?! (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32999188&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32999188&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 디디터입니다! "6주 연속 화제성 1위" "동시간대 드라마 시청률 1위" MBC 금토드라마 &lt;옷소매 붉은 끝동&gt;에서 '박상궁' 역으로 짙은 여운을 남긴 차미경 배우!탄탄한 서사는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfNDkg/MDAxNjQwMTQxMjM4Nzcy.wV_HLVzKYXBwcjSdhxuPE3OydK_DpcU8rVQyvmf73Wcg.c2r4nNRug3enZKxlYsTOGbSUfEdHjyGwQnb9mgmBMmIg.JPEG/I1zyRk6ikBV0wxx0hic_fvH4s9xM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이상진] 디컴의 재간둥이, '찐' 본캐 매력 탐구 (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32957529&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32957529&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 디디터입니다! 여러분~! tvN 드라마 &lt;멜랑꼴리아&gt; 재밌게 보고 계신가요?!'멜랑꼴리아'에서 이상진 배우는 아성고 내 분위기를 환기시키는 '박형도' 역으로 케미력 만점 인싸 친구 ◡̈⋆*성인이 되···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTRfNzMg/MDAxNjM5NDc0MDI5NDgx.atwX5QqbBADHuHJIsWmaOfO8u_Brym1kBj5oEgtdj0Ig.ogm_o4_XvhjI7A-vK7G_kHNZdFNED0EbSp70rI-FEfEg.JPEG/I1T-lzEg8ERVErM8Lou6sth3kcBc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변서윤] '젤클스타'가 알아본 "제일 클 스타"라구요? (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32877275&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32877275&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 디디터입니다 :) 여러분~! 제일기획의 &lt;광고 유망주 발굴 프로젝트&gt; 유튜브 &lt;젤클스타&gt; 보셨나요?!'지식iN이 그토록 궁금해하는 인물' '나오는 광고마다 궁금증 유발하는 넘사 미모' CF···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDNfMjk1/MDAxNjM4NTE1MDU4ODU5.h-kdvp-vPoBxkDNbbbFEHiNw7f4lOLuLN9LS1D7mPBYg.MARJrfPeuLg9qLzIcjaHP5PpQsVTimhi9puQ9x1SmRgg.JPEG/IyqHDIc8TiejufZg4nhmuqTr-VSo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이승일]'팽'할 수 없는 전우상의 매력 (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32641989&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32641989&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 디디터입니다 :) 오늘 준비한 소식은 이승일 배우의 플레이리스트 &lt;팽&gt; 포스터 촬영 현장!승일 배우가 출연하는 플레이리스트 &lt;팽&gt; 재밌게 보고 계신가요?!주인공 고사리의 X, '전우상'···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjZfMjMg/MDAxNjM1MjQzNjY4MDI1.opBj-JpqmHRKHMgugTbwAZU5Fzjb4VrOmCrAJIkXVEog.pzfv2cbbTwhfajsXFU85-kGHLOVp05jywxG_iHGO2uog.JPEG/IgUo_iE0bQffYid-7N-SisS-nmns.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[우효원] 찾았다! 디컴이 찾은 '숨은 원석' OPEN! (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32551732&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32551732&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[여러분~ 안녕하세요! 새로운 소식과 함께 찾아 온 디디터입니다 :) "differentiate-as an Actor" 우선, 디퍼런트컴퍼니의 첫번째 공개 오디션!! 서류심사부터 합격자 발표까지 약 3개월에 걸쳐, 디컴···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTRfMTE1/MDAxNjM0MTc0OTA1NjEw.CMFNAIVx_ALdRw_aaYukjqVPflOCBkP3_W8sufa4l2sg.7JhJ-U3tKdJNns4tonnej4vCZ-7yK9OtPINqDSQSCV8g.JPEG/IBVaAwBUbjXs6vCF6jqQORMKi168.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이승일] 디컴 신입생 만난 썰.txt 
+_WELCOME TO different! (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32268418&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32268418&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 디디터입니다 :) 여러분 혹시 그 소식 들으셨나요? 바로바로 디컴에 새로운 신입생이 등장했다는 소식풋풋한 신입생을 만나러 간 곳은 서울의 한 스튜디오스튜디오는 어두웠고빛이 틈 사이로 새어나···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MzBfMTQy/MDAxNjMwMzA5MTAyNDk3._R6OByHV_T5BLCxOKzmEiGKfxr6DcJKm_lQAC-8O0OQg.VMoyWAmiA7Yi_SgCIz7pmO709OKwp3OzSKRIq1BgokUg.JPEG/INnTeOVkY6ahIiQfy3aoMDt1QL9U.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이영진] 레전드 T.O.P 모델 클라쓰★
+Harper's BAZAAR 촬영 behind (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31982310&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31982310&amp;memberNo=44744318</guid>
+            <pubDate>Sat, 24 Jun 2023 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 여러분! 디디터입니다! 오늘 포스트의 주인공은! '하퍼스 바자 코리아 300호 기념' 화보에 함께한 aka. 명불허전 탑 뫄델 이영진 배우!스크롤 내려도 내려도 끝이 없는 멋짐,,♥여/신/강/림 영진배···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MjRfMjQ3/MDAxNjI0NTEwMTE0ODA5.nA6WaO3pb75gsSzbmqSSUCkcquShvG32Hw3m7G7QJDog.4T3JtvrHOFJNOF86-ZS96xkGOYTQfo0aYLasEZo6PsAg.JPEG/IMCNlg61sGf3AtdOiGv2S0cyKiC8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
