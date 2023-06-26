@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 02:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 03:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간 팔레트 정려원]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36149426&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36149426&amp;memberNo=51396641</guid>
+            <pubDate>Mon, 26 Jun 2023 03:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[세상에서 가장 고르기 어려운 테스트정려원 배우와 어울리는 컬러는?A. RED 려원B. PINK 려원C. YELLOW 려원 D. BROWN 려원E. BLACK 려원 F. WHITE 려원 당신의 ONE PICK은? ▼결과 보기▼ A를 선택한 당신 강렬하면서···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjZfMTk0/MDAxNjg3NzQzMzM1OTA4.HOAeybwQz_XJFuTm8yQcqGQ-vQ48QDydoww2lGboekAg.Qpb2qAFxCthrM_T_zs0faXLI7rRGDzpxcni-kXtpDAYg.JPEG/I29TnN_vWY4dMstbUsLTVdoPiQlU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칸에 뜬 정수정]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36126537&amp;memberNo=51396641</link>
@@ -163,14 +171,6 @@ H& 매력 토끼들]]></title>
             <pubDate>Mon, 26 Jun 2023 02:01:12 GMT</pubDate>
             <content:encoded><![CDATA[넋 놓고 감상하다 정신 차리고 보니안테나만큼 높이 올라간 광대 발견저절로 나온 물개 박수광대는 치솟고, 손뼉 칠 수밖에 없던 그 이유황홀한 눈, 코, 입말하면 입만 아픈 미친 것 같은 옆선한 마디로 말하면 축복···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDlfMTkx/MDAxNjcwNTg5Mjc5ODky.HyZL89h0reR2-E4IKvjOyhikbbVua5K1nkpO1zrLfrcg.1RTRE78Tn0GSUUHFz2wHQu86cT-WX_v6a0IViwOz0fAg.JPEG/I7Ka-8JqQvcJM199jm2ZcvejEt7A.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장르가 김혜은]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34895807&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34895807&amp;memberNo=51396641</guid>
-            <pubDate>Mon, 26 Jun 2023 02:01:12 GMT</pubDate>
-            <content:encoded><![CDATA[장르가&nbsp;김. 혜. 은 ⓒ 아레나 옴므 플러스 카리스마 넘치는 고혹적인 블랙 스완 청순美 넘치는화이트 여신 극과 극의 매력을 넘나들며단번에&nbsp;화보&nbsp;&amp;&nbsp;광고까지 정복한김혜은_촬영 비하인드_모아보기.zip   시크 &amp;am···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMzBfNzIg/MDAxNjY5ODAzNjQxMzA5.YrxD5j7KFzttK2cCx7KW9-hGMOFocZ6OiSF9LcJINXcg.BvgF6uYL_a7TaCKBbnAeYMM2gG2JZet4llVJ8B2HRicg.JPEG/ID3_fEk9NrMLgqcbBrd8cfC3GZxw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
