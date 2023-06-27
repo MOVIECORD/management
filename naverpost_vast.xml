@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 08:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 09:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 모델이 실제로 존재한다고?๑°⌓°๑]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36151810&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36151810&amp;memberNo=32146648</guid>
+            <pubDate>Tue, 27 Jun 2023 09:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST]SHIN DO HYUN♥여러분, 요새 엄청 핫한 모델이 있다믄서요?&nbsp;머리부터 발끝까지 매력이 흘러넘치다 못해모두를 스며들게 만든 그런 모델이 있다기에베스트리가 단독으로 취재해 보았습니다.그 현장- 바로 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjZfMTk0/MDAxNjg3NzU5MDQzMTAy.mzwyyMu2J3SLIl9s3arm4pElVSMRT433NcVBArgwv0kg.ngka7CHuMMeAXC5rmw7mpVq4em9LPeogTIRp22imy30g.JPEG/I2ZuHkFFlO9t6AlO71bu0SniQgaE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현빈]을 생각카라]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36141854&amp;memberNo=32146648</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 27 Jun 2023 01:58:32 GMT</pubDate>
             <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2021 여러분,&nbsp; 생각보다&nbsp;천국은&nbsp;가까이에&nbsp;있어요...★ 가만히&nbsp;서있어도,&nbsp;무언갈&nbsp;들고만&nbsp;있어도&nbsp; 멋있는&nbsp;현빈&nbsp;배우&nbsp;보면&nbsp;되거든요&nbsp;&gt;"&lt; 오늘의&nbsp;극락&nbsp;좌표&nbsp;드리고&nbsp;갑니다&nbsp;(총총···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjBfMzAw/MDAxNjc2ODgxODMwNTc5.WKf_qNzyjidUHmJBxnWEzkb35cedp3sEV2ybF14uVSAg.cvuaZkBQE7KfHF_8tyrDy45_3pzvWJhDftw4-r87IoYg.JPEG/IIqwB3L-4XvewMOTyq_8Jm_-CLIU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신도현은 화보를 찢어]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35620406&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35620406&amp;memberNo=32146648</guid>
-            <pubDate>Tue, 27 Jun 2023 01:58:32 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST]SHIN DO HYUN♥도현 배우가 보고 싶어&nbsp;하루하루 지내다 보니어느덧 날이 따뜻해지고 봄이 왔어요 보고픈 마음을 가득 담아도현 배우의 화보 메이킹을 풀어보도록 할게요(어휴 설레) 시작부터 포스트를 환···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTRfMjI4/MDAxNjc4Nzc3MTc4NTg3.dALtF96XCn_uDY8woxv916WVLLazL7sueyG3PbShaPYg.DYUsEoetNtS5GRoPfISUXFIaQtbm9UmztQvDXQFYd9Qg.JPEG/Ia94zRilSw18a6Y3twME_JpZEoyI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
