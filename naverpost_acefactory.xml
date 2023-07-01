@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 11:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 12:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최근 첫눈에 반한 배우]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36180925&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36180925&amp;memberNo=44834478</guid>
+            <pubDate>Sat, 01 Jul 2023 12:38:04 GMT</pubDate>
+            <content:encoded><![CDATA["이거 써요""저기요""저""첫눈에 반한 것 같아요"tvN 토일 드라마 '이번 생도 잘 부탁해' 안.동.구현성고등학교 하.도.윤 학생한테 반한 썰 풉니다그 시절 우리가 사랑했던···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDFfMTM3/MDAxNjg4MjEwODM4Mzc0.4O7nQ1eMBUobMT6rN_QRsjAWXuqy_2q_y1hT84qJG-og.-xsLZ7c9Tyr9Ur1TTKI5fXtnDeaCszDHegWHZ0sDXuMg.JPEG/IcTzTUmqGNDGj7L_W6p_JfpneXl0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 이준혁 자기님 공개]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36133623&amp;memberNo=44834478</link>
@@ -172,14 +180,6 @@
             <pubDate>Sat, 01 Jul 2023 07:19:00 GMT</pubDate>
             <content:encoded><![CDATA[빅토리아 여왕 시대의 런던 영국의 귀족 문화는 정점에 달하고, 상인들이 산업혁명을 통해 더욱 부유해졌으며, 권력층은 무소불위의 힘을 휘둘렀다. 젊고 재능 있는 이발사 벤자민바커는 아내인 루시, 그리고 어린 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDNfMjQy/MDAxNjc1NDI1MzczNjYy.1NZLk_SFZs49LqV04mLAJ3QABqWpRqDnBKiKWG39VXcg.dMuKn9jIk_KHX3fPaaRk7o0QsHP1LvDgB7q9A7EpoJYg.JPEG/IWKYmRqajdgHHhFnIn6CyCPM8LG0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20대 연애 시절 공개된 장승조]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35324267&amp;memberNo=44834478</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35324267&amp;memberNo=44834478</guid>
-            <pubDate>Sat, 01 Jul 2023 07:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[여기2007년 겨울 07학번 새내기의 사랑이 시작됩니다 이 연애의 주인공 남이 될 수 없는그 남자 구은범aka 美친 전남편극 사실주의 로맨스 장인♥ '남이 될 수 있을까' 하라와 함께구은범의 20대로 돌아간 장···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDFfNTEg/MDAxNjc1MjQ0MDYyMjIx.qGDybY22tlJfk1MG7qLlK2FRMr69dX0uFwmrwWB7p-wg.7TgcSCw4V-6Kbp2AfhB0JlMOB942I0DbwLBjefPyzSYg.JPEG/IFDTTGb5J7qKBjRfY3GRTi_TeRY8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
