@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 09:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 10:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트] 7월의 BH온에어]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36188792&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36188792&amp;memberNo=21724264</guid>
+            <pubDate>Mon, 03 Jul 2023 10:22:25 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDNfODgg/MDAxNjg4Mzc2OTQwNTY0.yJiIAclHSUzt1KBnRXD_uhyYn1Del4vQQfr7uNM1Z-Qg.6BTmlWa6InrftSI2_ogYibSJeRi7ice0oFjp6457qXYg.JPEG/ISqlUD2IWhFM2lPbHPMbKtBm4kBs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연기 잘 하는 사람 여기 다 모였음]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36159709&amp;memberNo=21724264</link>
@@ -156,13 +163,6 @@
             <pubDate>Mon, 03 Jul 2023 07:19:31 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요해피비입니다:) 여기 이곳꽁꽁 언 날씨도 따뜻하게 만들어주는달빛의 여신이 있다고 해서 찾아갔는데요 ◐짜잔◑바로 이.지.아 분위기에 따뜻함이 둥둥 떠다니는화보 현장★ 하지만 시크 지아는참을 수 없지 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTZfMjU0/MDAxNjcxMTY1Njk1Mjk2.xzwWW-8ITbqHPFjpRm-_0S-7mWtnMcDwajzhCvthNMMg.CErSLE6fEILxFQeZIu2sjvQUauVTnqrdQ2sbA_LMMXQg.JPEG/IC-pXs3Cahh5lJM8g_ldRwvoFuco.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BH엔터테인먼트]12월의 BH ON AIR●]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34888841&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34888841&amp;memberNo=21724264</guid>
-            <pubDate>Mon, 03 Jul 2023 07:19:31 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDNfMjIw/MDAxNjcwMDAxOTMxMDgz.ffBelhdLKF_hhteN14C-aGOdM1kBYwCfGEecJS1psk0g.SsGNxXuFSDDwQLF9XSpbCFamQVlpOseogftStxEhYEwg.JPEG/I09H-F1HsIeKjYYBQ-6d-UyXa6uw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
