@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 13:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 14:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플러팅 날리는 문가영]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36202027&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36202027&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 05 Jul 2023 14:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[미안해요~ 아는 사람인 줄 알고~ (덥석)나도 좀 착각해 줬으면 좋겠는 등장부터 고자극인 ㅁㄱㅇ민강윤이에요~ 이 파티 호스트문가영과 키동이 말아주고 못 마셔도 마시게 될 ^^ㅁㄱㅇ 민강윤=문가영 배우의 이로···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDVfMTMy/MDAxNjg4NTQ1ODM1NDM2.Nmz3cjvjJ8gRmwekOKWVVGVIkpul4IhJTmi-1JSMxAAg.XQLvYYVL8iVZXQk2ihfniGxJzuuCHNJAze4UCauPSFAg.JPEG/IwkYaofYa4W1xWp4_4r4nyr7t2qQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김동욱 당신 유죄야]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36195902&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 05 Jul 2023 07:20:37 GMT</pubDate>
             <content:encoded><![CDATA[K-드라마 한 편, 한 편 다 정주행하다 보면 이런 생각 들지 않아요?ㅎㅏ .. 이 드라마 딱 스핀오프로 한 편만 나왔으면 좋겠는데!막 내가 과몰입했던 드라마에 내 배우가 나오면 어떨까,,? 벌써 짜릿해 (,,• ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTFfMTAy/MDAxNjg2NDYxMTY0NjM0.p5O2-cF31iqeONL5Y_zHuxCmW-j8hPZm73XYU-woknEg.Knv9d11PoFgNv-pMXFXe_vQtc25w_tCmpoS3RGfaZO0g.JPEG/Il64G--R9evLA4Z2gR0m0CL51HaI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌 준비한다는 김동욱]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36073965&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36073965&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 05 Jul 2023 07:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[프로 이직러 김동농씨의 직업이 또 바뀌었다는데 사실인가요??모두의 신뢰를 얻고 있는 앵커이자 선생님이였다가 (능력=시간 여행)냉철한 변호사이기도 했다가 (능력=공감 만랩)이번에는 잔망 터지···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTBfMjk4/MDAxNjg2Mzg5NzM0NDQz.8JAnlP6FFcxrZTz2wd5KZgFfTS58-ACGFYVtRBclAqog.5xmLxnhONTRgZWEmGpVH-YGnE_dRdqs9UMwy5NU6glog.JPEG/IPBWtCMy7dXcqdn5CWTuttTdstfQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
