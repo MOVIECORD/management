@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 10:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 11:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신현수] 포스트 누르지 마시오]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36201431&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36201431&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 05 Jul 2023 11:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[누르지 말라는 ※경고※에도 불구하고 포스트를 눌러버린 여러분, 잘 누르셨습니다♡티빙 오리지널 &lt;방과 후 전쟁활동&gt;에서 소대장 이춘호 역으로 '소대장앓이', '춘호앓이' 에 빠지게 만들었던 배우 신현수 씨 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDVfMTM4/MDAxNjg4NTQxNjg0MjUy.WxYbxD3j662-OvPTzrpzAymHRaXFGAzL62sg0eyBf8Ig.NjIjqEgppymjXY-uqBPjmxzHZKA_5f5H7tSC2kK66eAg.JPEG/IKEbMQXDJFQPQ53EXCpMT1Vys2U4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[고아라] 계속 보고 싶은 얼굴]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36176640&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 05 Jul 2023 07:21:50 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다!오늘은배우 이동욱 씨가 출연하는 &lt;구미호뎐1938&gt; 하는 날&nbsp;&nbsp;♪(&nbsp;'ω'&nbsp;و(و&nbsp;♪본방사수 전, 냉면집에서 기다리고 있는이연♥을 만나러&nbsp;함께 가 보시죠! 사실은탈의파(김정난 분)···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDRfMTg0/MDAxNjg1ODQ4OTAwMzg3.HpZT-GmKncc_Cp_LIqWRl64iYsA_88C0izWA2N2epUAg.tZ2hue94YjkIqwabM-mYZg8QwAZyYTkCrS8_10hSn4Eg.JPEG/Io7TnggkgRIli_Kxw8JNnylCCyzU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[송승헌] 불변의 법칙]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36029089&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36029089&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 05 Jul 2023 07:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[세상에 변하지 않는 법칙이&nbsp;한 가지&nbsp;있습니다바로송승헌 = 화보 장인 [사진제공: '아레나 옴므 플러스'] '아레나 옴므 플러스' 6월 호와 함께한배우 송승헌 씨의 A컷을 보니더욱 납득이 가는군···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDFfMTIg/MDAxNjg1NjAyMDQ3Njg2.W-aXGxxTiKwCguu69R0iGyfrMjcRwEQv1ZHkXxeXBu0g.FxNK-0hrba8025SOMic3fVq6f3reTTZVLsSnUzy4a5cg.JPEG/I0bbIE1UbPa9If7_QSBMw-H0bbmM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
