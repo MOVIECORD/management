@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 13:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 14:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불금에 공원 간 김서형]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36217575&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36217575&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 08 Jul 2023 14:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[울언니가 왜 음악프로그램에서 나와??!!청아한 목소리와 수준급 기타 실력으로 금요일 밤을 깜짝 놀라게 만든반전 매력의 주인공 배우 김서형놀. 랐. 죠? 키동도 많이 놀 랐 어 요밤의 공원을((( 김서형···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDhfMjE4/MDAxNjg4ODA1OTY0Mzk3.obOxKLnZ1ZDyEGJoRLV7hkcCNwbUMTX5cN201_Kt6Osg.u66qRiSa97DCrVT6J2HDTysqa45A3-h1Jd-cNQPXA1Eg.JPEG/IrMeiB4cssYkQ0FZ1mtJbaToXh9c.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한선화와 떠나는 랜선 여행]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36214684&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 08 Jul 2023 11:16:23 GMT</pubDate>
             <content:encoded><![CDATA[안녕 여러분? (반모 주의) 오늘은 방 청소를 하다가 우연히 엄마의 일기를 보게 됐어!때는 바야흐로 1987년! 엄마의 첫사랑에 대한 이야기였지 너무 궁금하잖아? 안 읽을 수가 없잖아? ㄟ( ▔, ▔ )ㄏ당···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTRfMTY0/MDAxNjg2NzMzNTA3MzY4.HXCqwKN9OBnhmpxWt6LOXDv-D71N8eXQkygSrAxf1T4g.vWb2rUeXVPsBIXElIrejMJJQWlQF0KAI2Koq0eTlk2kg.JPEG/Iaxh8OOXKYQNvleiKjA8b1z2JK-Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수련회 갔다가 꽃미모 교관 만난 썰.ssul]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36089390&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36089390&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 08 Jul 2023 11:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 여러분 오늘은 키동이 재밌는 썰 하나 풀어줄까요?며칠 전에 키동이 학교 수련회를 다녀왔는데 말이죠!거기서 꽃미모 교관 쌤을 만났지 뭐예요..?다른 친구들은 학생들 보자마자 "나는 여러분이 어떻게 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTNfMjM4/MDAxNjg2NjIxMjkyOTU0.hM4_Ry-rsLh4NiKd1IMqQmJuEuMveRqt_1DaWh29vVwg.NgvLnXUF5BBjW3BBgEBTdzQmqZyxQdvdb370u9HiL7cg.JPEG/IYarcImTSGOA6yShgzBbiQrOj2Y4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
