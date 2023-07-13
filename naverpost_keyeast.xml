@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 13:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 14:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신인배우의 올바른 비주얼]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36244930&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36244930&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 13 Jul 2023 14:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[↖ 여러분! 혹시 이런 환한 웃음을 짓는 배우를 기억하시나요?아니면! 이런 강렬한 눈빛을 지닌 ↗ 배우를 기억하시나요?혹시나 기억이 가물가물하실 분들을 위해 키동이 다시 한번 소개하도록 하겠습니다 MBC 금토드···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTNfMTM0/MDAxNjg5MjQyMTI4NDYz.kf9HAGzlSpfSOJgEJibe8EQAJm4C6Hlq3OeKo2AeqXog.nidbGiDaP4xMIL7k7KWsdsMpiXC5kNi6jTMzd7DPnE8g.JPEG/IeXNHUno4Ht2MKS1qSLyeqIKjyLY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[극약처방 김동욱]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36238462&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 13 Jul 2023 12:42:51 GMT</pubDate>
             <content:encoded><![CDATA[너무 사랑하는, 너무 애정하는 우리 돌담즈 패밀리함께 동고동락하며 돌담 병원을 누비던 가족보다 더 가족 같은 사이..!이렇게 스스럼없이 장난도 치고~정말로 찐 가족 같은 케미와 역대급 티키타카를 보여줬는데요···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTZfODYg/MDAxNjg2OTA0NDU4MTY2.yWoEsWfC8ysCcV6fHhJc7KQz9kkq9g91JDJCZJ0QPu0g.1z76NqWsAhOxX-w8HS5wuQH0FP5Wr46jcCWqDJUyi8Ag.JPEG/ITc6_gXdZ2JgbgQnRpbD4hNWsUVo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변호사 김동욱 어떤데]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36109984&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36109984&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 13 Jul 2023 12:42:51 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 논리 갑 말끔한 비주얼 정확한 딕션 갖추지 못한 능력이 없는변호사 어떤데(요)파워T처럼 보이지만 의뢰인의 진심을 변호하는 파워 F 변호사김동욱 어떤데(요)사람이 맞나.. 이 세상 사람 아···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTdfMTM1/MDAxNjg2OTkyNzI5NDU4.-zcPDkyBayzlaXHLFlJKQeltYNDR9p8hsldmJATSQZQg.JsJSgnjA5IHGiyHjg0OBoDo8OdafAAxxUBkf-s8oOA0g.JPEG/IoALoRM7DL66d5cQa6bt29014IAQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
