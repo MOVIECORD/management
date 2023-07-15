@@ -4,17 +4,9 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 08:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 09:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[차예련] Quiz Test]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36241616&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36241616&amp;memberNo=3247896</guid>
-            <pubDate>Sat, 15 Jul 2023 07:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[ENA &lt;행복배틀&gt; 보면 몰라?이혼 소장이잖아. ENA &lt;행복배틀&gt; 남편 바라기 '김나영'에서&nbsp;'혼자서도 잘해요!' 로 각성한 '김나영'(a.k.a 차예련 배우)덕분에 점점 더 재밌어 지는···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTNfMTIg/MDAxNjg5MjIyMzQ0MjQ4.fa1EgA4N5miUWemwDUYBwU5IBGbOPm50C8iunF5yv4Mg.eHHG6Bxip6aiFkbTTanqakHeOjh18G_sKd9wP9T_zV0g.JPEG/IwNj44QoI83pXyZEq1GcEqU1CE44.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[사장이 복지인 회사]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36244499&amp;memberNo=3247896</link>
@@ -167,6 +159,14 @@
             <pubDate>Sat, 15 Jul 2023 07:18:58 GMT</pubDate>
             <content:encoded><![CDATA[오랜만에 다시 돌아온 파파라치비의 특별한 일기 v.2 ✏️ 지금 바로 시작합니다 ✏️✏️ 치비 일기 (a.k.a 지은 배우 기록 일기)2023.04.30. 일요일 ✏️ [제목] 오늘부터 지은 배우 '요정'이라 부르기로 했어요 ✏···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTdfMTM2/MDAxNjg0MzA4MDMxNjY4.lz9r2xPa_nOE7n7ttZkgdlh71LTea62HgOGSCP3qcXUg.gKLK1byx93ZeQ8AFLKs8mm1G0Wtdj0_c-x267C8qFAIg.JPEG/IrNhptytPTKIQ49L37td5wrhYPUo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2주 밖에 안 남았다고? 이거 맞아..?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35946739&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35946739&amp;memberNo=3247896</guid>
+            <pubDate>Sat, 15 Jul 2023 09:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[어느덧 시간이 흘러... ENA '보라! 데보라'가 막방까지 벌써 2주 밖에 안 남았다구요!!!!!그래서 세상 서운한 치비가 시간을 거슬러 올라 상욱 배우가 열심히 드라마 홍보에 참여했던 그 순간을 풀어보려 합니다 총 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTZfMTAw/MDAxNjg0MjE3NjE0Nzc0._m5iG1bl8CPLx66Gt9hQkDQHD0oV5ozvESiacxh21UUg.3IeNx6fbjZed_hzmHWbTeskYecuHGMwoYABokZ3kNpEg.JPEG/IKY9_Ab9mA1cquoYlVjo7E6RmdeE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
