@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 02:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 03:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이로운 매력, 윤박]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36261759&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36261759&amp;memberNo=51396641</guid>
+            <pubDate>Tue, 18 Jul 2023 03:27:36 GMT</pubDate>
+            <content:encoded><![CDATA[모든 게 의심스러웠던 이 남자tvN &lt;이로운 사기&gt; 고요한실없는 아무 말과경계 없는 오지랖으로한없이 가벼워 보이다가도때때로 차갑게 돌변하는 얼굴적목 키드 멤버들이 일을 벌일 때마다 나타나집요하게 감시···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTdfMjcy/MDAxNjg5NjAxOTg5NTUx.ZJmBM5COBfmy8QtBkPWnu0Wh_x92sPrFKyJyJ_BEAvEg.ssR4MXl4eG0Wg-dIbchaBzqqtFE1TBodERkUHX5bsWcg.JPEG/ItY2IpJMumfLulQPwcSwHEscPKnk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천우희 성장캐 모먼트.zip]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36241132&amp;memberNo=51396641</link>
@@ -160,15 +168,6 @@ H& 매력 토끼들]]></title>
             <pubDate>Mon, 17 Jul 2023 20:22:41 GMT</pubDate>
             <content:encoded><![CDATA[Q. 진정한 2023년 시작! 검정 토끼의 해인 올해 여러분을 사로잡을 매력적인 토끼들은? A. 에이치앤드의 토끼(띠)들♥윤박천우희한보름토끼처럼 열심히 더 높이 뛰어오를 윤박 X 천우희 X 한보름 배우···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjVfMjQ3/MDAxNjc0NjMyMDMxODA2.0L0ga1fe3is4MEaKrZ7afeH9NnDdYvtpz0BaK4r5I84g.TS0ZdPb6GL_LYHpKhCryDIZeivd8Spx6D2nPo4Sp3nEg.JPEG/InmVwMynt9XdjU_1gotzEOR6Vgc4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠틀하게 돌아온 
-주지훈]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35099596&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35099596&amp;memberNo=51396641</guid>
-            <pubDate>Mon, 17 Jul 2023 20:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[나쁜 놈 잡는데 불법, 합법이 어딨습니까?잡으면 장땡이지라고 당당하게 말할 수 있는 사건 해결 성공률 100%의흥신문화센터 사장 지현수그리고 올겨울 유일한 범죄 오락 영화 '젠틀맨'으로 돌아온지현수의 본체 주···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDZfMjI2/MDAxNjcyOTczMjE4NjUz.MWe0ud3p5nach9W_2ID-BJk9vzRaVwrrGzar9NoaQ2Ag.qfyXkRXswE1cAPu18p5xmicoqoSjnS6fes7GBkqKnqwg.JPEG/Ivv2G9iPimwU-hH8v0KWLmJDhhC8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
