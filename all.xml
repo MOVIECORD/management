@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 11:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 12:37:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1450,7 +1450,8 @@ H& 매력 토끼들 (네이버 포스트 ─ 에이치앤드)]]></title>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjVfMjQ3/MDAxNjc0NjMyMDMxODA2.0L0ga1fe3is4MEaKrZ7afeH9NnDdYvtpz0BaK4r5I84g.TS0ZdPb6GL_LYHpKhCryDIZeivd8Spx6D2nPo4Sp3nEg.JPEG/InmVwMynt9XdjU_1gotzEOR6Vgc4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올해 극장에서 가장 많이 본 배우 (네이버 포스트 ─ ACE FACTORY)]]></title>
+            <title><![CDATA[올해 극장에서 가장 많이 본 
+배우 (네이버 포스트 ─ ACE FACTORY)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36275403&amp;memberNo=44834478</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36275403&amp;memberNo=44834478</guid>
             <pubDate>Wed, 19 Jul 2023 11:16:26 GMT</pubDate>

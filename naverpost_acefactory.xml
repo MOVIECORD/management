@@ -4,11 +4,12 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 11:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 12:37:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[올해 극장에서 가장 많이 본 배우]]></title>
+            <title><![CDATA[올해 극장에서 가장 많이 본 
+배우]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36275403&amp;memberNo=44834478</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36275403&amp;memberNo=44834478</guid>
             <pubDate>Wed, 19 Jul 2023 11:16:26 GMT</pubDate>
