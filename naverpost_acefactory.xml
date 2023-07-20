@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 08:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 10:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 최영준 집들이]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36281461&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36281461&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 20 Jul 2023 10:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[부부인 ‘샘’과 ‘제니’가 새로 이사 와 한참 인테리어 중인 집.‘제니’는 매일 밤 같은 시간, 누군가 2층의 아이 침실을 돌아다니는 것 같은 이상한 소음을 듣고, ‘샘&amp;rsqu···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjBfMTUw/MDAxNjg5ODQxOTE2MzMw.HZoiTbVBk9_OMc86_mvYfVSRm6lxpdhdv1lfw5Yw6iMg.sYcyAVxcG66UkVHbyVs9oCJZNxQQXFsUV3_L_0N34IAg.JPEG/I8Lys7dnHAR3aXQlbvPDu8fr3zaQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 극장에서 가장 많이 본 
 배우]]></title>
@@ -172,15 +180,6 @@
             <pubDate>Thu, 20 Jul 2023 06:24:52 GMT</pubDate>
             <content:encoded><![CDATA[우리, 남이 될 수 있을까?이혼했지만이별은 어려운 우리그 마지막에도결국 완벽한 이별은 없었던은범 하라의 이별은 ing,,,★★하라은범 마지막으로 함께하던 날향긋한 꽃내음과 함께 비하인드 컷을 풀어봅니다은범이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjRfMjY0/MDAxNjc3MjE1MjcyMjIx.Jn8OvwHHFGxQTyeWMkyNLVocfuEI6kEUSHx-SyAZEIQg.G0C0-_Tb40TuB_f2rNg_KbARw0LOud14J63bVTZSpz4g.JPEG/I7dab0rhW1b8EAZa2xrUXIYk9Bic.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['남이 될 수 있을까' 장승조,
-이혼 후 재결합 성공한 썰,,?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35520485&amp;memberNo=44834478</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35520485&amp;memberNo=44834478</guid>
-            <pubDate>Thu, 20 Jul 2023 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[매주 수요일 목요일 저녁을 꽉 채줘주던 이 남자ENA '남이될 수 있을까' 장승조이혼전문변호사 구은범으로열일해온 나날들믿고 가는 구변변호에 진심인신뢰의 아이콘우리 구변은 변론만 잘 하는게 아니에요못하는게 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjJfMjk0/MDAxNjc3MDUxMjM5NDQw.v-rSiwjcWO4Tq6ONou56X2_pehcVT6RkHaaNxmNtGaEg.VLbjWYAXh0_EZmbWEpzdubvkgd1f2OFe7h_-n6LZMZMg.JPEG/I8sCFeJoyxC6PTQj1digqc6vmW0A.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
