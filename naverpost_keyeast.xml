@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 13:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 14:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소속 배우 얼굴 자랑에 진심인 소속사]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36282607&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36282607&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 20 Jul 2023 14:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[그런날 있잖아매일 같이 밥먹듯 포스트에 소속 배우 자랑하고숨 쉬 듯 또 자랑하지만 무작정 얼굴 자랑하고 싶은..그런날이미 수없이 자랑 했지만, 오늘따라 우리 배우들 얼굴 자랑 하고 싶더라구요!?그래서 키동이 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjBfMjc3/MDAxNjg5ODU3ODQzMjI3.JtX7F0NfKRBCyWxqRQziEnhckFp07-YfM0KapSLUNRog.lK_FkCWfh0z1kCredkJPy9IBQrgzqBlq1FLTajERN60g.JPEG/IeXpuZ6Arm_ttVqncHSSIJ6BPy-w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리가 김동욱을 신뢰해]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36276215&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Jul 2023 06:23:45 GMT</pubDate>
             <content:encoded><![CDATA[[속보] 타임머신을 타고 1987년으로 시간 여행을 떠났던 윤해준 씨가 2021년으로 다시 돌아왔다는 소식입니다이번에 특별히 키동 기자가 윤해준 씨의 마지막 1987년의 현장을 함께 했다고 하는데요그 놀라운 현장을 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjFfNDUg/MDAxNjg3MzUxNjYzMTk4.AwgIffM4PJiOPSmb75nQYfF69Wi5Z3zCxOqskXVlesEg.9xhtaRsgZJPtVyWtgDuDHX6C8hXQ0KrNLsmTSuRtfBUg.JPEG/IKZBKfwOAz5i7gyoinxJqouQm1Ns.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아니. 우도환 넌 귀여워]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36125184&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36125184&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 20 Jul 2023 06:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[공개 3일 만에 넷플릭스 TV 쇼 부문 글로벌 TOP 2위공개 3일 만에 2,797만 시청 시간 기록!15일(금) 기준, 넷플릭스 TV 쇼 부문 글로벌 TOP 1위 달성!이 시간에도 이렇게 흐뭇^ㅡ^ 그 잡채로 건우를 보고 계···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjBfMjQ5/MDAxNjg3MjU2MDgyMjQ2.ufWA2ErHVtOeSgt6fzM2IAPyzEYy1HlnaAx8TcaBGjUg.6gxbrWVSSyhQybuVrXi_llycSt_g5V0OkTJph1BGCQUg.JPEG/ID6o0vCcSXuPnPUGnXlx0Id2Vpyc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
