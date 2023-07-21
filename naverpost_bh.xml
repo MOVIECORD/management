@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 06:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 07:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SNL4 대망의 첫 호스트 [정우]]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36282264&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36282264&amp;memberNo=21724264</guid>
+            <pubDate>Fri, 21 Jul 2023 07:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[이곳은긴장감이 흐르는SNL 코리아 시즌4 첫 방송 현장!&nbsp; 대망의 첫 호스트는 바로 바로 바로 정!!!!!!!우!!!!!! 설레는 마음으로똑똑대기실 문을 열면대사 연습 중인 정우 등장! 코미디 쇼 초심자병아리 정우가SNL을···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjBfMTQy/MDAxNjg5ODU3NTQ5NzE0.jPBE7rJcLl-VQAiEmPapJwbiU9KFK2J89-QQfalKl2Eg.wtNCQlay4xZ26rkh7SlwdHMHWEnbVRkbtf_8tTjZfBYg.JPEG/IxFTvLrOa7imcu1XOF3jq3ZkOgQk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그때 그 경찰대 선배 박성훈]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36260331&amp;memberNo=21724264</link>
@@ -155,14 +163,6 @@
             <pubDate>Fri, 21 Jul 2023 06:24:09 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;쎄시봉&gt; 영화 &lt;범죄의 여왕&gt; 영화 &lt;도어락&gt; SBS &lt;용팔이&gt; MBC &lt;이몽&gt; JTBC &lt;보좌관2&gt; TV조선 &lt;바람과 구름과 비&gt; tvN &lt;나빌레라&gt; MBC &lt;검은 태양&gt; SBS···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDZfMTcw/MDAxNjc1NjcxMjUxMDAz.B7KhsvKVXtyHjdGdeIvgMjF78Xx2ck_29aM5Rd7LFu4g.Ri_wHpSkH4aNT-nczeQue7xdxJHqJ-xrVZBAJfTIkjsg.JPEG/I7BWa337uXVMxUqJeS-2f5epQTx0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BH엔터테인먼트]2월의 BH ON AIR]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35323873&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35323873&amp;memberNo=21724264</guid>
-            <pubDate>Fri, 21 Jul 2023 06:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[시리즈BH ON AIR [BH엔터테인먼트]2월의 BH ON AIR●]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDFfMTIz/MDAxNjc1MjQyMjIyNzk5.giRo8avlXIthjfuOPi0di0PsCYOFFrCW0OI9kRnDoAwg.5qXSSrr5VQvXI4GtDZEQq2AUAjF1vRl3ZDG38dABvkQg.JPEG/IC6kGdo3kZM1kYLjzssJMLJZVN0Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
