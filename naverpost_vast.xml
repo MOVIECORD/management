@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 08:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 09:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 동네 낭만닥터 한유담쌤...♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36286614&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36286614&amp;memberNo=32146648</guid>
+            <pubDate>Tue, 25 Jul 2023 09:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST]LEE YEON HEE♥여러분 안녕하세요,&nbsp;오늘은 제가 따뜻하다 못해 아주 핫한 분을 포스팅에 모셨는데요 동물을 사랑하고 아끼는 마음이 한가득인바로 우리 동네 낭만 닥터 한유담(a.k.a 여늬)쌤이에요...♥ 유···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjFfMjA2/MDAxNjg5OTIwNTY0MjI1.bYiO1Od9Vm6loFE9Cwu4GW_cai0ecsG-hv3akL8hI3Ag.SJjucsuGb4KcWMVipkXwgJ0OSaKSoBxnKE-rD8U0Xzkg.JPEG/IOtA2y-wNZVo5IoNuvORsxxWLTbg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['현'며들 시간이에요, 고개를 들어주세요]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36199857&amp;memberNo=32146648</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jul 2023 05:18:33 GMT</pubDate>
             <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2021무대&nbsp;위에서&nbsp;반짝반짝&nbsp;빛나던&nbsp;그녀, 그런&nbsp;그녀에게&nbsp;주어진&nbsp;합격목걸이 지혜로운&nbsp;공주&nbsp;'코딜리아'부터,&nbsp;유쾌한&nbsp;'광대'까지! 연극&nbsp;&lt;리어왕&gt;&nbsp;속에서&nbsp;빛났던&nbsp;···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjBfMjAz/MDAxNjc2ODgxOTY1MDQ4.EpjiFnkVFNKugh6oxAXtqhEfLAlxQSNUgjzas4nBPHQg.7QPSE0zgG6sxmeLXNKtQ1jmHNTi0KjKTp7gLkhHotqkg.JPEG/IbYNCcBSuh0Behvw64ahXSbFTFzA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현빈]이 1년 365일 바쁜 이유?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35677508&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35677508&amp;memberNo=32146648</guid>
-            <pubDate>Tue, 25 Jul 2023 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST] HYUN BIN ♥혼자 청순한데 섹시하고 귀엽고 다 하느라 1년 365일 내내 바쁜 배우가 있다고 하는데요?! 그는 바로...!검을 현 빛날 빈현빈입니다♥섹시한가? 싶으면촉촉 청순 그 잡채였다가···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjFfMTUg/MDAxNjc5Mzg3MjIzMzM5.HM7eUXPAEJ8H5mEXiQY7Hgx1KtXW257ASsu0Rl0ueoEg.rHWDfaVTnxQF6dDAmi7iYN-NTG5cJcQ4xaBLP_31ekYg.JPEG/IagkYOxOvbIJbJ6QzVoiKOS8rC5s.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
