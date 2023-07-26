@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 13:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 14:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와 역시 김서형 선배님]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36312978&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36312978&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 26 Jul 2023 14:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[와 역시 김서형 선배님 완전히 제2회 청룡시리즈어워즈를 뒤집어 놓으셨다!레드카펫 현장을 런웨이로 만들어버린'멋쁨 그잡채' 였던 김서형 배우 혹시 S예요...? JesuS (맙소사!) gorgeouS (이렇게 아름···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjZfMjkz/MDAxNjkwMzY0NTEzNzUw.qD7wanunCXpr7uehgiucmotNu-zbwla1RCfA5oiJy_Qg.hYyQPgrWkPc14rmx9KmsYSoSSoWn-_L8oMR7_bgtwe8g.JPEG/Iou_R9kO4fdeg0Wo63iseuTTIVQg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달달해진's 연기 맛집]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36288569&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 26 Jul 2023 11:14:48 GMT</pubDate>
             <content:encoded><![CDATA[키동 머리 속: 사람들은 주말을 어떻게 보내지?상상 속 키동은 이미 책 한 3권 마스터했고, 등산도 벌써 산 꼭대기 찍고 내려왔고키동은 널브러져 있는 이 황금 같은 주말에 아주 알차게 시간을 보내는 사람이 있다···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjNfMTcy/MDAxNjg3NTA3MDc5Nzc3._y0DbG2xlvYLzVT92hfwMUWe9dDqlFfSCffZKT9wKWkg.OZ6jwWV-O2wnJ_JKYV97JIuRAIdsbiv5Xup0Ldk48E8g.JPEG/IdD9b_e7UBiIPSRqi_xiLcevJTtc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세계가 그녈 주목해]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36136865&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36136865&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 26 Jul 2023 11:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[최근 패션쇼 참석을 위해 스웨덴 스톡홀름으로 떠났던 문가영공항부터 HOT 다들 아시죠?그렇지만..우린 조금 더 더 찐~한 비하인드를 원하거든요..그래서! 준비했습니다. 오늘은 키동 아니고, '키맨' 스파이 A FEW H···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjJfMjA1/MDAxNjg3NDM2MzA3NDM4.FtUQqcfdqNu-AmJm3_hSrtTonCjjn6xZvyvNSy9Qp9Ig.mvd4jkhHElRgEkPKUZlUqZ1-BCg4EjkoZsvcZUMnq0Yg.JPEG/I6GTq2Z9vrsBQ8O_week9q7R_Gqk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
