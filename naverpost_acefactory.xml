@@ -1,8 +1,184 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.post.naver.com/my.naver?memberNo=44834478</id>
-    <title>네이버 포스트 ─ ACE FACTORY</title>
-    <updated>2023-07-27T07:18:29.510Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.post.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ ACE FACTORY</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 27 Jul 2023 08:23:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쌍방 로맨스 해피엔딩의 
+주인공 안동구]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36299723&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36299723&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[이렇게 울던 남자가이렇게 웃습니다'이번 생도 잘 부탁해'무지갯빛 쌍방 로맨스의 주인공안동구 ♥하도윤, 하비서님시청자 애태우고 초원이 맘태우고이제야 미소 짓는 사랑꾼 T^T ♥♥"저, ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjRfMTIz/MDAxNjkwMTk3NjI3OTAw.iLMvhubaN6pt0nQ969_lDTow476zfmxumV8pFjFzuTQg.P3D07DWP9BZHNuMvA04xM8Aid94hZwDegEQhWoAZMTAg.JPEG/ID-gcwSfCwooy17Kd76BoRv7rEGQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 최영준 집들이]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36281461&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36281461&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[부부인 ‘샘’과 ‘제니’가 새로 이사 와 한참 인테리어 중인 집.‘제니’는 매일 밤 같은 시간, 누군가 2층의 아이 침실을 돌아다니는 것 같은 이상한 소음을 듣고, ‘샘&amp;rsqu···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjBfMTUw/MDAxNjg5ODQxOTE2MzMw.HZoiTbVBk9_OMc86_mvYfVSRm6lxpdhdv1lfw5Yw6iMg.sYcyAVxcG66UkVHbyVs9oCJZNxQQXFsUV3_L_0N34IAg.JPEG/I8Lys7dnHAR3aXQlbvPDu8fr3zaQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 극장에서 가장 많이 본 
+배우 이준혁]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36275403&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36275403&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[1000만 관객이 극장에서 본 배우들올해 첫 천만 영화 '범죄도시3'극장에서 만난 이준혁X전석호 사진 풉니다 ♥극장 들어오는 순간토끼 눈의 준혁관객석 향한 엄지 척 b가득 찬 객석을 바라보는눈빛관객을 사랑···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTlfMTE4/MDAxNjg5NzYwNjk1NTY1.31ZtTe6OsarJ3JQH9ZukmoJDo4kr3VFmhjSq8Wo4OGAg.bvacCIyGqGf8Mz4LK6Hjnyv22-1cBIco2EiaO_opNiIg.JPEG/IwJsesTf7bfaWlXo-oXbgu4GB1hk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 생도 잘 부탁해,
+주말 남친 안동구]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36219921&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36219921&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA["나 망했어,, 윤초원은 안대""쌤쌤이네"그런데 이제,, 좋아하지만 사귀지는 않는,, 주말 남친,, '이번 생도 잘 부탁해' 하도윤 비서님 ♥셀렘 지수 upup 아기자기한 로맨스로 시청자 마음···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDlfNDQg/MDAxNjg4OTAyMTc5NjYz.aTZOUpGK_nwLCHVxZShhR3Y_XhzFefFVzG4JQaZPUVYg.lvz4yjOtca7obWG9zHbu7_2gGomKrxoPsC4Ao03x8aQg.JPEG/IHgD6gCZqkDWmNJPijJlog5Fs9ak.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천만 배우 이준혁]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36183219&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36183219&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[천만 관객 주연 배우이준혁영화 '범죄도시3'가 올해 개봉작 중 처음으로 천만 관객을 돌파했습니다.관객 여러분의 사랑에 진심으로 감사드립니다 ♥ 그럼 우리의 천만 배우를 다시 소개합니다이준혁 '신과함께···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDJfMjIg/MDAxNjg4MjkxNTQzMDY0.5zNp1Ozrc3WTyzz0mDA66Awc4KJhNg21Lm_fH6hxUTQg.oB8FsMYRPyq-cu-FMN1_mWJrWAC37Kn-EqGSzrT-dpwg.JPEG/IiJbUY5ZGhBSHz89Of-VSVk57sQE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 생도 잘 부탁해,
+첫눈에 반한 배우 안동구]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36180925&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36180925&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA["이거 써요""저기요""저""첫눈에 반한 것 같아요"tvN 토일 드라마 '이번 생도 잘 부탁해' 안.동.구현성고등학교 하.도.윤 학생한테 반한 썰 풉니다그 시절 우리가 사랑했던···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDFfMTM3/MDAxNjg4MjEwODM4Mzc0.4O7nQ1eMBUobMT6rN_QRsjAWXuqy_2q_y1hT84qJG-og.-xsLZ7c9Tyr9Ur1TTKI5fXtnDeaCszDHegWHZ0sDXuMg.JPEG/IcTzTUmqGNDGj7L_W6p_JfpneXl0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 이준혁 자기님 공개]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36133623&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36133623&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA['유 퀴즈 온 더 블럭'이준혁 자기님 현장 사진 공개합니다 ♥조금 긴장되지만다소곳하게시작합니다큰 자기 유재석님과아기자기 조세호님 사이에서만난 이준혁 자(아)기님 ^^대체로 善善한 미소로 이어지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjJfNSAg/MDAxNjg3NDA0NDQ4OTAx.QyV9R_BcFN41aBxUiwnpt3AjmvxFOFHgzRF5LDv8cuQg.tnu24NRWEpP-Ujz5cljBSe1pOShs5S15Xm-ImKTN_8Mg.JPEG/I7P2E9VAZZCDNozvWbAtDIcqF-Lo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이준혁 소속사 직원 
+휴대폰 사진첩 근황]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36112725&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36112725&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[이준혁 소속사에이스팩토리직원휴대폰 사진첩 근황 전해드립니다 ♥ 위 사진들은 고오화질의 이준혁 ACE CUT입니다. (극장에서 빛나는 이준혁 극장 인수한거 아니에요 인터뷰 중입니다)지금부터는 저···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MThfMjM3/MDAxNjg3MDkyNTUwMjA2.B2FoLAOEQCy8wbVp7UPW0vltKtTPzwMxLbCBEkR6Muog.ew611Dz01dkd9T6dmnFYVNWPnTE9XrTAEDIB72qUJKsg.JPEG/IVteq2DzGhRlpuDYJCVuBCq5abo0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이준혁 예능에도 진심이었네,,]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36048154&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36048154&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 6일째500만 관객 돌파 극장가 새 바람을 일으키고 있는영화 '범죄도시3'다른 얼굴 다른 목소리로 새로운 빌런을 탄생시키며 관객들 여러번 놀라게 하고 있는 배우 이준혁근데 이준혁,, 이렇게나 영화에 진심인 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDVfMTA5/MDAxNjg1OTYwMjA0NTM3.Pbo0osrbhXw366K4eyWrDRYxSrKb_Qhio4g_vNMwZTAg.EsKQxphPMbb9gpbDh6842ZqXNmcYwf5p7c64eHPACKYg.JPEG/I2Z1rIM5VFwcGgo83MkRO7Ayp1-s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 가요,
+'범죄도시3' 이준혁 보러]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36037225&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36037225&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[이준혁 어디서 봐요?극장에서 ^ㅡ^꿀잼이라는 소문이(벌써) 자자한그 영화'범죄도시3' 절찬 상영 중 그럼 이제 우리는 극장으로 갈게요 ^.~이준혁이 극장에서 기다리고 있으니까 ♥ 이 기쁜 소식 알리···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDJfMjI3/MDAxNjg1NzEyMzA1NjY3.DeHjQcy8ptvI6CsuN4kf_PC-9mxK2RwtgdCZCUJNmYsg.mDlUzqlQvb-yLpoaXbKTmW6CW0CV3OWFzuHgrxyc14Ig.JPEG/I3Ca4vuINX7-F6E9X9Yt1Ls2Brak.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<범죄도시3> 이준혁의 파격 변신]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35899963&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35899963&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[5월 31일이목구비까지 갈아 끼운 이준혁의 파격 변신영화 &lt;범죄도시3&gt;가 찾아옵니다.마석도(마동석)에 대항하는 나쁜X이번 판의 주인공 마약 사건의 배후주성철이준혁 파격 변신에 눈 돌아가고 심장 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDdfMjQ2/MDAxNjgzNDcwMDk2NDIw.MEe9ejXOoUWbPufwiMIDCkLMUzGnMAy3rnAMmVwOsL8g.kOmpqRtohvgsB33cmvhusrj2EPt75SRwE-wgYb8Hj8Eg.JPEG/IwZQpZ7Ry_maVcs4PyzaqVukiD5M.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그래요, 한혜진(공주)입니다.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35760493&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35760493&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[멋지다, 한혜진୧(⑅˃ᗜ˂⑅)୨ 동영상  버튼을 누르면 현재 화면에서 재생됩니다. [스페셜] 멋지다, 한혜진ヽ༼ಢ_ಢ༽ﾉ 사람들의 시선을 두려워하던 한혜진 「보이는 라디오 DJ」로 복귀 완 | JTBC 230402 방송 신성한, 이혼 | ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTBfMzAg/MDAxNjgxMTA3MDE4Mjc1.7aDpp68bhHAZuXuvLMNOTvmxLcqd9KxzvZomaWiycs0g.oc0KZD_Yk0GWyIRahnIhVl8ecgIHO38PTkdPe0Q4WIgg.JPEG/IabUb3dzrm7afcaJIyC_K2Lh1Y40.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세계 국제영화제 도장 깨는 이주영]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35749039&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35749039&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[세계 국제영화제 도장깨기 중인 배우 이주영 2022년영화 '브로커'‘제75회&nbsp;칸영화제’ 공식 초청 2023년영화 '그린 나이트'&nbsp;‘제73회&nbsp;베를린국제영화제’ 공식 초청 2년&nbsp;연속세계&nbsp;3대&nbsp;영화제&nbsp;러브콜이라···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDdfOTIg/MDAxNjgwODUwNzk5NzI5.vIfey00l71bZVaaobnpIs4GNZycrF_U6uPTlCVHbCnsg.IEyuZm9vvIRp-D-d4p0zI1DaPGGc0uPpLLc5AS4zjTEg.JPEG/IGObp-OfIcbbfZNjRIJWmeK38AL0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['신성한 이혼'
+한혜진의 특별한 외출]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35715800&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35715800&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주말한혜진의 특별한 외출JTBC '신성한, 이혼'아직은 바깥 외출이 두렵고 괜찮지 않은 마음의 서진이지만현우를 위해 한 걸음 떼어보는 엄마의 용기"신어 봐야 잘 맞는지 알아. 현우 말이 맞아"직접 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDFfMTI4/MDAxNjgwMjg1MTc4NDEw.W0BgNTUWMekkLyEAUWaOB9NTmot_oBXQo-vsqu9KH9Mg.ZN06nWychi4g5xnBVJnYK_snX15vnY4WpqBIOYTzFEIg.JPEG/IAhRtU7gki42q3bDAG23e6v2lwh8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[염혜란 
+'더 글로리' 이모님 미래 스포]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35708584&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35708584&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA['더 글로리' 명랑한 이모님 미래 스포 . . . . . . . . .는 염혜란의 엘르 화보 촬영 현장 ♥화보의 컨셉은현남씨의 휴가 ♥비로소 행복해진 미래의 현남씨를 화보로 만나봅니다연기 천재만재는 화보 소···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMzBfMTc2/MDAxNjgwMTY3NDcxNzM3.MeSJPCctkNW1gmnwXYby8Bla59g-ieh3Ur6i-IkV20Ig.8DgZmWmadSo084PIphgAah20_1gIyQDVWJeyCktvKb8g.JPEG/IjUYsJvxufP7VSkubz6S2qoTCqnw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['신성한 이혼'
+한혜진이 상담해 드립니다.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35676357&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35676357&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC 토일드라마 '신성한, 이혼' 한혜진 ♥청취자 사연 읽어주던 스타 DJ에서의뢰인 사연 들어주는 상담실장 된 이서진공감부터위로까지다 되는 ★경력직 신입★어떤 사례도 다 들어줄 것 같은스윗 다정 만렙 이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjRfMTgy/MDAxNjc5NjQ2MjY4NjY4.-QvXdoMBJB7o0rz1I1FgN5UaEGDjQm6rFTN5WMlLE-Mg.1Tr-SdNXzqYYZg574aBoQftIvoChc4Eg5OJlJKwniBkg.JPEG/IJph7MuV_3wrCNUZrwFlEiyavNyo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멋쁨 난리난
+'신성한 이혼' 한혜진 근황]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35639845&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35639845&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[요즘'멋쁨' 난리 난'신성한, 이혼' 한혜진 근황오늘은 이력서 들고 왔어요 ^.~이력서 들고 온 이서진이 하는 일 =똑 부러지는 자기 PR머리를 질끈 묶고신성한 변호사실 대표 골칫덩어리 고장 난 미닫이문 고치기번쩍···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTdfNzEg/MDAxNjc5MDQzNzQ0Mzk0.o60kx8eGskdmo6XeSUtWJl8M1bJT8u3KOkJ-YXKffSAg.netps4bJ20A8_CUslV8nkPFWpmV7imNPzvyDiQ6xZGMg.JPEG/I-jVEznoQV2_0SITJ6iuCcqEOZ88.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['더 글로리'
+이모님 구한 염혜란]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35638304&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35638304&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[본 포스트에는 '더 글로리' 파트 2 스포일러가 포함되어 있습니다. . . . . . .이모님 구합니다이모님을 구한다는 말에 생기를 찾고 붉은 립스틱을 입술에 메운 강현남은 어쩌면, 염혜란이 구했는지도 모르겠다.세상···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTdfMjUg/MDAxNjc5MDMzMjEwNzc4.KT15TVICA1BWOmAix4x0FFjP72nO9AUlqHk9t5G8U2Ag.BsLd9l_8I03BM-XIu_OYYZ7Lis9Qxft5wu-9xDbPvOwg.PNG/IWmMR9iseQdWQ_EUvF0SN3rKf4fg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 열일하는 
+'신성한, 이혼' 한혜진]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35603258&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35603258&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC 토일드라마 '신성한, 이혼'신성한 법률 사무소의 문을 두드린'신성한, 이혼'의 첫 주자 이서진그리고 이서진으로 돌아온열일하는한혜진 ❤️신성한 변호사와 손잡고 양육권 지켜낸 서진의행복한 새 출발을 기대하···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTBfMTYz/MDAxNjc4NDQyNjk2MDQx.QHOxE9C_hpsuugyNUPqeR8645JNIrtulid5t_LuRQvcg.U1E7OaiNYYWUEU7nzUke285yVOUag4DmHtPIlaRPx90g.JPEG/IJl8pWrl-4b7Yc-8chtq5_-Y97G0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한혜진, '신성한, 이혼' 
+오늘 시작합니다.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35569382&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35569382&amp;memberNo=44834478</guid>
+            <pubDate>Thu, 27 Jul 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[오늘밤10시 30분 한혜진이 찾아옵니다♥ '신성한, 이혼'기상캐스터 출신 라디오 DJ이서진 한결같이 아름다운 사람. 청취자들의 영원한 베스트 프렌드. 그러나 그 이면에는 남편의 정서적 학대 아래견디고 삼···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDRfMTQ3/MDAxNjc3OTA2NjI2NDAy.yosMjnoVAaIM2QJ9qsH4ucHczh0Y4HK71xDiF4X01zEg.7iyb_nWM0uEJSdqVMMRC47VfVHLmTdjI6dbtmqaC4ggg.JPEG/IW3Vufb557T_bVAsAmEiPZrM05j0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
