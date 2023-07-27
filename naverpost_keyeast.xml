@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://post.naver.com/my.naver?memberNo=29770009</id>
-    <title>네이버 포스트 ─ 키이스트</title>
-    <updated>2023-07-26T23:18:28.457Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://post.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ 키이스트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 27 Jul 2023 01:27:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와 역시 김서형 선배님]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36312978&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36312978&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[와 역시 김서형 선배님 완전히 제2회 청룡시리즈어워즈를 뒤집어 놓으셨다!레드카펫 현장을 런웨이로 만들어버린'멋쁨 그잡채' 였던 김서형 배우 혹시 S예요...? JesuS (맙소사!) gorgeouS (이렇게 아름···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjZfMjkz/MDAxNjkwMzY0NTEzNzUw.qD7wanunCXpr7uehgiucmotNu-zbwla1RCfA5oiJy_Qg.hYyQPgrWkPc14rmx9KmsYSoSSoWn-_L8oMR7_bgtwe8g.JPEG/Iou_R9kO4fdeg0Wo63iseuTTIVQg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달달해진's 연기 맛집]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36288569&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36288569&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[올 여름 극장에서 달짝~지근해진 영화 한 편 어떠세요?광렬 해진럭키 해진잔인 해진의 뒤를 이어 IT'S YOU~해진으로 돌아온 유해진! 이런 해진 배우 모습, 처음이라고요~?정확히 보셨네~ 맞습니다! '믿보배' 유해진 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjFfMjIw/MDAxNjg5OTMwMTE2OTUz.tadniW1EhPn9FxoWaeZiLaSRvCdFC_g0VPwZ8AznbvEg.lrZ2rZqmtjJoxod-PfCEdJQ5kPbsUHMlI0eXX2n8XL0g.PNG/ISKNISQ7oikyVAAlRtQcX03uyRUE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소속 배우 얼굴 자랑에 진심인 소속사]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36282607&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36282607&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[그런날 있잖아매일 같이 밥먹듯 포스트에 소속 배우 자랑하고숨 쉬 듯 또 자랑하지만 무작정 얼굴 자랑하고 싶은..그런날이미 수없이 자랑 했지만, 오늘따라 우리 배우들 얼굴 자랑 하고 싶더라구요!?그래서 키동이 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjBfMjc3/MDAxNjg5ODU3ODQzMjI3.JtX7F0NfKRBCyWxqRQziEnhckFp07-YfM0KapSLUNRog.lK_FkCWfh0z1kCredkJPy9IBQrgzqBlq1FLTajERN60g.JPEG/IeXpuZ6Arm_ttVqncHSSIJ6BPy-w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리가 김동욱을 신뢰해]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36276215&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36276215&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[스윽~여기에 엄청 능력있는 변호사가 있다던데 맞아요~?잘 찾아 오셨습니다! !!! 여러분 !!!최고의 변호 능력과 의뢰인을 향한 뛰어난 공감 능력까지 갖추고 비주얼까지 완벽^_^내가 변호사를 신뢰해파워T 이로움도 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTlfNzAg/MDAxNjg5NzYxNDAwMTQ0.tgDBp3-3KSrnA6I4k_hpEMkX7KPUmskpejS1VaSnB2Mg.aaY1L3IgFKNX7DexNGqlC82dkrROvdP6mul8ESuoDT4g.JPEG/IP_bD2Co_fQ99-gyCyqVpgw8wr4c.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제대로 컨셉 찾은 배우]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36250914&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36250914&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[아니 진짜로.. 요정 아니야???단아함의 끝판왕현대무용의 춤사위같은 예술적인 움직임이 모든 것을 갖춘 산소같은 청순함우리는 박하선으로 숨을 쉰다- 후 하 후 하하선 배우가 영화 '어디로 가고 싶으신가요' 개봉···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTRfMTU5/MDAxNjg5MzI0MDA4MDUz.zF9IWo6ysQGf1CZwO6ZEJJcaVR6H7mpyBUkuj9UEo3Ag.d-3zSRjbpUxthwrrOSHyjZagYm-CXkLInGNbGg_bSacg.JPEG/IdERKVmspDuruuFt1hGYE1mkIm3M.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신인배우의 올바른 비주얼]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36244930&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36244930&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[↖ 여러분! 혹시 이런 환한 웃음을 짓는 배우를 기억하시나요?아니면! 이런 강렬한 눈빛을 지닌 ↗ 배우를 기억하시나요?혹시나 기억이 가물가물하실 분들을 위해 키동이 다시 한번 소개하도록 하겠습니다 MBC 금토드···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTNfMTM0/MDAxNjg5MjQyMTI4NDYz.kf9HAGzlSpfSOJgEJibe8EQAJm4C6Hlq3OeKo2AeqXog.nidbGiDaP4xMIL7k7KWsdsMpiXC5kNi6jTMzd7DPnE8g.JPEG/IeXNHUno4Ht2MKS1qSLyeqIKjyLY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극약처방 김동욱]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36238462&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36238462&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[애타게 찾아 헤맸어요한무영 변호사는 이로움을 찾고키동은 카메라 밖 김동농 씨를 찾고드디어 찾았다!! 귀여운데 멋있고 멋있는데 귀여운 사람!!! 김 동 욱 !!!어느덧 극의 후반부를 달려가며 우여곡절 많은 우리 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTJfOTgg/MDAxNjg5MTUzMjI1OTk4.WyPNA6nQ9t6nu0c1piAMYZcbRcTpzKhfo2dIoRURaqog.fOT6dFq0REe44lr6M7ptgRbHwTzsBXvQEJ-s5WVmuRQg.JPEG/IgVQjlbUzroQ_Jjv6gXGB0iV3WYw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팜므파탈 박하선]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36226386&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36226386&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[누구야, 누군데? (술렁 술렁)지금껏 볼 수 없었던 색다른 모습으로 화보 '엘르'를 찾은 박하선 배우더없이 대담하고 쿨한 모습 선보이며 등장부터 매우 파격적이게 ~♬흑백도 뚫고 나오는 강렬한 카리스마에 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTBfMjQy/MDAxNjg4OTkzMzg0NzI1.HrBWjHz3Waun8UQ_MX4co6VuNOnnp5GNwxgtnNXI41Ug.aBA0acRGohWXRWY1XEYVdzWb8A5ewH0TSQVL2hnBIxAg.JPEG/I7d1ziRgQ2SSTEgGIQte18PkTblk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불금에 공원 간 김서형]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36217575&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36217575&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[울언니가 왜 음악프로그램에서 나와??!!청아한 목소리와 수준급 기타 실력으로 금요일 밤을 깜짝 놀라게 만든반전 매력의 주인공 배우 김서형놀. 랐. 죠? 키동도 많이 놀 랐 어 요밤의 공원을((( 김서형···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDhfMjE4/MDAxNjg4ODA1OTY0Mzk3.obOxKLnZ1ZDyEGJoRLV7hkcCNwbUMTX5cN201_Kt6Osg.u66qRiSa97DCrVT6J2HDTysqa45A3-h1Jd-cNQPXA1Eg.JPEG/IrMeiB4cssYkQ0FZ1mtJbaToXh9c.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한선화와 떠나는 랜선 여행]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36214684&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36214684&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[주목~ 여기 주목! ※ 파티원을 모집합니다 ※ 선화 배우, 키동과 함께 랜선 여행 떠나실 분들을 구합니다!후덥지근 날씨에 정말 더위라도 먹을 지경 선화: 내가 V를 하는 게 V를 하는 게 아니야 ♬이럴 땐 쿨~하게 연차···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDdfMTMg/MDAxNjg4NzA1OTI1NDI0.MOid3KcbSvShHXjL3nHZmjl3EM2TCbHZQckw8V8WPJIg.PIagv79HIpb6fH36_0rnj_lWPMPMJCy4wy-jUf69JMUg.JPEG/I1NpKOTwZOMmHaTHTUpRlEXlzkpM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[확신의 센터상 박하선]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36208353&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36208353&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[내가 만약 걸그룹이라면?센터 하고 싶어요.그래서 가져본 [프로듀스 Ha Seon] 당신의 센터 하선에게 투표하세요!드레하선은 아무래도 흑과 백이지무슨 그런 틀에 박힌 생각? 세상에 얼마나 많은 드레하선이 있는데!···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDZfMjA0/MDAxNjg4NjQ4NTk0NTg4.R9QePb2bz8eFti97ykUfgQHKWrKqO5M1dEvAREbS3k0g.27i_VF4vt2myipNMIEhZfoikLXelYN4WZgXiEakRyAsg.JPEG/IbXmcWi2hJj_iZXXqb_CctIBe0Gk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플러팅 날리는 문가영]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36202027&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36202027&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[미안해요~ 아는 사람인 줄 알고~ (덥석)나도 좀 착각해 줬으면 좋겠는 등장부터 고자극인 ㅁㄱㅇ민강윤이에요~ 이 파티 호스트문가영과 키동이 말아주고 못 마셔도 마시게 될 ^^ㅁㄱㅇ 민강윤=문가영 배우의 이로···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDVfMTMy/MDAxNjg4NTQ1ODM1NDM2.Nmz3cjvjJ8gRmwekOKWVVGVIkpul4IhJTmi-1JSMxAAg.XQLvYYVL8iVZXQk2ihfniGxJzuuCHNJAze4UCauPSFAg.JPEG/IwkYaofYa4W1xWp4_4r4nyr7t2qQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김동욱 당신 유죄야]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36195902&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36195902&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[김동욱 배우를 '신고' 합니다 키동과 혼인 '신고' ​...◐▽◐...◑▽◑... 가 아니고!!키동은 물론 시청자들의 마음을 뺏어간 죄!김동욱 배우의 '유죄 모먼트'를 신고하기 위해 오늘 키동이 한무영 변호사를 찾아갔는데요 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDRfMjYx/MDAxNjg4NDY1OTc5MzE4.l8UxOIjuWX-fdZrgX_kicqS8g58E0LCCEdCU6FIcom0g.PZ_DcY9kOO4bRtHXIlYB-Vi7aYia2OzHgDYttuh0-Gwg.JPEG/IkVWJH1mkXaa2VGH--IFgJs6Ctag.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 반응 난리난 김서형 화보]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36189720&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36189720&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[찍었다 하면 레전드서형 배우를 휘감는 화려함과 강렬함진짜 멋진 화보를 탄생시켰던 김서형의 '엘르'그랬던 서형 배우가 또 한 번 레전드 화보로 '엘르'를 찾았습니다!화려한 메이크업은 모두 지우고 가장 자연스럽···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDNfMjA0/MDAxNjg4MzkxNTM4NzIw.Cwwft2_3_n1wEWnGBteeYhVYaZTTC_ImwdPEpSILEGAg.cZZwrEuW3aB0xi75k4JJK4CdBbz-Vof7YgnL-Mac4zgg.JPEG/IZkXOabIZuzC7jDmFl8clpb0NIo4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몰랐어 선화 이리 다채로운지]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36172037&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36172037&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[한선花 꽃이 피었습니다오늘은 키동이 선화의 봄 여름 가을 겨울 컬렉션을 하드 털이할 예정입니다 "한선화 하드 털이는 키동이 할 테니, 사진 저장은 누가 할래?"무한 매력이 만개한 인간 꽃 우리는 그녀···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjlfMjk3/MDAxNjg4MDI2ODY5ODM2.mP7g1UgyDUOFzZW4LF4A5KXnfbi52ODe_RLOBJOhL4kg.14TIG8bKVDKgxh-lTn18D6XxINDAkHd4b4Xes2QS01og.JPEG/IxmcDBw7BD5dl4teY4hHpnmC2jz0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫사랑 기억 조작녀]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36166127&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36166127&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[키동 최근 가영 화보 촬영 현장 갔다가 아주 기이한 경험을 했어요그게 어떤 현상인지 제대로 깨달았잖아요.. (그게 뭔데요..?)첫사랑 기억 조작된다는 거.. 바로 그거'그 시절 우리가 좋아했던 가영'인가영···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjhfMjkx/MDAxNjg3OTE5NDc1MDQ4.qcVxuhy1TWjGl69g-dRH4xf3X9QqvHK0cADthinxynog.cCYBad7_QafRwFAN8XyWAU2iQtTAQ4LwWe5Lr1OkAn0g.JPEG/IvPlIC0lubhzbIvt0x6UnqBllIhg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[열일 아이콘 박하선]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36160119&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36160119&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[키이스트 공식 열일 아이콘박 하 선 PARK HA SEON블랙 &amp; 핑크 극과 극 다양한 스타일을 아우르며비주얼도 어김없이 열일하는 새 프로필 사진이 공개되었는데요!바람에 휘날려도 한치의 흐트러짐이 없는 (비···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjdfMTQ3/MDAxNjg3ODYwMTM3OTcy.3zZjA_tUQ7YLtuZlM0JUYJUu5TwV5hCfcnIBkSnZpeQg.6BiYLm8G4CCIgvvz85P6sImF1w1ygdgWTY4xvRhPQVUg.JPEG/Iqwg7rIzxAHujYrE4wNqJv0Juogk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 S/S의 남자 김동욱]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36148233&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36148233&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[그때 기억나? 언제였더라.. 봄, 여름에 TV만 틀면 김동욱 나오고 그랬던 거아우 추워 죽겠는데 언제적 봄, 여름에 김동욱이야아니 이거 보면 기억난다니까?아... 진짜 어디 봐봐 2023년 봄과 여름 브라운관을 온통 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjVfMTU2/MDAxNjg3NzAwNDgyOTM2.OOpJc0VakqgpXPrnwhGbsGSJ6w6mmZDUPBdWW-MfY4Ag.NhAsn22xuUWBWwU72Eh3mBoh4Fx7grYChJ6rfts_anYg.JPEG/IovPBG3ogN-qGiYkE9cwNUmCw62A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 잘 나가는 술집 사장님]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36145491&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36145491&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[키동 최근에 기똥차게 맛있는 수육 맛집을 찾았어요!!수육+막걸리 조합.. 절대 잃을 수 없잖아요? 오늘도 어김없이 불토 적시러 달려갔는데!가게에 들어서기 무섭게 처음 보는 여자가 막걸리 병을 들고 나오더라고요···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjRfMTkz/MDAxNjg3NTg4MDUzNjIw.E2dGjUZXozHAzpleAwLKQsYseuDIRRlBZ6u7SM7J2dYg.bTF9iQvfh8Xd2HIc8MZdn8yCtDs4S834I2nUC_Ks2a0g.JPEG/IFHBOd1HRa6R9syXearp9zGdnByo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여배우가 주말을 보내는 방법]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36142912&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36142912&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[키동 머리 속: 사람들은 주말을 어떻게 보내지?상상 속 키동은 이미 책 한 3권 마스터했고, 등산도 벌써 산 꼭대기 찍고 내려왔고키동은 널브러져 있는 이 황금 같은 주말에 아주 알차게 시간을 보내는 사람이 있다···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjNfMTcy/MDAxNjg3NTA3MDc5Nzc3._y0DbG2xlvYLzVT92hfwMUWe9dDqlFfSCffZKT9wKWkg.OZ6jwWV-O2wnJ_JKYV97JIuRAIdsbiv5Xup0Ldk48E8g.JPEG/IdD9b_e7UBiIPSRqi_xiLcevJTtc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
