@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 13:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 14:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NEW FACE]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36318923&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36318923&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 27 Jul 2023 14:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[그런 날 있죠? 소속사 배우 얼굴 무작정 자랑하고 싶은 날.. ... 그런 날이 또 찾아와 버렸네요 - ̗̀ෆ(˶'ᵕ'˶)ෆ ̖́- 소속사 배우 얼굴 자랑하기에 진심인 키동이 처음으로 소개할 배우는 바로아주 개성 강한 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjdfMTc3/MDAxNjkwNDM3NTUyMzI4.OG24amPO6KJyX8SlYvhiUC7bs5YOhsvCW4cRnKkuGuEg.NMjQEEtIIx_nkqxhZA6amw9zGBvT1btC8wmKCFFO9c8g.PNG/IwIJCxhPMWejUa2Tt4I_OZgs-FN4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[와 역시 김서형 선배님]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36312978&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Jul 2023 08:22:00 GMT</pubDate>
             <content:encoded><![CDATA[키동 최근에 기똥차게 맛있는 수육 맛집을 찾았어요!!수육+막걸리 조합.. 절대 잃을 수 없잖아요? 오늘도 어김없이 불토 적시러 달려갔는데!가게에 들어서기 무섭게 처음 보는 여자가 막걸리 병을 들고 나오더라고요···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjRfMTkz/MDAxNjg3NTg4MDUzNjIw.E2dGjUZXozHAzpleAwLKQsYseuDIRRlBZ6u7SM7J2dYg.bTF9iQvfh8Xd2HIc8MZdn8yCtDs4S834I2nUC_Ks2a0g.JPEG/IFHBOd1HRa6R9syXearp9zGdnByo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여배우가 주말을 보내는 방법]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36142912&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36142912&amp;memberNo=29770009</guid>
-            <pubDate>Thu, 27 Jul 2023 08:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[키동 머리 속: 사람들은 주말을 어떻게 보내지?상상 속 키동은 이미 책 한 3권 마스터했고, 등산도 벌써 산 꼭대기 찍고 내려왔고키동은 널브러져 있는 이 황금 같은 주말에 아주 알차게 시간을 보내는 사람이 있다···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjNfMTcy/MDAxNjg3NTA3MDc5Nzc3._y0DbG2xlvYLzVT92hfwMUWe9dDqlFfSCffZKT9wKWkg.OZ6jwWV-O2wnJ_JKYV97JIuRAIdsbiv5Xup0Ldk48E8g.JPEG/IdD9b_e7UBiIPSRqi_xiLcevJTtc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
