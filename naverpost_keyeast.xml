@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 13:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 14:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집중하세요 정은채 미모에]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36324498&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36324498&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 28 Jul 2023 14:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[여러분은 오늘 스크롤이 내려가지 않는 신기한 경험을 하게 되실거에요 &gt;&gt; 순백의 Angel &lt;&lt; &gt;&gt; 단아함의 끝판왕 &lt;&lt; 정은채 배우가 오랜만에 키동 포스트로 찾아왔으니까요~~쿠팡플레이 최고···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjhfNTkg/MDAxNjkwNTM0MDYyOTkx.UH1XbKln6tBA5y2mkF6n7IzYAHdgkTbdR6gakE6bp04g.WMPqylEuX5rvNqqgF8lKa1mNfw07u2sQvKq9JfG5XgQg.JPEG/IaaRH8pvAxIgBeV3iOZQ-Agk5HVc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NEW FACE]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36318923&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 28 Jul 2023 04:20:42 GMT</pubDate>
             <content:encoded><![CDATA[그때 기억나? 언제였더라.. 봄, 여름에 TV만 틀면 김동욱 나오고 그랬던 거아우 추워 죽겠는데 언제적 봄, 여름에 김동욱이야아니 이거 보면 기억난다니까?아... 진짜 어디 봐봐 2023년 봄과 여름 브라운관을 온통 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjVfMTU2/MDAxNjg3NzAwNDgyOTM2.OOpJc0VakqgpXPrnwhGbsGSJ6w6mmZDUPBdWW-MfY4Ag.NhAsn22xuUWBWwU72Eh3mBoh4Fx7grYChJ6rfts_anYg.JPEG/IovPBG3ogN-qGiYkE9cwNUmCw62A.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 잘 나가는 술집 사장님]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36145491&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36145491&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 28 Jul 2023 04:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[키동 최근에 기똥차게 맛있는 수육 맛집을 찾았어요!!수육+막걸리 조합.. 절대 잃을 수 없잖아요? 오늘도 어김없이 불토 적시러 달려갔는데!가게에 들어서기 무섭게 처음 보는 여자가 막걸리 병을 들고 나오더라고요···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjRfMTkz/MDAxNjg3NTg4MDUzNjIw.E2dGjUZXozHAzpleAwLKQsYseuDIRRlBZ6u7SM7J2dYg.bTF9iQvfh8Xd2HIc8MZdn8yCtDs4S834I2nUC_Ks2a0g.JPEG/IFHBOd1HRa6R9syXearp9zGdnByo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
