@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 11:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 12:33:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대박 '드라마'가 돌아왔다는 
+'소문'이..!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36323780&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36323780&amp;memberNo=3247896</guid>
+            <pubDate>Sat, 29 Jul 2023 12:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[드디어!! 오.늘.돌아온!!/소/문/(이)/시즌 1보다 더 재밌고 더! 강력해졌다는 tvN 새 토일드라마 &lt;경이로운 소문2: 카운터 펀치&gt;새로운 능력과 신입 멤버 영입으로 더 강해진 악귀 사냥꾼 ‘카운···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjhfMjcw/MDAxNjkwNTM2Mjg0NzYw.dcsgXvtHzViqSbcwFj4mP6sS7QV_Fjn6dbekSBZFmJUg.HIRFtv1PEutOczQYS0Aa6Sub02oYCkFGirKpA03v9dMg.JPEG/I_ruGaek20PppsO8V1oQaKg12oyU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[차예련]보낼 때 보내더라도 이건 보고 가야지]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36275610&amp;memberNo=3247896</link>
@@ -159,14 +168,6 @@
             <pubDate>Sat, 29 Jul 2023 01:24:13 GMT</pubDate>
             <content:encoded><![CDATA[[단독] 차예련, ENA 새 수목드라마 '행복배틀' 캐스팅소식 듣고 찾아온 파파라치비 입니다:)행복배틀? SNS에서 치열하게 행복을 겨루던 엄마들 중 한 명이 의문투성이인 채 사망하고, 비밀을 감추려는 이와 밝히···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjNfMTcx/MDAxNjg0ODQxNTcwNDUy.Vf6_G-vBfUWU7pY3dn7aYtc9inzOf_LTnAUTBbMyj7Qg.6bhL_95Bs2nLf7Hx29wscWM84QEMC6DFXzsWv2LvUe8g.JPEG/I3w65DQMaIPmBrlfK3u9zeD7AMBU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ready, Set, Go! [공민정]과 함께 달리실 분?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35981047&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35981047&amp;memberNo=3247896</guid>
-            <pubDate>Sat, 29 Jul 2023 01:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[두근두근저, 치비... 왜 이렇게 설레임 가득하냐고요? . . .기다리고 기다리던 영화 &lt;스프린터&gt; D-1 이기 때문이죠! 드디어 내일 영화 &lt;스프린터&gt;가 개봉한다니...!영화 &lt;스프린터&gt;에 공민정 배우···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjNfNTAg/MDAxNjg0ODA1MDY4MjY1.eTdQBFPx_W_N7u4LabOxej3bkX_AcWCb_Erqx4vo9scg.EPucMVU71WPuXORhhNm3lkay3ElLOOpLVmLvQp-udw8g.JPEG/Iz_v2hkZB_gpCC-iAnENgJx_Azvg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
