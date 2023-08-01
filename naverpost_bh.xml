@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 08:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 09:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트]
+8월의 BH ON AIR]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36340148&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36340148&amp;memberNo=21724264</guid>
+            <pubDate>Tue, 01 Aug 2023 09:18:33 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDFfMjg4/MDAxNjkwODc5OTA4NzE2.BzxTkILLeEMKrw6jdmghtjul4F2XBAP3DQ82BKd8Vrog.5Tp_qAZ9diinDeESLsrj0IQMSb5vgWPpScj7o4dYETgg.JPEG/I4cGrq-ISx9qREljVbxoTf1IyBx0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장고래에서 전재준 됐다는 박성훈]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36316315&amp;memberNo=21724264</link>
@@ -155,14 +163,6 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35559966&amp;memberNo=21724264</guid>
             <pubDate>Tue, 01 Aug 2023 04:22:03 GMT</pubDate>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDJfNjUg/MDAxNjc3NzQzNzM2NjQ0.w-DjwPY1UeIhok8HGyUCSLpomV8VSrVk83TubOQw7Ccg.cIxGZcZMA4SMDbYupzxgeqijfcRI-31RgDeZ1fce8kUg.JPEG/I_vHuF-vmfrRWfBRy1t0jht2eTNQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Born to be 이병헌]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35520196&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35520196&amp;memberNo=21724264</guid>
-            <pubDate>Tue, 01 Aug 2023 04:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 포스팅의 주인공은 이병헌 입니다. 네. '이병헌'이요. 오늘 포스팅은긴 말이 필요 없습니다. 말이 필요 없는이병헌이니까요. 다들 뭐&nbsp;연기&nbsp;神,&nbsp;연기 王인 줄은 익히 아셨을 텐데 네 맞아요 ^^ 이병헌 연···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDVfMTU4/MDAxNjcyOTAzNzM0MTQ3.fBOsaqMkYRyfvIKGhVweXOdboJ9QutcJB7AuWOCCN3Ig.zF95DrFWoYkboGoE5PSEfeRGHtwcGcbRXNEEf_MN6vwg.JPEG/IT-YhmMpKb5rI4GHah8yxcUM1eVw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
