@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 935엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 04:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 05:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박주현] (배송완료) 행운이 배달되었습니다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36340608&amp;memberNo=36232354</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36340608&amp;memberNo=36232354</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[어느 뜨거운 여름 날, 쿨쿨.. 짠!당신은 막 잠에서 깨어난행운요정 주현이와 마주쳤습니다⊹꒰⍢⑅&nbsp;꒱당신에게 곧바로 찾아올 행운은바로바로! ⓒDAZED KOREA &lt;데이즈드&gt; 7월호 화보 비하인드를볼 수 있다는 것&nbsp;❛˓◞˂···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDFfNzEg/MDAxNjkwODkxOTkwMjkz.pXVsLSwV9M0qBFFZEVT-RXjZVGZFILcIFYqBmOCU-fwg.FvIdQCOaMc8Er5MNB6sEG0aRyM06nB-6XgAJe4Hlq6kg.JPEG/IUVmY2wIIQGeteSHIG0xyFwaVmrs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[935] ✿ 봄 소식지 ✿]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35757283&amp;memberNo=36232354</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Aug 2023 02:29:54 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요!935엔터테인먼트 포스트 지기 입니다요즘 장안의 화제KBS2 월,화 드라마 &lt;붉은 단심&gt;에서 (사진: 지앤지프로덕션) 왕 '이태'의 곁을 지키는우직한 충신 '정의균' 으로카리스마넘치는 모습을마구 보···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzFfMjEg/MDAxNjUzOTk0NDg3ODQ2.DGClH0IKl8De9UOVD9hcCbWoIt2h9kAfeLDIksnlyQcg.LQbsHhvsWUnOCd7D5nEzjdyyKA2Y2B4_EPeDQdlIA7gg.JPEG/IwMgzHw8nGVpbc1ovtHWtepyhXwQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박주현] 코트위의 '주'인공이 왔어'현']]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33820480&amp;memberNo=36232354</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33820480&amp;memberNo=36232354</guid>
-            <pubDate>Wed, 02 Aug 2023 02:29:54 GMT</pubDate>
-            <content:encoded><![CDATA[한번도 안 본 사람은 있어도 한번만 본 사람은 없다는 전설의 드라마 &lt;너에게 가는 속도 493km&gt;너가속의 쭈인공, 코트 위에서 맵단맵단 빛나는 박태양을 만나러 피땀눈물이 '주'륵주륵 흐르는 경기장으로 가볼···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTlfMjkx/MDAxNjUyOTY4MDAxNDU0.nJTO--YUOzbIjALzcDGoZ93Tb3W3LVJQfalT-OGMtEog.PWMF0oh3JZtdcdmhAUS4JUS0NWv5gQRwgI9v0n3QW8gg.JPEG/Iok0rtl7CpcVQWhPbyupz7UFfrJA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
