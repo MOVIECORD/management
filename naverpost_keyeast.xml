@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 13:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 14:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달짝지근해 개봉 D-10]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36361900&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36361900&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 05 Aug 2023 14:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[돌아오는 8월 15일(화), 극장에서 달짝지근한 영화 한 편 어떠세요?!으음~ 벌써부터 달짝지근해 ~♥ 스멜 ♥그 전에! 설레는 마음으로 '달짝지근해' 주역들과 특별한 게임 이벤트를 진행했는데···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDVfMTIw/MDAxNjkxMjE4MDk2MDUx.d8nxHTKhL5W4H0jxL6y2qwAsVfjK594_lZT1oUWlDsYg.GlpQES8d5TPa9dtbWmmLl57mU2MNCWT7h2MO9oTgVBkg.JPEG/I19aphiRB_BHzoB_S9gY7JtzBRuc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퍼스널컬러 무시하는 김시은]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36359271&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 05 Aug 2023 10:17:45 GMT</pubDate>
             <content:encoded><![CDATA[김동욱 배우를 '신고' 합니다 키동과 혼인 '신고' ​...◐▽◐...◑▽◑... 가 아니고!!키동은 물론 시청자들의 마음을 뺏어간 죄!김동욱 배우의 '유죄 모먼트'를 신고하기 위해 오늘 키동이 한무영 변호사를 찾아갔는데요 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDRfMjYx/MDAxNjg4NDY1OTc5MzE4.l8UxOIjuWX-fdZrgX_kicqS8g58E0LCCEdCU6FIcom0g.PZ_DcY9kOO4bRtHXIlYB-Vi7aYia2OzHgDYttuh0-Gwg.JPEG/IkVWJH1mkXaa2VGH--IFgJs6Ctag.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 반응 난리난 김서형 화보]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36189720&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36189720&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 05 Aug 2023 10:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[찍었다 하면 레전드서형 배우를 휘감는 화려함과 강렬함진짜 멋진 화보를 탄생시켰던 김서형의 '엘르'그랬던 서형 배우가 또 한 번 레전드 화보로 '엘르'를 찾았습니다!화려한 메이크업은 모두 지우고 가장 자연스럽···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDNfMjA0/MDAxNjg4MzkxNTM4NzIw.Cwwft2_3_n1wEWnGBteeYhVYaZTTC_ImwdPEpSILEGAg.cZZwrEuW3aB0xi75k4JJK4CdBbz-Vof7YgnL-Mac4zgg.JPEG/IZkXOabIZuzC7jDmFl8clpb0NIo4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
