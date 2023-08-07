@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 10:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 11:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 휴가는, [신도현]과 함께해 보'새나']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36352479&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36352479&amp;memberNo=32146648</guid>
+            <pubDate>Mon, 07 Aug 2023 11:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST]SHIN DO HYUN♥여러분, 이 무더운 여름!시원하게 휴가를 보낼 수 있는 방법 궁금하시죠? 힌트: 세상 쿨하디 쿨한 탑마들 바로 드라마 &lt;어른애들&gt;에서 매력 만랩 '천새나'를 연기한우리 도현···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDNfMjYz/MDAxNjkxMDQ3NjMyNTI2.DEKd3IjdHOK4fvUS_2aCW7BVyz84pz0rGgZSDFFZreMg.l0Kyskj5HBLgl8c0R3m2kON4pzgXiUoFHlZrwIzA4Q8g.JPEG/IM9lH9bD1fIVL7rb02Myv3UvF9hc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['남남' 같지 않은, 박이현]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36334546&amp;memberNo=32146648</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 07 Aug 2023 06:24:05 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST]DO WOO♥안녕하세요 열어분?무언가 허하고, 믿을 수 없고, 슬픈 그런 감정저만 느끼고 있는 거 아니죠? ©넘버쓰리픽쳐스 왜냐면 매주 금요일마다귀엽고, 설레고, 온갖 감덩을 주던 &lt;비의도적 연애담&amp;gt···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTNfMjQ1/MDAxNjgxMzc0NDA4OTkx._6ChO_vmvvhQSw0lcFe_yUdRbAR5yDMlbrNEiQlHCMQg.bhoWx3m8uImjmrsfU23bMgU4g57PKp2ycnLBo0Hkz5Ug.JPEG/I437YMH5Y8kw4906-1d55684S_TE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[VAST 이사했zip] 진짜 성은이 망극할 따름]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35705552&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35705552&amp;memberNo=32146648</guid>
-            <pubDate>Mon, 07 Aug 2023 06:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2022 인생은&nbsp;멀리서&nbsp;보면&nbsp;희극,&nbsp;가까이서&nbsp;보면&nbsp;비극 이현이를&nbsp;보면&nbsp;성은이&nbsp;망극...❤ 청초하고&nbsp;싱그럽고&nbsp;예쁘고 입이&nbsp;열개라도&nbsp;모자란&nbsp;이현&nbsp;배우의&nbsp;광고&nbsp;메이킹 같이&nbsp;즐겨보아요&nbsp;(ღ˘⌣˘···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMzBfNzkg/MDAxNjgwMTQ2Mzk2MzU2.5RbOK4Vfa9f6g_OhN1UjUUegb4UarkgzI5Zz_z5ZGl4g.Wu1oHWqotyzSFmrxzPexXeSfrX2HnIwDYSPrvq0UZawg.JPEG/IzXQXbIfbm1WC5t2Vtl-ykkw9SX4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
