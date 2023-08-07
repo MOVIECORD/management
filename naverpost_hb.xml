@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 13:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 14:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘 밤, 꼭 봐야 하는...[더보기]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36369715&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36369715&amp;memberNo=3247896</guid>
+            <pubDate>Mon, 07 Aug 2023 14:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 밤, 잠들기 전꼭 다시 봐야 하는 드라마!&nbsp;..tvN &lt;경이로운 소문2: 카운터 펀치&gt;&nbsp;  동영상  버튼을 누르면 현재 화면에서 재생됩니다. ※충격※ 전세 역전의 순간, 악귀 강기영의 총에 맞은 조병규?! | tvN ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDdfODkg/MDAxNjkxNDAwODA2MTAx.m7rf7fqPBd4rkDGS31-a475L0S9328GcR-o9acf8gOkg.y36ga6SnBDUhIEJzLgKIafJ8wrCRncjGRuKq63Hy7GYg.JPEG/I6nqHiIym2S876JqYXHanYdaH-BM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1분 1초도 놓칠 수 없는 [영주X지은]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36351774&amp;memberNo=3247896</link>
@@ -160,14 +168,6 @@
             <pubDate>Mon, 07 Aug 2023 06:24:19 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 ♡ ٩(´▽`)۶ ♡ 오늘도 어김없이 찾아온 파파라치비입니다 ♥︎ 제가 이렇게 찾아온 이유는 바로...!민정 배우의 ON&amp;OFF를 포착했기 때문! 지금 바로 민정 배우의 ON&amp;OFF 보러 G···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjlfMjEx/MDAxNjg1MzM3MTY4OTU5.aWgQLPxQPdZ_ylGBvYJz344MBO4MoXVjISLqua2Qu9wg.yqgmCQ8g_tYayvqVtkGEeYG00wHKq7H-ZVBteuPFqf8g.JPEG/IKxuPDHiMuoUhEE4eGaZBwLe6bzQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[안재현]이 달라졌어요 ⊙△⊙]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36003554&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36003554&amp;memberNo=3247896</guid>
-            <pubDate>Mon, 07 Aug 2023 06:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[주말마다 간질~ 간질 설렘을 가져다주는 KBS2 &lt;진짜가 나타났다!&gt; 다들 어디까지 보셨나요! 벌써 '안재현' 배우가 '공태경'으로 여러분을 18번 만났다구요! 설..마.. 주말에 '공태경' 안 보는 거 아니죠..? 지···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjZfMTYx/MDAxNjg1MDg3MjE0ODU4.ItuOzzrf0M5r8x2SVzte0UOTo6b7jEjDcyH4Dybquoog.a9qJgbIPxjx0xYwPLjc09HRg-rJZfAwNqo9gRmnB_lwg.JPEG/IJ2IgKzrW5WDapyrSc4-ssJ3Fyz4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
