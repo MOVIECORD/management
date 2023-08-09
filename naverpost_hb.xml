@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 11:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 12:39:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주접이 필요 없는 [김지은]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36368617&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36368617&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 09 Aug 2023 12:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[사진 출처 - &lt;싱글즈&gt; 벽이 느껴져요...'완벽' 사진 출처 - &lt;싱글즈&gt; 선글라스 어디 없나요?'지은 배우가 너무 눈 부셔서요' 여러분, 요즘 '주접 멘트' 다들 알고 계시죠?이런 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDdfMjQ5/MDAxNjkxMzkwNTMwMjE4.7BW0UdZU0sZZ8eEd3ML9uxGV_HA_u6IQi4A17qipyEAg.N7wQSfQCFFU08xNN0D22JGlf74yLRdsQy-avLraCM-gg.JPEG/IY9jCCVFuSWF3ZNO7PJ7-2ylA_jE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘 밤, 꼭 봐야 하는...[더보기]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36369715&amp;memberNo=3247896</link>
@@ -160,14 +168,6 @@
             <pubDate>Wed, 09 Aug 2023 11:16:35 GMT</pubDate>
             <content:encoded><![CDATA[여러분, 제가 오늘 준비한 '이것'제가 준비한 '이것'은...! 바로 어제 연극 마지막 공연을 성공리에 마친 문지후 배우의 24시간을 여러분들께 소개해 드리려고 합니다!그럼, 지후 배우의 24시간 함께 보러 GO!Mornin···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MzFfMjMz/MDAxNjg1NDk4ODYzOTU1.S6vPHtIUvEux6i4vjYymU16CyTgJ8_uJiedFvaL-BuMg.ZdfHRX0u7iEChoelVbfVf8LTs8-JCGnz5SUNFTAEeKEg.JPEG/IFRFmLaXeA83F8NzO0Y4jv1U9HWI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공민정]의 ON&OFF가 궁금해?!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36008832&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36008832&amp;memberNo=3247896</guid>
-            <pubDate>Wed, 09 Aug 2023 11:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 ♡ ٩(´▽`)۶ ♡ 오늘도 어김없이 찾아온 파파라치비입니다 ♥︎ 제가 이렇게 찾아온 이유는 바로...!민정 배우의 ON&amp;OFF를 포착했기 때문! 지금 바로 민정 배우의 ON&amp;OFF 보러 G···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjlfMjEx/MDAxNjg1MzM3MTY4OTU5.aWgQLPxQPdZ_ylGBvYJz344MBO4MoXVjISLqua2Qu9wg.yqgmCQ8g_tYayvqVtkGEeYG00wHKq7H-ZVBteuPFqf8g.JPEG/IKxuPDHiMuoUhEE4eGaZBwLe6bzQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
