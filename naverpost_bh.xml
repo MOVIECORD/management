@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 08:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 09:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[난 우울할 때 [박보영]을 봐]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36437327&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36437327&amp;memberNo=21724264</guid>
+            <pubDate>Wed, 23 Aug 2023 09:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요해피비입니다:) 극장에 떴다 하면화제만발 믿고 보는 박보영 영화 &lt;콘크리트 유토피아&gt;로연일 화제에 오르락 오르락하는 보영 배우의 오랜만의 화보 나들이비하인드! 오랜만에 찍으신다면서벌써부터···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjFfMjIg/MDAxNjkyNTg2MjU1MDI1.2vAb2gFSZzurr7NGDulzc2ITpEuAS60e-kh7Utrts3kg.sK79UDnhosHFvaP1bKNi4xJTNqj8B6qeDNjXa27gpocg.JPEG/I4NdkGxvub0zZcozEycvzlqgvpfk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈 떠보니 내가 초능력자?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36418055&amp;memberNo=21724264</link>
@@ -157,14 +165,6 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35882178&amp;memberNo=21724264</guid>
             <pubDate>Wed, 23 Aug 2023 01:12:37 GMT</pubDate>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDNfMTcz/MDAxNjgzMTAxMTIyNTI4.LKOQw-bAlOpiP0uDf4yA6B89p2gf2JX-UDe-uHd4DoMg.s_nr6NvpW8v9VWZBsGURIet1w-1Ph1QuCxcDUdFAb4Ig.JPEG/IiDAVFZiD8qBC9vOnbyIytZ7F4BQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충격 한지민 실존]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35874860&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35874860&amp;memberNo=21724264</guid>
-            <pubDate>Wed, 23 Aug 2023 01:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[[오늘의 주요 뉴스] 충격 한지민 실존 (별안간 뉴스톤으로 작성된)프랑스 파리 루브르 박물관,영국 런던 대영 박물관,바티칸의 바티칸 미술관이찾아 나선 한지민(배우)이 문화 예술계에 파란을 일으키며 서울특별시 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTZfMjYg/MDAxNjc4OTMyNzc3MzEz.h6UQbhg27E5fzB1KtIvWkpAYcnMyDw6qdHYxJaANZHgg.Ah_sGSyanDJgUpnvPVnWOI0-6FwxMP7_9WrCxrGl1e0g.JPEG/ID0pBMIe5__GovIAScFDIKOCZjkg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
