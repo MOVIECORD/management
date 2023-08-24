@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 07:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 08:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신인 배우 이병헌]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36452717&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36452717&amp;memberNo=21724264</guid>
+            <pubDate>Thu, 24 Aug 2023 08:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 요즘 가장 핫한 신인 배우 이병헌 인사드립니다. 이병헌@byunghun0712 연기의 신 미모의 신 화보의 신 건치의 신new(유퀴즈 이병헌 편 참고) 세상에 둘도 없는&nbsp;우리 신인 배우 신인치고제법 프로페셔···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MThfMjEz/MDAxNjkyMzM5NTQ3NDY3.W3dVs6QWPqgwbG4Q5PKoQgC-C5LbwZhCaViK2fgjQTUg.RsGe75AMyXjBt0YNxuIgV8SgBqWzW9YHYfgdRbW0PUog.JPEG/IbRFrIxlHCgUaJTG5TtUxP1wDshs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[난 우울할 때 [박보영]을 봐]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36437327&amp;memberNo=21724264</link>
@@ -158,13 +166,6 @@
             <pubDate>Wed, 23 Aug 2023 23:17:23 GMT</pubDate>
             <content:encoded><![CDATA[찍었다 하면 레전드 비하인드도 레전드 갱신하는 우리 집 말하는 고양이 안소희 무슨 색을 입어도퍼스널 컬러가 화보인 화보 천재 안소희 사실 오늘 사진이좀 많습니다^^ 아무래도 말하는 고양이는 희귀하기에... 모···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDhfMjc2/MDAxNjc4MjYyODA4Nzgx.5_GFv0LDDOwGozswScVOjtr4JrB4cJZYep2xn2QQQJEg.oysEExFu3K3koCnUsKu56Zxz2Jc04-fgEwc5LbrEaOUg.JPEG/I3Lz_gjiR54xgh0BJyYMq6tsriGQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BH엔터테인먼트] 5월의 BH ON AIR]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35882178&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35882178&amp;memberNo=21724264</guid>
-            <pubDate>Wed, 23 Aug 2023 23:17:23 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDNfMTcz/MDAxNjgzMTAxMTIyNTI4.LKOQw-bAlOpiP0uDf4yA6B89p2gf2JX-UDe-uHd4DoMg.s_nr6NvpW8v9VWZBsGURIet1w-1Ph1QuCxcDUdFAb4Ig.JPEG/IiDAVFZiD8qBC9vOnbyIytZ7F4BQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
