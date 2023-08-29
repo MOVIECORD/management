@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 13:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 14:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가영 구경하러 왔단다 왔단다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36487141&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36487141&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 29 Aug 2023 14:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[키동아, 촬영장에는 왜 왔니? 예쁜 가영 얼굴 구경하러 왔단다 왔단다조금 더 가까이 다가가서 볼까요? 원래 뭐든 자세히 보아야 예쁘고 오래 보아야 사랑스러운 법이거든요..!근처에 가기만 해도, 아니 그저 보기만···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjlfNiAg/MDAxNjkzMzAxMTQ2MzQ1.LNtV_oADL4UuqZ56AcJ6O-FIuludGQOLFrTRcycYMO8g.75aRzdITtUDyo022as5hkdY1lmUy3Oagyxq3f8HnneEg.PNG/IsPT8aUGcBVwq9NCRPc4U3XNct3A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조보아를 칭찬합니다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36467148&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 29 Aug 2023 08:22:36 GMT</pubDate>
             <content:encoded><![CDATA[스윽~여기에 엄청 능력있는 변호사가 있다던데 맞아요~?잘 찾아 오셨습니다! !!! 여러분 !!!최고의 변호 능력과 의뢰인을 향한 뛰어난 공감 능력까지 갖추고 비주얼까지 완벽^_^내가 변호사를 신뢰해파워T 이로움도 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTlfNzAg/MDAxNjg5NzYxNDAwMTQ0.tgDBp3-3KSrnA6I4k_hpEMkX7KPUmskpejS1VaSnB2Mg.aaY1L3IgFKNX7DexNGqlC82dkrROvdP6mul8ESuoDT4g.JPEG/IP_bD2Co_fQ99-gyCyqVpgw8wr4c.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제대로 컨셉 찾은 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36250914&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36250914&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 29 Aug 2023 08:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[아니 진짜로.. 요정 아니야???단아함의 끝판왕현대무용의 춤사위같은 예술적인 움직임이 모든 것을 갖춘 산소같은 청순함우리는 박하선으로 숨을 쉰다- 후 하 후 하하선 배우가 영화 '어디로 가고 싶으신가요' 개봉···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTRfMTU5/MDAxNjg5MzI0MDA4MDUz.zF9IWo6ysQGf1CZwO6ZEJJcaVR6H7mpyBUkuj9UEo3Ag.d-3zSRjbpUxthwrrOSHyjZagYm-CXkLInGNbGg_bSacg.JPEG/IdERKVmspDuruuFt1hGYE1mkIm3M.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
