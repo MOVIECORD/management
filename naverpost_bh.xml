@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 09:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 10:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[완벽을 묻거든 [한효주]를 보게 하라]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36484304&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36484304&amp;memberNo=21724264</guid>
+            <pubDate>Tue, 29 Aug 2023 10:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[여기 봐도 봐도 보고 싶은 한 여자가 있습니다보고 있으면 심장이 죽어도 괜찮을 만큼 두근거리고안 보면 죽을 것 같은 그런 여자바라보기만 해도 모든 감각이 짜릿해지는그 이름 한 효 주...♡장르를 넘나드는 연기···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjlfMjE1/MDAxNjkzMjg5MjU5NTk3.oOu38_44O0vAK50wm6giNnS202ED7ZIYaLSgZeYnulEg.6lx8rfuMXlrD1YjCtYFPVBdUs85Ruktmo4Y33VTqRoIg.JPEG/IjmBbLLp_HbuaC4gwousp60mAcwc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일요일은 어디 가요? 
 박지후랑 인기가요!]]></title>
@@ -159,14 +167,6 @@
             <pubDate>Tue, 29 Aug 2023 05:16:43 GMT</pubDate>
             <content:encoded><![CDATA[산꼭대기에 미확인 생명체가 발견됐다고 해서 해피비 특파원이 다녀와봤습니다.드디어 모습을 드러낸 오늘의 주인공정체는 바로 [디스커버리 곤]이라는 사랑스럽고, 청순하고, 아름다운 생명체였다고 하는데요별안간···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjNfNTQg/MDAxNjg0ODI5MzQzODY1._bwUyvNtunMDddGBYDsIvKNDlcCQlFX2f7CzYT4a4fEg.kQwIS0lD_iKannRgLwbW50VSGS7-zEZ58Ik0-wUBiiAg.JPEG/I2wdSzm040n6fKCYRARbfSQxecMY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여기서부터 여기까지 다 우리 회사]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35954956&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35954956&amp;memberNo=21724264</guid>
-            <pubDate>Tue, 29 Aug 2023 05:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 해피비입니다 :) 오늘 해피비가 찾아간 곳은...바로바로...(따) 제 59회 백상예술대상! (란) 얼마 전 열린 백상예술대상에 BH 식구들이 하나도 둘도 아닌 무려 4개 부문에서 후보에 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MThfMjgy/MDAxNjg0NDE4NzA1MTAx.-cGmmQPJBO8JYTk6KnFZfeH-j9C59M0KrnCylK6tSj0g.DGpFGupIdqW2T-MNKw0U9nvFZ-pyeInOfu0C4Ktpl3Ig.JPEG/IErgKjSqG5wu0ecOuR0AsH1Icdvk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
