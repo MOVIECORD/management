@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 06:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 07:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -121,7 +121,8 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDZfMjY5/MDAxNjg4NjI4OTc0MTUx.KUldDq70r_nTsnJP2xtj1rMxTEkYQ02MqXgmBX9OifYg.DQXSmLDhGTMeDW5cY7Knb5pRR1ak_O_D8re_UWVH_oUg.JPEG/Itq7T9jpxSkg4eFbmVrhyddhoB4g.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[BH엔터테인먼트] 7월의 BH온에어]]></title>
+            <title><![CDATA[[BH엔터테인먼트]
+7월의 BH ON AIR]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36188792&amp;memberNo=21724264</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36188792&amp;memberNo=21724264</guid>
             <pubDate>Fri, 01 Sep 2023 06:23:20 GMT</pubDate>
