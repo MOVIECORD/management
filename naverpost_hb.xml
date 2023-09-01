@@ -1,8 +1,173 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.post.naver.com/my.naver?memberNo=3247896</id>
-    <title>네이버 포스트 ─ HB엔터테인먼트</title>
-    <updated>2023-09-01T01:20:48.701Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.post.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ HB엔터테인먼트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 01 Sep 2023 02:28:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심신 안정이 필요할 땐? [공민정]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36459702&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36459702&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 치비 입니다!벌써 한 해의 반 이상이 지난 현재,바쁘다 바빠 현생을 사느라 많이 힘들고 지치시진 않으셨나요?여러분들의 심신안정을 위해저의 심신안정제를 공개하려고 하는데요 저만의 심신안정제를보···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjRfMTc2/MDAxNjkyODYxMjczMDQ5.LtN6c9NzfYcgGWVSnp2Hw7wP3YN2Tt-bL9OnoZ_6yowg.CZ1AYliEVs6VHYcnUa1nwZjBuWpYpXdmqC7UPVV6nfkg.JPEG/IfsDC3oyVfFwdblgl36Yf61MrC7Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[힐링이라 쓰고, [김지은]이라 읽는...♥︎]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36444580&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36444580&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[여러분...｡°&nbsp;૮₍°´ᯅ`°₎ა&nbsp;°｡안녕하세요... 치비 입니다...ㅠㅠ제가 울면서 등장한 이유,긴말 없이 본론부터 말씀드리겠습니다... 사진 출처 - ENA &lt;오랫동안 당신을 기다렸습니다&gt; 제가 정말 오···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjJfMTU1/MDAxNjkyNjgwMzAyNTY0.3bDs0aFb9GKDhXyVQdKeYKyT-xo2F2fJXSUQqwz0fcIg.tQz-6Rvu8Hh5j48q5IUJIOHwDcO5uDoJBwXW3D0PTUYg.JPEG/ILlXqymeItz92iwcwQu7LDxMVDLQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['물 미역(?)' 소문까지 D-4]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36446061&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36446061&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[충격.매 싸움 목숨을 걸었던 소문.. 찐 .. '위험에 처하다.'아직 '뽀글이' 소문 못보낸단 말이야 (절규)'물 미역(?)' 소문 보기 전 극한 상황에서도 시종일관 빛나는 조병규 배우의 AI 비주얼 구경···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjJfMjMw/MDAxNjkyNjkxMzc4MjA1.N4OlGHJlvyhFuBOw9ToMcA4U_zU-fcrZ6aT1jixwpLEg.xWpOOHI1Sj8kpwdDhTR9yKAYnXg0VrgLsMcao7tl8bcg.JPEG/I27zBkJRGWuw5QnYRR41Asr2xXs8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[000 : 마이 라이프 이즈 비지]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36380641&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36380641&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요오늘도 어김없이 돌아온 치ㅂ...아니,고영주 검사입니다.PRO 직장인,&nbsp;PRO 검사인&nbsp;저, 고영주의 특별한 하루 루틴을&nbsp;보여드리고자이렇게 여러분들 앞에 서게 됐습니다 지금 바로 제 24시간,출~퇴근을 함께 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDlfMTQ2/MDAxNjkxNTYzNjIxODQ2.aNbR0kulwChsc9ivvR3QuUP-hkQDEZj7IVss1LV_73og.2K-FJrJfDpkh6VMcZN7wrvw3MIttsC3IIvduYFjfiv0g.JPEG/IlHblUyYiwCKNwKSFKJgt8PqxKJs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑을 드려요 -소무니-]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36385929&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36385929&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[✦ 한국 넷플릭스 순위 1위, (8/8 기준)✦ ✦ 넷플릭스 글로벌 TOP 7, (8/10 기준)✦ ✦케이블 시청률 순위&amp;검색량, (8월 1주차 기준)✦ 등 ! ! 경이로운 기록을 세우며 흥행길만 걷고 있는 t···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MTFfMjQw/MDAxNjkxNzM1NTA3MDkz.9pqz_-88B8BObXILEya-360ZOQvQJpFW-bncm-U1HWog.ZNLLq6vL_aPziiLBq5ESB23yx6lmw2m7kkMIcKS3fZIg.JPEG/IW8G6WLHEDZLfn_4HcpU3CRlu-hQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[냉미인이 디폴트인 조병규]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36379290&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36379290&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[죄송합니다. RollingStone KOREA 압도적으로잘생겨서. &lt;RollingStone KOREA&gt;와 함께한조병규 배우 비하인드!세상 사람들의&nbsp;시력 향상을 위해 풉니다=.=↓0.0  근질 근질 했어요 지루한 일상을 환기 시···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDlfMjE4/MDAxNjkxNTUwOTY4MzY0.zOWmCy0GP6lXjilEdnrJWO9uD3_B6_zJxIeu7c8CqCcg.7nPvTM5dYf2Eh_ie5umP5GmZ-m143umwykSTsw-7UwYg.JPEG/I5M6za5mjKKbTGVBeB9lZRUwNnUk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주접이 필요 없는 [김지은]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36368617&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36368617&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[사진 출처 - &lt;싱글즈&gt; 벽이 느껴져요...'완벽' 사진 출처 - &lt;싱글즈&gt; 선글라스 어디 없나요?'지은 배우가 너무 눈 부셔서요' 여러분, 요즘 '주접 멘트' 다들 알고 계시죠?이런 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDdfMjQ5/MDAxNjkxMzkwNTMwMjE4.7BW0UdZU0sZZ8eEd3ML9uxGV_HA_u6IQi4A17qipyEAg.N7wQSfQCFFU08xNN0D22JGlf74yLRdsQy-avLraCM-gg.JPEG/IY9jCCVFuSWF3ZNO7PJ7-2ylA_jE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 밤, 꼭 봐야 하는...[더보기]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36369715&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36369715&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 밤, 잠들기 전 꼭 다시 봐야 하는 드라마! . . tvN &lt;경이로운 소문2: 카운터 펀치&gt; 지난 주말 펼쳐진 ❛소문 VS 필광❜ 대립은 #포모스_선정_2023_베스트_액션그래서 준비한 조병규 배우의 열일 모/먼/트 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDdfODkg/MDAxNjkxNDAwODA2MTAx.m7rf7fqPBd4rkDGS31-a475L0S9328GcR-o9acf8gOkg.y36ga6SnBDUhIEJzLgKIafJ8wrCRncjGRuKq63Hy7GYg.JPEG/I6nqHiIym2S876JqYXHanYdaH-BM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1분 1초도 놓칠 수 없는 [영주X지은]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36351774&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36351774&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요!어김없이 돌아온 치비 입니다!제가 돌아온 이유는 바로...!다름 아닌... 어김없이 ★레전드★ 갱신하는 지은 배우를자랑하고 싶기 때문. 팔불출&nbsp;치비의 ♥︎영주X지은♥︎ 사랑 가득 담긴,지은 배우의 순간들 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDNfMjM1/MDAxNjkxMDM4MTgyMDQz.hx-oFY6_vn6CkWtk5F65jREzH24fSMWccTuVEoFjR1Ug.AwPbQGtAiyDx6iS3iPk97vCQsjHx3hBKZv0uTve-RKMg.JPEG/IbS__yBYD4b0qsTuSfPABQ1Sh9KI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폼 美친게 뭔지 제대로 보여주는 [김지은]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36339954&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36339954&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[ENA &lt;오랫동안 당신을 기다렸습니다&gt; 포스터 매주 수, 목요일 밤 9시마다만날 수 있는 우리의 고영주 검사!오늘은 평소 보여주던 불도저 같은 모습이 아닌,또 다른 얼굴로 등장했다고 하는데...?고영주 검사님···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDFfMTg3/MDAxNjkwODY4MTU2Mjgx.IPDLdo80IQgfuyK64uO6MfEHCzg8Bx5H8KLHHv3EV1Qg.K-SabaO5MSW3GeGrEWjIt0G_WAbaCj2p3btpquYSCmsg.JPEG/IroHcu8eB8ccTzmQiYQ-cnd3sHBs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대박 '드라마'가 돌아왔다는 
+'소문'이..!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36323780&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36323780&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[드디어!! 오.늘.돌아온!!/소/문/(이)/시즌 1보다 더 재밌고 더! 강력해졌다는 tvN 새 토일드라마 &lt;경이로운 소문2: 카운터 펀치&gt;새로운 능력과 신입 멤버 영입으로 더 강해진 악귀 사냥꾼 ‘카운···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjhfMjcw/MDAxNjkwNTM2Mjg0NzYw.dcsgXvtHzViqSbcwFj4mP6sS7QV_Fjn6dbekSBZFmJUg.HIRFtv1PEutOczQYS0Aa6Sub02oYCkFGirKpA03v9dMg.JPEG/I_ruGaek20PppsO8V1oQaKg12oyU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[차예련]보낼 때 보내더라도 이건 보고 가야지]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36275610&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36275610&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[정돈된 부엌 정돈된 드레스 룸그리고 .. 아기자기한 소품이 가득한 방..(?) 어딘가 익숙한 집! 혹시 눈치채셨나요?남편 태호와 딸 아린과 살고 있는 차예련 배우의 집이랍니다 :) 예련 배우가 '김나영' ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTlfMTA4/MDAxNjg5NzYyMTU3ODQz.ArYsmY6FwLQhVhAEQXYKnIZrhii8-NA4wVnDtAH90QEg.Xyu8dD4fiR772kpCNFEIIkAJcGlVGf75nGyVMokZuycg.JPEG/Is6XV_hdg8E36UKzXILl6x2F9qlo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김지은]과 함께한 일요일, 마지막 기록]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36187637&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36187637&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[아쉽지만 어느 덧 마지막 인사를 전하게 된 &lt;인기가요&gt; 속 지은 배우를 기록하는 ✏️ 파파라치비의 일기✏️ 마지막까지 MC 찡찡의 ♥︎아름다운♥︎ 미모를 한 가득 담아온 치비의 &lt;인기가요&gt; ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTJfOTgg/MDAxNjg5MTI2NDE0OTE1.p_ykkMADF7hglqUDV9QMLI0S7JSXYBWUxTc8nafD2X0g.IaIh1rHfGW3XCmy0IU4TdtlV7_9k5TBIgaKk2g0LOVIg.JPEG/IdRMvIXpQQpUggavbUK7L80YJFAw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사장이 복지인 회사]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36244499&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36244499&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[여기, 사장 존재가 복지인 회사가 있습니다.나긋한 목소리로 +1심쿵 단정한 옷매무새로 +2 심쿵 일명 심쿵 유발러이제연 배우ENA 수목드라마 &lt;행복배틀&gt; 속 이너스피릿 '사장'이자 정아(진서연 분)의 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTNfMTU1/MDAxNjg5MjQ5MjY3NTIy.7l1cY7EFBULJ-NwuJelaWPbvjDaYHDFTDtDXcfbtsdMg.ZKT8p-AWSngh5VwfzXS5a7hMDuCILK1EXzkwbQmtJ1cg.JPEG/I9ys-Thm9CC99sOxvwoV_nH_eKDA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김지은]과 커피 한 잔~?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36121142&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36121142&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[따스한 햇빛이 가득한 오늘, 지은 배우가 오늘 카페 일일 직원으로 ★등장★한다는 소식 들으셨나요?!Yeah! 지은 배우가 일일 직원으로 일한다고 하는데, 그 곳에 치비가 없으면 섭하죠! 지금 바로 함께 가보실까요~?!···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjBfMTYg/MDAxNjg3MjI2MDkwNTI4.9RdYvr63ZHYQ0pYimfZBZ_vHI1KgzvUMPs8asf1owJYg.3GPcC5N1vbd3gpN4YgrHf9AR3pGy6Lt2TR9OiqBEF24g.JPEG/InhyzRlALZPd0XBOGdi6eD_ZHB8M.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선택장애 부르는 배우들]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36136584&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36136584&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[주말 저녁 저에게 깊은 고민을 안기는 두 남자가 있습니다.안 재 현 V S 정 의 제먼저, 스윗남 안 재 현 배우보기 만해도 달달 그 자체 초콜릿 같은 매력으로치비의 마음을 녹이는 중 ..이를 대항할마성의 남자 정 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjlfNjkg/MDAxNjg4MDI3MzI3MzQ2.1LLFA9HmxbGhoxuPcBA5spJWhRUUJISuiDlxjt6OK3wg.Xl-iBH-i5DJtcVgboeIHWElE6m2PxzEtSIR6RMG9qNog.JPEG/I4EpBfUC3ayl9Sn6prfPEWp_y8Js.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<행복배틀>을 빛낸 2人]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36152033&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36152033&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[화 : 화려한 2人 요 : 기에서만 소개합니다! 일 : 루와서 보세요! 대표 vs 유치원 선생님 정수빈 vs 조아라 이제연 vs 김희재 각자의 사랑과 행복을 위해 속이고 숨기는 비밀스러운 에피소드가 가득한 ENA &lt;행복배···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjZfMTAw/MDAxNjg3NzYzMTU3OTI1.WCPiEWOCX7b66WYoExN4-L-wRuiBGhU_9yllLMLBdTQg.aEuhAllosUTjxJ3pa9Ao8TCE2FmJoELAmJt4db80h8gg.PNG/I34Je6APtWoNKNMJf_9PoBrjIpuc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[차예련]없으면못사는♡]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36115792&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36115792&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[쭉⇪ 쭉⇪쭉⇪ 쭉쭉⇪ 어디서 상승세 소리 안 들리시나요? 화제성도 .ᐟ 시청률도 .ᐟ.ᐟ 검색어도 .ᐟ.ᐟ.ᐟ 쭉쭉 자꾸만 위로 뻗어나가는 ENA &lt;행복배틀&gt; 너어어무 재밌다니까~ 너어어어어어어무 재밌는 차예련 배우의···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTlfMTc2/MDAxNjg3MTQ4NjY0MjYz.wzpT4IbHcQx2uCCoHljOAUdnaS833ihANCIIAHkrPqUg.hu13eVNQfxH03LF-kgFWFRVohwQARywiVBONdcy9b8cg.JPEG/IGEWf6Zq1OWA-gzUYVlaE_jUiKtE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 돌아와 준 [정의제]에게 
+압도적 감사]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36081529&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36081529&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[!!!!!!!돌아왔다!!!!!!!장세진, 날 왜 이렇게 애타게 찾아?바다 건너 비행기 타고 돌아온..!!'정의제 배우' (혹은 '김준하')해외 물먹어서 그런가요..? 더 잘생겨진 얼굴 어쩔 거야〰!!'깐머' 정의제 ☞ '덮머···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTJfNjYg/MDAxNjg2NTUyMTQ4MTkx.9wbEyUQhmTtQuof5lc7xGA21Bh0GRq0c_502tO9A7J0g.AuaosorqL0oYvD_HHpjK08TF-pF0txStIIVjhadCBWUg.JPEG/IdFlGAXf_prR0LXDl-qwie8Wp9XA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김지은+인기가요='♥︎']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36094773&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36094773&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 01 Sep 2023 02:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 먼저 기다려지는 ✏️ 파파라치비의 일기 ✏️ 또 다시 찾아 왔습니다파파라치비의 일기 v.3 지금 바로 시작합니다 ♥︎✏️ 치비 일기 (a.k.a 지은 배우 기록 일기)2023.05.21. 일요일 ✏️ [제목] 지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTVfNDAg/MDAxNjg2ODA2Njk4MDAw.frJO9sLrG60a8CYvstoNxPFtMJj56lwAM2EpuoV_y2Eg.IriV8U_GzWSnK4M5jug32PH4YmLphFaSMGQ0YIu5XkEg.JPEG/IZcRB6q00_iAIjh-h5IxZ8qlMCNs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
