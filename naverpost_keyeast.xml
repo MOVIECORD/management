@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 13:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 14:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최강동안 조보아]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36547152&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36547152&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 08 Sep 2023 14:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 키동이 어디를 다녀왔을까요? 바로 이홍조 주무관의 모교인 서인고등학교를 방문했습니다!바로 고등학생으로 뿅!하고 변신한 이홍조 주무관님을 찾기 위해서죠~ (*˘︶˘*)촬영장에 도착하자마자 주무관···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDhfMTYx/MDAxNjk0MTYxNzU4OTE0.2w85Qj38dmWN6I3vm9Py3kXzDbqljQ04BEeNJKiDnHcg.yZGbYjRxNVbIBDMuKU3I9btD9l9EdlUjyGM4C2zuNNsg.PNG/IZDoyM5p85gkkOFG1tmmWjtvPty4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장사천재 채정안]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36540463&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 08 Sep 2023 03:17:47 GMT</pubDate>
             <content:encoded><![CDATA[여러분은 오늘 스크롤이 내려가지 않는 신기한 경험을 하게 되실거에요 &gt;&gt; 순백의 Angel &lt;&lt; &gt;&gt; 단아함의 끝판왕 &lt;&lt; 정은채 배우가 오랜만에 키동 포스트로 찾아왔으니까요~~쿠팡플레이 최고···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjhfNTkg/MDAxNjkwNTM0MDYyOTkx.UH1XbKln6tBA5y2mkF6n7IzYAHdgkTbdR6gakE6bp04g.WMPqylEuX5rvNqqgF8lKa1mNfw07u2sQvKq9JfG5XgQg.JPEG/IaaRH8pvAxIgBeV3iOZQ-Agk5HVc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW FACE]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36318923&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36318923&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 08 Sep 2023 03:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[그런 날 있죠? 소속사 배우 얼굴 무작정 자랑하고 싶은 날.. ... 그런 날이 또 찾아와 버렸네요 - ̗̀ෆ(˶'ᵕ'˶)ෆ ̖́- 소속사 배우 얼굴 자랑하기에 진심인 키동이 처음으로 소개할 배우는 바로아주 개성 강한 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjdfMTc3/MDAxNjkwNDM3NTUyMzI4.OG24amPO6KJyX8SlYvhiUC7bs5YOhsvCW4cRnKkuGuEg.NMjQEEtIIx_nkqxhZA6amw9zGBvT1btC8wmKCFFO9c8g.PNG/IwIJCxhPMWejUa2Tt4I_OZgs-FN4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
