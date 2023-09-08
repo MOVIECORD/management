@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 11:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 12:35:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[유연석] 우리에겐 매해가 유연석의 해♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36546645&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36546645&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 08 Sep 2023 12:35:06 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-)지난주 토요일(2일)너무너무X411 행복했던 하루를 보냈죠! 바로, 배우 유연석 씨의데뷔 20주년 팬미팅&lt;유연석의 이해&gt;로 함께한 날-ˋˏ&nbsp;*&nbsp;٩(˶'ᵕ'˶)۶&nbsp;*&nbsp;♡&nbsp;ˎˊ-오래 기다렸···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDdfMjE2/MDAxNjk0MDkyMTUyNzMy.XgKggT3KuUaErpQZAmTlrqOjHooR3MTynmsaCIfkGHgg.v-NlXN_z9R_7MkDDhdn0vdUJal7uzOeAXCqifB-hbfwg.JPEG/IC2P1oq-XV_ePhWmzvM3jjcN31x8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여름] 우리 회사 최고 복지]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36539762&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Sep 2023 15:19:52 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :D [사진제공: 바른손스튜디오, 하이그라운드] 바로 어제(24일, 토)였죠TV CHOSUN 새 주말미니시리즈&nbsp;&lt;아씨 두리안&gt;첫 방송 모두 본방사수하셨나요-?(*ˊᵕˋ*)ﾉ 그중에서도&nbsp;두···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjVfMjM1/MDAxNjg3NjYzNTIzMTEz.n1EbZwkpvUrarISKbZo2DNij_ikNrOWdwEJyqI1d5ukg.uskcVmKTMrhyUdVeoF9cSOWX8fuavLNJNoni9ozkd-0g.JPEG/IDXC1BhHVydofg3aE7LMo5N2sa4E.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[손우현] 업무보고드립니다.]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36139322&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36139322&amp;memberNo=35839671</guid>
-            <pubDate>Thu, 07 Sep 2023 15:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)이곳은 ENA 수목드라마&nbsp;&lt;행복배틀&gt;&nbsp;속은행&nbsp;디지털사업부 SNS마케팅팀 오늘은'이진섭' 주임님의&nbsp;업무보고가 있는 날입니다 ⍌ 이벤트 응모자 검수이벤트 응모자들의 SNS를···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjNfMTcx/MDAxNjg3NDg4MjgzODY4.ltmeTn1AZAv55cFnxmMbtbG6glohNpO5q4JvnB_itLUg.5RBy5Nv4QMJrX18ZERExY2N8nwA-u2kibtdRal17zIcg.JPEG/IBd9musMtOFb_77z5gM09bABBpcE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
