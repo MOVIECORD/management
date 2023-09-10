@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 09:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 10:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱] 비주얼 스트라이크]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36553121&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36553121&amp;memberNo=35839671</guid>
+            <pubDate>Sun, 10 Sep 2023 10:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다! 오늘은 킹콩지기가 주말에 했던 취미활동을 하나 소개해 드릴게요볼링장에서 볼링치 는 배우 이동욱 씨 보기 ( •ᴗ-)ᓂ-ෆ '더블유 코리아' 9월 호 촬영 비하인드와 함께해요!···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTBfMTU1/MDAxNjk0MzI1NDIyOTU0.eC9rc8huHmrmWkm01Phvo7NH0czU-0Te85Xl722RXA4g.xqSNipS3kQXyE27_Bg-Xl1H4fmLU6ctkUqHXnvV1fe0g.JPEG/IUSsJjl6PvcyzNJVpbPTRHtqpjDw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유연석] 우리에겐 매해가 유연석의 해♥]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36546645&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 09 Sep 2023 16:22:16 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) [사진제공: 더한섬닷컴] 웹드라마 &lt;어른애들&gt;로배우 류혜영 씨가 돌아왔습니다! 콘텐츠 촬영에서오늘의 출근룩을 설명한 혜영 씨는 본격적인 토크에 앞서킹콩지기랑 눈 맞춰주는···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjZfNTEg/MDAxNjg3NzUxMDYyNDcx.ZFd-qOguHibDfjwVW8Vpjd4LoFKmvqZaJIq_jCaGIj4g.1BO_hQAeL_ZIytf5qPtYeTKkaPQm1HL3PsybS3h33Lkg.JPEG/I_VzuYlWRaenkQUHNKVPHXCRAlc4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이다연] <아씨 두리안>의 며느리]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36147414&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36147414&amp;memberNo=35839671</guid>
-            <pubDate>Sat, 09 Sep 2023 16:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :D [사진제공: 바른손스튜디오, 하이그라운드] 바로 어제(24일, 토)였죠TV CHOSUN 새 주말미니시리즈&nbsp;&lt;아씨 두리안&gt;첫 방송 모두 본방사수하셨나요-?(*ˊᵕˋ*)ﾉ 그중에서도&nbsp;두···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjVfMjM1/MDAxNjg3NjYzNTIzMTEz.n1EbZwkpvUrarISKbZo2DNij_ikNrOWdwEJyqI1d5ukg.uskcVmKTMrhyUdVeoF9cSOWX8fuavLNJNoni9ozkd-0g.JPEG/IDXC1BhHVydofg3aE7LMo5N2sa4E.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
