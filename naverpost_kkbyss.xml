@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 08:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 09:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[고아라] 진짜 고아라를 찾아라]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36559370&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36559370&amp;memberNo=35839671</guid>
+            <pubDate>Mon, 11 Sep 2023 09:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[배우 고아라 씨를 찾습니다매거진 '더네이버' 9월 호에서 어떤 콘셉트든지 완벽 소화하며 엄청난 변장술(?)을 선보인 아라 씨색다른 모습에 누군지 아라봄? ...난 못 아라봄 그래서 이 중 누가 진짜 아라 씨···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTBfMTIx/MDAxNjk0MzQ5NzA2NzA2.HgVefZmDSSoCc9RvSQq4GmBZKcOBU-xAX9nB7PoDOBAg.GzWsVZpr07CunFgUmnOrdvzfufgW8iOlw9xz4-KepHgg.JPEG/IdFJ8zC3tf5FD1HpjZSsRbkQvxRg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱] 비주얼 스트라이크]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36553121&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 10 Sep 2023 23:18:17 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)ENA 수목드라마&nbsp;&lt;행복배틀&gt;에서 [사진출처: ENA '행복배틀' 방송 캡처] 착하지만 살짝 모자라고 [사진출처: ENA '행복배틀' 방송 캡처] 셜록의 추리력을 갖춘 [···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjdfMjU5/MDAxNjg3ODQzMzg1MDAz.XwrrcRSXHTLkfAbFOIhO2iy3NJhjuMR-ypwHrIZyowYg.HWEIhn6lEXIhdnXakXQlE6bPLgaAlwkb-4UUN4c_mpog.JPEG/IEgstS3tuuJf94uYVId8MPJMDLgY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[류혜영] 덜 자람, 다 잘함ദ്ദി]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36152098&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36152098&amp;memberNo=35839671</guid>
-            <pubDate>Sun, 10 Sep 2023 23:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) [사진제공: 더한섬닷컴] 웹드라마 &lt;어른애들&gt;로배우 류혜영 씨가 돌아왔습니다! 콘텐츠 촬영에서오늘의 출근룩을 설명한 혜영 씨는 본격적인 토크에 앞서킹콩지기랑 눈 맞춰주는···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjZfNTEg/MDAxNjg3NzUxMDYyNDcx.ZFd-qOguHibDfjwVW8Vpjd4LoFKmvqZaJIq_jCaGIj4g.1BO_hQAeL_ZIytf5qPtYeTKkaPQm1HL3PsybS3h33Lkg.JPEG/I_VzuYlWRaenkQUHNKVPHXCRAlc4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
