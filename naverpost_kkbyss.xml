@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 09:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 10:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱]을~ 만드는 회사]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36579856&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36579856&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 14 Sep 2023 10:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-)여러분,며칠 전에 길을 걷다가 우월한 슈트핏에 황홀한 비주얼을 가진 회사원을우연히 마주쳤는데요 단지 벽에 기댔을 뿐인데 허리에 손을 올렸을 뿐인데 막 조각 같고 명화 같고 화보···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTNfMjI1/MDAxNjk0NTQ2NjQyMDcw.mtnrzFd-asY6Am_rrsekBr6WDErE-wxtxjGErPXUqPUg.fHK5r6OCow4wGWQxZArsVo4I3p2ClJ875wlBiPItTqwg.JPEG/IGCbmOa-42t1aa3V1Jj2vNmzZSzA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이광수]가 말아주는 누아르]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36565271&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Sep 2023 08:23:55 GMT</pubDate>
             <content:encoded><![CDATA[누르지 말라는 ※경고※에도 불구하고 포스트를 눌러버린 여러분, 잘 누르셨습니다♡티빙 오리지널 &lt;방과 후 전쟁활동&gt;에서 소대장 이춘호 역으로 '소대장앓이', '춘호앓이' 에 빠지게 만들었던 배우 신현수 씨 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDVfMTM4/MDAxNjg4NTQxNjg0MjUy.WxYbxD3j662-OvPTzrpzAymHRaXFGAzL62sg0eyBf8Ig.NjIjqEgppymjXY-uqBPjmxzHZKA_5f5H7tSC2kK66eAg.JPEG/IKEbMQXDJFQPQ53EXCpMT1Vys2U4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[고아라] 계속 보고 싶은 얼굴]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36176640&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36176640&amp;memberNo=35839671</guid>
-            <pubDate>Thu, 14 Sep 2023 08:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 영화 &lt;귀공자&gt;에서 윤주 역으로 와일드하고 거침없는 매력을 보여주고 있는 배우 고아라 씨!오늘은 성숙한 분위기로,으른으른한 매력으로 시선을 단번에 고정 ✧✧...!카메라 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjlfMTAw/MDAxNjg4MDE4MjAyOTkz.LTRQ3jsYg7XkxLALaGJZGcPH2jmxd5-3xwJDh1jzJpsg.Obp1nmYiUukzhB5APDTO-qtr8mdFiDFpToBwAvlNjKcg.JPEG/IbgZrSB_0mPNeURcbppRIaZHN4wg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
