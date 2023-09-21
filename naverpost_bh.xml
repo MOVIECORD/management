@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 08:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 09:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작품-박성훈=0]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36611695&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36611695&amp;memberNo=21724264</guid>
+            <pubDate>Thu, 21 Sep 2023 09:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요해피비입니다:) 한때 우리를 설레게 한소장님 은재원으로심장 뛰게 하더니 별안간 형사님 박상윤으로 나타나날카로움을 보여주다니 얼굴 도대체 몇 개에요?박성훈 배우님? 2만 개 힛 &gt;.&lt; 근데 이제 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjBfMTkx/MDAxNjk1MTg5NDg4MTI1.3sL4lcw4SmF79g5SNvY10mrREfPp7z6hTI3adpVFjzkg.H3lHp4-qJYAqsrhYpnmcEmUbJedMAl3W7NtC7L4vZwsg.JPEG/IIp_5qV4yjObKoRB4NFi0Ea6JDeg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[행복해'짐' 즐거워'짐' 사랑스러워 한지민!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36571261&amp;memberNo=21724264</link>
@@ -159,14 +167,6 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36188792&amp;memberNo=21724264</guid>
             <pubDate>Thu, 21 Sep 2023 03:18:16 GMT</pubDate>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDNfODgg/MDAxNjg4Mzc2OTQwNTY0.yJiIAclHSUzt1KBnRXD_uhyYn1Del4vQQfr7uNM1Z-Qg.6BTmlWa6InrftSI2_ogYibSJeRi7ice0oFjp6457qXYg.JPEG/ISqlUD2IWhFM2lPbHPMbKtBm4kBs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연기 잘 하는 사람 여기 다 모였음]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36159709&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36159709&amp;memberNo=21724264</guid>
-            <pubDate>Thu, 21 Sep 2023 03:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[이병헌-박보영-박서준 김선영-박지후-김도윤 이름만으로 기대감을 불러일으키는 배우들이8월 9일 대개봉 예정인 영화 &lt;콘크리트 유토피아&gt;의 제작보고회에서 뭉쳤습니다이렇게 귀엽게 V_V그중에서도 오늘, 집···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjdfNDUg/MDAxNjg3ODY2NDk4MTMz.wWZK7XsXVwtjbPrdfhzLzDix83MYVB2OsZirlk3GN98g.DA5nAEtUK09CeLiyZ-J4yHmFbdsKwOdHfaztYwlN8q0g.JPEG/IXoQX1ghjdHdsuFnbbe_19aepy1A.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
