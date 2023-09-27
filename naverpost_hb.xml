@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 08:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 09:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김지은] 폭룡적인 미모로 동네 카페 접수]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36642041&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36642041&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 27 Sep 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요!치비 입니다 :)잊을 때 쯤 다시금 찾아오는 저,치비가 들고온 오늘의 지은 배우는...? ❝ 저기 저 카페, 직원 언니 미모 폭룡적이래 (수근) ❞ 폭룡적인 미모를 자랑하는&lt;손대면 핫플! 동네멋집&gt; 속 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjZfMTYw/MDAxNjk1NjkyMTIyNzUz.KWpBDAsq8P-1d1vzza4DhC3lSbM8WzI2O2sYRa55hBAg.iMuqub-X3ApdK0cfR0LbaefpoSZ1Aa01eLMWGVjKJNMg.JPEG/I8crOxKBx2kFHe4TxeJ4p8CdTn1g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[716번을 봐도 예뻐 죽겠다.]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36611298&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 27 Sep 2023 03:19:28 GMT</pubDate>
             <content:encoded><![CDATA[여기, 사장 존재가 복지인 회사가 있습니다.나긋한 목소리로 +1심쿵 단정한 옷매무새로 +2 심쿵 일명 심쿵 유발러이제연 배우ENA 수목드라마 &lt;행복배틀&gt; 속 이너스피릿 '사장'이자 정아(진서연 분)의 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTNfMTU1/MDAxNjg5MjQ5MjY3NTIy.7l1cY7EFBULJ-NwuJelaWPbvjDaYHDFTDtDXcfbtsdMg.ZKT8p-AWSngh5VwfzXS5a7hMDuCILK1EXzkwbQmtJ1cg.JPEG/I9ys-Thm9CC99sOxvwoV_nH_eKDA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김지은]과 커피 한 잔~?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36121142&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36121142&amp;memberNo=3247896</guid>
-            <pubDate>Wed, 27 Sep 2023 03:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[따스한 햇빛이 가득한 오늘, 지은 배우가 오늘 카페 일일 직원으로 ★등장★한다는 소식 들으셨나요?!Yeah! 지은 배우가 일일 직원으로 일한다고 하는데, 그 곳에 치비가 없으면 섭하죠! 지금 바로 함께 가보실까요~?!···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjBfMTYg/MDAxNjg3MjI2MDkwNTI4.9RdYvr63ZHYQ0pYimfZBZ_vHI1KgzvUMPs8asf1owJYg.3GPcC5N1vbd3gpN4YgrHf9AR3pGy6Lt2TR9OiqBEF24g.JPEG/InhyzRlALZPd0XBOGdi6eD_ZHB8M.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
