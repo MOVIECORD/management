@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 13:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 14:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해의 배우 김서형]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36703492&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36703492&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 10 Oct 2023 14:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[제43회 영평상 제32회 부일영화상 영화 '비닐하우스' 여우주연상 2관왕이 유의미한 기록들을 만들어낸 주역 김서형환희와 눈물이 공존했던 영광의 순간들을 지금부터 공개합니다!제43회 영평상지난 9월 제43회 영평···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTBfNTYg/MDAxNjk2OTQxOTc5MTc2.0_F1NfexbVudg_pJK4w8iKNW8kTpTF_bYV33U3wRXzMg.LRet_qYXJpVhesebJKFpo7QD1IjHwcAx6MGnZkXX9KYg.JPEG/I9IhQCqWrKO4YjaG1EEEuH21aTbM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폼 美친 보아 연기력]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36697217&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 10 Oct 2023 07:16:56 GMT</pubDate>
             <content:encoded><![CDATA[온주시청 이홍조보아 주무관 님을 적극 칭찬합니다.지친 삶의 치유가 되는 보아 님조보아 주무관 님은 민원이 들어왔다 하면비가 오나 눈이 오나 현장으로 바로 뛰어가시는 분이고요 (˵⚈ε⚈˵)다른 사···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjVfOTMg/MDAxNjkyOTUxNDgwODM2.AazX1I3UJTdTODbKMM68-5b6MFKWc6LryqGDTeq45SAg.Ezvgm0ON6Qm_zlLR8U3KHDgb61cn54HTWU3lbQ1ujVkg.JPEG/IvfnyyIj0H6JZyUS65X8khYdLhnM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GQ 17PG 男]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36460824&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36460824&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 10 Oct 2023 07:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[GQ 17PG를 장식할 법한 인물우리는 그를 이렇게 부르기로 했어요손이 가요 손이 가~ 새우깡에 손이 가~처럼 너무 멋있어서 어쩔 수 없이 보게 된다는 뜻!!근데 정말로 장식하고야 말았네요.. GQ 17PG를! 정성일!이 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjRfMjY2/MDAxNjkyODU2MDI3ODI1.Vr0jBK9DkNvkiWbGghaQITZyQzwtPdMOZP7iibcPvDgg.IT5zi9eSC17Exzlz09dDtf5rbgUzVhGK2LdltWuvaQEg.PNG/Ij6aF6MTDtgr3LQmhzqFVJHmxpZ0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
