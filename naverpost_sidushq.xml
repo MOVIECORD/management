@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 02:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 03:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김혜윤] 보노와 함께라면~!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36698445&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36698445&amp;memberNo=28456565</guid>
+            <pubDate>Tue, 10 Oct 2023 03:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[다들 한글날 잘 보내셨나요? 휴일 끝 일상 시작에 힘든 여러분들을 위해 선물을 준비했습니다! 우리 혜윤 배우가 보노 스프의 새로운 모델이 되었어요! 본격적인 촬영 현장으로 가볼까요?촬영 준비하는 혜윤 배우 등···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDRfMTMy/MDAxNjk2NDA3NTUzMzEy.SqQ6d5HNVSq8hQEB05Y-Nrf3gN4j8PXERqTRnzxCNUsg.awxkXcqHrLJmYtOFd-hZSZl8S4moRcgvLdmTaSxmzBMg.JPEG/Iym5oQZUzJZbshJDIQjrGmXHnQ9A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동현 퍼스널 컬러 아벨]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36637389&amp;memberNo=28456565</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 09 Oct 2023 22:17:41 GMT</pubDate>
             <content:encoded><![CDATA[싸하 -! 오늘의 소식은 바로 (함) 혜윤 배우의 새로운 프로필 사진이 공개되었습니다! (성) 다채로운 모습이 담긴 혜윤 배우의 프로필 사진을 여러분에게 하루빨리 공유하기 위해 싸더지기가 달려왔···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDZfMjk4/MDAxNjY1MDM2ODkwMTY2.R-J6mfO5TgP5dRYaMb8tCAsIxVDd-v7ET3Cu8S6DTJUg.ci8TQdOJPJ4C_0RYRhjF00KwiV3igTL8dXe-TTh8xLwg.JPEG/ItU47yGXxmmPBUOz4IJJPdKIW0J0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변화무쌍 오세영]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34492288&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34492288&amp;memberNo=28456565</guid>
-            <pubDate>Mon, 09 Oct 2023 22:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[싸-하!지난주 tvN &lt;블라인드&gt;에 출연한 세영 배우를 모두 보셨나요?  [사진 제공 : tvN '블라인드'] 세영 배우는 &lt;블라인드&gt;&nbsp;속&nbsp;사건의&nbsp;시작을 알리는 '백지은'으로 출연하며&nbsp;시청자분···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfNjgg/MDAxNjYzNTY0MDMxMzA3.wUo3sG-WZguHXiLsRsW0-g1XTJixHfM_3GT9AIwEEy0g.4d90U65Va0Vkj5kyfaCvOmJynKTRDzzh8ICDv7qHTz4g.JPEG/Ile0HiuV74pa80BncjlRa6V32o1M.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
