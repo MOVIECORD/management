@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 09:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 10:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[L.O.V.E BIN]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36679833&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36679833&amp;memberNo=32146648</guid>
+            <pubDate>Tue, 10 Oct 2023 10:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST]HYUN BIN♥바람은 살랑살랑 불어오고걸으며 노래만 들어도 기분 좋아지는 계절 가.을왠지 모르게 설레는 요즘,그 마음에 확신을 줄 오늘의 주인공을 모셔봅니다- you know그저 주머니에 손을 꽂고 서있기···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDVfMjcy/MDAxNjk2NDg5MDM4MDIx._AeiHyZR2eNAyJ9sI6xSYasB8Sj52C101zUko48Wwk4g.Jmt7twM5HsbZ3AJ405B4jl0Vo5Pt39oHeE9N_QA3VPog.JPEG/Iln1jmtiAZ8IBJ5yLNikKY5BXgBE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이현] 매력 1018개 중, 몇 가지만 풀어볼까]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36393568&amp;memberNo=32146648</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 10 Oct 2023 08:23:37 GMT</pubDate>
             <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2022 연희&nbsp;배우와&nbsp;함께했던&nbsp; 싱글즈&nbsp;3월호&nbsp;화보촬영의&nbsp;A&nbsp;to&nbsp;Z&nbsp;!&nbsp; 아낌없이&nbsp;공개할게요&nbsp;♥ #싱그럽고_분위기있고&nbsp;#혼자_다하는_여니 #이연희&nbsp;#LEEYEONHEE&nbsp;#싱글즈&nbsp;#랄프로렌-  출처 / V···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMzBfMTE3/MDAxNjgwMTQ1MDY1Nzkx.RhzEdxEQYtobGUiiXTei9fUE1-1YTp_O8La7y8QXvkkg.PbxPkS2RGGPb16dHJeDaCDQQlILuzHMri2pP2WB_xPUg.JPEG/IfhkvFUPgSaeGVuWm9chV2Aob2vs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[VAST zip]열 마디 말보다 '한'번의 '은수']]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35816073&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35816073&amp;memberNo=32146648</guid>
-            <pubDate>Tue, 10 Oct 2023 08:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST zip]여러분의 마음을환하게 밝혀주고보들보들 매끄럽게 만들어 줄VAST zip♥포스팅 한 번에 여러분의 마음 속 1등이 될은수 배우의 촬영 현장 메이킹을바닥까지 싹싹 모아 드릴게요 (찡긋#내_맘속_1등#한은수&nbsp;#···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjBfMjAg/MDAxNjgxOTYxMDIyMDQy.okiX_-StpG8whVEIpkxtWwkPo122b9yjcCWHUJOMt5wg.6HunO0cItRPRRP87NH_oBd2vlRx-Ra263Kq-vUgqAw4g.JPEG/IxOoohWSsZxd1fClrtFn5gfgymUA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
