@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 08:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 09:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[HB발신]주문하신 선물이 도착했어요♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36687751&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36687751&amp;memberNo=3247896</guid>
+            <pubDate>Thu, 12 Oct 2023 09:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[오늘도 / 어김없이 / 예쁘다미모가 곧 선물이고존재가 축복인 예련 배우의 ❛ NEW BEHIND❜ START 0:10 ━♡━━━━━━━ 3:06 ⇆ ⠀⠀⠀⠀⠀◃ ❚❚ ▹ ⠀⠀⠀⠀ ↻예련 배우를 위해 준비된 케이크도 아름답지만아름다운 케이크와 함께 기념···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDZfMzAg/MDAxNjk2NTk4MTk5MzQx.gxBK7Hi3JR7_Osw6YD5OU3RBK2-IyUuYhFfxHnVnTUwg.n-do4C8MOZknAoA2Gc5z60qMn3OxWNelRODRWgROgisg.JPEG/IvizbEXfgEwWx_33OTB7JvXaONb4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김지은] 폭룡적인 미모로 동네 카페 접수]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36642041&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 12 Oct 2023 02:23:26 GMT</pubDate>
             <content:encoded><![CDATA[아쉽지만 어느 덧 마지막 인사를 전하게 된 &lt;인기가요&gt; 속 지은 배우를 기록하는 ✏️ 파파라치비의 일기✏️ 마지막까지 MC 찡찡의 ♥︎아름다운♥︎ 미모를 한 가득 담아온 치비의 &lt;인기가요&gt; ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTJfOTgg/MDAxNjg5MTI2NDE0OTE1.p_ykkMADF7hglqUDV9QMLI0S7JSXYBWUxTc8nafD2X0g.IaIh1rHfGW3XCmy0IU4TdtlV7_9k5TBIgaKk2g0LOVIg.JPEG/IdRMvIXpQQpUggavbUK7L80YJFAw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사장이 복지인 회사]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36244499&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36244499&amp;memberNo=3247896</guid>
-            <pubDate>Thu, 12 Oct 2023 02:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[여기, 사장 존재가 복지인 회사가 있습니다.나긋한 목소리로 +1심쿵 단정한 옷매무새로 +2 심쿵 일명 심쿵 유발러이제연 배우ENA 수목드라마 &lt;행복배틀&gt; 속 이너스피릿 '사장'이자 정아(진서연 분)의 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTNfMTU1/MDAxNjg5MjQ5MjY3NTIy.7l1cY7EFBULJ-NwuJelaWPbvjDaYHDFTDtDXcfbtsdMg.ZKT8p-AWSngh5VwfzXS5a7hMDuCILK1EXzkwbQmtJ1cg.JPEG/I9ys-Thm9CC99sOxvwoV_nH_eKDA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
