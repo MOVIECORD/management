@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 935엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 04:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 05:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[남궁민] 정말 밉군]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36708134&amp;memberNo=36232354</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36708134&amp;memberNo=36232354</guid>
+            <pubDate>Thu, 12 Oct 2023 05:17:57 GMT</pubDate>
+            <content:encoded><![CDATA['아직도 목요일이라니 말이야,,,,,,,,,,,,,,'아직도 하루나 남았다는 사실이 정말 밉지만어느덧 첫방송을 앞두고 있는 &lt;연인&gt; 파트2!심양에 간 서방님 기다리는 마음으로 기다려주신 분들을 위해미리(···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTFfMjc5/MDAxNjk3MDEwNjMzMDk1.EjnaePuxt3eeVzlvJWgOnyEtgtKdevEpZ306926lJO0g.bC01bFeRXAE2HujmkvDb3UvsSmTNU0qh_wyz83GBH0Qg.JPEG/Ii33KqfXr80ZvKs6fXrEMrxLTPFM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박주현] (배송완료) 행운이 배달되었습니다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36340608&amp;memberNo=36232354</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 12 Oct 2023 01:13:48 GMT</pubDate>
             <content:encoded><![CDATA[저 멀리서 주현배우가다가옵니다 주현: 이곳 인가요? 제가 오늘 화보촬영 할 곳이? 자세는 이렇게?모델포즈 턍턍 드라마 촬영이지만 화보촬영 같으니까댓츠오케 (๑˃̵ᴗ˂̵)و ※ 조각가께서 걸작을 빚고 있는 중입니다 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDJfMTYg/MDAxNjU0MTY1OTk2MzE0.9HOL0rsw2jjUacdcuX1QNUIev2vTtBKpGzNCmpC58Bwg.WVgZ8vSS3v2ayCnd0TS46zqWBkoG1tuIPI0rZ8RYOHgg.JPEG/IghFaEpnA85qJDPvJI0i14ExnYug.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[하도권] 이런 만남, 5점 만점에 5조5억점]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33890191&amp;memberNo=36232354</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33890191&amp;memberNo=36232354</guid>
-            <pubDate>Thu, 12 Oct 2023 01:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요!935엔터테인먼트 포스트 지기 입니다요즘 장안의 화제KBS2 월,화 드라마 &lt;붉은 단심&gt;에서 (사진: 지앤지프로덕션) 왕 '이태'의 곁을 지키는우직한 충신 '정의균' 으로카리스마넘치는 모습을마구 보···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzFfMjEg/MDAxNjUzOTk0NDg3ODQ2.DGClH0IKl8De9UOVD9hcCbWoIt2h9kAfeLDIksnlyQcg.LQbsHhvsWUnOCd7D5nEzjdyyKA2Y2B4_EPeDQdlIA7gg.JPEG/IwMgzHw8nGVpbc1ovtHWtepyhXwQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
