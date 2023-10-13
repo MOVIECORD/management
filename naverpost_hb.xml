@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 13:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 14:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그날의 목격자 [정용주]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36700719&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36700719&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 13 Oct 2023 14:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[제가 봤어요  Wavve 오리지널 드라마 '거래'  분명 셋이 들어가는 거 똑똑히 봤어요  Wavve 오리지널 드라마 '거래' 지난 6일 공개된 &nbsp;Wavve 오리지널 드라마 '거래'&nbsp; 어제의 친구, 오늘의 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTBfMjM1/MDAxNjk2OTE1Mjk5NDMx.l7SPR0TcY1bm4UB63bENc03ssu3sO8sc_tYk3AsO8Bkg.fmN2IkbVdA48Qwk3d8pl3jss4cR72Utbve5IM7RrxsMg.JPEG/I_2hAXJIdwvLcOv3SNUT3f9Ru7no.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HB발신]주문하신 선물이 도착했어요♥]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36687751&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 12 Oct 2023 02:23:26 GMT</pubDate>
             <content:encoded><![CDATA[정돈된 부엌 정돈된 드레스 룸그리고 .. 아기자기한 소품이 가득한 방..(?) 어딘가 익숙한 집! 혹시 눈치채셨나요?남편 태호와 딸 아린과 살고 있는 차예련 배우의 집이랍니다 :) 예련 배우가 '김나영' ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTlfMTA4/MDAxNjg5NzYyMTU3ODQz.ArYsmY6FwLQhVhAEQXYKnIZrhii8-NA4wVnDtAH90QEg.Xyu8dD4fiR772kpCNFEIIkAJcGlVGf75nGyVMokZuycg.JPEG/Is6XV_hdg8E36UKzXILl6x2F9qlo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김지은]과 함께한 일요일, 마지막 기록]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36187637&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36187637&amp;memberNo=3247896</guid>
-            <pubDate>Thu, 12 Oct 2023 02:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[아쉽지만 어느 덧 마지막 인사를 전하게 된 &lt;인기가요&gt; 속 지은 배우를 기록하는 ✏️ 파파라치비의 일기✏️ 마지막까지 MC 찡찡의 ♥︎아름다운♥︎ 미모를 한 가득 담아온 치비의 &lt;인기가요&gt; ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTJfOTgg/MDAxNjg5MTI2NDE0OTE1.p_ykkMADF7hglqUDV9QMLI0S7JSXYBWUxTc8nafD2X0g.IaIh1rHfGW3XCmy0IU4TdtlV7_9k5TBIgaKk2g0LOVIg.JPEG/IdRMvIXpQQpUggavbUK7L80YJFAw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
