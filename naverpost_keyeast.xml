@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 13:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 14:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달짝지근 해진 선화]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36724657&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36724657&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 14 Oct 2023 14:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[때는 바야흐로 선선한 바람이 부는 10월의 어느날, 부산어디선가 풍겨 오는 달짝지근한 향을 맡고 키동이 부국제에 다녀왔습니다 :)영화 '달짝지근해: 7510'으로 부산국제영화제를 찾은 우리의 러블리 치호 해진···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTRfOTAg/MDAxNjk3Mjc3MTQzNDM3.skq61e4wh7DvJ_wn_rWBmjsLE-PrVe9H-E3ZrmNdi5Yg.eNBhWXK99HV-CnmlC-gT5duR6skMzzSJD_ju8Xck6lEg.JPEG/I-LecPL6gUsaust7uYHKh441F-co.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조보아, 퇴근하겠습니다!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36721680&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 13 Oct 2023 19:14:45 GMT</pubDate>
             <content:encoded><![CDATA[수리수리마~수리 수수리사바~아브라카다브라 ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚다 이뤄지는 마법의 주문으로 '이 연애는 불가항력' 장신유에 이어 시청자들까지 사로잡은 조보아 배우오늘은 키동이 보기만 해도 사랑에 빠지는···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MzFfODkg/MDAxNjkzNDg4NzgyMzU5.D6lSNBijXcpdqNOklitQ08fFRI49yrGXELl4oVlDNR8g.pXJzxdBZYV5uE3Wf6K9z8QgymwXPRQqIbUoXyS-arxIg.JPEG/IiLS0xMLXgLL7VgEU_hDBrWPIMiE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가영 구경하러 왔단다 왔단다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36487141&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36487141&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 13 Oct 2023 19:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[키동아, 촬영장에는 왜 왔니? 예쁜 가영 얼굴 구경하러 왔단다 왔단다조금 더 가까이 다가가서 볼까요? 원래 뭐든 자세히 보아야 예쁘고 오래 보아야 사랑스러운 법이거든요..!근처에 가기만 해도, 아니 그저 보기만···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjlfNiAg/MDAxNjkzMzAxMTQ2MzQ1.LNtV_oADL4UuqZ56AcJ6O-FIuludGQOLFrTRcycYMO8g.75aRzdITtUDyo022as5hkdY1lmUy3Oagyxq3f8HnneEg.PNG/IsPT8aUGcBVwq9NCRPc4U3XNct3A.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
