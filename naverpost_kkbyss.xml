@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 02:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 03:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[최원명] <사장돌마트> 영업 종료]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36722990&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36722990&amp;memberNo=35839671</guid>
+            <pubDate>Sat, 14 Oct 2023 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기가 여러분께 전해드리는 아쉬운 소식 하나 배우 최원명 씨가 '은영민' 역으로 출연한 티빙 독점 시리즈 &lt;사장돌마트&gt;가 어제(13일, 금)부로 영업을 종료했습니다"이제 &lt;···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTJfMTc1/MDAxNjk3MTAzODU4Mjg5.Jbvfv7T42a0c_jd6cSEub0dE4fASUofgF4KytaNl9_gg.uwsBR2FbyZWwAJaOJqunARQT6IOZGB8kvF1YnLekNZwg.JPEG/IBjinwstW44UG7xDSuE37hCmByPk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[채형원] 울긴 왜 우럭!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36720966&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 12 Oct 2023 02:23:57 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)드디어 내일(2일, 토)우리가 기다리고 또 기다리던배우 유연석 씨의 데뷔 20주년 팬미팅&lt;유연석의 이해&gt;가 옵니다!!!(쏘리 질럿~~~) 그동안 기다려 주신 팬 여러분들께감사한 마···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDFfMTMg/MDAxNjkzNTQ2MDk4NTgy.43OsR4mQFs9wPLGQw_VnbgiODXPSCb2meNujegA54PMg.OIfJpuXZm3wHwOob52HKoEpyTekX-V74Fpf5PbuUBq0g.JPEG/IGUUzCTxD5Hh3fVjSyEbl_XeWQTQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신현수] 인천의 승리 요정이 떴다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36464829&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36464829&amp;memberNo=35839671</guid>
-            <pubDate>Thu, 12 Oct 2023 02:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)오늘 킹콩지기가 찾아온 이곳은 신.현.수 위풍당당한 유니폼의 주인공 배우 신현수 씨와 함께한'인천유나이티드' 홈경기 시축 현장입니다!(박수!!!) 현수 씨의 얼굴이 상기되어···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjJfMjQ0/MDAxNjkyNzExMDM5NzY1.qWPPKA_5E_Qb528qbAiK7NTdaiKTOVfoOpf2J_u__O4g.d96GeVFyIHx2M225ye1_1xyXHRuv3Bsd3C59kPcUxNog.JPEG/I1MSV-JRb1Bve6QHYfjb4VjEIyMQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
