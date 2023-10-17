@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 13:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 14:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김서형이 김서형했다..]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36739589&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36739589&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 17 Oct 2023 14:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[제43회 영평상 제32회 부일영화상에서 선녀 같이 아름답고 고운 자태를 자랑했던 배우 김서형그런 서형 배우가 이번 화보에서는 멋쁨의 정석을 제대로 보여줬다는 긴급 정보를! 키동이 바로 입수했습니다 ~! (*˘···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTdfMjk2/MDAxNjk3NTQ3MzUxOTcx.BaZfpQPYvvdIEQeNEYWHDdAOczQ2AmqxJ96Ru-7kvz0g.T3zKyrWjx8cdEyyF5dd_9or5fMQsAPTCAWj27iidT_8g.JPEG/IelO_Xtt0kfUaycf-ynfsd6FrSIc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수고했어 미람]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36733625&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 17 Oct 2023 09:18:40 GMT</pubDate>
             <content:encoded><![CDATA[그 얘기 들었어요? 요즘 화보만 찍었다 하면각기 다른 컨셉에 걸맞게 헤어 스타일, 얼굴 표정, 제스처 등 모두 싹 다 갈아 끼우는 배우가 있다던데요?그 사람이 누구냐고요~? 요즘 이 사람 모르면 간첩임! 바로, 그 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDVfMjY1/MDAxNjkzODk4MDE5Njk2.suYN8HONCjKouiGjrsL3nlW6CKbqjuhlx84V3ADxe7gg.0feHy7CbNp3Di-JrmmfntgWn0IsfHFIh_Q-FqAMGu8cg.JPEG/IVomTRy5WcJdYrDsimQGAdRe3P6U.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[표정 부자 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36507247&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36507247&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 17 Oct 2023 09:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[지난 8월 23일(수) 본격 신호탄을 쏘아 올린 JTBC 수목 드라마 '이 연애는 불가항력' 다들 본방사수 하셨죠~?오늘 포스트에서는! 온주 시청 7급 공무원 '유수정' 역으로 분한 미람 배우를 소개할까 해요 ＼&amp;#···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDFfMjc3/MDAxNjkzNTU2ODUyNjAz.3TRGT_Qgy2aoKRJWZ8R9kOTRbL8cPHFXqR6qU_U-O3gg.e1LdBivwDW2zQTElF3FgGaFJR_lbBXmkS8BhS55Z3K8g.JPEG/IUlIHfd9gm4WM9k6AXV2KUBR6iD4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
