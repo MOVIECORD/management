@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 08:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 09:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신현수] 하얀 천과 바람만 있다면 어디든 갈 수 있어]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36737934&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36737934&amp;memberNo=35839671</guid>
+            <pubDate>Tue, 17 Oct 2023 09:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)오늘은 요트 위에서 화보를 촬영하고 있는 이분! 배우 신현수 씨와 함께합니다 축구매거진 '베스트일레븐' 화보 촬영을 위해인천을 찾은 현수 씨본격적으로 현수 씨와 함께바다···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTdfMTAw/MDAxNjk3NDgyMDM4MDI0.aKb67rVOVOHHIiyKt1xRfij18NTLkOi5ARvBKuGuLqcg.LTrwYsPYhrsMCRL5ZqI-l-b-7OrNvvgMTZ4w4ZrLBe4g.JPEG/IdsBODm1Nnxr3IsNYV57JFrc0irs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김범] 너와 나, 우리만이 함께하는 피날레♥]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36732434&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 16 Oct 2023 20:21:11 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지..기..에서 벗어나오늘은 콩사원으로 변신해 보려 합니다 (갑자기 상황극 시작)두근두근 설레는웹드라마 &lt;준과 준&gt; 속더블유코스메틱 첫 출근 날! "안녕하세요 여러분들의 사수이주하 대···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDdfMTI4/MDAxNjk0MDgyMzkwNTc2.lLiKv38sZxhmzD8tHZ_dZaM25Gr3xvqYgz2xhoyzKFIg.jgZU23NzBNbb73bi7_V5QoyLvlK2YgR4hTq7Je74C94g.JPEG/Ip24CMoknCRlKoCWbPhTEmPz6ZgQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이동욱] 전화가 왔습니다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36532855&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36532855&amp;memberNo=35839671</guid>
-            <pubDate>Mon, 16 Oct 2023 20:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[☎&nbsp;띠링띠링&nbsp;☎[이동욱] 전화가 왔습니다 - 여보세요? [사진출처: 아레나 옴므 플러스] [사진출처: 아레나 옴므 플러스] [사진출처: 아레나 옴므 플러스] - 네 저는 콩에디터라고 하는데요~'아레나 옴므 플러스&amp;#3···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDVfMTAg/MDAxNjkzOTE1NjQ0NDEy.NDz8KCVLPUmELuCYX1YaNWC0SsOHPpGoKu4rWB9Dd4kg.xv6CdHTGRM9cM1zqB_Do7mgZXJXgV-m8TdAMr1Qhtf0g.JPEG/IygOvnLs9XlvQUDKYmtqJviF7kH4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
