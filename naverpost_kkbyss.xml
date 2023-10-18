@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 09:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 10:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[킹콩 by 스타쉽] 체육대회 대잔치]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36744985&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36744985&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 18 Oct 2023 10:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[쉿! 킹콩지기만 보기 아쉬워서 하드에 꽁꽁 숨겨두었던 2023 스타쉽엔터테인먼트 ACTORS 체육대회 즉, 킹콩 by 스타쉽 체육대회 비하인드를 공개합니다어디서도 볼 수 없는 * ੈ✩‧₊˚킹콩즈 대잔치* ੈ✩‧₊˚ 킹콩 by 스···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMThfMzYg/MDAxNjk3NjEyMDg2NDU0.5h-hTtmP4fQRv9leyhrcQYFl5_t5GJMNkbslmW_5QMIg.DQt_QLxxe-Snl5dX47y9UcWWvJGmZU1pzLGa8ybiJVcg.JPEG/IAmGfGuMfbFEAFVuW899P5inz7dc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신현수] 하얀 천과 바람만 있다면 어디든 갈 수 있어]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36737934&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 18 Oct 2023 07:20:53 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-)지난주 토요일(2일)너무너무X411 행복했던 하루를 보냈죠! 바로, 배우 유연석 씨의데뷔 20주년 팬미팅&lt;유연석의 이해&gt;로 함께한 날-ˋˏ&nbsp;*&nbsp;٩(˶'ᵕ'˶)۶&nbsp;*&nbsp;♡&nbsp;ˎˊ-오래 기다렸···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDdfMjE2/MDAxNjk0MDkyMTUyNzMy.XgKggT3KuUaErpQZAmTlrqOjHooR3MTynmsaCIfkGHgg.v-NlXN_z9R_7MkDDhdn0vdUJal7uzOeAXCqifB-hbfwg.JPEG/IC2P1oq-XV_ePhWmzvM3jjcN31x8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여름] 우리 회사 최고 복지]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36539762&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36539762&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 18 Oct 2023 07:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지..기..에서 벗어나오늘은 콩사원으로 변신해 보려 합니다 (갑자기 상황극 시작)두근두근 설레는웹드라마 &lt;준과 준&gt; 속더블유코스메틱 첫 출근 날! "안녕하세요 여러분들의 사수이주하 대···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDdfMTI4/MDAxNjk0MDgyMzkwNTc2.lLiKv38sZxhmzD8tHZ_dZaM25Gr3xvqYgz2xhoyzKFIg.jgZU23NzBNbb73bi7_V5QoyLvlK2YgR4hTq7Je74C94g.JPEG/Ip24CMoknCRlKoCWbPhTEmPz6ZgQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
