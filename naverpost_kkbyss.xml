@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 06:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 07:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이광수] 심은 데 <콩콩팥팥> 난다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36756434&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36756434&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 20 Oct 2023 07:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :D요즘 킹콩지기가 새롭게 관심을 가지기 시작한 것이 있는데요바로바로&nbsp;밭캉스!= 밭+바캉스  밭캉스의 달인을 모신 곳이 있다고 해서그 현장으로 찾아가 보았습니다 tvN &lt;콩 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTlfMjEy/MDAxNjk3Njg0NTQyNzA5.tpHh5LaswnaAAZVFntpRqsnStoSUXa6yTI3TVBNYD2sg.dNjaYwcMjgETsWfaaKrfuCZTzRiA8_TdH0mLnAH0RKMg.JPEG/IVB5xSxtkfQj2BtkCCTIEmJNW_lk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱] 레전드 남찍사]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36751549&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 20 Oct 2023 03:19:47 GMT</pubDate>
             <content:encoded><![CDATA[배우 고아라 씨를 찾습니다매거진 '더네이버' 9월 호에서 어떤 콘셉트든지 완벽 소화하며 엄청난 변장술(?)을 선보인 아라 씨색다른 모습에 누군지 아라봄? ...난 못 아라봄 그래서 이 중 누가 진짜 아라 씨···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTBfMTIx/MDAxNjk0MzQ5NzA2NzA2.HgVefZmDSSoCc9RvSQq4GmBZKcOBU-xAX9nB7PoDOBAg.GzWsVZpr07CunFgUmnOrdvzfufgW8iOlw9xz4-KepHgg.JPEG/IdFJ8zC3tf5FD1HpjZSsRbkQvxRg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이동욱] 비주얼 스트라이크]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36553121&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36553121&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 20 Oct 2023 03:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다! 오늘은 킹콩지기가 주말에 했던 취미활동을 하나 소개해 드릴게요볼링장에서 볼링치 는 배우 이동욱 씨 보기 ( •ᴗ-)ᓂ-ෆ '더블유 코리아' 9월 호 촬영 비하인드와 함께해요!···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTBfMTU1/MDAxNjk0MzI1NDIyOTU0.eC9rc8huHmrmWkm01Phvo7NH0czU-0Te85Xl722RXA4g.xqSNipS3kQXyE27_Bg-Xl1H4fmLU6ctkUqHXnvV1fe0g.JPEG/IUSsJjl6PvcyzNJVpbPTRHtqpjDw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
