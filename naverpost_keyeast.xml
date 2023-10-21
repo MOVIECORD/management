@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 13:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 14:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤종훈 미모에 갇힘]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36761383&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36761383&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 21 Oct 2023 14:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[차 문이 열리네요 ~ 그대가 내려오죠 ~첫눈에 키동은.. 그대 '종훈'인 것을 알았죠~멋진 바이올렛 색 정장을 입고 등장한 종훈 배우! 이곳은 바로 '7인의 탈출' 촬영 현장이었는데요~어마무시한 스케일을 자랑했던 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjBfMjE2/MDAxNjk3Nzk2OTYzOTA1.AIidmfqx9IP_bbKUQLUo__Uc-jh7RG1swwm4ikU7L94g.R6WH7Ccke1HptJHWyoO8sSsXhnemve883znLq0RNqBcg.JPEG/IHO_xzV2mHNzUPQGUJqVXmTBW8AM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['사치'스러운 박하선]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36752318&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 21 Oct 2023 09:16:09 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 키동이 어디를 다녀왔을까요? 바로 이홍조 주무관의 모교인 서인고등학교를 방문했습니다!바로 고등학생으로 뿅!하고 변신한 이홍조 주무관님을 찾기 위해서죠~ (*˘︶˘*)촬영장에 도착하자마자 주무관···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDhfMTYx/MDAxNjk0MTYxNzU4OTE0.2w85Qj38dmWN6I3vm9Py3kXzDbqljQ04BEeNJKiDnHcg.yZGbYjRxNVbIBDMuKU3I9btD9l9EdlUjyGM4C2zuNNsg.PNG/IZDoyM5p85gkkOFG1tmmWjtvPty4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장사천재 채정안]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36540463&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36540463&amp;memberNo=29770009</guid>
-            <pubDate>Sat, 21 Oct 2023 09:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[우리 언니 혹시... 장사천재(?!)트렌드세터 정안 배우가 아주 Hip하고 맛있는 음식으로 가득한 신상 가게를 오픈했다고 합니다!과연 그곳은 어디인지 지금부터 키동과 함께 놀러가시겠어요?!!때는 바야흐로 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDdfMjk5/MDAxNjk0MDkyNjc2NTE3.htKuPtwq1TTzRtdDj5_V0UfH9CqFZmSFBOoi7J-Ut9Ag.JySkYnjs20il02zq5ElAP7S19jqGHDIGKIT0AEhqvb4g.JPEG/ID_aV2PEcWbiXpXAGCYpaA3YeGno.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
