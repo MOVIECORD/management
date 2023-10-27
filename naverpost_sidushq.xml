@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 10:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 11:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김혜윤] 청룡영화상 핸드프린팅 행사 비하인드]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36782683&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36782683&amp;memberNo=28456565</guid>
+            <pubDate>Fri, 27 Oct 2023 11:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 수요일, CGV&nbsp;여의도에서&nbsp;청룡영화상&nbsp;핸드프린팅&nbsp;행사가&nbsp;열렸습니다! 행사가&nbsp;시작되고 혜윤&nbsp;배우의&nbsp;등장에&nbsp;모두가 시.선.집.중 청룡영화상&nbsp;핸드프린팅&nbsp;행사는&nbsp;2022년&nbsp;제43회&nbsp;청룡영화상&nbsp;수상자들과 함께 했는···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjdfMjM5/MDAxNjk4Mzg5MDIwNjc4.Rqj5MwGeSzRj_RTLIgsTXmtcdIv5oeRPcobhQXnkPN0g.NvVB56eq63QoTdGMMSw1LQz96LxSWsuEq6BR2xAUJjMg.JPEG/IDfGu18y01T0uGza6qA21qNVQ7f0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김혜윤] 보노와 함께라면~!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36698445&amp;memberNo=28456565</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 27 Oct 2023 09:18:26 GMT</pubDate>
             <content:encoded><![CDATA[뒷모습부터 느껴지는설렘 + 긴장감 오늘 주인공은 바로 KCM의 새 앨범 '아름답던 별들의 밤'MV에 출연해 여러분에게 얼굴을 알린 IHQ(sidusHQ)의 신예 한아름별 배우입니다! 설렘 가득한 마음으로&nbsp;폭풍 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTRfMjAx/MDAxNjY1NzI3NTI0NTIy.Vp77DvjX4P7bS0GxvYObiXVaqv3pKEZi8tmLkCLUUMsg.shU_BfYUvFeMG5TWVXBPS3jF8v-imE2B5A55ocFwWJ4g.JPEG/IzXombtSHaCZHf9c_JBB8IBvxHbo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김혜윤 NEW 프로필? 당연히 보여주지!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34585865&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34585865&amp;memberNo=28456565</guid>
-            <pubDate>Fri, 27 Oct 2023 09:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[싸하 -! 오늘의 소식은 바로 (함) 혜윤 배우의 새로운 프로필 사진이 공개되었습니다! (성) 다채로운 모습이 담긴 혜윤 배우의 프로필 사진을 여러분에게 하루빨리 공유하기 위해 싸더지기가 달려왔···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDZfMjk4/MDAxNjY1MDM2ODkwMTY2.R-J6mfO5TgP5dRYaMb8tCAsIxVDd-v7ET3Cu8S6DTJUg.ci8TQdOJPJ4C_0RYRhjF00KwiV3igTL8dXe-TTh8xLwg.JPEG/ItU47yGXxmmPBUOz4IJJPdKIW0J0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
