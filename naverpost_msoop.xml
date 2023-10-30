@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 07:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 08:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 집 ‘케미’ 잘하네]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36803552&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36803552&amp;memberNo=22903361</guid>
+            <pubDate>Mon, 30 Oct 2023 08:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 이 집이 케미를 그렇~게 잘한다는데 다들 소문 듣고 오셨나요-? 그렇다면 냅다 주인장 소개부터 올리겠습니다  U+모바일tv 오리지널 &lt;하이쿠키&gt; 로 여러분들의 월, 화, 수, 목을 책임지고 있는 ˛ε♥ ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjdfMTUy/MDAxNjk4MzkxNDY4NjE3.FqLWs12opuDkkxU3hXoEUB3bt33LM19k0ILCLPWFvHAg.CnX673iB17n8vIiFSsW_uYfqRSiZAA6nZMNoWqFY3Y4g.JPEG/IbWUiwclzo-UkVDOpqHSEM5alde8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[수지]한테 반하지ㅁ… 어떻게 안 반해?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36792916&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 30 Oct 2023 04:21:42 GMT</pubDate>
             <content:encoded><![CDATA[매번 레전드 갱신하는 화보 퀸모든 컨셉을 ‘소니화’하는 그녀가 바로 이곳에tvN 월화드라마 ‘청춘월담‘, 영화 ‘소울 메이트’ 뒤이어 넷플릭스 시리즈 ‘기생수:더 그레이&amp;···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDVfMzgg/MDAxNjc4MDIwODUzOTU2.uggZX_8XN3G-EQF0x6cABwGgIiHBYNB97iF6H1sezwYg.0S9C4TS_VP-7H-SVUl8ptrBQ6XJKUONrRyI643VS4ywg.JPEG/I-WUptyg95e-_WMg-dk0aTj40N8s.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남행선 열차 5분 만에 타는 법]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35527284&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35527284&amp;memberNo=22903361</guid>
-            <pubDate>Mon, 30 Oct 2023 04:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[남행순도,&nbsp;남궁선도&nbsp;아닌,&nbsp; 호남선은&nbsp;더더욱&nbsp;아닌&nbsp;남행선...!&nbsp; ~남행선&nbsp;열차~가&nbsp;도대체&nbsp;뭐길래, 그게 먼데?왜&nbsp;타야&nbsp;되는데?&nbsp;어떻게&nbsp;타는 건데????  ①&nbsp;코찡긋&nbsp;눈웃음과&nbsp;인디언&nbsp;보조개가 홀리홀리알아보쟈마쟈&nbsp;정신&nbsp;혼···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjNfNTEg/MDAxNjc3MTI5MjY0OTM5.Xzx5mlxl-gsBkzBtDKX484Soirp3_XgxY_Is0CWAtkUg.59VTQlvAaRQlNav3polRKnAF5p52YrfZZVc4hLA-HIYg.JPEG/If5opa3_NwNGxQQN5_JA-SXossjY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
