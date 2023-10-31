@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 08:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 09:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김샤나]와 함께하는 일주일]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36811109&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36811109&amp;memberNo=35839671</guid>
+            <pubDate>Tue, 31 Oct 2023 09:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-)Monday Tuesday Wednesday Thursday...♪매일매일 무료한 나날을 보내던&nbsp;요즘여러분의 일주일을 책임져줄 이가 나타났으니..... Hi~배우 김샤나 씨 등장 ദ്ദി&nbsp;ᵔ∇ᵔ&nbsp;)샤나 씨와 함께하는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMzBfMjg4/MDAxNjk4NjYyMzI3NjIy.rr5PrVszQB6xEGK-HYzhWEHiloDYIDigOduVrFjM1I8g.fGEf42OU16wYDONfJVSAio3jHgy4ggKxXwLJm4GDMQog.JPEG/IA-S2jco4R3ZvuG-gd6vSK-8LrwI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱] 승객 여러분, 곧 이륙합니다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36803254&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 31 Oct 2023 06:25:40 GMT</pubDate>
             <content:encoded><![CDATA[...눈 떠보니어둠이 가득한 어느 곳이었어요 [사진제공: 초록뱀미디어·스튜디오S] 그곳엔함께&nbsp;갇혀있는 사람들이&nbsp;있었는데요어서 이곳을 벗어나야 해..!SBS 금토드라마 &lt;7인의 탈출&gt; 속배우 조윤희 씨와 함께···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjFfNDgg/MDAxNjk1Mjc4NjIzNTc0.awjSazrjPMid8QGgshQVZLY3YvNxZ86Z6_d1DCATuLUg.318K8_eN_Fox00em15w2d-B3_0L_II7BYChNW1_fnJIg.JPEG/Ik4KvfwwHAOoluROVQ-yj0uXV1TQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[손주연] 프로필 보면 업무능률이 올라감]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36604858&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36604858&amp;memberNo=35839671</guid>
-            <pubDate>Tue, 31 Oct 2023 06:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)(냅다 노래부터)놀고 싶어 놀고 싶어돈 많고 싶어 돈 많고 싶어어마무시한 부자가 되고 싶어월화수목금토일 싫어 싫어금토일금토일금토일로 해"어째서... 왜 아직도 화요일..."···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTlfMjUg/MDAxNjk1MDg4Njc4OTQx.RRrYIl0lkeIdzS3adnYZf8J5KSy9Js6uv2Y9HuiZbYMg.Sw7Z3i1ZBIrzz9YEkuuZV2H_wyS76pHD6nNu9Cz596Ag.JPEG/I8MR7YmjyRrxmqTIe0wide7wqRec.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
