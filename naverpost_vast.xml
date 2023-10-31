@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 09:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 10:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간 가을 그 자체 '신도현' 어떤데]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36786017&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36786017&amp;memberNo=32146648</guid>
+            <pubDate>Tue, 31 Oct 2023 10:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;[VAST POST]SHIN DO HYUN♥ 성큼 다가온 가을,그리고 금방 사라질 것 같은 계절을 맞이하여 인간 가을 그 자체, 포근함 그 자체로 변신한도현 배우의 비하인드를 들고 왔으니주목 또 주목해 주세요  원래도 그랬지만···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjZfNDAg/MDAxNjk4Mjk4NTA4MDk5.Pz7hrqveqhNfeXSR055DhYLvobM-5xdYfXuKLoKNUDEg.bvR7Q_3WaGIjXWCVgS7KaFDwk9z6Y59km3CdYRqQ8J8g.JPEG/IJufQNci-U4YvUDwETpNU_Aop5NE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[L.O.V.E BIN]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36679833&amp;memberNo=32146648</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 31 Oct 2023 08:23:26 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST] SHIN DO HYUN ♥꽃향기 가득 실린 봄바람이 불던 어느 날 제주도에 간 베스트리가 글쎄, 도현이를 만났지 뭐예요♥[안-녕★] 머리부터 발끝까지 오가닉 한 느낌 가득시야를 그득 채웠던 아름···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjhfMjkg/MDAxNjgyNjQ3MzI1OTgw.tf-8DAx5f3kN73cH6NKCsPdHvMTUz-1b-JAWVtC6SAQg.W7h5kv06bXQTpTS_RzJyRGiEqWutLbLvPpT_Lt_1i6Eg.JPEG/IgKpS4llSfI-hGHtQzYs2HTTI2IQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[VAST 이사했zip] 그녀가 오자 봄이 되어버렸던 날]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35705428&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35705428&amp;memberNo=32146648</guid>
-            <pubDate>Tue, 31 Oct 2023 08:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2022 연희&nbsp;배우와&nbsp;함께했던&nbsp; 싱글즈&nbsp;3월호&nbsp;화보촬영의&nbsp;A&nbsp;to&nbsp;Z&nbsp;!&nbsp; 아낌없이&nbsp;공개할게요&nbsp;♥ #싱그럽고_분위기있고&nbsp;#혼자_다하는_여니 #이연희&nbsp;#LEEYEONHEE&nbsp;#싱글즈&nbsp;#랄프로렌-  출처 / V···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMzBfMTE3/MDAxNjgwMTQ1MDY1Nzkx.RhzEdxEQYtobGUiiXTei9fUE1-1YTp_O8La7y8QXvkkg.PbxPkS2RGGPb16dHJeDaCDQQlILuzHMri2pP2WB_xPUg.JPEG/IfhkvFUPgSaeGVuWm9chV2Aob2vs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
