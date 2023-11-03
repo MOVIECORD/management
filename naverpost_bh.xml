@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 07:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 08:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어떻게 사람이 아침햇살이에영?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36810455&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36810455&amp;memberNo=21724264</guid>
+            <pubDate>Fri, 03 Nov 2023 08:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[지금 여기 아침의 의인화 햇살의 의인화 밝고 반짝이는 건죄다 닮은유죄 인간 박보영 아침햇살반짝반짝청량가득웃음만개말랑쑥개떡뽀짝요정 우리 집 요정이 내과 3년을 거쳐정신건강의학과로 전과하게 된 사연 사진···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDFfNzQg/MDAxNjk4ODMxNjQ3MDQ0.z2Oj9etirxlg7UwP4KQobHJrGY_C_G9kiR9QwyjkYV0g.Tm51BF0KKsj5AqzmSrpKQuBuS46Q4RBCx8gku96Jpk0g.JPEG/Isdl33bVC71f4VE5uqYZuci9t9HU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BH엔터테인먼트]
 11월의 BH ON AIR]]></title>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 02 Nov 2023 23:17:59 GMT</pubDate>
             <content:encoded><![CDATA[지난 19일 개최된제2회 청룡시리즈어워즈코트를 휘날리며 등장한 오늘의 주인공바로바로 넷플릭스 &lt;더 글로리&gt; 전재준 역으로 남우조연상 후보에 오른&gt; 박 성 훈 &lt;영화 속 한 장면을 연상시키며 레드 카···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjZfMTAx/MDAxNjkwMzY4ODAxMDQx.krkLag4LTbB23Itymk6slpNFUacVlDHawfa2TXjmhiIg.jWV_viNpsWppenwwUgg8BgyDQTWDowTbIAFy8dhgK6Mg.JPEG/IMnQ-BX9STcnt3XFklq13S6Rh9Pc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SNL4 대망의 첫 호스트 [정우]]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36282264&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36282264&amp;memberNo=21724264</guid>
-            <pubDate>Thu, 02 Nov 2023 23:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[이곳은 긴장감이 흐르는 SNL 코리아 시즌4 첫 방송 현장! 대망의 첫 호스트는 바로 바로 바로정!!!!!!!우!!!!!!설레는 마음으로 똑똑 대기실 문을 열면 대사 연습 중인 정우 등장!코미디 쇼 초심자 병아리 정우가 SN···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjBfMTQy/MDAxNjg5ODU3NTQ5NzE0.jPBE7rJcLl-VQAiEmPapJwbiU9KFK2J89-QQfalKl2Eg.wtNCQlay4xZ26rkh7SlwdHMHWEnbVRkbtf_8tTjZfBYg.JPEG/IxFTvLrOa7imcu1XOF3jq3ZkOgQk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
