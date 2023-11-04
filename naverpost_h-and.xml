@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 13:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 14:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봐도 봐도 보그 싶은 정수정]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36780895&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36780895&amp;memberNo=51396641</guid>
+            <pubDate>Sat, 04 Nov 2023 14:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[“수정 배우 너무 예뻐요”“아까부터 말했어요”"예쁘다고 계속 얘기했어요!!"이제는 말하기도 입 아픈 '화보 장인' 정수정 배우의고전적 ⇆ 트렌디한 매력 가득했던 &lt;보그코리아&amp;···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDRfMzAw/MDAxNjk5MDY2Nzk1MjU3.yVXU1gCbFq9YlIQ94Bd2uWOlUmH9Fud_mrNa4fD9-OQg.lxO-RuA5AZjPpsh06bmGgIA-ddE-OE5SDeZV4Ko2gSwg.JPEG/IRmoHwoppqknu4szl3pg1xBS4eNc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠시라도 우리는 천우희]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36780369&amp;memberNo=51396641</link>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 02 Nov 2023 23:18:27 GMT</pubDate>
             <content:encoded><![CDATA[운동하러 갔다가눈 호강하고 제대로 하고 온 썰 푼다.txt운동이 퍼컬인 이 남자내 마음속 이두박근 요동치게 만드는곽동연 배우의 스포츠 브랜드 촬영 현장 비하인드 지금 풉니다저기욥 여기서 이러시면 곤란해요운···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjdfMTcy/MDAxNjgyNTkyNDA1MDQ5._6vYcx9vfRYSdIg1Jc8SK9xb7mdstl5r2x8vMCAR3-kg.bfEJ_WGdm79R9wnqT6J8KNdpCkWrOi2hulN1hIH--NYg.JPEG/IfVwt9rDlU_LNabaENJqrhOWmkUc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRAVO 갓혜은]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35829062&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35829062&amp;memberNo=51396641</guid>
-            <pubDate>Thu, 02 Nov 2023 23:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[시선&nbsp;강탈 독보적&nbsp;카리스마 찍었다 하면&nbsp;레전드 화보 탄생 시키고  모두 넋을 잃고 보게 만드는 BRAVO&nbsp;갓혜은 볼수록 빠져드는&nbsp;멋진 언니 멋쁨 매력 대량 방출됐던&nbsp;화보 촬영 현장으로 초대합니다  시작부터 숨을 멎···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjNfMzUg/MDAxNjgyMTc2MDk4MzA4.2cSc5TNB1jr4xhbWpfTDNqALJTVBayPVjWvklM1dSC0g.16ojHduwPzC62mxQW4RceN-sJl5ICuYDwaRGyBQy5nYg.JPEG/Ika7HT5nbS1f5SPejNeIq20fdHDU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
