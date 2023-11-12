@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 13:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 14:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한보름의 매력은 탈출 불가]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36864773&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36864773&amp;memberNo=51396641</guid>
+            <pubDate>Sun, 12 Nov 2023 14:26:51 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTBfMjk5/MDAxNjk5NTk2MzgxODgy.O14hXz7xdqpCqR85IEFAE6mnz1pZhVQyHtnhwvfTlhEg.b1TuqxiZmEhnVmcUN-kyFRcwgmUbP95kPRVWYhKVgigg.JPEG/Io7VRtfLghdwK7KcwT1Wi3Yo7An8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봐도 봐도 보그 싶은 정수정]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36780895&amp;memberNo=51396641</link>
@@ -157,14 +164,6 @@
             <pubDate>Fri, 10 Nov 2023 10:20:25 GMT</pubDate>
             <content:encoded><![CDATA[선을&nbsp;넘는&nbsp;매력의&nbsp;소유자 &nbsp;〣(ºΔº)〣&nbsp; (마음의&nbsp;준비&nbsp;없이&nbsp;눌렀다가 호되게&nbsp;심장&nbsp;두들겨&nbsp;맞는&nbsp;중)  오늘은 쉬는&nbsp;시간부터  본업&nbsp;천재&nbsp;모먼트까지  모든&nbsp;순간이&nbsp;CF&nbsp;찍는&nbsp;것&nbsp;같은 인선&nbsp;배우의&nbsp;하루를&nbsp;밀착&nbsp;취재해&nbsp;봄!   ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjFfMTQg/MDAxNjg0Njc1OTk2MjQz.8sdglxWLd1x7FcZtYar12_TPlOalDcSZcqbt6GyyacQg.7Mp_4yIK0pnvZxVHrcCTuQ03TpNCdcwxN3pSQclxQBgg.JPEG/IYyh17JN-es0jTgS3R3ZJGqWgX_Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 마음속 이두곽근]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35854158&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35854158&amp;memberNo=51396641</guid>
-            <pubDate>Fri, 10 Nov 2023 10:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[운동하러 갔다가눈 호강하고 제대로 하고 온 썰 푼다.txt운동이 퍼컬인 이 남자내 마음속 이두박근 요동치게 만드는곽동연 배우의 스포츠 브랜드 촬영 현장 비하인드 지금 풉니다저기욥 여기서 이러시면 곤란해요운···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjdfMTcy/MDAxNjgyNTkyNDA1MDQ5._6vYcx9vfRYSdIg1Jc8SK9xb7mdstl5r2x8vMCAR3-kg.bfEJ_WGdm79R9wnqT6J8KNdpCkWrOi2hulN1hIH--NYg.JPEG/IfVwt9rDlU_LNabaENJqrhOWmkUc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
