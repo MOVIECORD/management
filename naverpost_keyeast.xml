@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 13:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 14:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얼죽(조보)아]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36890678&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36890678&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 15 Nov 2023 14:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[어머 이게 무슨 향기야~? 겨울이 오는 향기인가? 아니면 보아 배우한테서 나는 향기인가?오늘은 키동이 '홍조'에서 다시 '보아'로 돌아온 보아 배우의 광고 촬영 현장을 찾았습니다!돌아온 겨울을 맞아 따뜻한 겉옷···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTVfMTgg/MDAxNzAwMDUwNTU1MDQ2.PtZlfEBGmHkVJCGLbCA9ClvRj2onf7Kagq5QbFXyzaEg.JYBpttEQ97lsaBORoJ8W7vNb_XOC8A3w7uSN_5JiX4Ag.JPEG/IxvQNPRI8aoxy2jtQPKz6A7SOH0Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안방마님 박하선]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36884916&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 키동이 영화, 드라마, 예능, 라디오 거기에 연극까지 못하는 걸 찾는 게 더 빠른 박하선 배우의 능력치를 낱낱이 파헤쳐 보겠습니다!그리고 이날, 아주 바쁜 나날을 보내고 있는 하선 배우를 광고 촬영장에서···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjVfMTY2/MDAxNjk1NjM2NzA4MTYw.mfP5tWE_gr3dCRPdkFkZ1sqWySKxly_IT81rx16i0wog.Y6sCwQRb2_imTvGR0sBqZIff-xPEFnT-CAdHwcuA5eQg.JPEG/INPqzYoLXcuzpu2levTgazICknZs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사실 윤종훈은 사랑입니다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36629144&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36629144&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[지난 15일(금) 활기차게 포문을 연 SBS 드라마 '7인의 탈출'그리고, 조작과 선동을 특기 삼아시청자들 앞에 모습을 드러낸 '양진모'첫 주부터 비열하기 아주 짝이 없었죠? 많이 놀랐나요..? 키동도 많이 놀···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjJfMTE3/MDAxNjk1Mzc5NjM3MDUw.CmeaBg8ExugmkpTQ696ppszXRdfrFN8wupepo6XfM7Yg.iMOXXgJhYebKGzBIkHCGbLz1Ov1Bw0lL_7BzkpIz8m0g.JPEG/Iw9IL757OaJO3Dj_0lbaneWrZsvs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
