@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 06:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 07:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[조윤희]의 마지막 탈출]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36904654&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36904654&amp;memberNo=35839671</guid>
+            <pubDate>Sat, 18 Nov 2023 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-)어제(17일, 금)17회에 걸친 대장정의 막을 내린SBS &lt;7인의 탈출&gt; [사진출처: 초록뱀미디어·스튜디오S] [사진출처: 초록뱀미디어·스튜디오S] 그중에서도늘 불안 초조 걱정투성이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMThfNjYg/MDAxNzAwMjg0MzM2MzQz.B3O5YuUrE3CJEaXrIL7vM_omoZWUf0JztsiRyXMgOFQg.ICn-37n0ixfBnKKzAlnX9rYmhGOC6Qg7fvkGMEtoNvQg.JPEG/I9O2jnDK0hh54XpGP1VDu51m-ppU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱] 지금 설레지 않는 자 모두 유죄]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36880218&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Nov 2023 22:18:40 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-)긴 연휴의 끝이 다가오고 있는 오늘,두근&nbsp;두근&nbsp;두근심장을 떨리게 하는&nbsp;소식한 가지 들고 왔습니다 배우 김범 씨의2023 아시아 팬미팅 인 서울 [Between U and Me].:+♡+:...:&amp;···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDFfMTkw/MDAxNjk2MTU0NzY5MjQy.elgPOuEQmBM8nN-eGSyp_7joQfeAtmiNxJRxDqzKBQQg.SpiwC8Xs8yHzzhdJZsae8Lt85P2ggcOyQmCCdlsgVXEg.JPEG/IMwhFfb-xNOAb_gRjDCu9P8wL0bw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[손우현] <테베랜드>를 잊지 않을 거예요]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36637743&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36637743&amp;memberNo=35839671</guid>
-            <pubDate>Mon, 13 Nov 2023 22:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[(...치지직ㄱ...)저희 킹콩 에어라인을 찾아주신승객 여러분 안녕하십니까? 이 비행기는&lt;테베랜드&gt;를 떠나는 0924항공편으로오늘 킹콩지기 기장이여러분을 정성껏 모시겠습니다.출발을 위해 사진 저장 용량을 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjVfMTA4/MDAxNjk1NjI3MTI3ODgx.ujmU9uT8R-HvLFEELu4UzJZqzLNou_Ru_VvnI9ORkwAg.G06Z-9PYHPvgyeI0T-8-BkA3Grl4wmUahZwjQSE74s8g.JPEG/IYKc-LBuyzBtbwPbAr9EVLe0TO44.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
