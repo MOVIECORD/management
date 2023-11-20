@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 13:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 14:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사극 여신의 귀환]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36915005&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36915005&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 20 Nov 2023 14:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[지난 토요일 밤 안방극장에 충격(?)을 선사한!한시도 눈길을 뗄 수 없게 만든!!박하선 표 로맨스 코미디 사극 KBS 드라마 스페셜 '마님은 왜 마당쇠에게 고기를 주었나' 재밌게 보셨나요?!오늘은 키동만 보···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjBfMjA4/MDAxNzAwNDcwNDI1OTQ4.zJm2fxAKiSwi1DWbye1sMLeprwbxvGU8N9x-nPH6uhog.qC42uqCer-G-O5QINlGj42NVlrNoMvAs5IDgiJJjf98g.JPEG/IHNk2vIpVdpPC_u47_oOpskJsnOY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤종훈 과거 모음 ZIP]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36905875&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
             <content:encoded><![CDATA[뽀-하 여러분 매주 수, 목 JTBC &lt;이 연애는 불가항력&gt; 재밌게 보고 계신가요~?오늘은 키동이 귀염뽀짝의 대명사 이홍조의 본체, 보아 배우의 넷플릭스 콘텐츠 촬영 비하인드 현장을 가지고 왔습니다 ♪( '&amp;···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDRfNTUg/MDAxNjk2NDE0Mzc4MTU5.kPcGgnG_5ITQKammyvYTqocVAtU7XQIsvGI1iRbs3bUg.jsuc-qG6CxgY-7GZn4v6Te9SqgNzk59iGM42rY9ELcog.JPEG/IwOPPGGiK6LBacg9QYcJnhJ8Yy0Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀라노 가영.zip]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36655787&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36655787&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[친구에게 "문가영 밀라노 비하인드 떴다" 라고 문자를 보내보세요."뭐?" 라고 한 경우는 별 필요없는 친구이고"왜?" 라고 한 경우는 필요있는 친구입니다."응?" 이라고 한 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjlfMTgw/MDAxNjk1OTY5MDA4MTg5.Iu39_jrlbuvgRVvMArzT4DHQahXaQEmSbWvDmataetMg.DnD5bSQ5byoeNRlOQPCdruDaz7ifBhpiiSXJnl-CbPwg.JPEG/IZMcpMIlr1GfuH8wr3MUXjKF-LvI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
