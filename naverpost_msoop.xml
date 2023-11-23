@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 09:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 10:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[남지현] 하이쿠키 레시피 풉니다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36931278&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36931278&amp;memberNo=22903361</guid>
+            <pubDate>Thu, 23 Nov 2023 10:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[매주 월-목요일 늦은 밤이면 찾아와 하루의 피로를 날려준 &lt;하이쿠키&gt; 가 오늘 막을 내렸습니다 (˃̣̣̣̣︿˂̣̣̣̣ )한 입만 먹어도 욕망을 실현시켜 주는 의문의 쿠키, 하이쿠키에 얽힌 이들의 이야기 &amp;lt···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjNfNzYg/MDAxNzAwNzIwODA1MjI0.L_poEPLUaDroZv3kv-0cDMalJuGG_4PMndg-TuGap2cg.aTfC-17Rez9f4bl5_Qw6yKOlh0mEbYd3DwSyBmSJmNAg.JPEG/IGo8Rs9UZRQpreJUZJWuFwjhpYxY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 생각만 하는 언니 VS 자기 생각만 하는 언니]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36875700&amp;memberNo=22903361</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 13 Nov 2023 22:17:43 GMT</pubDate>
             <content:encoded><![CDATA[✿ 봄의 요정 등장 ✿ 수지 배우 등장과 동시에 촬영장에 봄이 왔어요 ⊰✿ 보기만 해도 달콤한 꽃 향기~~가 느껴져요! 오늘따라 더 화사한 그녀, ♥ 봄이 사람이라면 수지 배우 그 자체 여러분 잠시 심호흡하세요 후 하 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjlfNzIg/MDAxNjgwMDY4MjE1ODAx.XEbQHLTG2-tgTffdk9PYsUo-rkKs-dFmtFmsfHBn79kg.QV5i_j7v8bOWg0jHdne1WBTJa9yiGS5iIIwUCbEP1fog.JPEG/IQTsX4IE8EF_Sj2PJXlkjKUBoLmk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삐빅- 당신은 ‘소니’ 중독입니다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35690057&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35690057&amp;memberNo=22903361</guid>
-            <pubDate>Mon, 13 Nov 2023 22:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[봄바람이 살랑살랑 ~가슴이 두근두근 설레는 봄이 다가왔습니다 여러분!! 요즘 뭐 하고 지내시나요?청춘월담 보고소니 sns 구경하고소울메이트도 보고청춘월담 또 보고소니 sns 보고 또 보고 … .. .아주 저와···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjdfMjgg/MDAxNjc5OTAzNjQyNTcw.w8mb9m_UZLQN_j_ouwYMzU3aTm8ZCCIHxsbhtOhXMFIg.dHAQEApW98ZvGh0fYuI2pIGX2oO54JPyQ8q2wYmhjFQg.JPEG/IDS7ZGztexJ1U1j35mFFFsch0rGU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
