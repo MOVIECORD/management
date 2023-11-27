@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 09:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 10:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[손우현] 시즌 그리팅 스포를 살짝, 너에게]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36949878&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36949878&amp;memberNo=35839671</guid>
+            <pubDate>Mon, 27 Nov 2023 10:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)배우 손우현 씨의&nbsp;시즌 그리팅출시 소식에 이어,&nbsp;직접 만나볼 날을손꼽아&nbsp;기다리고 계신 분들을 위해준비했습니다 SON WOO HYEON 2024 SEASON'S GREETINGS난, 너에게비하인드 포스···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjNfMzIg/MDAxNzAwNzIyNTk1NDM1.FCpf4RAvBNgG-7zOynZPglDGpagQOXYnII1y51u2JtMg.9HUh3sSgPtCWhRy7FBGvqspVWoF42Rk61f_0Y3qFySQg.JPEG/I19o_r-WeWIiWhnxvGTn6jOalzp0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김범] 시즌 그리팅 대박 스포]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36939793&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Nov 2023 22:18:40 GMT</pubDate>
             <content:encoded><![CDATA[ㅎㅇㅎㅇ 킹콩지기임!※ 콘셉트 상 반말 모드이니많은 이해 부탁드립니다 (--) (__)&nbsp;※오늘은티빙 독점 시리즈 &lt;사장돌마트&gt; 속걸그룹 체인걸스 멤버 '김지나' 역의배우 김샤나 씨를 목격한 썰 풀려고 함 ㅋㅋ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTJfMTk2/MDAxNjk3MDkwNzU3MTIx.245hfFDNL3oN7OAj4_uRbn_TBOClFAix152SMTvLgbog.xVqzxAXoXEWkOFTDLoNXXBExF9Hp2yE1v4OPKGFuMYcg.JPEG/IzAjNW5VNUbDOJOPYlc8GL5JcAXM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[추소정, 손주연]의 초능력을 찾으러 왔다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36708644&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36708644&amp;memberNo=35839671</guid>
-            <pubDate>Mon, 13 Nov 2023 22:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[킁! 킁! 초능력자들의 흔적을 쫓아온 킹콩지기입니다매거진 '더네이버' 10월 호에서 색다른 메이크업으로 닮은 듯 다른 매력을 선보인 배우 추소정, 손주연 씨이번 비하인드 포스트를 통해 어떤 초능력들을 숨기고 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTBfMTU2/MDAxNjk2OTMxMjExMDky.Fy4CdEGNeKHsBpqbw80S6iWNC6EHwnL_rEzvLvNBS7cg.iTacsCGhawwBSdEura_0KbDhdXq3KzSGO7Qdz2VOr28g.JPEG/IT8i_COfBsfs9sC4YY_m9zpyJGBc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
