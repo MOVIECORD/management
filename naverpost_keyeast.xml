@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 13:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 14:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 키동어워즈 1부]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36963194&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36963194&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 29 Nov 2023 14:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 여러분~! 키동입니다!키이스트 2023 연말 결산 콘텐츠 스타트!! 2023년 한 해 동안 정말 다양한 분야에서 맹활약을 펼친 키이스트 배우들~! 바쁘다 바빠~ 해서~ 키동이 준비했습니다! ლ(╹◡╹ლ) 20···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjlfMjc2/MDAxNzAxMjM5NTI4NTcy.ASOdreMie-MsW5geSJqBBTwRpgy02S3YOuyOOtKov_cg.zyhVzE2-VhXWfnqE8BMYXpfzTOqU5FXQW97FvSbD0N0g.JPEG/Iz1zAaJucgpHQuDgagN2_oz3WzNA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사극 여신의 귀환]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36915005&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
             <content:encoded><![CDATA[호화스러운 파티 속 화려한 조명 아래 올 화이트 정장에 빨간색 나비넥타이마치 개츠비를 연상케 하는 연예 기획사 체리엔터테인먼트 대표 양진모의 등장 멋진 비주얼에 많이들 놀라셨죠? 키동도 그래요 :-)아이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDZfMjUy/MDAxNjk2NTg1NTgxMjc0.Hmge-vGiNu_WL0rtvnyz4Yq2fk_WHcPzVrGpEBjYH7Ag.leFeTR2ovc3LsZ7XQ9_1_N_g0n_Y6C0LTfo8xC5PgVMg.JPEG/IWPAlC7Y5xDswBkqn9FbaqPLfH6Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 극락좌 ♥뽀♥]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36675428&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36675428&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[뽀-하 여러분 매주 수, 목 JTBC &lt;이 연애는 불가항력&gt; 재밌게 보고 계신가요~?오늘은 키동이 귀염뽀짝의 대명사 이홍조의 본체, 보아 배우의 넷플릭스 콘텐츠 촬영 비하인드 현장을 가지고 왔습니다 ♪( '&amp;···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDRfNTUg/MDAxNjk2NDE0Mzc4MTU5.kPcGgnG_5ITQKammyvYTqocVAtU7XQIsvGI1iRbs3bUg.jsuc-qG6CxgY-7GZn4v6Te9SqgNzk59iGM42rY9ELcog.JPEG/IwOPPGGiK6LBacg9QYcJnhJ8Yy0Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
