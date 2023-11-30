@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 14:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 15:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최연소 팀장 [김지은] 처음 봐?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36810021&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36810021&amp;memberNo=3247896</guid>
+            <pubDate>Thu, 30 Nov 2023 15:19:05 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMzFfMzMg/MDAxNjk4NzMxMTAwMjE0.vSyq3dqYVX8w-7_f2CnzOjxN4A7r4nywZ6a6GSoMzMQg.U6E8nctbdawkPtE5j_hllMw11YqUIvSeiVJEx7Ng7H4g.JPEG/I8iVtoI7dA6kLgjBWc7auNYTmGFU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[정용주]의 두 얼굴...?!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36899944&amp;memberNo=3247896</link>
@@ -158,14 +165,6 @@
             <pubDate>Mon, 13 Nov 2023 14:17:55 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 치비 입니다! 벌써 한 해의 반 이상이 지난 현재, 바쁘다 바빠 현생을 사느라 많이 힘들고 지치시진 않으셨나요? 여러분들의 심신안정을 위해 저의 심신안정제를 공개하려고 하는데요저만의 심신안정제를···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjRfMTc2/MDAxNjkyODYxMjczMDQ5.LtN6c9NzfYcgGWVSnp2Hw7wP3YN2Tt-bL9OnoZ_6yowg.CZ1AYliEVs6VHYcnUa1nwZjBuWpYpXdmqC7UPVV6nfkg.JPEG/IfsDC3oyVfFwdblgl36Yf61MrC7Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힐링이라 쓰고, [김지은]이라 읽는...♥︎]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36444580&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36444580&amp;memberNo=3247896</guid>
-            <pubDate>Mon, 13 Nov 2023 14:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[여러분...｡° ૮₍°´ᯅ`°₎ა °｡ 안녕하세요... 치비 입니다...ㅠㅠ 제가 울면서 등장한 이유, 긴말 없이 본론부터 말씀드리겠습니다...제가 정말 오랫동안 기다렸던 사람이 한 명이 있는데요... 그 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjJfMTU1/MDAxNjkyNjgwMzAyNTY0.3bDs0aFb9GKDhXyVQdKeYKyT-xo2F2fJXSUQqwz0fcIg.tQz-6Rvu8Hh5j48q5IUJIOHwDcO5uDoJBwXW3D0PTUYg.JPEG/ILlXqymeItz92iwcwQu7LDxMVDLQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
