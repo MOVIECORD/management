@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 13:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 14:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서형답다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36975294&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36975294&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 01 Dec 2023 14:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[레드카펫 위 찬란한 블랙 여신카리스마라는 것이 폭발한다기사 사진 맞나요...? 우주대스타 김서형 역의 영화 속 한 장면 아닌가요?이 각도 저 각도 어디서 봐도 흠 잡을 데 없었던김서형 배우의 시상식 비하인드 지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDFfMjg2/MDAxNzAxNDA3Njc1OTEw.Sj7lro43ncna_yigREfp6oZLgCPm8dL1QKw8W60z3i0g.RSkUSfJGZitgv_jnBy8OebZj2eUScHC5IUBnOOQFaWgg.JPEG/IBBGD_eKJ4NlurfTfq8Uih2P8wbA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 키동어워즈 1부]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36963194&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
             <content:encoded><![CDATA['이 연애는 불가항력'에서 역대급 열연을 펼친 보아 배우 다들 방송으로 확인하셨나요~?세자를 비방한 혐의로 자신을 고문하는 왕에 맞서 대대손손 가문이 멸망할 거라 저주를 퍼부은 것인데요!찐으로 리얼한 고문 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDlfMjQ5/MDAxNjk2ODEyOTcxMTMy.3NFvjyLWJ0HarsT94_EPTqrCxaLtiAsJFIF_kLSYLyUg.gJPfJ1hrv2h5ntuelfm89PV85Mukyjt2OzPHleLASGwg.JPEG/Io7st-IbEVTJhHs5tdD9NpLm8qLA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마라맛 윤종훈]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36687870&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36687870&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[호화스러운 파티 속 화려한 조명 아래 올 화이트 정장에 빨간색 나비넥타이마치 개츠비를 연상케 하는 연예 기획사 체리엔터테인먼트 대표 양진모의 등장 멋진 비주얼에 많이들 놀라셨죠? 키동도 그래요 :-)아이···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDZfMjUy/MDAxNjk2NTg1NTgxMjc0.Hmge-vGiNu_WL0rtvnyz4Yq2fk_WHcPzVrGpEBjYH7Ag.leFeTR2ovc3LsZ7XQ9_1_N_g0n_Y6C0LTfo8xC5PgVMg.JPEG/IWPAlC7Y5xDswBkqn9FbaqPLfH6Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
