@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ YNK엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 05:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 06:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신혜선] '웰컴투 삼달리'로 혼저옵서예]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36976786&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36976786&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 02 Dec 2023 06:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[혼저옵서예 안녕하세요 &lt;웰컴투 삼달리&gt; 비하인드로는 처음 찾아온 와엔캠입니다!!고즈넉한 분위기 가득한 이곳은 jtbc &lt;웰컴투 삼달리&gt;의 배경인 제주도입니다&lt;웰컴투 삼달리&gt;에서 포토그래퍼 조···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMzBfNzgg/MDAxNzAxMzI5NDYyOTA4.SdoM_85s3LoM3iNR06RsfWl8L9HfFeXYI25OOVYFW7sg.-tDGB_LDJu4MiyURvmY6J8dOQ0rOuZV2gJrz-L1OR04g.JPEG/IyqAaGtkBoCKaT94vF6pf_mMeQ-Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[채종협] 내 이름이 '귀여워'인가? 왜 나 보고 자꾸… (더보기)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36959290&amp;memberNo=33175148</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Nov 2023 22:17:20 GMT</pubDate>
             <content:encoded><![CDATA[본격, 숲의 요정 반지음요정이 지상엔 어쩐 일로?벚꽃 눈 흩날리는 이 곳에서서하를 위로하기 위해 내려왔다는데!참 예쁘죠? 고민 같은 거 다 날아갈 정도로... 무서운 기억이 떠오를 때 한 없이 가라앉을 때 오늘 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjdfMjU1/MDAxNjg3ODQ2NjIxODE4.OUOQkcemk-zKiQ8UmYAT6Tmpaw1x2samb84-DORE25Ig.QwvaMtg4YRUCIixgA3YafCBp4WYwnL8-CPheqAW6LOIg.JPEG/I_nXQZ0FR_Qql9EjOfQGyWAtV49s.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신혜선] 본격! 냅다 직진 고백하는 반지음 어떤데?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36136095&amp;memberNo=33175148</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36136095&amp;memberNo=33175148</guid>
-            <pubDate>Mon, 13 Nov 2023 22:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[서하야나지막히 불러보는 이 세글자로 우리들 마음 심쿵 of the 심쿵 하게 만들어 놓으며MI 호텔 면접을 보러 온 지음!사실 이 미모면 합격률 831% 보장이긴 한데판단하기 어려우시다면(그럴리가요)저랑 한···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjJfMjcx/MDAxNjg3NDIzNTMzMzg1.BXsVyaGA1T_X4cC1F2uJvncCRxc3J1gusmLk02A-Pr0g.qR158D0mJsRDEcxImqZha-T5aiNbuqesSC8bye3whEAg.JPEG/Iiudwlcm-knNUvaZg2XRtmBlHiy0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
