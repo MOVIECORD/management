@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 13:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 14:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선화의 낮과 밤]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36993282&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36993282&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 05 Dec 2023 14:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 여러분! 키동입니다! 오늘은 키동이 낮이나 밤이나 하루가 멀다 하고 열일을 이어가는 배우의 하루를 밀착 취재해보려 합니다!과연 어떤 배우일까요~?주인공은 바로 한선화 배우입니다! 도착하자마자 무···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDVfNzEg/MDAxNzAxNzY0ODYyMTUz.reCnukk5T7N2m65WkdKKyXldihoeu3qOrfp5Aru7BkMg.1oeWhSk9JYZvuAaRkQi2cq0IFpEMcZDb_OKTEJqZD60g.JPEG/I9l2cWrE_EkY_sylatOfRHmHl_w0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서형답다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36975294&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
             <content:encoded><![CDATA[제43회 영평상 제32회 부일영화상 영화 '비닐하우스' 여우주연상 2관왕이 유의미한 기록들을 만들어낸 주역 김서형환희와 눈물이 공존했던 영광의 순간들을 지금부터 공개합니다!제43회 영평상지난 9월 제43회 영평···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTBfNTYg/MDAxNjk2OTQxOTc5MTc2.0_F1NfexbVudg_pJK4w8iKNW8kTpTF_bYV33U3wRXzMg.LRet_qYXJpVhesebJKFpo7QD1IjHwcAx6MGnZkXX9KYg.JPEG/I9IhQCqWrKO4YjaG1EEEuH21aTbM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폼 美친 보아 연기력]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36697217&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36697217&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
-            <content:encoded><![CDATA['이 연애는 불가항력'에서 역대급 열연을 펼친 보아 배우 다들 방송으로 확인하셨나요~?세자를 비방한 혐의로 자신을 고문하는 왕에 맞서 대대손손 가문이 멸망할 거라 저주를 퍼부은 것인데요!찐으로 리얼한 고문 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDlfMjQ5/MDAxNjk2ODEyOTcxMTMy.3NFvjyLWJ0HarsT94_EPTqrCxaLtiAsJFIF_kLSYLyUg.gJPfJ1hrv2h5ntuelfm89PV85Mukyjt2OzPHleLASGwg.JPEG/Io7st-IbEVTJhHs5tdD9NpLm8qLA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
