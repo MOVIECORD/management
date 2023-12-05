@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ YNK엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 08:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 09:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[채종협] 너는 계절처럼 멀어져 가네]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36986935&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36986935&amp;memberNo=33175148</guid>
+            <pubDate>Tue, 05 Dec 2023 09:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;무인도의 디바&gt; 첫 OST 곡인''쉼표'를 들으며 봐주세요 :) '쉼표'는 지치고 힘들 때 잠시 쉬어가도 된다는 따뜻한 위로의 메시지가 담긴 곡으로드라마 &lt;무인도의 디바&gt;라는 작품이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDVfNjgg/MDAxNzAxNzU5ODc2OTY1.Ol3q-PpR1_xkLZWUjuA1jB0wmIXlD6mzOjqaw43Gjzwg.1MQU0dG6u6AIQEzR2mOXBdR_wlaz3fIybORevqa7oewg.JPEG/I1pwUPJP_Z-5GZar24zteQo2_gaU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신혜선] '웰컴투 삼달리'로 혼저옵서예]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36976786&amp;memberNo=33175148</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Nov 2023 22:17:20 GMT</pubDate>
             <content:encoded><![CDATA[어? 여러분... 어디선가 인력거 끄는 소리가 안 들리세요?어어? 지금 점점 가까워지는 인력거꾼 어디서 많이 본 얼굴인데?! 혹시 인력거꾼 중에 가장 '미소년'이라고 소문난 복...아 아니 종협 배우?!가까이에서 웃···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjJfMjA2/MDAxNjg3NDM4NTczMzY0.WVw9TcRv8A7oKcnHULoIo4XjbRoykR-vEN76JHUX94og.oIZzUV7_YTdItA9zXrEaMX5m20JvMYvWgNJp1hG4XXMg.JPEG/IGTQ5VFmnsKPOIXvxaDKzLDtQKQ8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신혜선] 입덕 축하드려요, 지금 '반'하셨네요 '반'지음에게]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36158694&amp;memberNo=33175148</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36158694&amp;memberNo=33175148</guid>
-            <pubDate>Mon, 13 Nov 2023 22:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[본격, 숲의 요정 반지음요정이 지상엔 어쩐 일로?벚꽃 눈 흩날리는 이 곳에서서하를 위로하기 위해 내려왔다는데!참 예쁘죠? 고민 같은 거 다 날아갈 정도로... 무서운 기억이 떠오를 때 한 없이 가라앉을 때 오늘 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjdfMjU1/MDAxNjg3ODQ2NjIxODE4.OUOQkcemk-zKiQ8UmYAT6Tmpaw1x2samb84-DORE25Ig.QwvaMtg4YRUCIixgA3YafCBp4WYwnL8-CPheqAW6LOIg.JPEG/I_nXQZ0FR_Qql9EjOfQGyWAtV49s.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
