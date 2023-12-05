@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 09:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 10:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[천영민] 프로필 게임을 시작합니다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36992038&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36992038&amp;memberNo=35839671</guid>
+            <pubDate>Tue, 05 Dec 2023 10:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[환영합니다지금부터배우 천영민 씨의&nbsp;프로필 게임이 시작됩니다 ※ 게임 규칙&nbsp;※1. 프로필 사진들은&nbsp;비밀리에A컷, B컷, C컷, D컷···으로 나뉜다2. 참가자들은 투표를 통해 A컷을 색출한다3. 최다 득표컷은 그 정체가 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDVfMTQ1/MDAxNzAxNzU3OTkyMDA3.SgmUJafifArfdwUzzKzcWA3ptuRBuE6-vjbOQ_FUxh4g.ymozeA5lRuysUbXlOYWB1TlgZ-Nq7TouX4NndfnEREYg.JPEG/IBZY3mShfDlIVbiY2bzidyqbvMJ4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유연석]이 자꾸 쫓아다녀요‼]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36985927&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Nov 2023 22:18:40 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)오늘은 요트 위에서 화보를 촬영하고 있는 이분! 배우 신현수 씨와 함께합니다 축구매거진 '베스트일레븐' 화보 촬영을 위해인천을 찾은 현수 씨본격적으로 현수 씨와 함께바다···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTdfMTAw/MDAxNjk3NDgyMDM4MDI0.aKb67rVOVOHHIiyKt1xRfij18NTLkOi5ARvBKuGuLqcg.LTrwYsPYhrsMCRL5ZqI-l-b-7OrNvvgMTZ4w4ZrLBe4g.JPEG/IdsBODm1Nnxr3IsNYV57JFrc0irs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김범] 너와 나, 우리만이 함께하는 피날레♥]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36732434&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36732434&amp;memberNo=35839671</guid>
-            <pubDate>Mon, 13 Nov 2023 22:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 ^___^ 지난 9일(월), 서울에서 피날레를 장식한 배우 김범 씨의 2023 아시아 팬미팅 [Between U and Me] 아직도 성신여자대학교 운정그린캠퍼스 대강당에 갇혀 있는 사람,, 여기 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTVfMTk3/MDAxNjk3Mzc3MzkyODUz.P932tmw5m8UJRzmexYDlAyLooOydx-68eN9w5UsXKr8g.Z0z0wbsBs3RSxXOJL4iGS_rL6y4cdsHIBPPMnHurmp0g.JPEG/IozTQu4sjpMW1g2hJJGduakKnkN0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
