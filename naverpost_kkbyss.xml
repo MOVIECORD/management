@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 11:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 12:36:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱] 내 최애의 최애]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36998951&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36998951&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 06 Dec 2023 12:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-)요즘 배우 이동욱 씨가완전히 빠져버린 그 친구!동욱 씨의 최애를 소개합니다 바로바로,이동욱 공식 캐릭터'욱동이(WOOKDONG)' 복숭아를 좋아하는 아기 백사자♥&nbsp;욱동이는하얀 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDZfMjMz/MDAxNzAxODQ4NDc2MzAx.vNGy7-kcr5JEfQPUFmCOhuGfpPpThRtnR217WvMK0wkg.Av4kLTyr6AxPj20qtfsklGKuw2R503G9q8FQ_QU8t_sg.JPEG/IaGyBwJaf0rzmAZElsWasihyumgo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[천영민] 프로필 게임을 시작합니다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36992038&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Nov 2023 22:18:40 GMT</pubDate>
             <content:encoded><![CDATA[쉿! 킹콩지기만 보기 아쉬워서 하드에 꽁꽁 숨겨두었던 2023 스타쉽엔터테인먼트 ACTORS 체육대회 즉, 킹콩 by 스타쉽 체육대회 비하인드를 공개합니다어디서도 볼 수 없는 * ੈ✩‧₊˚킹콩즈 대잔치* ੈ✩‧₊˚ 킹콩 by 스···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMThfMzYg/MDAxNjk3NjEyMDg2NDU0.5h-hTtmP4fQRv9leyhrcQYFl5_t5GJMNkbslmW_5QMIg.DQt_QLxxe-Snl5dX47y9UcWWvJGmZU1pzLGa8ybiJVcg.JPEG/IAmGfGuMfbFEAFVuW899P5inz7dc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신현수] 하얀 천과 바람만 있다면 어디든 갈 수 있어]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36737934&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36737934&amp;memberNo=35839671</guid>
-            <pubDate>Mon, 13 Nov 2023 22:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)오늘은 요트 위에서 화보를 촬영하고 있는 이분! 배우 신현수 씨와 함께합니다 축구매거진 '베스트일레븐' 화보 촬영을 위해인천을 찾은 현수 씨본격적으로 현수 씨와 함께바다···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTdfMTAw/MDAxNjk3NDgyMDM4MDI0.aKb67rVOVOHHIiyKt1xRfij18NTLkOi5ARvBKuGuLqcg.LTrwYsPYhrsMCRL5ZqI-l-b-7OrNvvgMTZ4w4ZrLBe4g.JPEG/IdsBODm1Nnxr3IsNYV57JFrc0irs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
