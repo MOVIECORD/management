@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 04:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 05:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이광수] 요즘 제철]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37012987&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37012987&amp;memberNo=35839671</guid>
+            <pubDate>Sat, 09 Dec 2023 05:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :) 요즘 제철하면 생각나는 건 뭐다? 과메기 귤 ... 그리고배우 이광수 씨 (˵ •̀ ᴗ - ˵ ) ✧그가 제철인 이유 지금부터 하나씩 알려드리죠첫 번째, 촬영 현장에서 늘 진···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDhfMTM3/MDAxNzAyMDE2NjMxMDYw.F9AgT9Qdj8dIkIoeKfabGfX9e0ZbPb62fXpfA0VZG24g.1y27RaLXqPT2JT47rk0GKc1VCOOTe3Ki69M7HA_Y2jAg.JPEG/I6zVPI_vWGo78spi8zkFM6fO5Q64.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유연석] 청룡의 한 페이지가 될 수 있게]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37001528&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Nov 2023 22:18:40 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :D요즘 킹콩지기가 새롭게 관심을 가지기 시작한 것이 있는데요바로바로&nbsp;밭캉스!= 밭+바캉스  밭캉스의 달인을 모신 곳이 있다고 해서그 현장으로 찾아가 보았습니다 tvN &lt;콩 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTlfMjEy/MDAxNjk3Njg0NTQyNzA5.tpHh5LaswnaAAZVFntpRqsnStoSUXa6yTI3TVBNYD2sg.dNjaYwcMjgETsWfaaKrfuCZTzRiA8_TdH0mLnAH0RKMg.JPEG/IVB5xSxtkfQj2BtkCCTIEmJNW_lk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이동욱] 레전드 남찍사]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36751549&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36751549&amp;memberNo=35839671</guid>
-            <pubDate>Mon, 13 Nov 2023 22:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) [사진출처: GQ KOREA] [사진출처: GQ KOREA] 배우 이동욱 씨의'GQ KOREA' 화보 비하인드를 가지고 왔는데요'이동욱' 삼행시로오늘의 포스트 시작해 볼게요!운 띄워주···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTlfMjA3/MDAxNjk3NjgzNzc1MDUy.H4JST8q2WgLuGaYaUXqr2uwpWUv6C_0FmS3xY7Jub_sg.EBmrL4F8XV3QQQgO81y609fN9o7KrgrSSn1o6G5Hz04g.JPEG/ILgFutOszl_jDKSxVvMUq69l6iHM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
