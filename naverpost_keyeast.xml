@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 13:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 14:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지현준WORLD]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37046236&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37046236&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 15 Dec 2023 14:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[여러분, 안녕하십니까? 키이스트 항공의 기장 키동입니다오늘 우리 비행기는 ~지현준 WORLD지현준 WORLD로 향할 예정이오니좌석밸트를 매주시길 바랍니다여러분께서 안전하고 편안한 여행하실 수 있도록 최선을 다하···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTVfODgg/MDAxNzAyNjMzMDg0OTI5.V5oZ4SnXlcgGCh7NXHKgg_PCupWJJEGaa8G59a6RF98g.KLq6r3Oh41QIDCDXkBdJA_5ddy9pDiTpKupn4w2Ml94g.PNG/IN3ILl0kMwMQ6PD4CY7uFqzxRSUM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[불가항력 매력 조보아]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37040165&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
             <content:encoded><![CDATA[여러분, 혹시 이날이 무슨 날이었는지 아세요~?온주 시청의 대표 커플! 공팀장과 마과장의 결혼식이 있던 날이었습니다 ♥긴장한 모습이 역력한 두 사람 그래도 너무 잘 어울리지 않나요~?그리고 이내 범상치 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTZfMTUw/MDAxNjk3NDU2MTY1NDY4.nYTQIqSTfFakfMJPkqyHtt22vJLL6LirRNe6hT6aQDQg.o8iC6gNrYSt9csPccC5kyqprcZ8DbVqb6Q3l2UqsX70g.JPEG/IoNarSSwRlwGqSat3UnVQ0UnXjf0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달짝지근 해진 선화]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36724657&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36724657&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[때는 바야흐로 선선한 바람이 부는 10월의 어느날, 부산어디선가 풍겨 오는 달짝지근한 향을 맡고 키동이 부국제에 다녀왔습니다 :)영화 '달짝지근해: 7510'으로 부산국제영화제를 찾은 우리의 러블리 치호 해진···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTRfOTAg/MDAxNjk3Mjc3MTQzNDM3.skq61e4wh7DvJ_wn_rWBmjsLE-PrVe9H-E3ZrmNdi5Yg.eNBhWXK99HV-CnmlC-gT5duR6skMzzSJD_ju8Xck6lEg.JPEG/I-LecPL6gUsaust7uYHKh441F-co.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
