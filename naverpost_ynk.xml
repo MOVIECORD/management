@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ YNK엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 05:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 06:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포토 스튜디오 오픈한 [신혜선]]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37047841&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37047841&amp;memberNo=33175148</guid>
+            <pubDate>Sat, 16 Dec 2023 06:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 와엔캠입니다 ᖗ( ᐛ )ᖘ 오늘 엔캠이 가져온 사진은 매주 주말 밤을 기다리게 만드는 &lt;웰컴투 삼달리&gt; 속 프로페셔널한 포토 그래퍼, 조은혜의 비하인드입니다 (조은혜라고쓰고_조삼달···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTZfMTgg/MDAxNzAyNzA1NTc0NTQx.0Swx8VklcIlhwUT2rShrOI7bMl759q515m5ApqS5nzsg.EbZ9hlOxviiPwf83nEjKDWE0ajhvJyURibiCC6kHU2cg.JPEG/IvzivoPoAr90NqgK_gJiS6BzL1LY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[채종협] 너는 계절처럼 멀어져 가네]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36986935&amp;memberNo=33175148</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 10 Dec 2023 19:13:45 GMT</pubDate>
             <content:encoded><![CDATA[그런 말이 있잖아요 인생 19회차를 살면 눈빛만으로 모든 것이 표현된다는 (??? : 지음 한정^^*)오늘의 주인공은 바로 그 소문의 중심에 있는 반.지.음.그 눈빛에 숨 참고 JIEUM DIVE 가보자고!!1. 초원이를···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTNfOTMg/MDAxNjg5MjEzMTEwMzEy.HChMVMmQDZUBBx5v3ijXmAW0pX1zCi1QOke1ywTNCKIg.tLmuRjrynTRveko4iDL1dp7crhzueNzVGFPoHWb8DD8g.JPEG/IPKj2e7lRqjTbG6pQp-GZzHYEN84.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[채종협] 인력거꾼 중 가장 '미소년'이라고 소문난 배우]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36136724&amp;memberNo=33175148</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36136724&amp;memberNo=33175148</guid>
-            <pubDate>Sun, 10 Dec 2023 19:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[어? 여러분... 어디선가 인력거 끄는 소리가 안 들리세요?어어? 지금 점점 가까워지는 인력거꾼 어디서 많이 본 얼굴인데?! 혹시 인력거꾼 중에 가장 '미소년'이라고 소문난 복...아 아니 종협 배우?!가까이에서 웃···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjJfMjA2/MDAxNjg3NDM4NTczMzY0.WVw9TcRv8A7oKcnHULoIo4XjbRoykR-vEN76JHUX94og.oIZzUV7_YTdItA9zXrEaMX5m20JvMYvWgNJp1hG4XXMg.JPEG/IGTQ5VFmnsKPOIXvxaDKzLDtQKQ8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
