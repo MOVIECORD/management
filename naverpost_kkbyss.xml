@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 11:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 12:34:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱] 고민 해결사]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37081386&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37081386&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 22 Dec 2023 12:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:-)오늘은 여러분의 피부 고민을 해결해 줄 배우 이동욱 씨와 함께 왔는데요! 동욱 씨의 명쾌한! 해답이 기다리고 있으니모두모두 집중해 주세요✧ 첫 번째 고민입니다 동욱 씨처럼투명한 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjJfMjUg/MDAxNzAzMjQxMTc3OTE0.9i-itkVRlMNY_40hOE6rFb6pZ64vMVyvPiFvAT04aHcg.B8fQHZp3wMrR7zzaKbeazptKgd-taVcvlrFtTSk0WfYg.JPEG/ItXYMBlVzxYtLZtYwbyTjh1BpmfU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유연석] 올해의 ○○○ 수상!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37061972&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Nov 2023 22:18:40 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)매거진 '앳스타일' 11월 호와 함께한배우 손주연 씨의 비하인드로찾아왔습니다 [사진출처: 앳스타일] "이제는&nbsp;연기자로서&nbsp;많은&nbsp;경험치를&nbsp;쌓고그걸&nbsp;뽑아내기&nbsp;위해&nbsp;노력하는&nbsp;···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjZfNjIg/MDAxNjk4Mjg2MzQ3MTI0.8NboT_hs8EySohuvSyzs6N3LERO4K7ItKNBXiVMaZKwg.Ud4UwFngop2pOsTay_sYJydRPHOF-C8hrXSn6hlExV4g.JPEG/I20qWKcwxP4Vb-r0IHYTCf-XCINI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[류혜영] 캠핑 참가자 모집합니다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36780466&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36780466&amp;memberNo=35839671</guid>
-            <pubDate>Mon, 13 Nov 2023 22:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) [사진출처: 더 그린컵] [사진출처: 더 그린컵] 【&nbsp; &nbsp; &nbsp;공&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 지&nbsp; &nbsp; &nbsp;】배우 류혜영 씨와 함께 캠핑을 떠나고 싶은참가자를 모집합니다.- 모집기간: 2023년 10월 25일 수요일 ~- 신···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjRfMjAg/MDAxNjk4MTI5OTA0NDcz._l-AqiWTmM7at9wVH1Kl4yUpb-likI1eqFz4djvvHm8g.UbjwGLi4zeGSVHPigg9_gefMfpiNjZ3pXoNvn0I6qZ4g.JPEG/IGCIY8KBcRHJ2gVLP1kmAbZVFBm0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
