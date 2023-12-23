@@ -4,11 +4,12 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 02:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 03:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[요즘 어딜가나 보이는 배우 이규형]]></title>
+            <title><![CDATA[요즘 어딜가나 보이는 배우 
+이규형]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37074265&amp;memberNo=44834478</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37074265&amp;memberNo=44834478</guid>
             <pubDate>Thu, 21 Dec 2023 12:34:51 GMT</pubDate>
