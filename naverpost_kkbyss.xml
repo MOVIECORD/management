@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 08:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 09:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[송하윤] 나랑 결혼해줄래♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37121558&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37121558&amp;memberNo=35839671</guid>
+            <pubDate>Mon, 01 Jan 2024 09:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)☀ 2024년 새해가 밝았습니다&nbsp;☀드디어올해의 첫날 [사진제공: tvN] 배우 송하윤 씨가 출연하는tvN 새 월화드라마&nbsp;&lt;내 남편과 결혼해줘&gt;가베일을 벗고 찾아옵니다 [사진제공: tvN] ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMzFfMTU4/MDAxNzA0MDMyNDg4Mzg3.OpAG_Alp_9mZ-fDlgSZCQfJBZaKwyWEhSIMOaZGVJFIg.L-Td9TwXQYA3vkOvSSMNEXqZVyYR35n9ho56Vlgrfhkg.JPEG/IOlwF4-9VmvtMRG5Y6laqKZgrV04.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱] 은발천사의 크리스마스 선물]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37087217&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Nov 2023 22:18:40 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-)Monday Tuesday Wednesday Thursday...♪매일매일 무료한 나날을 보내던&nbsp;요즘여러분의 일주일을 책임져줄 이가 나타났으니..... Hi~배우 김샤나 씨 등장 ദ്ദി&nbsp;ᵔ∇ᵔ&nbsp;)샤나 씨와 함께하는 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMzBfMjg4/MDAxNjk4NjYyMzI3NjIy.rr5PrVszQB6xEGK-HYzhWEHiloDYIDigOduVrFjM1I8g.fGEf42OU16wYDONfJVSAio3jHgy4ggKxXwLJm4GDMQog.JPEG/IA-S2jco4R3ZvuG-gd6vSK-8LrwI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이동욱] 승객 여러분, 곧 이륙합니다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36803254&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36803254&amp;memberNo=35839671</guid>
-            <pubDate>Mon, 13 Nov 2023 22:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[승객 여러분 안녕하십니까오늘도 변함없이 저희 킹콩에어라인을 찾아주셔서감사드립니다저희 킹콩에어라인 W116편은 배우 이동욱 씨와 현실과 가상을 넘나드는 초현실 여행을승객 여러분들께 선사할 예정입니다 현지···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMzBfMzIg/MDAxNjk4NjQzODM1NjYw.hAqNMNHib_gxANSQuCIIfYYRsk3JD-FEjibAhIwaXrYg.gh89VMHRwADgVvxpA1-XD7QK7fePt9JwT2ZP3Lf7ys4g.JPEG/IGbtY1tSpzEtGKMv0WcusuNu-Cd8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
