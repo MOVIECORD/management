@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 13:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 14:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경찰에 신고합니다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37140830&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37140830&amp;memberNo=29770009</guid>
+            <pubDate>Thu, 04 Jan 2024 14:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[왜오~ 왜오~~ 왜오~~~ 이 사람을 경찰에 신고합니다죄명: 심장 폭행죄 새해부터 우리의 마음을 설렘으로 마구 두드린 박세진 배우를 신고합니다!왜냐하면 널리 널리 우리 세진 배우의 매력이 퍼졌으면 좋겠거든요 ㅎㅎ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDRfMjYw/MDAxNzA0MzY0MzU3MjMw.v10s_PyJE3PiaQjF0YgwfExoDPClh96flNBOXgB-Y58g.6QP4j5nNlh4zrFkJqAHbGAZpDop8iEeoJPwpT2Wcu6wg.JPEG/I4lQP_HQiZCNWCDWxbGuiEu97YEE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지현준WORLD]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37046236&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
             <content:encoded><![CDATA[제43회 영평상 제32회 부일영화상에서 선녀 같이 아름답고 고운 자태를 자랑했던 배우 김서형그런 서형 배우가 이번 화보에서는 멋쁨의 정석을 제대로 보여줬다는 긴급 정보를! 키동이 바로 입수했습니다 ~! (*˘···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTdfMjk2/MDAxNjk3NTQ3MzUxOTcx.BaZfpQPYvvdIEQeNEYWHDdAOczQ2AmqxJ96Ru-7kvz0g.T3zKyrWjx8cdEyyF5dd_9or5fMQsAPTCAWj27iidT_8g.JPEG/IelO_Xtt0kfUaycf-ynfsd6FrSIc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수고했어 미람]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36733625&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36733625&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[여러분, 혹시 이날이 무슨 날이었는지 아세요~?온주 시청의 대표 커플! 공팀장과 마과장의 결혼식이 있던 날이었습니다 ♥긴장한 모습이 역력한 두 사람 그래도 너무 잘 어울리지 않나요~?그리고 이내 범상치 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTZfMTUw/MDAxNjk3NDU2MTY1NDY4.nYTQIqSTfFakfMJPkqyHtt22vJLL6LirRNe6hT6aQDQg.o8iC6gNrYSt9csPccC5kyqprcZ8DbVqb6Q3l2UqsX70g.JPEG/IoNarSSwRlwGqSat3UnVQ0UnXjf0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
