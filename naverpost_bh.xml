@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 07:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 08:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해 ♥복래♥ 많이 받으세요]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37139102&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37139102&amp;memberNo=21724264</guid>
+            <pubDate>Fri, 05 Jan 2024 08:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[새해&nbsp;복래&nbsp;많이&nbsp;받으세요♥ 2024년 청룡의 해에 가장 먼저 인사드리는BH 명품 배우 조복래 작감배 완벽한 조합으로시청자들을 사로잡은 MBC &lt;열녀박씨 계약결혼뎐&gt;에서 MBC 센스, 능력, 다 갖춘 충직한 비서 홍···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDRfNzEg/MDAxNzA0MzUzMjQyNTMy.fl5-W_MzJtVp3FufEkNHTfQfdcp1tQT2vD3xdAQCWRkg.dx1hV5l8fQCgUiVKVm7u7ONBAiPR1h-JLaBcfPKJgHkg.JPEG/Ii_EwC9klrNpnoWjCXXDvOO_MRRc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BH엔터테인먼트]
 12월의 BH ON AIR]]></title>
@@ -160,14 +168,6 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36504959&amp;memberNo=21724264</guid>
             <pubDate>Thu, 09 Nov 2023 03:19:04 GMT</pubDate>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDFfMjEg/MDAxNjkzNTUwNDUwODUw.caumxbyCuvXzjq08cgwSe9KStzdEjmPL_5ZhyV1QNPIg.akmyeOLzMwrn5Ca3dyx3Sagv8fNCksTxbvB3PeJfECkg.JPEG/IsawsF1jWC5DLvuKZ0y4sCzjWQ-Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완벽을 묻거든 [한효주]를 보게 하라]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36484304&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36484304&amp;memberNo=21724264</guid>
-            <pubDate>Thu, 09 Nov 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[여기 봐도 봐도 보고 싶은 한 여자가 있습니다보고 있으면 심장이 죽어도 괜찮을 만큼 두근거리고안 보면 죽을 것 같은 그런 여자바라보기만 해도 모든 감각이 짜릿해지는그 이름 한 효 주...♡장르를 넘나드는 연기···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjlfMjE1/MDAxNjkzMjg5MjU5NTk3.oOu38_44O0vAK50wm6giNnS202ED7ZIYaLSgZeYnulEg.6lx8rfuMXlrD1YjCtYFPVBdUs85Ruktmo4Y33VTqRoIg.JPEG/IjmBbLLp_HbuaC4gwousp60mAcwc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
