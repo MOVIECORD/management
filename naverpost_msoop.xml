@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 07:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 08:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수지의 美]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37156368&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37156368&amp;memberNo=22903361</guid>
+            <pubDate>Mon, 08 Jan 2024 08:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 새해를 여는 한복 수지! 한복의 美.. 수지 한복.. 고유명사로 지정이 시급합니다  2023 한복웨이브 사업에 수지 배우가 함께하게 됐는데요, 지난달에는 뉴욕 타임스퀘어 전광판을 통해 전 세계에 한복의 아름···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDRfMTMy/MDAxNzA0MzMyNzA3MjU3.NaNz8Awnhj1Lsc4DXLtVUNMEOhCVO4CzMm-nNS9VCq8g.CxqGpHOlz_N1C4-EuGOmAHV_wPcNgChqqrNXiV-v0aEg.JPEG/INd1pggoQm53wUN5H7UZuUaD_rGg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전혜진] 매일매일 '진경' 테라피]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37071348&amp;memberNo=22903361</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 13 Nov 2023 22:17:43 GMT</pubDate>
             <content:encoded><![CDATA[1.연X우유 말차빵 2. 빽X방 메론소다 3. 첫사랑 재질 전도연 ♣♧ 숲블리의 뒤늦은 유행 탑승 사과드립니다...♥ 그렇지만 첫사랑 재질 도연 배우?! 혼자만 봐서는 안되는 거잖아요... !! 긴 생머리 + 흰 셔츠의 필···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjJfMjg1/MDAxNjg0NzMxMTUzMzYx.SYHOKOJCNmHqui_gRk89CVwOkDA4KiljVJyVxcCMIy4g.KQZ4eRfopGVcL9PJs9L0BLTzQD6KdWaVPUQJ80wGUAYg.JPEG/ImXN4kzPXPG9qhOzCiRavt4lpai0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘전도연’ 힙 그 자체세요...]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35956745&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35956745&amp;memberNo=22903361</guid>
-            <pubDate>Mon, 13 Nov 2023 22:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[힙이란 무엇인가... 저 숲블리 항상 궁금했는데요 그 답이 바로 여기 있습니다. 그 어떤 컨셉도 저세상 멋으로 소화해버리는 우리의 사랑 도연 배우 진짜 힙 그 자체세요...♥ 그나저나 대체 혼자 시간이 멈추어 버린···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MThfMTA1/MDAxNjg0MzcyMzAzOTc1.qmGcNdHTlmspnd63fbewO-JYptGo8LmjP71ei-KHS4cg.6c2ARRwd14Md2QmOsFRfoE7UPznnhKGipbvQqwcrGswg.JPEG/IcIO4YsHwFdUK2f_wpU7uyZjaC0Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
