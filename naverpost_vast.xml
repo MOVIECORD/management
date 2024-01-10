@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 09:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 10:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[VAST zip]
+현빈 잘생김 근황]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37160577&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37160577&amp;memberNo=32146648</guid>
+            <pubDate>Wed, 10 Jan 2024 10:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST zip] 현빈 잘생김 근황★ 본체 등판 ★대한민국 3대 빈의 대표주자현빈의 반짝반짝 빈주얼 근황을여러분과 공유합니다♥                                 출처 / VAST엔터테인먼트본 콘텐츠는 VAST엔터테인먼트···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDlfMTIz/MDAxNzA0NzY2MTYyMDM5.GNmE9mSfBV7T5B-tkaAxzxYeHn3msg8GWTfmbJQ1rvAg.-WPU_ZJSFatxglUxlYlT60iFe6mmUhmNWV73VJhQ84sg.JPEG/Ix6CG1EZlBWCnPRGAuqosQ6mWzRs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[VAST zip] 최상의 그림체, 현빈]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37061209&amp;memberNo=32146648</link>
@@ -158,14 +167,6 @@
             <pubDate>Fri, 24 Nov 2023 02:28:20 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST]DO WOO♥안녕하세요 열어분?무언가 허하고, 믿을 수 없고, 슬픈 그런 감정저만 느끼고 있는 거 아니죠? ©넘버쓰리픽쳐스 왜냐면 매주 금요일마다귀엽고, 설레고, 온갖 감덩을 주던 &lt;비의도적 연애담&amp;gt···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTNfMjQ1/MDAxNjgxMzc0NDA4OTkx._6ChO_vmvvhQSw0lcFe_yUdRbAR5yDMlbrNEiQlHCMQg.bhoWx3m8uImjmrsfU23bMgU4g57PKp2ycnLBo0Hkz5Ug.JPEG/I437YMH5Y8kw4906-1d55684S_TE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[VAST 이사했zip] 세계 3대강을 아시나요?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35706107&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35706107&amp;memberNo=32146648</guid>
-            <pubDate>Fri, 24 Nov 2023 02:28:20 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST 이사했zip] BACK (UP) TO 2022 여러분. 세계 3대강이 뭔지 아세요? 나일강, 아마존강, 김지인 이러면 나 오늘 집에 못강!! 드라마 '아이돌' 에서 비주얼, 실력, 매력 ON TOP으로 난리나게 만들었던 지···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMzBfMTg1/MDAxNjgwMTUyMjAxOTE0.IkItNf0FON1QUfjBTjiTzgWS8DhJ5TIXYYiwobbg2OYg.G57Islu2hGDrd5_dVbCpNw-n9D54dBo7Vpt74KRIxBUg.JPEG/I47xxJeMWnVKkczTG18cN35h7z5I.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
