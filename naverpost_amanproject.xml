@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이맨프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 09:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 10:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최근에 새 프로필 공개한 [이종석]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37182873&amp;memberNo=43803149</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37182873&amp;memberNo=43803149</guid>
+            <pubDate>Mon, 15 Jan 2024 10:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[여러분2024년 새해가 떴습니다이제 그만 눈을 뜨시죠이종석의 새 프로필이 떴습니다너무 멀어서 잘 안 보이신다고요?그럼 가까이 와서 보시죠해가 떠서 눈부신 건지아님 종석 때문에 눈부신 건지눈을 감아도 계속 머···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTNfNjEg/MDAxNzA1MDcyMTExMjY0.fa-IdJza5SvlHY3LyZWVQ1P-UAqYdqEcjesZARuNmdUg.4ZDi5Cp2RuclVosrFvYn9Q3iAiqi04-aeAd5lQhOEF8g.JPEG/I403HkHomgGK5PAHvadoq2A0ggl0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언제나 with [이종석]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37042221&amp;memberNo=43803149</link>
