@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 07:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 08:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어떻게 사람이 예술 작품...?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37201913&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37201913&amp;memberNo=22903361</guid>
+            <pubDate>Wed, 17 Jan 2024 08:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[여러분, 안녕하세요 마음의 양식을 쌓기 좋은 계절(?)입니다- 그런 의미에서 바로 오늘! 여러분께 소개해 드릴 작품이 하나 있는데요 작품의 이름은 ღ&nbsp;정 유 미&nbsp;ღ 이 작품의 특징을 몇 가지 말씀드리자면 먼저, ☘︎ ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTdfODQg/MDAxNzA1NDU2NzIyNTEx.JQAsiFrKzukJVuih9w9aUZAf2_Gi8rokZeT03WdHqYwg.zoWtmckd0CTtEBSS37ZpN4r0-S4QBVCqf3bFGx6yYZkg.JPEG/IZU-S9yNLbOK5OYnU553f-DnWIX8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정유미... LA에선 어떨까...?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37172360&amp;memberNo=22903361</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 13 Nov 2023 22:17:43 GMT</pubDate>
             <content:encoded><![CDATA[기다리고 기다리던 주인공-!! 몽환적인 분위기와 청초한 비주얼의 ღ신비로운 요정이 우리 눈앞에ღ&nbsp;  유미 배우 요즘 엄청 바쁘다고 들었어요!  사람들 꿈에 자꾸 나타나  하루 종일&nbsp;'유미'&nbsp;생각에 빠지게 만···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDdfMzMg/MDAxNjk0MDYyNTkxNjAy.1vmTFQDamB8-CwJu5T6PjC3Za-_yX5Oo0WrQ_xPZMe8g.iV14RIVKRLgITuAX8RYOwI3Zo0p_H-tVsL78l0XJzKQg.JPEG/I5JaFAhzaO2o8qdeVI-ZSXKAXKOQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 심장은 ♡nly 수지]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36258819&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36258819&amp;memberNo=22903361</guid>
-            <pubDate>Mon, 13 Nov 2023 22:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[시작하자마자 느낌이 왔어요- 아, 수지에게 헤어나올 수 없구나 눈을 뗄 수 없는 미모 쿨시크 모먼트 담은 눈빛 기가 막힌 옆태 오늘의 극락 좌표 공유합니다 레드 수지에 이어 블랙 수지까지 쭉쭉-★ 흑백도 뚫고 나···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTdfMjUw/MDAxNjg5NTU4MjEzMTI1.0EpEfkGLgcmU937zKwj-F138GCzHJm8i65nWxWoT0FEg.jyu0gdgOoY7wwPPJ_W86ZqFCgaQcrZWWg3GVOWbB3lIg.JPEG/IGcyypAGEe7YNgOAwf4Q14D5RCWU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
