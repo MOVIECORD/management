@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 10:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 11:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주상욱 한 컷]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37204723&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37204723&amp;memberNo=3247896</guid>
+            <pubDate>Wed, 17 Jan 2024 11:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[화창(?)한.. 아니 역대급(!) 추운 날 '3.1독립선언기념탑'을&nbsp;촬영하고 있는 한 사람이 있었으니 진실의 미간 보이며&nbsp;열일 중인&nbsp;상욱 배우!! 그런데 말입니다. 왜 그의 손에 카메라가 들렸을까요? 최근 상욱 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTdfMjY4/MDAxNzA1NDc5MDE4NTk5.Pf-qU1G-IJxwujPgrycmq1LWWzqMdI6Yg-nxklAX8Pkg.AsvsuOmpjhDYWKO-oebyv8ATUIhfqb3viKYzyV2QY44g.JPEG/IYx5RZolP0OoOJkYyfARUcX5Yym0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 회사엔 [김지은] 팀장 있다!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37192851&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 15 Dec 2023 15:19:44 GMT</pubDate>
             <content:encoded><![CDATA[오늘도 / 어김없이 / 예쁘다미모가 곧 선물이고존재가 축복인 예련 배우의 ❛ NEW BEHIND❜ START 0:10 ━♡━━━━━━━ 3:06 ⇆ ⠀⠀⠀⠀⠀◃ ❚❚ ▹ ⠀⠀⠀⠀ ↻예련 배우를 위해 준비된 케이크도 아름답지만아름다운 케이크와 함께 기념···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDZfMzAg/MDAxNjk2NTk4MTk5MzQx.gxBK7Hi3JR7_Osw6YD5OU3RBK2-IyUuYhFfxHnVnTUwg.n-do4C8MOZknAoA2Gc5z60qMn3OxWNelRODRWgROgisg.JPEG/IvizbEXfgEwWx_33OTB7JvXaONb4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김지은] 폭룡적인 미모로 동네 카페 접수]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36642041&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36642041&amp;memberNo=3247896</guid>
-            <pubDate>Fri, 15 Dec 2023 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요!치비 입니다 :)잊을 때 쯤 다시금 찾아오는 저,치비가 들고온 오늘의 지은 배우는...? ❝ 저기 저 카페, 직원 언니 미모 폭룡적이래 (수근) ❞ 폭룡적인 미모를 자랑하는&lt;손대면 핫플! 동네멋집&gt; 속 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjZfMTYw/MDAxNjk1NjkyMTIyNzUz.KWpBDAsq8P-1d1vzza4DhC3lSbM8WzI2O2sYRa55hBAg.iMuqub-X3ApdK0cfR0LbaefpoSZ1Aa01eLMWGVjKJNMg.JPEG/I8crOxKBx2kFHe4TxeJ4p8CdTn1g.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
