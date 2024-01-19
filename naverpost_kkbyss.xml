@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 06:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 07:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱] 너, 내 이름 뭔지 알아?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37214944&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37214944&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 19 Jan 2024 07:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[정진만, 정진만, 정진만!당연히 알죠디즈니+의 오리지널 시리즈&lt;킬러들의 쇼핑몰&gt;진만삼촌이잖아요!조카 정지안(김혜준 분) 자취방에 [사진: 월트디즈니 컴퍼니 코리아] 레트로풍 옷장을 사주고총알도 뚫···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTlfMjUw/MDAxNzA1NTk0ODUzNzc2.GEbeektMR4ShJjUhvNHBqdA5VK1KBcd4JVne1C8qThIg.PPb-zJRiZWk-zMWnnJd0PhRZf-eQLPPFpfcI1133x4wg.JPEG/IJ2MjX_Xb2fFFGq7GApHR7CO-Zxw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱] 쇼핑몰이 잘생겼고 사장님이 수상해요]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37204072&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Nov 2023 10:22:09 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)배우 손우현 씨의&nbsp;시즌 그리팅출시 소식에 이어,&nbsp;직접 만나볼 날을손꼽아&nbsp;기다리고 계신 분들을 위해준비했습니다 SON WOO HYEON 2024 SEASON'S GREETINGS난, 너에게비하인드 포스···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjNfMzIg/MDAxNzAwNzIyNTk1NDM1.FCpf4RAvBNgG-7zOynZPglDGpagQOXYnII1y51u2JtMg.9HUh3sSgPtCWhRy7FBGvqspVWoF42Rk61f_0Y3qFySQg.JPEG/I19o_r-WeWIiWhnxvGTn6jOalzp0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김범] 시즌 그리팅 대박 스포]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36939793&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36939793&amp;memberNo=35839671</guid>
-            <pubDate>Sat, 25 Nov 2023 05:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :D오늘은 여러분들을 위해&nbsp;킹콩지기가&nbsp;배우 김범 씨의 첫 시즌 그리팅스포요정으로 변신했습니다ଘ(∩^o^)⊃━☆゜스포일러 나와라 얍!(펑) KIM BUM 2024 SEASON'S GREETINGSOPEN WHEN YOU.···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjJfODAg/MDAxNzAwNjM4ODg5MDE5.-jDDWuaR66jKa3ZHMM2fL3HflbWlAXmZyB8Ar8_ZEcUg.fleA95CokFYqz0OqEmSelj2WVtrZ2MpuhLvdpLjGlJkg.JPEG/I-B9nDgnaJVXQRsqhrTvIrIvbTOU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
