@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 13:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 14:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가자! 장윤주 보러 가자!!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37240835&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37240835&amp;memberNo=29770009</guid>
+            <pubDate>Wed, 24 Jan 2024 14:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[새해에 키동에게 새로 생긴 취미 하나가 있는데요!그건 바로 바로....!!!! ★!!! 장윤주 홈마 !!!★톱뫄델이자 매력적인 배우 장윤주의 일거수일투족을 오늘 한번 제대로 공개하겠습니다!찰칵찰칵! 열심히 함께 했으니···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjRfMjY5/MDAxNzA2MDkxMzA0MTk3.rbFGXxPMPXIlsbSkRqi_Tmb_cGf3PRjwNKH-CjGfh-Eg.EZHVZI8k8oEdJWMJmaiV0uOdAlC7E4xWqjnWPIGywaog.JPEG/IKye0WZcDu7KdWREu5xXHTjmMwag.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성철이라고 말해줘]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37205608&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
             <content:encoded><![CDATA[키-하! (오늘은 특별히 반모 주의!)오늘은 키동이 신예 권지우의 드라마 '하이쿠키' 촬영 비하인드를 가지고 왔어!그전에! 드라마 소개를 하자면 ~ U+모바일tv 오리지널 드라마 ‘하이쿠키’는 한···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjZfMTcw/MDAxNjk4Mjk2ODMwMzMw.Mp9Z-Yo38ftxMvGr3wgd8uXqReE7jntduGrlkxm42dcg.Vrxt4MBzINjlr8EadLf52amR5xLzohZfjW343OF4nP0g.PNG/ILQzNaIjx2_wCQKrctC0IoL1l8Hc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤종훈 미모에 갇힘]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36761383&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36761383&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 14 Nov 2023 04:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[차 문이 열리네요 ~ 그대가 내려오죠 ~첫눈에 키동은.. 그대 '종훈'인 것을 알았죠~멋진 바이올렛 색 정장을 입고 등장한 종훈 배우! 이곳은 바로 '7인의 탈출' 촬영 현장이었는데요~어마무시한 스케일을 자랑했던 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjBfMjE2/MDAxNjk3Nzk2OTYzOTA1.AIidmfqx9IP_bbKUQLUo__Uc-jh7RG1swwm4ikU7L94g.R6WH7Ccke1HptJHWyoO8sSsXhnemve883znLq0RNqBcg.JPEG/IHO_xzV2mHNzUPQGUJqVXmTBW8AM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
