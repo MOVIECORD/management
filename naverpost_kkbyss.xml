@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 08:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 09:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱] 진만 삼촌의 육아일기]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37245148&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37245148&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 25 Jan 2024 09:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)오늘은 남다른 교육법으로 소문이 자자한육아 전문가 '정진만' 님을 소개해 드리려고 해요 [사진: 월트디즈니컴퍼니코리아(유)] 진만은 조카 정지안(김혜준 분)의법적 보호자로···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjVfODQg/MDAxNzA2MTE4OTUyMzgw.PLe2tZMIyPteCv6iGYc4R2C-JkhZ34MWYSCRNUO660gg.nCwkUhOR5kTfTB_IVOcg5uqRih7DqMoUFpwf3eOciCsg.JPEG/I6emyRjWeebDKY-GYz-fgkGjPkHc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[채수빈] 전지적 다이어터 시점]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37238892&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 Nov 2023 10:20:59 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-)지난 24일(금),아주 기쁜 소식이 있었는데요바로 배우 안소요 씨가'제44회 청룡영화상'에 다녀왔소요┗(^o^&nbsp;)┓三 [사진제공: 트리플픽쳐스] 영화&nbsp;&lt;비닐하우스&gt;의&nbsp;순남&nbsp;역···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjlfMjA0/MDAxNzAxMjU5Njc5MTUz.x9z8ZRpGq8jgmjoZr0jixjGxZ7hw5Rqk6jSaU4-KTUcg.hHapsQAwJprS4JeKNoY1GDBu-pgciO9mxCGKVsspAi8g.JPEG/IQyCi9EnC46qAy7af7cTnFEROLnE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유연석] 오늘 운 좋으시네~]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36955482&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36955482&amp;memberNo=35839671</guid>
-            <pubDate>Tue, 28 Nov 2023 08:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다 :) 오늘은 티빙 오리지널 시리즈 &lt;운수 오진 날&gt;의 배우 유연석 씨를 tvN에서 ꒰꒰ 또 만나볼 수 있는 날 ꒱꒱"오늘 운 좋으시네~"하/지/만 모든 일에는 대가가 따르는 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjhfNTAg/MDAxNzAxMTM3NjIwOTQ5.-MwGwT--GYIOM4i0pTwAMefXPU0opsBUQG3Upj7LCasg.tobopNfjCjxqxSyoJwsOIV0C1OJ0OwB4UWT9g6KzIpgg.JPEG/I2W1ENgAjju3P0KBHz4EPgc_Pz7g.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

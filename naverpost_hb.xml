@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 08:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 09:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알고보면 귀여움 수치가 제일 높은 [문지후]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37238931&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37238931&amp;memberNo=3247896</guid>
+            <pubDate>Thu, 25 Jan 2024 09:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[문지후 알고 보면 귀여움으로똘똘 뭉친 배우였단 걸 아십니까? &lt;세 번째 결혼&gt; '백상철'에 속아 '귀여움'과 '사랑스러움' 수식어 자체인본캐 문지후에 대해 알아보자구요! 그전에 말···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjRfMTEz/MDAxNzA2MDc4MTU3MTU4.5IopVvaYuKuTp5dC2gB8wOMVeULIQdVxNNwAerVM4gAg.0Dp7o7pOm5CchvBWjoUt6VYcQ57BXOa-276HSUl4IAUg.JPEG/IMZQ995vyEg2gpUZrV_r3rb84gmg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라마에 이어 예능까지 접수한 [김지은]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37210204&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 15 Dec 2023 15:19:44 GMT</pubDate>
             <content:encoded><![CDATA[조병규 배우를 보면 문득 그런 생각이 들어요세상이 나를 억까 중인 걸까?그렇지 않고서야 365일 뀨라기로 만들 순 없잖아!! (뀨라기 ☞ 대충 조병뀨바라기라는 뜻(?))헤어 나오고 싶어도 헤어 나올 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjJfMTAx/MDAxNjk1MzY2NzU2OTEw.zNwtj7E7iIP8PxXe5pmtNd5ym9uGmJePPk-BT_eRJ5kg.zzBy2oBaFXiWb8VG3Ot2ZWPZ62RUrE1SqvfBT_Zc9xUg.JPEG/IIz8zQLUd2Fb8nAcU-OpDTxZEom8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그날의 목격자 [정용주]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36700719&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36700719&amp;memberNo=3247896</guid>
-            <pubDate>Fri, 15 Dec 2023 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[제가 봤어요분명 셋이 들어가는 거 똑똑히 봤어요지난 6일 공개된 Wavve 오리지널 드라마 '거래' 어제의 친구, 오늘의 인질, 내일의 공범! 순간의 선택이 걷잡을 수 없는 소용돌이가 된 100억 납치 스릴러. 극 중 '···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTBfMjM1/MDAxNjk2OTE1Mjk5NDMx.l7SPR0TcY1bm4UB63bENc03ssu3sO8sc_tYk3AsO8Bkg.fmN2IkbVdA48Qwk3d8pl3jss4cR72Utbve5IM7RrxsMg.JPEG/I_2hAXJIdwvLcOv3SNUT3f9Ru7no.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
