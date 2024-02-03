@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 04:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 05:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트]
+2월의 BH ON AIR]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37284041&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37284041&amp;memberNo=21724264</guid>
+            <pubDate>Sat, 03 Feb 2024 05:16:29 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDJfNDAg/MDAxNzA2ODU0NDYyODE3.On5DYtW6T5v1Fe5e29A1NFd8dIWXkMfvuzMsnCcn_5Eg.-cTImoZyeYWfVYzcpivApyR4WsFEYGVkNQhVOXimj7kg.JPEG/IgLfLvoulVj9m3gq-v19QpNYi6kY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 1위 <황야>의 이희준]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37263148&amp;memberNo=21724264</link>
@@ -161,14 +169,6 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36660935&amp;memberNo=21724264</guid>
             <pubDate>Thu, 09 Nov 2023 03:19:04 GMT</pubDate>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDFfOTQg/MDAxNjk2MTM4Nzc0NTI5.W7tK_DuzP9C9eTytyGkBYdNIshfXq2LxrDiaxAsTl-Ig.P7PljrFAE8wXd3S3IRy9wkN3Nr8bgqXNqFqLr5PUsJ8g.JPEG/IU9iC7B2UAXoyALGf3vSRjmTkcp0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 옷장을 접수한 [김고은]]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36623891&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36623891&amp;memberNo=21724264</guid>
-            <pubDate>Thu, 09 Nov 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 길거리만 나서면 보이는 김고은 티 김고은 가디건 김고은 후드 김고은 모자 김고은 가방 김고은 쥬얼리 김고은 커피 김고은 차 김고은 영양제 . . . 그중에서도 우리의 옷장을 접수한 김고은의 "패션&amp;quot···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjJfMTA1/MDAxNjk1MzY5OTI3NjIx.KJBjlsmDymx1NNiyQ2D_axvORnm9djNdT4YAb28G6x4g.OBkGVWM80ZD2FEYXabzLjQ41PQGxyDEthor9yfJsJ3wg.JPEG/I6JMmR9zJXXtqmJJQrFL6-fbaEY0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
