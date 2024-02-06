@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 14:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 15:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김지은] 팀장님, '절' 받으세요]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37274512&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37274512&amp;memberNo=3247896</guid>
+            <pubDate>Tue, 06 Feb 2024 15:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[(나)'언'녕하세요 :)첫 방송, 공개되자마자모두를 놀라게 만든 주역 빨간 드레스로 우월한 미모 자랑하길래드라마 장르가 '공주'인 줄 알았더니 그냥 빨간색이 찰떡인'강나언' 팀장님의 안···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMzFfMTIw/MDAxNzA2Njk2Mjk1MTY1.raUyhIs6qqGNo0BYC6qi5O8u9BiYOHhk1sS5rfa-AvEg.XOoWzBV2gZdcSnIMBNhXeJwkG3R7ovJE1329RBPY-dog.JPEG/Iz5ghEXXr-Wu19We_sbuyt6MXkQ8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알고 보니 화보 천재 [정용주]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37272336&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 15 Dec 2023 15:19:44 GMT</pubDate>
             <content:encoded><![CDATA[ㅃㅏ밤!! 축하해 주세요 여러분!!지은 배우가 지난 14일 개최된 &lt;2023코리아드라마어워즈&gt;에서 여자우수연기상을 수상했다구요!! 멋스러움 가득한 블랙 드레스를 입은 채 세련美를 풀/풀/ 뽐낸 지은 배우는여전한···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMThfOTYg/MDAxNjk3NjA3MzQzMDky.NiA53v0j5T7pHdYaEGfX8MJ2Gj3cHvrIz_Nn1PCFHoEg.OUAXZnT4y_cgfxsw11r5Lg6gw-HnOEDsRoYmjeyujAkg.JPEG/IupGSwwVVhzn1-t_IPmbtDng3tUc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장가간 [문지후]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36642557&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36642557&amp;memberNo=3247896</guid>
-            <pubDate>Fri, 15 Dec 2023 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[바로 어제(23일) 문지후 배우가 갔습니다..장가를요손만 봐도 잘생김이 느껴지는데 절대 못 보내 ..그럼에도 훈내 풀풀 풍기는 문지후 배우의 결혼 생활을 소개합니다..!!"되갚아줄게 내 전부를 던져서···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjNfMjI0/MDAxNjk4MDI4ODYzMDA5.tQQVmMPSWTXCTHdBDQ5VgqryNU32usqYj2j4Hqg1nMMg.TZgfxoXDj7yd_ODoA9TbENt7otpn2xstbT3FrBqTuXEg.JPEG/IYq5HfSoudJUh7N6y5Zu9AQ0I4m8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
