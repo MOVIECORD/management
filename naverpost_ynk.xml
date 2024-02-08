@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ YNK엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 03:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 04:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아름답고 귀엽고 예쁘고 황홀하고 놀랍고 숨 막히고 화려하고 믿을 수 없고 특별하고  신성한]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37311573&amp;memberNo=33175148</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37311573&amp;memberNo=33175148</guid>
+            <pubDate>Thu, 08 Feb 2024 04:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 여러분 신혜선 배우의 화보 비하인드로 찾아온 와엔캠입니다찍는 화보마다 레전드 경신하는 시녜선 지금 바로 시작합니다화보 천재답게 다양한 표정은 물론 다양한 눈빛, 다양한 포즈까지 척척해내는 시···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDhfMjgx/MDAxNzA3MzU2OTQ3Nzc2.ebxidovrrURuDg1Zp2za4PVLZGdFo_PXnrOBGsNxuTwg.bISnOqGekIRHyEZPPkMHk5sIBHF4dz_LUvwi_uHakgUg.JPEG/IfYOyTV4CURiSM9YXWyVN2bpj9zI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤서하, 최성준은 어디 가고 말랑콩떡만?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37284389&amp;memberNo=33175148</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 10 Dec 2023 19:13:45 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 와엔..캠 아아 오늘은 매거진으로 활약할! 와엔캠 매거진입니닷 (으쓱) (오늘한정) 오늘의 주인공은 바로바로바로바로 로바로바로바로바 마켓하우스의 소제섭 과장님을 만나러 나왔습니···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjNfNzYg/MDAxNjkyNzgwMzM1MDEw._zdOE37w7G6Vdc95QnLlCMZNhPkHHJ9UsyT3b-DMf1Mg.fTr1J-g3EoRKqa8bEa2KyB9gsjwmrA-u2OIsYLhjXP0g.JPEG/Iqo1PxFwDoyZFe31U2nKbh2ou2hY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신혜선] 8월 30일, 늦여름을 책임질 큰 거 한 방 온다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36457961&amp;memberNo=33175148</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36457961&amp;memberNo=33175148</guid>
-            <pubDate>Sun, 10 Dec 2023 19:13:45 GMT</pubDate>
-            <content:encoded><![CDATA["나는 오늘 살인자와 중고거래를 했다" 강력한 문구와 함께 표정 하나로 모든 것을 말해주는 우리의 갓.혜.선.-⭐️ 스크린으로 컴백한다는데! 포스터 촬영 현장부터 사랑스러웠던 제작보고회 현장까지 지금···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjVfMjg3/MDAxNjkyOTI2OTE2OTMy.GEzmCO-1hd1T2QK97wK0qWS4PalKeItQR2lGIGDltf4g.P3MWc4LbhAy-NQmFiUMetnb3GT5upLpbm1prfeB1xBYg.JPEG/I8tz9MjIJbUMU9QZ9QpMABd5uxAw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
