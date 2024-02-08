@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 10:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 11:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱], 이동욱, 이동욱!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37313890&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37313890&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 08 Feb 2024 11:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)드디어 어제(7일, 수)디즈니+ &lt;킬러들의 쇼핑몰&gt; 전편이모두 공개됐는데요!매주'정진만' 역으로 과몰입에 과몰입을 불렀던배우 이동욱 씨진만의 마지막 이야기를 소···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDhfMTEx/MDAxNzA3MzM0MjkyODE1.fQYqI4XEVL_OttSAIpVICqCnnYODG8DHOZVniGTsYLMg.nIS7nz1zDNHBdQ-timo8nRZ-TSpvWU7K_JbJ6TBXs6gg.JPEG/IANs89GmYvIjKSq5Xxn3cnuQZfX0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱] 애교짱인 내가 이 세계에선 버석처연킬러짱?!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37301636&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 09 Dec 2023 05:18:11 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :) 요즘 제철하면 생각나는 건 뭐다? 과메기 귤 ... 그리고배우 이광수 씨 (˵ •̀ ᴗ - ˵ ) ✧그가 제철인 이유 지금부터 하나씩 알려드리죠첫 번째, 촬영 현장에서 늘 진···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDhfMTM3/MDAxNzAyMDE2NjMxMDYw.F9AgT9Qdj8dIkIoeKfabGfX9e0ZbPb62fXpfA0VZG24g.1y27RaLXqPT2JT47rk0GKc1VCOOTe3Ki69M7HA_Y2jAg.JPEG/I6zVPI_vWGo78spi8zkFM6fO5Q64.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유연석] 청룡의 한 페이지가 될 수 있게]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37001528&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37001528&amp;memberNo=35839671</guid>
-            <pubDate>Thu, 07 Dec 2023 03:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 킹콩지기입니다:) 지난 11월 24일(금)화려하게 돌아온&nbsp;* 제44회 청룡영화상 *&nbsp;그리고 빛나는청룡의 남자,&nbsp;청룡의 MC배우 유연석 씨와 함께했습니다  6년째 청룡영화상의 진행을맡고 있는 만큼 예리한 눈···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDFfMjgx/MDAxNzAxNDE1NDYzMDkz.MfaG-MxJlSAt1jXucfeR_GlgXgsJ0eQghU0i9IcoQRQg.7i5HxCPCaIS697NHASOIW_ei91iiMbUaiXPgmDjuoVAg.JPEG/I0Ei7s4SO9BppY00RMqFvTl_SPxg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
