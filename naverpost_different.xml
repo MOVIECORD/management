@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 디퍼런트컴퍼니 </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 08:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 09:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이지해] 누구보다 '끝내주는ㅇ지해']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37364624&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37364624&amp;memberNo=44744318</guid>
+            <pubDate>Tue, 20 Feb 2024 09:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요~ 디디터입니다!여러분, 요즘은 정~말 많은 작품들이 쏟아져나오는 것 같지 않나요? 이런 미디어의 바다 속에서 우리의 ♥최애♥ 지해 배우의 씬스틸러 활약을 모은! ୨୧ 끝내주는 씬스틸러ㅇ지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTVfMjk3/MDAxNzA3OTczMTk0MzIz.-SodFgcYZIeS8v6TkQmySzAH9tD6eANDkyJDTNocj10g.FcqB1fC_FSA_cOtu2MOJqJh8azcmcX2qqhKUtEz76tAg.JPEG/IAqO882eFTbtmVDaJNsHoiLqaIAI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이상진] 써브웨'이'! 상진 꿀조합 비하인드]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37330404&amp;memberNo=44744318</link>
@@ -168,14 +176,6 @@ K-할머니♥]]></title>
             <pubDate>Sun, 10 Dec 2023 19:15:14 GMT</pubDate>
             <content:encoded><![CDATA[여러분 안녕하세요! 디디터입니다 :-) 코로나19가 발생한 이후로 크리스마스를 즐기지 못하는 분들이 많이 계실 거라고 생각해요 (˃̣̣̣̣︿˂̣̣̣̣ ) 하루 빨리 코로나19가 종식되길 바라며 디컴 배우들이 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfMTg1/MDAxNjQwMTYwMDgxNzYx.klycWxFMzByKO3rNqtoHHuTIOK0xcRNNGP3ddkEGJvgg.gOz__BoiFYIM88FIBpjFEOXxxedVfSBuL4VFoMpX3yYg.JPEG/IRbiPi6xRGMMFoSeMHB1mbo-I9ss.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[차미경] '옷소매 붉은 끝동'에 잠자는 숲속의 OO가 있다?!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32999188&amp;memberNo=44744318</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32999188&amp;memberNo=44744318</guid>
-            <pubDate>Sun, 10 Dec 2023 19:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 디디터입니다! "6주 연속 화제성 1위" "동시간대 드라마 시청률 1위" MBC 금토드라마 &lt;옷소매 붉은 끝동&gt;에서 '박상궁' 역으로 짙은 여운을 남긴 차미경 배우!탄탄한 서사는 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfNDkg/MDAxNjQwMTQxMjM4Nzcy.wV_HLVzKYXBwcjSdhxuPE3OydK_DpcU8rVQyvmf73Wcg.c2r4nNRug3enZKxlYsTOGbSUfEdHjyGwQnb9mgmBMmIg.JPEG/I1zyRk6ikBV0wxx0hic_fvH4s9xM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
