@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 13:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 14:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 보고 싶었던 건 달디단 우도환이야]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37407238&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37407238&amp;memberNo=51396641</guid>
+            <pubDate>Wed, 06 Mar 2024 14:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[여러분이 기다리고 기다리던 그 포스트 맞습니다♥-ˋˏ (경) 우도환 배우 첫 포스트 (축) ˎˊ-때로는 소년처럼때로는 카리스마 넘치게화보 장인다운 치명적 매력 뿜어냈던 &lt;DAZED KOREA&gt; ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDZfMjU3/MDAxNzA5NzAwNjg1ODk2.6vW9_6PnxNMMHgbUoXAnRZAfE9eDZUsaxdsVt6mqkHcg.EVOdleG-GnVrIe7fXkC1_OmyOOdK1XdUm7sa4kw_1wcg.JPEG/IKVvHqR3bMgX-IREULPeXcAzD10Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤박으로 심폐 소생 완료]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37261695&amp;memberNo=51396641</link>
@@ -156,14 +164,6 @@
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36241132&amp;memberNo=51396641</guid>
             <pubDate>Mon, 13 Nov 2023 18:23:51 GMT</pubDate>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTdfMjEy/MDAxNjg5NTIxMjk1MTI2.T9kgH8hhIWfdzUv8Ijo-uolbmbgHVFknX8wukVSpEpAg.N_aQ7I1K71LCU3JF7Y_xgUDLNphKNexRojRrpj6WsXEg.JPEG/IJ3Se6fi7ZSdZ_4-wNEwz-lfVW0k.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WELCOME, 고두심]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36181425&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36181425&amp;memberNo=51396641</guid>
-            <pubDate>Mon, 13 Nov 2023 18:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[˗ˋˏ 대한민국 역대 최다 연기대상 수상 ˎˊ˗ KBS, MBC, SBS 지상파 3사 백상예술대상 TV 부문 대상 포함드라마 부문에서 받을 수 있는 대상은 모두 다 받은 ‘유일한’ 배우 ❥⛧ WELCOME TO H&amp; ⛧ H&amp;···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDNfMTgx/MDAxNjg4MzcwMjI1MjQw.WR6kMOe8O9O7PAPSm1YraDq5npGOcVk_ibXmPrD0FYIg.a4aOhEXjDt7q2Hq0Yd69J2tX6pxyUS6coFIZ5t-_fsMg.JPEG/IRiX8SwwW9Lx1mvNZQKdYEmx3kD4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
