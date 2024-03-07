@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 02:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 03:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김지연] 아기 훈고딩]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37443464&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37443464&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 07 Mar 2024 03:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-)오늘은 소개해드리고 싶은아주 자랑스러운(!) 아기 훈고딩이 있는데요 백연여고 2학년 5반에 다니고요수행 제출 담당인 친구는 바로 이름하여티빙 오리지널 시리즈 &lt;피라미드 게임&amp;···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDZfMTkw/MDAxNzA5NzE0NDcwNTE3.xlVmD1ReN0SBGo07De6Vhcxl5qFeZ0AiSObzGbO5Dzsg.5Iot0VKbeLnHRCLOLrxIWYo0-2_vKpbVTrvxvAg5OXYg.JPEG/IvijjFv6h2KNRb9rfB7mxD1j-9Wk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[장다아] 여기가 천국인가 봐]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37435071&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 17 Jan 2024 08:25:15 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기가 요 며칠 지켜보고 있는 수상한 쇼핑몰이 있는데요사..사장님이 잘생겼는데 ㅊ..총을 들고 세상 건조한 표정으로 쇼핑몰을 지키고 있고귀여운 조카와 함께 운영하더라고요철물점이라고 들었는···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTdfMTc1/MDAxNzA1NDc2NTMyNDI5.hLW9f02iYwRaCKUtB1c3RwQNYKQiagzXorRS49CYAZ0g.uI1larLS1Bk09l76z3Vi-TeVXFvB6ueytExTyrEB3Tcg.JPEG/ItNitUu1aOBWROZ3ghEgt9Duk6Pc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오소현]을 사랑한다고 말해줘]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37199645&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37199645&amp;memberNo=35839671</guid>
-            <pubDate>Tue, 16 Jan 2024 14:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-) 오늘 포스트의 주인공은!지니 TV 오리지널 &lt;사랑한다고 말해줘&gt;에서 화가 최진우(정우성 분)에게 미술을 배우는 농인 제자 '기주' 역을 맡았던 배우 오소현 씨입니···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTVfMTkw/MDAxNzA1MzExMzI5Mjgw.euJABIED7mm7Cvg2LtLyjj705f-746S4n44y1sNFqOog.wN898Z0hO4ys4iBGgzA33MNWx28rszXuY4f8eQN1f0cg.JPEG/IncOI_eMDKjG965qY8m9S3-495M0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
