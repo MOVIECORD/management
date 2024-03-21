@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 06:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 07:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김지연] <피라미드 게임> 결과 발표]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37518410&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37518410&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 21 Mar 2024 07:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :)오늘(21일, 목)티빙 오리지널 시리즈 &lt;피라미드 게임&gt;마지막 이야기가 공개되자마자 달려왔지요 “난 게임을 없앨 거거든”피라미드 게임 VS 성수지그 결과는..포스트 중간에 공개···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjBfMTQy/MDAxNzEwOTQyODc4OTcx.FDbh-I9ryyR_dSL1wBYuUiWOcuRaiIVPKIWhQbno14Ug.FO1h2Fmq0e-mmRpH-3kAGVmB7Mt2d2yf9DTljbd108gg.JPEG/IoqpVA99C6oL5lH3-QeaAN-MSprw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[장다아] 피라미드 게임이어야 하는 이유]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37501202&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 06 Feb 2024 08:23:10 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 여러분! 오늘은♡하트♡가 세상에서 제일 잘 어울리는 큐티 애교짱부터버석처연으로 모든 팬들의 마음을 대통합시키는 킬러짱까지 디즈니+ &lt;킬러들의 쇼핑몰&gt;을 통해 다양한 매력을 보여주는 배우 이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDZfMjM1/MDAxNzA3MTU0NDI0OTIz.jbWEL2aemtFtNB4P4cglSjTUFzoLSwiUbqQXkWl4szYg.i0A9UwcQDl5AjdnwLUKLB0-_Ik7cCP7piXnMkh8PYZcg.JPEG/I-LwInOSdCeCdAdk71Fe6ayDjWGc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이동욱] 동계 올림픽]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37290785&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37290785&amp;memberNo=35839671</guid>
-            <pubDate>Sun, 04 Feb 2024 05:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하십니까여기는&nbsp;'2024 강원 동계청소년올림픽'&nbsp;현장에 나와 있는 콩캐스터입니다오늘은국제올림픽위원회(IOC)의&nbsp;세계&nbsp;최초 '올림픽™&nbsp;프렌즈'이자강원&nbsp;2024&nbsp;명예자원봉사자로 활동 중인배우 이동···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDRfMzcg/MDAxNzA2OTc0ODc5NDYw.J14uh3Cg3ERiNMFcbUaDdgziGZIeaEGz6xVpJsGr9o0g.lwTHyZ4nu1NaacgLJdxKR7RnOmra4aI15IEQ_9xqwrgg.JPEG/I08-5OdyhxLvuFoJ8aL0SKnFIPXk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
