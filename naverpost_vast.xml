@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 09:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 10:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[What's In My VAST Garden_김서안]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37518634&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37518634&amp;memberNo=32146648</guid>
+            <pubDate>Mon, 25 Mar 2024 10:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[What's In My VAST Garden가능성이 무궁한 땅에 씨앗을 심으면 식물이 자라고 꽃이 피듯,VAST와 함께 하는 배우들도 '우리' 라는 울타리 안에서 각자의 꽃을 피웁니다.각자의 가능성으로 개성 있는 꽃을···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjFfOTgg/MDAxNzExMDAxMTg3NTg1.QGBbBkEzXOkOTaNyGHqlketSvG-I3LHjKMemPGYB1mgg.G1KHXVWXxL8XNzo44BPFpGHMuD-yYUSpF1d5ssyGRuYg.JPEG/IPqpyRI5rAit6ZcgcfjepIwhzXos.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘부로 신도현에 대한 마음 접습니다.]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37512824&amp;memberNo=32146648</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 24 Nov 2023 02:28:20 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST] SHIN DO HYUN ♥꽃향기 가득 실린 봄바람이 불던 어느 날 제주도에 간 베스트리가 글쎄, 도현이를 만났지 뭐예요♥[안-녕★] 머리부터 발끝까지 오가닉 한 느낌 가득시야를 그득 채웠던 아름···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjhfMjkg/MDAxNjgyNjQ3MzI1OTgw.tf-8DAx5f3kN73cH6NKCsPdHvMTUz-1b-JAWVtC6SAQg.W7h5kv06bXQTpTS_RzJyRGiEqWutLbLvPpT_Lt_1i6Eg.JPEG/IgKpS4llSfI-hGHtQzYs2HTTI2IQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[VAST zip]열 마디 말보다 '한'번의 '은수']]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35816073&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35816073&amp;memberNo=32146648</guid>
-            <pubDate>Fri, 24 Nov 2023 02:28:20 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST zip] 여러분의 마음을 환하게 밝혀주고 보들보들 매끄럽게 만들어 줄 VAST zip♥ 포스팅 한 번에 여러분의 마음 속 1등이 될 은수 배우의 촬영 현장 메이킹을 바닥까지 싹싹 모아 드릴게요 (찡긋 #···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjBfMjEg/MDAxNjgxOTc0NzUxMzE3.FtewzTG04wvP0IMdJ9wVDxWwA0WpCpV0sI0S2mzsoqEg.PEfD_hK6P9ECwk1L7cJNEgxzRTgBtOxXN-TBvj_m_Nkg.JPEG/IyeaA2h3u7houlSewlOtaBlDanJo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
