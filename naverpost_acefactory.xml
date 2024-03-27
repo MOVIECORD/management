@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ ACE FACTORY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 12:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 13:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최근 댓글로 여론 조작한
+배우 김동휘]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37551228&amp;memberNo=44834478</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37551228&amp;memberNo=44834478</guid>
+            <pubDate>Wed, 27 Mar 2024 13:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '댓글부대' 사회부 기자 ‘임상진’(손석구) 대기업 ‘만전’의 비리를 취재하지만 오보로 판명되며 정직당한다.그러던 어느 날, 의문의 제보자가 찾아온다. “기자님 기사 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjdfMjg2/MDAxNzExNTI5MjIzMTcz.eLpj282yL2ZPrvslBqCI7XL9rgBHvAPIZjF25Sjk-cYg.zBzWxIkiDHk_0_jIzCgDQgAgG4YyZ_cw77GbuBpRxW8g.JPEG/IA-gFT9LxCw2bNejrsYF99V0hbW0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예쁜 쓰레기 된 배우 장승조]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37501571&amp;memberNo=44834478</link>
@@ -163,14 +172,6 @@
             <pubDate>Sun, 10 Dec 2023 19:14:46 GMT</pubDate>
             <content:encoded><![CDATA[[거래] 나만 이렇게 퇴학 당할 순 없잖아 | 김동휘 캐릭터 소개 | 웨이브 오리지널 웨이브(Wavve) | 100억 납치 스릴러 [거래] 매주 (금) 웨이브 독점 공개 JUST DIVE Wavve! 바로 보러가기 https://bitly.ws/WUCA #···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTFfMjkx/MDAxNjk5Njc2MjMzODIx.MQK0vn4CGYp361mjupETWgavZfwFuRDbqxX9XmakZ3Ug.09vyKUT3_HJunapRp0YZWaXPTwIty-GSsTyZeGayY88g.JPEG/IapmW3MknCFj4RD5QP--bXh1NaJU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한혜진, 네 자매 이야기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36865243&amp;memberNo=44834478</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36865243&amp;memberNo=44834478</guid>
-            <pubDate>Sun, 10 Dec 2023 19:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[어느 바닷가의 한적한 마을.아버지의 외도로 부모가 떠난 집에 세 자매인 사치, 요시노, 치카가 함께 살고 있다.어느 날, 아버지의 부고 소식을 듣고 장례식장으로 향한 세 자매. 그곳에서 이복 여동생 스즈를 만나···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTBfMjcg/MDAxNjk5NjAwODEzMzk5.KzCCv0IitIaI8rUj-JFDn9P31aDPHQCNvgZUFKUNYd4g.ClnW-HHntlVAqUvvLLJ5vtE16AS2asM5njAuPRJ6J9cg.JPEG/IL79xxCXc3BGi2eetpWAD9JpcdJ8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
