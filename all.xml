@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 08:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 09:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2115,6 +2115,14 @@ VS
             <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMDNfMjk3/MDAxNTQzODE0MDQxNTA3.prwdxBXEleGz0YpqNBRvPTg9h1-MFE-9Txh7xgx6hCAg.0azqpL4LYz_W5kXso5mLzqXGv0wP8CrCxpDbxDtYTCkg.JPEG/IlFAoevQXQ0t2u4w8XFDqASqkpao.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[타쿠야]를 거꾸로하면 야'구다' (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37551256&amp;memberNo=44744318</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37551256&amp;memberNo=44744318</guid>
+            <pubDate>Wed, 27 Mar 2024 09:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 디디터입니다!여러분 모두 야구 좋아하시나요? 저는 최애 선수가 있을 만큼 좋아하는데요! 안 궁금한데요누구냐고요? 안 물어봤다고요 바로.. 엄청난 선구안의 2번 타자. 타쿠야입니다! 이러려고 어그로···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjdfMTQ1/MDAxNzExNTE2OTU2ODY0.kuTtHBkYGRzdkrIMEmAoc9MdHUIjrAksqdGve11D__Mg.idte70U_wJeeZVxu-KoTbLyKShVexfhTeLKwb5DO9HQg.JPEG/InIuD9jmIM-A0aRHeKeK4jx6_Oac.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이지해] 누구보다 '끝내주는ㅇ지해' (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37364624&amp;memberNo=44744318</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37364624&amp;memberNo=44744318</guid>
@@ -2274,15 +2282,6 @@ K-할머니♥ (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
             <pubDate>Tue, 14 Nov 2023 04:23:06 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 디디터입니다! 디컴의 재간둥이, 이상진 배우가 주당브라더스의 사장 '김정현'으로 등장해 활약한 플레이리스트 웹드라마 '백수세끼' 모두들 재밌게 보셨나요?'백수세끼'가 막을 내리면서 정현이와 작별···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjBfNTYg/MDAxNjQyNjY0MTc2NTcz.r694x2n0eWZY0sDnvfwmZlDBY1G6B2vT0vxbgcxdH5cg.7zHgSKOOXI5PEpOvusJRL4gH0WimWma-NX8jrpuob9Ug.JPEG/ImAHFk0Hz05X9lOb8b78UtWqqqnY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[디컴] 띵동! 디컴 배우들의 
-'크리스마스 다이어리'가 도착했어요! (네이버 포스트 ─ 디퍼런트컴퍼니 )]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33006493&amp;memberNo=44744318</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33006493&amp;memberNo=44744318</guid>
-            <pubDate>Tue, 14 Nov 2023 04:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 안녕하세요! 디디터입니다 :-) 코로나19가 발생한 이후로 크리스마스를 즐기지 못하는 분들이 많이 계실 거라고 생각해요 (˃̣̣̣̣︿˂̣̣̣̣ ) 하루 빨리 코로나19가 종식되길 바라며 디컴 배우들이 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfMTg1/MDAxNjQwMTYwMDgxNzYx.klycWxFMzByKO3rNqtoHHuTIOK0xcRNNGP3ddkEGJvgg.gOz__BoiFYIM88FIBpjFEOXxxedVfSBuL4VFoMpX3yYg.JPEG/IRbiPi6xRGMMFoSeMHB1mbo-I9ss.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
