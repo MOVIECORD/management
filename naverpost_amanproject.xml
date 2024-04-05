@@ -4,11 +4,12 @@
         <title>네이버 포스트 ─ 에이맨프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 01:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 02:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[최근에 새 프로필 공개한 [이종석]]]></title>
+            <title><![CDATA[최근에 새 프로필 공개한
+[이종석]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37182873&amp;memberNo=43803149</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37182873&amp;memberNo=43803149</guid>
             <pubDate>Mon, 15 Jan 2024 10:22:45 GMT</pubDate>
