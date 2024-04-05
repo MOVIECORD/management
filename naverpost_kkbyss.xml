@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 09:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 10:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[유연석] 무대 시작합니다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37602204&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37602204&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 05 Apr 2024 10:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 모두 집중해 주시기를 바랍니다 [사진: 엘르] 아~주 특별하고멋진 무대가 준비되어 있습니다! ʕ˶´• ᴥ •`˶ʔ [사진: 엘르] 바로바로 배우 유연석 씨의'엘르' 4월 호 비하인드인데요!&nbsp; [사진: 엘르]···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDVfMTMg/MDAxNzEyMjg0Mjc2NjY1.4OGpKbeOK2EyRVyrGHOujS-IYJ7fKTm4R37ayIVSbqwg.WMfueWO2juu6rU2c_UMrIJkvA5vuYTCLSiZUkZpSZmQg.JPEG/IR86b3OEhB-w0Aa8J2Y0O6LVq6Zw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱]의 화려한 봄]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37592600&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 29 Feb 2024 06:24:04 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :)바로 오늘!티빙 오리지널 시리즈 &lt;피라미드 게임&gt;이공개되자마자 찾아왔습니다배우 김지연 씨와 함께하는 포스트지금 시작할게(요) 숱한 전학 끝에 이번엔 백연여고로 전학 오게 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjlfMTE5/MDAxNzA5MTY5MDc1MDgz.l4A8HYEc_37Gbv-SM7Evd2ByGs9OfiPvOVOUF4TAsXcg.08DhyfVFd7L_k_XMqhLLd2Dggd_pUuJ0OrSZwe63CfUg.JPEG/Iz7Y-yEy3WJ3KNRnR1RqmtzOPlZw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[류혜영] 텐트 밖은 류럽♥]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37387845&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37387845&amp;memberNo=35839671</guid>
-            <pubDate>Sun, 25 Feb 2024 03:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:)지난 18일(일) tvN &lt;텐트 밖은 유럽 남프랑스 편&gt;이 첫 방송되었는데요배우 라미란, 한가인, 조보아 씨와 함께 ♡ 캠핑을 떠난 배우 류혜영 씨 ♡혜영 씨의 텐트 밖은 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjJfODUg/MDAxNzA4NTkxNzM0MTEy.AgezaYzJcQpBJvWNcSXWOhrCtPytQspbNl6hUVvrykEg.rkoQZfeD3XwPBBSlvW4pDFnW-ELw_jNqRmD91JbawiMg.JPEG/IfCYXptaM8eqz6_euASejkNw9v-M.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
