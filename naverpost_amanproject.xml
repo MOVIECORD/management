@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 에이맨프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 08:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 09:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보석보다 빛나는
+[이종석] 얼굴]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37589721&amp;memberNo=43803149</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37589721&amp;memberNo=43803149</guid>
+            <pubDate>Fri, 05 Apr 2024 09:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[4월을 맞이하여 함께 공개된 이종석의 &lt;하퍼스 바자&gt; 코리아 5월 호 다들 보셨나요?화창해진 날씨 속 드디어 그가 찾아왔습니다찰칵 "저... 혹시 찍혔나요?""네, 제 눈도장에요" 다음엔 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDVfMTM3/MDAxNzEyMjgxNDc5NTgw.aX5-ru0Yi6hfiPHLPzoJ0_Hh1jBMNjFPEkUsBt2OlFog.fEBerA7ZslwBVZMRC7-YYRNCKLDOKfl2cmbce76mt5Yg.JPEG/I0u1hvblG6skkgz5bKCCe57y3x08.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최근에 새 프로필 공개한
 [이종석]]]></title>
@@ -164,14 +173,6 @@
             <pubDate>Fri, 01 Dec 2023 06:25:50 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 미리메리 크리스마스 를 맞이해 연휴 동안 종석 앓이하게 만들 컨텐츠를 들고 찾아왔습니다^ㅡ^ 이번엔 드라마 현장이 아닌 특별한 현장에서 만난 종석 배우! 이날따라 유독 반짝반짝 빛이나고, 美친 컬러···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMjBfMTU5/MDAxNTQ1Mjk1OTg0MTE4.shMRjolHR6yQQDMVVgZKUrK8CidyszoD3yvl3V5IVgUg.SpPMIiHiW1Hg0r5GXBW0YjuKwWiSipdxpk4XDqnGKyEg.JPEG/Ig-39-fO3RNOn6djs86NFAw52hug.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[본캐 [이종석]과의 PIT A PAT한 만남! 2018 팬투어 Crank Up! vol.2]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=17233654&amp;memberNo=43803149</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=17233654&amp;memberNo=43803149</guid>
-            <pubDate>Fri, 01 Dec 2023 06:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 안녕하세요! 어제 방송된 SBS TV시네마 '사의 찬미' 다들 재미있게 보셨나요~? 벌써 천재극작과 우진과의 만남이 한 번 밖에 남지 않았다는게 믿겨지십니까ㅠㅠ 사찬으로 현망진창된 여러분들을 위해 본캐 이종···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMDNfMjk3/MDAxNTQzODE0MDQxNTA3.prwdxBXEleGz0YpqNBRvPTg9h1-MFE-9Txh7xgx6hCAg.0azqpL4LYz_W5kXso5mLzqXGv0wP8CrCxpDbxDtYTCkg.JPEG/IlFAoevQXQ0t2u4w8XFDqASqkpao.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
