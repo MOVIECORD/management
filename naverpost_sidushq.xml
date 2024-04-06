@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Apr 2024 09:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2024 10:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박기웅] 그냥 기웅 배우가 작품이세요.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37589003&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37589003&amp;memberNo=28456565</guid>
+            <pubDate>Sat, 06 Apr 2024 10:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요!&nbsp;싸이더스HQ입니다.봄바람이 살~랑~살~랑 부는봄이 찾아왔어요! 봄과 함께 우리를 찾아온 또 다른 선물이 있는데요⎛⎝(•‿•)⎠⎞바로바로매주 토요일 오후 5시MBN 대국민 미술작가 오디션&nbsp;&lt;화100&gt;의 메···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDJfMjA3/MDAxNzEyMDM3NzI4Nzgy.yUYLwQdx5almN3nCAO-JEbfUWlmKMuSumiGGl7Y_c4cg.47NSmH3doYGog_ZgXZy-CwVnNZXu7odZOWN3TY_Etrkg.JPEG/InIQVCaGY5HgZ3IWrQsce3Q6eqow.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박기웅] 자꾸 사람 반하게 하지 마요 진짜]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37373187&amp;memberNo=28456565</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 13 Nov 2023 22:18:18 GMT</pubDate>
             <content:encoded><![CDATA[난&nbsp;우울할&nbsp;때.. 빗속에서 '황제성'을 봐...｀、、｀ヽ｀ヽ｀、、ヽヽ、｀、ヽ｀ヽ｀ヽヽ｀ヽ｀、｀ヽ｀、ヽ｀｀、ヽ｀ヽ｀、ヽヽ&amp;#xff40···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfODUg/MDAxNjc2NTk0NjUwMzUy.9sSZf0E9WMfNZVu1zfh-ZoaqYQI4GK2o-DMPj9t3R10g.IBbDAaeYy45qyzDLIiADfm6CuY6G-O96qngkEpw9OTgg.JPEG/IzHtCuVMXYCnHMHmsrC8JTyDS6lQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혜윤이와 함께한 첫 번째 혜피데이♥]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35468948&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35468948&amp;memberNo=28456565</guid>
-            <pubDate>Mon, 13 Nov 2023 22:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5일 진행된혜윤 배우의 데뷔 10주년 기념 첫 번째 팬미팅&lt;HYE-PPY DAY&gt; 혜피하고 애정 넘쳤던 &lt;HYE-PPY DAY&gt;로 다시 한번 돌아가 볼까요?&nbsp;.... &nbsp;떨림 + 설렘 가득했던 공간 팬분들을 향해 반가···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTVfMTk4/MDAxNjc2NDM2Nzg3MTcw.cwCR0A8qjPitJ7dgSmoP2QhxyHbF-tzLXIeB3LT2Htkg.1neq7T5Uvt4UOayIG83Kc4LXqiO6QvZkcr4kg95FbdAg.JPEG/IPHyTRmXVH_iFwoM1yEkc8P0RlMA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
