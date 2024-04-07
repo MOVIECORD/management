@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Apr 2024 11:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Apr 2024 12:31:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김혜윤] 혜윤 업고 튈 사람 구함!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37600060&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37600060&amp;memberNo=28456565</guid>
+            <pubDate>Sun, 07 Apr 2024 12:31:02 GMT</pubDate>
+            <content:encoded><![CDATA[사진: tvN 김혜윤, 니가 내 별이야 안녕하세요(*Ü*)ﾉ싸이더스HQ입니다.오늘은,솔선재의 美친 케미로,&nbsp;&nbsp;주목을 받고 있는&nbsp;tvN&nbsp;&lt;선재 업고 튀어&gt;&nbsp;&nbsp;포스터 촬영 현장을 공개합니다!만약, 당신의 최애를 구···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDVfMjEg/MDAxNzEyMjkyMDIwNTM0.mnB7LmsLwh6I0Wro5ncA-r-7xL37-Fo4-HIeFvd3Eisg.AXl-RlFGVwWsp5Vhf7lnN4eKAwQMN6_RvO2q_gPMnNkg.JPEG/IgVpcGvUZ3RQyc6PVTWBhsytsRG0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박기웅] 그냥 기웅 배우가 작품이세요.]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37589003&amp;memberNo=28456565</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 13 Nov 2023 22:18:18 GMT</pubDate>
             <content:encoded><![CDATA[모두가 열광하고 있는 이곳에&nbsp;싸더지기는 어떤 일로 다녀왔을까요?  바로 [영상 출처 : tvN '성스러운 아이돌'] 지난주 첫 방송된&nbsp;tvN 드라마 &lt;성스러운 아이돌&gt;에서 아이돌 그룹 '와일드 애니멀&amp;···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjBfMTEy/MDAxNjc2ODgwNjI0OTQ5.nEilpbXdqypw4bi5hzGprzN75RKRoRCHwuuFYrHWA3gg.JZ5-T6CN8q-0nCN_FD9NvBCqIVoRMTz7H8XMro-xyvAg.JPEG/I3MwvzLdotIgx-zsbjEF1kgR510Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난 우울할 때.. 빗속에서 '황제성'을 봐...]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35493441&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35493441&amp;memberNo=28456565</guid>
-            <pubDate>Mon, 13 Nov 2023 22:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[난&nbsp;우울할&nbsp;때.. 빗속에서 '황제성'을 봐...｀、、｀ヽ｀ヽ｀、、ヽヽ、｀、ヽ｀ヽ｀ヽヽ｀ヽ｀、｀ヽ｀、ヽ｀｀、ヽ｀ヽ｀、ヽヽ&amp;#xff40···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfODUg/MDAxNjc2NTk0NjUwMzUy.9sSZf0E9WMfNZVu1zfh-ZoaqYQI4GK2o-DMPj9t3R10g.IBbDAaeYy45qyzDLIiADfm6CuY6G-O96qngkEpw9OTgg.JPEG/IzHtCuVMXYCnHMHmsrC8JTyDS6lQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
