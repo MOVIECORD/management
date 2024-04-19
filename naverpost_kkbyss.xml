@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 05:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 06:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[조윤희] 날씨가 따뜻해진 이유]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37674066&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37674066&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 19 Apr 2024 06:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다 :) 요새 날씨가 따뜻하고자꾸만 설레고&nbsp;그런 이유가 뭔가 했더니 봄은 거들 뿐, 배우 조윤희 씨가 제 맘속에들어와서 그런가 봐요&nbsp;(◡‿◡) 이렇게 완벽한 비주얼에 화사한&nbsp;미소까지 곁들이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MThfMjAg/MDAxNzEzNDA3NDg5NDA3.rgPydlTKb4GmlmYdi7nyx3pPbWeyJs7ZEWx0StnXZe4g.J0hvbQWPHsjKxAoId5o5oMrlJZb0HezHaM4uzQlrqFgg.JPEG/IzGFiHaq3y2GQn05PKU97uygWtpg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김지연] 체크메이트]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37669782&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 09 Mar 2024 03:22:33 GMT</pubDate>
             <content:encoded><![CDATA[여러분, 그동안 행복하셨나요...? [사진: 싱글즈] [사진: 싱글즈] ...킹콩지기는 그러지 못했습니다...ˣ‿ˣtvN &lt;내 남편과 결혼해줘&gt;라는도파민 바다에 빠져 허우적대던나 강지원 킹지원이&nbsp;수민이를 안 본지어···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDhfNzAg/MDAxNzA5ODc4MzgwNTU1.uLFnu88OUS6Xw58fwPOmloOGyFjn_KrArbiGK57F61kg.uxA4kyvD2aIKFQlPbe3_sHwWxO0_wJ-TIPkkz1xWAZ8g.JPEG/IMqehPecT7WBrYBd3t09rCkeEYhY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[안소요] <피라미드 게임> 최애 선생님]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37451469&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37451469&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 08 Mar 2024 08:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 졸업한 지 n년차 킹콩지기입니다:) 오늘은 제가 가장 좋아하는 최애 선생님을 뵈러 학교에 와봤습니다 ╲/ ╲╱ ╲ 찾. 았. 다 ╱ -- 내 최애... -- ╱ ╲ / |문학을 담당하는 이 분은 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDhfNTMg/MDAxNzA5ODY1MDMxMjg4.0QJvvGpZb7H0uLU79xs6Mk12rOP2N5qMmbaEeje1bCQg.NBOHJM7uSFlHJBd0O7GMkh1FG5OsiGeNoTIrsOJuIPsg.JPEG/IJ_b_A74k6_6ik_GWKvsbyrBi_jA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
