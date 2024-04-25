@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 06:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 07:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[전도연]의 봄 ♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37710496&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37710496&amp;memberNo=22903361</guid>
+            <pubDate>Thu, 25 Apr 2024 07:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[어디선가 들려오는 콩닥콩닥 소리 (⁄ ⁄•⁄ω⁄•⁄ ⁄) 바로 도연 배우를 보고 있는저의 심장 소리입니다  도연 배우의 화사한 미소에 오늘도 심장이 두근두근!! 요즘 숲블리의&nbsp;super 이끌림 하는 것… 바로.. ‘전도연’ 오···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjRfMTc4/MDAxNzEzOTQyNTQ5MTkx.dA9RYGa53GAAsGcuS0yIdjEHitunQ_4peGyZcOzkdzYg.u4ZR_IUlI6Z12gSIFYgL3ZH61OVutqLi4qy8QWW4Gzsg.JPEG/IPgDCdX-k9pRVpIxm4-FwlC62ozs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시크의 정석, 공효진]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37659391&amp;memberNo=22903361</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 13 Nov 2023 22:17:43 GMT</pubDate>
             <content:encoded><![CDATA[공장 비정규직 노동자인 내가어느 날 쿠키 파는 알바생이 되었다…? 하루아침에 쿠키 파는 소녀가 된 수영의 이야기 들어보시겠어요?  우리 수영이는요.. 하나뿐인 동생을 위해 열심히 살아가는 소녀 가장인데요 동생···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDNfOTQg/MDAxNjk4OTk3NzI2MTcx.CeZDPkatm1rYv1WGzn1fRgMP-LxprZIBLsThqP50Wfcg.7uOdn4JdUpp-jhgGAvMFwVHcjDHL1Vknta8LS6882wUg.JPEG/IBWlRypa8uUAE_ZBltLDZCI0JCj8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 집 ‘케미’ 잘하네]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36803552&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36803552&amp;memberNo=22903361</guid>
-            <pubDate>Mon, 13 Nov 2023 22:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 이 집이 케미를 그렇~게 잘한다는데 다들 소문 듣고 오셨나요-? 그렇다면 냅다 주인장 소개부터 올리겠습니다  U+모바일tv 오리지널 &lt;하이쿠키&gt; 로 여러분들의 월, 화, 수, 목을 책임지고 있는 ˛ε♥ ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjdfMTUy/MDAxNjk4MzkxNDY4NjE3.FqLWs12opuDkkxU3hXoEUB3bt33LM19k0ILCLPWFvHAg.CnX673iB17n8vIiFSsW_uYfqRSiZAA6nZMNoWqFY3Y4g.JPEG/IbWUiwclzo-UkVDOpqHSEM5alde8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
