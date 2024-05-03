@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 12:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 13:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맞다 [안재현] 화보 장인]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37754696&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37754696&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 03 May 2024 13:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[두려움을 설렘으로,슬픔을 기쁨으로 바꾸는 힘을 가진 사람.- 더 갤러리아 인터뷰 中  'The galleria' MAY Issue 'The galleria' MAY Issue *+:&nbsp;매거진 '더 갤러리아' 5월 호&nbsp;:+* 매···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDNfMjEg/MDAxNzE0NzIxNTQ4MTEw.nKfz8G9TOUXa14C2sDF_zAqlBWp8sUfxBvJeuJuEVXAg.odA55DJPJpbFv8VvaIwPqjYU1J9UfMDuwtCxjknZ3jsg.JPEG/IbfXZfOhqTrxGDx_D9RzAFUBkgeM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사연 있는 남자, 문지후]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37543889&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 15 Dec 2023 15:19:44 GMT</pubDate>
             <content:encoded><![CDATA[(현시점) MBC &lt;세 번째 결혼&gt;에서 훈훈한 비주얼과 안방극장의 온도를 쥐락펴락 하고 있는문지후 배우지후 배우가 '백상철'로 지내면서 겪었던 그간의 내용을 치비가 간단 요약해 보자면..!정다정&amp;#40···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDNfMjkg/MDAxNjk5MDAwOTc0MTY0.vd-UW-VnK_9p_xnfqb3MBHbq45Z46aPt9sGunUGmTf0g.yhSWdmKaISsnNJc_tP68fsyz4xhvzezZeCAZ5sFG6zIg.JPEG/IFrVOWtRptb0NNV8qLqQko-FYAPA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[조병규]의 Letter, 병규판서에게 보내는 편지]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36755831&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36755831&amp;memberNo=3247896</guid>
-            <pubDate>Fri, 15 Dec 2023 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[늦어서 미안, 많이 기다렸지?병판 분들께서 기다리고, 기다리던 &lt;팬미팅&gt; 비하인드 사진!아.묻.따 더 이상의 말이 필요 없는, 병규 배우의 &lt;팬미팅&gt; 비하인드 보러 GO!본격적인 팬미팅 전, 리허설 중인 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjBfMzUg/MDAxNjk3NzY4Mjc4MjU2.ZSOddet4cSMAXu0S-Ztlxgx6mVdsYCgw1gv4IutsdZIg.haRbgIFXZAtjdy7R_WtN2NXSnDQ1lNOCfgCkrUgWNLUg.JPEG/Icvki1_XBSE2Sau3L9xfQnh9RqFY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
