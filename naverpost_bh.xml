@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 May 2024 02:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2024 03:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트]
+5월의 BH ON AIR]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37755539&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37755539&amp;memberNo=21724264</guid>
+            <pubDate>Sat, 04 May 2024 03:21:28 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDNfMzAw/MDAxNzE0NzMzMzg0Mjgy.AKe3EziroJYHrinDKQnHaRol-Gqexhe3wcV1hkydPu0g.iq26Dy_M1SKu8ep1nnJeZME9BkCAFvsfeqGl_zd6ZV0g.JPEG/II2JykHQdedseb6Z-0fxlfsJQcO8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너무 심했잖아.. VS 너 무심했잖아]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37731848&amp;memberNo=21724264</link>
@@ -161,15 +169,6 @@
             <pubDate>Thu, 23 Nov 2023 09:18:21 GMT</pubDate>
             <content:encoded><![CDATA[BH엔터테인먼트 17인의 배우가 2023년 연말을 맞아 유니세프와 함께 마리끌레르 12월호를 장식했습니다. 전 세계 어린이들에게 꿈과 희망을 안겨줄 "유니세프 팀" 그리고 BH엔터테인먼트 배우들이 전하는 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjNfNjAg/MDAxNzAwNzE1OTA1NTE0.pMUQs8JBkWwtLM8JneXhvvQGBr4ZnmTtioLBQ2egXogg.3auhWoJl-JUVCDpAJTvCxvysa5HwjgcXXZeCp2zRZp0g.JPEG/IDs1ZV-DGOWTSs1shQ48ja27cEKI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BH엔터테인먼트 단체 자선 화보
-<1탄>]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36921099&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36921099&amp;memberNo=21724264</guid>
-            <pubDate>Wed, 22 Nov 2023 09:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[BH엔터테인먼트 17인의 배우가 2023년 연말을 맞아 유니세프와 함께 마리끌레르 12월호를 장식했습니다. 전 세계 어린이들에게 꿈과 희망을 안겨줄 "유니세프 팀" 그리고 BH엔터테인먼트 배우들이 전하는 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjJfNTUg/MDAxNzAwNjM5MDUxODUx.dF02UO84WIG3jCIsPZiOn4HgRFvRZMYsynxL0tRN884g._VAUtqdMoYrTZGiXORHSlmNRAdAL2ABvhLY0tTZA2Zsg.JPEG/It9mdK4wxhbC3ZxnuLjHohOXXDkg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
