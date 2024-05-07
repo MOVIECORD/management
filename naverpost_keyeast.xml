@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 10:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 11:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예능 작가로 변신[한 나]]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37773309&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37773309&amp;memberNo=29770009</guid>
+            <pubDate>Tue, 07 May 2024 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[그래! 수목 드라마! 너로 정했다!안녕하십니까?지난주 첫 방송된 JTBC 수목드라마 '비밀은 없어' 넷플릭스 오늘 대한민국의 TOP 10 시리즈 1위!까지시청해 주신 여러분 고맙습니다.앞으로도 쭉~~ 수요일, 목요일 그···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDdfMjIy/MDAxNzE1MDU5NDE2NjI0.02spAHprNMCOKAddvcwMaAkN7QOmbQ8hfFs5jh2qWoYg.tFYVCN1FXMsAdNtxjHoU2pjEKcr6fEnPm2NHqelCkRYg.JPEG/IymSFPw94rtWi15IF5mMYzVsGvwg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문가영의 완벽한 여정]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37713229&amp;memberNo=29770009</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 Nov 2023 14:17:45 GMT</pubDate>
             <content:encoded><![CDATA[어머 이게 무슨 향기야~? 겨울이 오는 향기인가? 아니면 보아 배우한테서 나는 향기인가?오늘은 키동이 '홍조'에서 다시 '보아'로 돌아온 보아 배우의 광고 촬영 현장을 찾았습니다!돌아온 겨울을 맞아 따뜻한 겉옷···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTVfMTgg/MDAxNzAwMDUwNTU1MDQ2.PtZlfEBGmHkVJCGLbCA9ClvRj2onf7Kagq5QbFXyzaEg.JYBpttEQ97lsaBORoJ8W7vNb_XOC8A3w7uSN_5JiX4Ag.JPEG/IxvQNPRI8aoxy2jtQPKz6A7SOH0Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안방마님 박하선]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36884916&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36884916&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 14 Nov 2023 14:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[마님 중 최고의 마님바로 대한민국 안방마님 하선 배우가 전대 미문의 신분초월 고기 스캔들과 함께 시청자들을 찾아옵니다!바로~! 제목부터 범상치 않은KBS 2TV 드라마 스페셜 2023 단막극의 여섯 번째 작품 '마님···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTRfMjQ0/MDAxNjk5OTQzMDI4NjEy.CbKsa2ktQdomDcka3dVUtil5sQ9y4i22_jEnf2ynesog.IBBbGg8FyjAAKVELElq4sxi2hMdKDV0_xABODHfv2nEg.JPEG/I9Y0wN8qGJmYpQ0W6nLJnqCtsmi4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
