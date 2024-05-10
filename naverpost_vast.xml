@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 08:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 09:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[What's In My VAST Garden_한은수]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37785042&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37785042&amp;memberNo=32146648</guid>
+            <pubDate>Fri, 10 May 2024 09:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[What's In My VAST Garden가능성이 무궁한 땅에 씨앗을 심으면 식물이 자라고 꽃이 피듯,VAST와 함께 하는 배우들도 '우리' 라는 울타리 안에서 각자의 꽃을 피웁니다.각자의 가능성으로 개성 있는 꽃을···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDlfMTEx/MDAxNzE1MjIxODM5Mzc1.9XGYnJDSDNY-qJFJpsY_DPxnZzjFnXKwoL3sdn7Ot7Ag.zbjsY5eqD-MkLHVXnJLTFrlk1knKunBbyFrYBH21vLMg.JPEG/IUYhsDZQUey7TruFn1RvyruIMJgo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현빈 포스팅 사건]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37551163&amp;memberNo=32146648</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 13 Nov 2023 22:17:57 GMT</pubDate>
             <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2021 BECOME&nbsp;WHO&nbsp;I&nbsp;AM 어느&nbsp;장르에&nbsp;갖다&nbsp;놔도&nbsp;분위기로&nbsp;장르를&nbsp;만들 무드&nbsp;장인&nbsp;빈느&nbsp;✨ 보기만&nbsp;해도&nbsp;가을&nbsp;그&nbsp;잡채인&nbsp;화보&nbsp;비하인드,&nbsp;바로&nbsp;만나보아요♡ - #현빈&nbsp;#HYUNBIN&nbsp;#WWDKOREA #존···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDRfMjg1/MDAxNjgzMTY5NTYyMzMx.Ebln5RWVB8edqep7CY44K78zxbWS0qpx5TAscY2okdMg.1hbyzTs1OQEbAus2mIAhJJJEc88ukKYNfBEH__yKWLAg.JPEG/I8IsHJyK6fNvg9mLto229pDjX60c.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[VAST 이사했zip] 지이니와 함께 한 여름]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35705542&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35705542&amp;memberNo=32146648</guid>
-            <pubDate>Mon, 13 Nov 2023 22:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2021 -   출처 / VAST엔터테인먼트본 콘텐츠는 VAST엔터테인먼트에서 발행한 콘텐츠입니다.무단 수정을 금하며, 출처 표기 후 비영리 목적으로 이용하실 수 있습니다.소속 아티스트에···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMzBfMjYz/MDAxNjgwMTQ2MDEzMzIz.fx_dHIdkSlfbVTPsk5dTdoEZyTFkw7sPwT2yi0fgoGMg.F3xblC9tXHMTCBlMZhdFBXHkuGApvo4dAQCdrBrsOsQg.JPEG/IUztP5wEZdHBh_l-0r7mkzm6OeIA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
