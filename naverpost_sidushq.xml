@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 07:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 08:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[임주은] 천사를 보았다.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37789618&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37789618&amp;memberNo=28456565</guid>
+            <pubDate>Mon, 13 May 2024 08:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요싸이더스HQ 입니다.지난 3일 진행된MBC 일일드라마 &lt;용감무쌍 용수정&gt; 제작발표회&nbsp;비하인드 포스팅을 들고 왔어요! 이날 아주작정하고 아름다웠다고다 소문났어요;우리 앞에서만 예쁘라구요.&nbsp;큰맘 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTBfMTk5/MDAxNzE1MjY5OTY0MDg1.AYnc6JkAxDBpjoplt2qkN800cdwLfPzONJIUVb_lgesg.P4620N4HDDAkBX245TC2p-0l1cNLzTRQwzgO6CjOOWgg.JPEG/I248HAhLKTT-9Zxy80lNNcaTu_uM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[임주은] 전투력 만렙 그녀]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37753980&amp;memberNo=28456565</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 13 Nov 2023 22:18:18 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 여러분! 오늘 싸더지기가 여러분에게 소개해 드릴 분이 있습니다 ଯ(｡ᵕᴗᵕ) 바로최근 IHQ(sidusHQ) 새 식구가 된 병헌 배우인데요 ( ´╹ᗜ╹`*)보기만 해도 행복해지는 병헌 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjRfMTAw/MDAxNjc5NjMzOTY5NzY3.gcde20UOU7PrIkTmvJAdXyGjrQaBG_qU6jUk321-TPYg.XfXdNubwsMQ9VtTHfQ41wvvHmSBdUDp3D-i0GhvVrZUg.JPEG/Im7i2OnQkHREVS48LXM15CMseuDE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[축복의 끝이 없는 동현]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35632235&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35632235&amp;memberNo=28456565</guid>
-            <pubDate>Mon, 13 Nov 2023 22:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[“난 너의 눈을 가려주곤 했어 넌 아무것도 보아선 안 되니까”눈을 가린 채 나타난 오늘의 주인공뮤지컬 &lt;브라더스 까라마조프&gt;로 돌아온ღ동현 배우ღ동현 배우 열일에 축복이 끝이 없네, 끝이 없어···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTZfMjMw/MDAxNjc4OTMwNTI2MzMx.5-yTyemC3mLb_Kr3VfvEzzpZXbKgkz73ajPdyV9V9ygg.HJ8RGvJ53RUmUEM7ERHWe-YtMySkbkUucvchxIdapoUg.JPEG/IoSwEwhoLHiB7IgEYUJsl3L3U2IQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
