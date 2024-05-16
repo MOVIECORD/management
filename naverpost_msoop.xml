@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 07:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 08:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상큼함이 눈앞에 [수지]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37822980&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37822980&amp;memberNo=22903361</guid>
+            <pubDate>Thu, 16 May 2024 08:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[활력소가 필요한 날에는 법칙이 있다! ★예쁜 사람 보기 법칙★ 지금부터 수지 배우 사진 감상합니다ᰔ 본격 감상 전 촬영 준비 중인 수지 배우! 카메라와 아이컨택&nbsp;ᯓ★ 대기할 때도 이렇게 예쁘면 어쩌나⍣ 봄이 다 어디···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTNfMTMx/MDAxNzE1NTY4NTU0NzMy.uQ6U1r31FBzTu0kgVCAt04vSsqBQUBP6OANm0xmtYiIg.Io8-dJwXz-yAzxLtC_q2XQwjVN6oUTotKL3vyy8wuMIg.JPEG/IhtLCNconwRJuUv2nhmNvXk6KbEo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전도연]이 사는 곳은?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37806449&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Nov 2023 10:19:55 GMT</pubDate>
             <content:encoded><![CDATA[매주 월-목요일 늦은 밤이면 찾아와 하루의 피로를 날려준 &lt;하이쿠키&gt; 가 오늘 막을 내렸습니다 (˃̣̣̣̣︿˂̣̣̣̣ )한 입만 먹어도 욕망을 실현시켜 주는 의문의 쿠키, 하이쿠키에 얽힌 이들의 이야기 &amp;lt···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjNfNzYg/MDAxNzAwNzIwODA1MjI0.L_poEPLUaDroZv3kv-0cDMalJuGG_4PMndg-TuGap2cg.aTfC-17Rez9f4bl5_Qw6yKOlh0mEbYd3DwSyBmSJmNAg.JPEG/IGo8Rs9UZRQpreJUZJWuFwjhpYxY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 생각만 하는 언니 VS 자기 생각만 하는 언니]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36875700&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36875700&amp;memberNo=22903361</guid>
-            <pubDate>Mon, 13 Nov 2023 22:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[지상 최대의 밸런스 게임…! A. 내 생각만 하는 언니&nbsp; VS&nbsp;&nbsp; B. 자기 생각만 하는 언니 여러분이라면 어떤 언니를 고르시겠습니까…!  감이 잘 안 오신다구요? 그렇다면 예시 보고 가시죠 자, 여기 A.(동생인) 내 생각···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTNfMjEy/MDAxNjk5ODUxNDk5ODgx.iqKMMEk-LjJGghNhqUEQjzW17_WVQeoyoSaxlPjioIcg.UtUHsgzXsinltle5VLcpjvOeUYvPw2oM3N6KLAaFN2kg.JPEG/ISyBfeX4DDPdV1MMA4d0D1p5nc_M.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
