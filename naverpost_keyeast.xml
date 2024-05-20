@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 13:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 14:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한선화랑 놀자!!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37842413&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37842413&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 20 May 2024 14:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[한선화 배우의 차기작!! 6월 12일 첫 방송되는 '놀아주는 여자'포스터부터 궁금증 자극! 재미있어 보여서 기다리고 계신 분들 많으시죠? 그 전에..!! 한선화 배우에게 5월에는 특별한 일이 있었는데요?바로바로 4년···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTlfNTEg/MDAxNzE2MTA5MzM2ODYy.hqsc9OtYiJ8AP6OGcJ6jdvNlpYqDxHkHDCMD3T6q-BUg.R7Ns1B4LkO6cdElSk0wM_DWNepN4chpNT56TCUmBikwg.JPEG/IzC3VCmfCQhi4bT8Fxs6Fs53iPe8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밀라노 문가영
 ▶싱가포르 문가영]]></title>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 01 Dec 2023 14:17:26 GMT</pubDate>
             <content:encoded><![CDATA[레드카펫 위 찬란한 블랙 여신카리스마라는 것이 폭발한다기사 사진 맞나요...? 우주대스타 김서형 역의 영화 속 한 장면 아닌가요?이 각도 저 각도 어디서 봐도 흠 잡을 데 없었던김서형 배우의 시상식 비하인드 지···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDFfMjg2/MDAxNzAxNDA3Njc1OTEw.Sj7lro43ncna_yigREfp6oZLgCPm8dL1QKw8W60z3i0g.RSkUSfJGZitgv_jnBy8OebZj2eUScHC5IUBnOOQFaWgg.JPEG/IBBGD_eKJ4NlurfTfq8Uih2P8wbA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 키동어워즈 1부]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36963194&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36963194&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 29 Nov 2023 14:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 여러분~! 키동입니다!키이스트 2023 연말 결산 콘텐츠 스타트!! 2023년 한 해 동안 정말 다양한 분야에서 맹활약을 펼친 키이스트 배우들~! 바쁘다 바빠~ 해서~ 키동이 준비했습니다! ლ(╹◡╹ლ) 20···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjlfMjc2/MDAxNzAxMjM5NTI4NTcy.ASOdreMie-MsW5geSJqBBTwRpgy02S3YOuyOOtKov_cg.zyhVzE2-VhXWfnqE8BMYXpfzTOqU5FXQW97FvSbD0N0g.JPEG/Iz1zAaJucgpHQuDgagN2_oz3WzNA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
