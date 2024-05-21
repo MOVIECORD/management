@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 07:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 08:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아기 고양이가 무대에서 울지도 않고 기특하네요]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37848181&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37848181&amp;memberNo=21724264</guid>
+            <pubDate>Tue, 21 May 2024 08:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[Hello, Stranger? 수많은 인파 속에서도 자유로움과 개성으로 유달리 눈에 띄는 앨리스 시선을 사로잡는 모습도 잠시,앨리스는 갑작스러운 사고로 병원에 이송되는데··· 혼자 남겨진 앨리스와 그녀의 보호자가 된 댄···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjBfMjUz/MDAxNzE2MTc4NDY5NDQ2.879F577iUNyqxc9IzyVkUmImAXI5DD3OE-OqjtjrAs0g.3RAfFd8Ly7qHm06-37DdMlIBSaldsjxdUxs-imhLtqgg.JPEG/IqKB9QzGyiEivY_rPjEVkLwuxJWg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한가인이랑 연정훈 둘이 사겨?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37827338&amp;memberNo=21724264</link>
@@ -161,14 +169,6 @@
             <pubDate>Fri, 05 Jan 2024 08:23:55 GMT</pubDate>
             <content:encoded><![CDATA[새해&nbsp;복래&nbsp;많이&nbsp;받으세요♥ 2024년 청룡의 해에 가장 먼저 인사드리는BH 명품 배우 조복래 작감배 완벽한 조합으로시청자들을 사로잡은 MBC &lt;열녀박씨 계약결혼뎐&gt;에서 MBC 센스, 능력, 다 갖춘 충직한 비서 홍···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDRfNzEg/MDAxNzA0MzUzMjQyNTMy.fl5-W_MzJtVp3FufEkNHTfQfdcp1tQT2vD3xdAQCWRkg.dx1hV5l8fQCgUiVKVm7u7ONBAiPR1h-JLaBcfPKJgHkg.JPEG/Ii_EwC9klrNpnoWjCXXDvOO_MRRc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BH엔터테인먼트]
-12월의 BH ON AIR]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36984321&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36984321&amp;memberNo=21724264</guid>
-            <pubDate>Mon, 04 Dec 2023 06:25:13 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDRfNzkg/MDAxNzAxNjY2NzY4NDUx.K-Fczord7s02MVkCe0P7o8OUvr8AR3EsHZuguvWoXeog.-LlytM_T5r2Ayg6buVM4uIhCuSttyD87Z3kWP_YVd6sg.JPEG/Imw7pRF_cMLsaTqVkHIfe8MS3Wxo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
