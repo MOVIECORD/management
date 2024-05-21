@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 08:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 09:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이달의 경찰관 칭찬하러 왔습니다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37847163&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37847163&amp;memberNo=32146648</guid>
+            <pubDate>Tue, 21 May 2024 09:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST]DO WOO♥똑똑-제가 경찰 한 분을 칭찬하고 싶어 왔는데요 종남 경찰서에 소속되어 있는남성훈 순경인데 ...제가 칭찬을 넘어 어떤 상을 주고 싶냐믄요 말도 잘타상 먼저 남순경은 기마경찰답게기마 실력이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjBfMjAx/MDAxNzE2MTgzMTUxNzkx.GLYfOsMeMmoKb3DHAOhfvcZ6r291v8r-db2vF-sGCxMg.JHJ3ODqp54X5M3K-rUFdMjGh8lrGmLLTTgoLmAy00h8g.JPEG/IJ78qsBscJNJlpE8HJhNXWmpkv-g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[What's In My VAST Garden_한은수]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37785042&amp;memberNo=32146648</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 13 Nov 2023 22:17:57 GMT</pubDate>
             <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2022 &lt;공조2:인터내셔날&gt;로&nbsp;돌아온&nbsp;현빈&nbsp;배우가 그려낸&nbsp;카리스마&nbsp;넘치는&nbsp;무드&nbsp; 빠르게&nbsp;만나보아효! #오늘은_주말이니까&nbsp;#빈주얼과_함께해여&nbsp;#모두들_철령하세요 #현빈&nbsp;#HyunBin···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDRfMjY5/MDAxNjgzMTgxMDIzODEy.72AbqoDODsbpUDQIfi7xz1rdhfeYJsASo_QUFhM-X5Yg.IWzxcg-yca3FRqcdmHi5ne18ZQM2wLpqIePe4RrAtSog.JPEG/IWPgA21D0Nisih8cEYFDUagrVhdA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[VAST 이사했zip] BECOME WHO I AM]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35887795&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35887795&amp;memberNo=32146648</guid>
-            <pubDate>Mon, 13 Nov 2023 22:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST 이사했zip]&nbsp;BACK (UP) TO 2021 BECOME&nbsp;WHO&nbsp;I&nbsp;AM 어느&nbsp;장르에&nbsp;갖다&nbsp;놔도&nbsp;분위기로&nbsp;장르를&nbsp;만들 무드&nbsp;장인&nbsp;빈느&nbsp;✨ 보기만&nbsp;해도&nbsp;가을&nbsp;그&nbsp;잡채인&nbsp;화보&nbsp;비하인드,&nbsp;바로&nbsp;만나보아요♡ - #현빈&nbsp;#HYUNBIN&nbsp;#WWDKOREA #존···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDRfMjg1/MDAxNjgzMTY5NTYyMzMx.Ebln5RWVB8edqep7CY44K78zxbWS0qpx5TAscY2okdMg.1hbyzTs1OQEbAus2mIAhJJJEc88ukKYNfBEH__yKWLAg.JPEG/I8IsHJyK6fNvg9mLto229pDjX60c.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
