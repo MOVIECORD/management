@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 12:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 13:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영수 태우고 튀어!(@선업튀 팝업)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37876174&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37876174&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 24 May 2024 13:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[월요병도 퇴치해준다는 tvN 월화 드라마 '선재 업고 튀어''선업튀' 장르 파괴자! 허형규 배우가 등장할 때 마다 소름끼치는 존재감을 뽐내며(솔선) 수범이 들의 미움을 한 몸에 받고 있는데요!이 구역의 솔···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjRfNTQg/MDAxNzE2NTQ2NzU0MTkw.tzAByCKqUyZxzhVXlz7VUhWkIE_1YOlfUP8n9ffgkDMg.hrFnJdp80SwTAl15c0uY0SYaoN1PFhVn7oNxLrjFAFAg.JPEG/IiLXgJeoo-9phqBY1tu8keiUf3_4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한선화랑 놀자!!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37842413&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Tue, 05 Dec 2023 14:18:51 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 여러분! 키동입니다! 오늘은 키동이 낮이나 밤이나 하루가 멀다 하고 열일을 이어가는 배우의 하루를 밀착 취재해보려 합니다!과연 어떤 배우일까요~?주인공은 바로 한선화 배우입니다! 도착하자마자 무···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDVfNzEg/MDAxNzAxNzY0ODYyMTUz.reCnukk5T7N2m65WkdKKyXldihoeu3qOrfp5Aru7BkMg.1oeWhSk9JYZvuAaRkQi2cq0IFpEMcZDb_OKTEJqZD60g.JPEG/I9l2cWrE_EkY_sylatOfRHmHl_w0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서형답다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36975294&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36975294&amp;memberNo=29770009</guid>
-            <pubDate>Fri, 01 Dec 2023 14:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[레드카펫 위 찬란한 블랙 여신카리스마라는 것이 폭발한다기사 사진 맞나요...? 우주대스타 김서형 역의 영화 속 한 장면 아닌가요?이 각도 저 각도 어디서 봐도 흠 잡을 데 없었던김서형 배우의 시상식 비하인드 지···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDFfMjg2/MDAxNzAxNDA3Njc1OTEw.Sj7lro43ncna_yigREfp6oZLgCPm8dL1QKw8W60z3i0g.RSkUSfJGZitgv_jnBy8OebZj2eUScHC5IUBnOOQFaWgg.JPEG/IBBGD_eKJ4NlurfTfq8Uih2P8wbA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
