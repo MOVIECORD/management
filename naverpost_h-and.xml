@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 12:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 13:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[정려원] 첫사랑의 의인화]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37890876&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37890876&amp;memberNo=51396641</guid>
+            <pubDate>Mon, 27 May 2024 13:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[따~란첫사랑으로 묻어두기엔 너무 사랑스러운우리의 자랑, 정려원 14년 차 대치동 스타 강사&nbsp;서혜진이 장면에서 진짜 입시 때로 잠시 추억 여행 한 사람 손! 일단 저요 사진 : tvN 현명하고 단단한 내면을 가진&nbsp;진정···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjdfMTYg/MDAxNzE2ODA5NzQ3MDQw.jUWxkTqXnJCPoPqlPiq3s2fqSenijLZsraPDrzoOvrEg.R1l4clrFcR02Ts7BtvkDwdkRAovI1Oo3AlQc3XJqSyUg.JPEG/IXMWrSsYfk6pZu__4KC-KF06NIAs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[천우희] 화보 장인이 맞습니다만]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37755102&amp;memberNo=51396641</link>
@@ -157,14 +165,6 @@
             <pubDate>Mon, 13 Nov 2023 18:23:51 GMT</pubDate>
             <content:encoded><![CDATA[시선 강탈 OOTD부터특유의 능글맞은 성격화려한 운전 실력까지어딘가 (많이) 수상쩍은 이 남자당신의 심장을 탕탕! 저격할 영화 &lt;비공식작전&gt;실종된 동료를 구하기 위해 레바논으로 떠난 외교관 '민준···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDRfMjU5/MDAxNjkxMTE3MTQzMzgy.nBJkGjvv8pT5qIaRUOE8_QtijW3cQMns6R0IdQ1YzRkg.cPsssei8vzaLaQPKfrFSwUyEuW6WPsXSHNbr_DyW3TMg.JPEG/IeJolB0yOj6raI6of5HbTq3rG3Mo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[류현경에게 3일간의 비가 내렸다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36311977&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36311977&amp;memberNo=51396641</guid>
-            <pubDate>Mon, 13 Nov 2023 18:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 여름, 당신의 마음을 촉촉하게 적실 배우 ❥&lt;내 아내의 모든 것&gt;&lt;올모스트 메인&gt;&lt;렁스&gt; 이후 약 2년 만에 무대 컴백 .ᐟ 연극 &lt;3일간의 비&gt;로 돌아온 류현경 배우 ෆ1995년과 1960년대···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MzFfMjUw/MDAxNjkwNzg2MzgyODI3.KbtUADwWD3YTm6up_NS99iCpfWVjr2J9FOUPpK3v4lgg.KUxFEKl5C19uCc5Sf4J1OjsEAwVwaVHfNhl7mtPfRHsg.JPEG/IPS_umaCn67n6x7Tb98iEHh2TMhk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
