@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 08:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 09:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맑디 맑고 맑디 맑은 김시아]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37875365&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37875365&amp;memberNo=21724264</guid>
+            <pubDate>Tue, 28 May 2024 09:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[다들 주목! BH 아기공주 김시아 배우의 첫번째 포스트가 찾아왔습니다!와아아아아아아아앙 ꙳꒰ ੭⑅•͈ ·̮ •͈꒱੭ ☀︎ 여러분 그거 아세요? 시아 배우가 스킨케어 브랜드의 뮤즈가 되었다는 사실! (* ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjhfNTEg/MDAxNzE2ODcwNTE0Mzg5.05O2POZRSMiClFnLvWP47jSnAPthOBQwX5qju1EhO6og.AMW_2Q_FGH6o8ElR5A_uLSHSu42pETrnmONLNEoNVJ0g.JPEG/IxbUkMCKVkZbo4Qy6diXtbQA0z-0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반짝이는 것 중 가장 반짝이는 얼굴]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37860924&amp;memberNo=21724264</link>
@@ -161,14 +169,6 @@
             <pubDate>Mon, 08 Jan 2024 07:18:10 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;[생활 지식]Q. 새해를 따뜻하게 보내는 방법은? 핫팩 챙기기?따뜻한 차 마시기?롱패딩 입기? ...도 맞지만해피비는 이렇게 생각합니다. A. 보기만 해도 마음이 따뜻해지는김고은 보기...♡// 당장에라도 "사랑해···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDRfMTQ2/MDAxNzA0MzU0NDI0OTc5.hZJ0k2g3ulyZete5gYZA8DL_nxHawn65eyTpik15tTgg.QSAxHg-vRlGaXtOBFhIZzWQFy_4WCuEpUdmUTpiMDBwg.JPEG/IJXyDMKkV3R0MAZMpKjAwD94H9Jo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BH엔터테인먼트]
-1월의 BH ON AIR]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37144524&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37144524&amp;memberNo=21724264</guid>
-            <pubDate>Sat, 06 Jan 2024 07:16:20 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDVfMjAw/MDAxNzA0NDM1Nzg5NDQz.Zs5YEVpvBbuYVEK3qEVhSW0_4QLBnV5iVjhV_8-Q_7Qg.YaTVIqkNCxc_CrSfmNGoMpOd2t6ef18iERI6g-bi_2Ag.JPEG/ISdiROhfofn4VlQwsQCs4EFYeY4s.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
