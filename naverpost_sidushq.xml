@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 08:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 09:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박기웅] 제 토요일은 이제 누가 책임 지나요]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37897221&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37897221&amp;memberNo=28456565</guid>
+            <pubDate>Wed, 29 May 2024 09:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! sidusHQ입니다. 지난 토요일 박기웅 배우가 MC로 참여한 MBN 대국민 미술 작가 오디션 &lt;화100&gt;이 마지막 방송을 마쳤습니다. 매주 토요일 기웅 배우 보는 낙에 살았는데 이제 무슨 낙으로 사냐. .···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjhfMTU0/MDAxNzE2ODg1NDQ4ODQx.Cu0oHQEd6HXj5O3nhBFkadaK8hCMRfeHwjmILf-oy9Mg.oCFqd8RwZahAHowlbxbU21DTET44uswAZuM1Hj1PLWQg.JPEG/IUYOSKluxVR4edH715au9Np-76hA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[동현] 고자극 동써니 귀해요]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37886795&amp;memberNo=28456565</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 13 Nov 2023 22:18:18 GMT</pubDate>
             <content:encoded><![CDATA[다들 한글날 잘 보내셨나요? 휴일 끝 일상 시작에 힘든 여러분들을 위해 선물을 준비했습니다! 우리 혜윤 배우가 보노 스프의 새로운 모델이 되었어요! 본격적인 촬영 현장으로 가볼까요?촬영 준비하는 혜윤 배우 등···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDRfMTMy/MDAxNjk2NDA3NTUzMzEy.SqQ6d5HNVSq8hQEB05Y-Nrf3gN4j8PXERqTRnzxCNUsg.awxkXcqHrLJmYtOFd-hZSZl8S4moRcgvLdmTaSxmzBMg.JPEG/Iym5oQZUzJZbshJDIQjrGmXHnQ9A.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동현 퍼스널 컬러 아벨]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36637389&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36637389&amp;memberNo=28456565</guid>
-            <pubDate>Mon, 13 Nov 2023 22:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[아이드 스포츠 학교에 오신 여러분 환영합니다 길고 긴 방학이 지나고 드디어 개학을 했습니다!!!전석 매진과 많은 사랑을 받았던 뮤지컬 &lt;비더슈탄트&gt;가 재연으로 돌아왔습니다! 동현 배우는 매그너스의 가장···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjBfMjg2/MDAxNjk1MTg2MTg0NTM3.vBiXRAkB8gE_xhHMgcKZ9ICR0h2KLawB6ozEgckaR18g.2KG8YNMcofRfrw96w7T-veYhaH6c0N6q29JhOTgbkcAg.JPEG/I_PYfn7chSaXbCUJE_LwOHfSEcyA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
