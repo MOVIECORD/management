@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 10:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 11:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[송승헌] 팬 사랑꾼]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37918057&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37918057&amp;memberNo=35839671</guid>
+            <pubDate>Fri, 31 May 2024 11:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-) 엄청난 팬 사랑꾼이 있다는제보를 받고 찾아간 곳은 2024 송승헌 팬미팅 IN JAPAN&lt;너에게로 가는 길&gt; 리허설 현장 지난 25일(토),5년 만에 팬분들에게 향하는 길에 오른배우 송···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MzFfMjQz/MDAxNzE3MTI1NDQ5ODk4.cSn8dOF7b0NREDeVv05CWb3bD3CoMiBZrLvZBS4d8Ksg.4HZx7cJtVAX15Gx7PcsCIlnoTUAXC_s06eZ7JN4BzWYg.JPEG/I9oHDzc23edH-f3VReIFMUoT_EYA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[송승헌] 선수 입장]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37890041&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 31 Mar 2024 03:21:18 GMT</pubDate>
             <content:encoded><![CDATA[내가 누군지 알아?그야 당연히뮤지컬 &lt;헤드윅&gt;의&nbsp;배우 유연석 씨죠٩(&nbsp;*˙0˙*)۶ 내가 바로 그 새로운 베를린 장벽어디 한 번 부셔봐!네? 무슨 말씀인지... 네, 지금&nbsp;킹콩지기가 나와있는 곳은바로 &lt;헤드윅&amp;gt···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjlfNDcg/MDAxNzExNzE0NjM3MjU0.0Z2H3_xOxV898H9Fqzd-J5pl0xKGhWkjQfpkjDIGQGEg.-hsCIRrbORQgaWuucNt_XUod2yosdLPE2FmSw7_JYhsg.JPEG/IEKSBoOdVlP6R4yIzDf4PMeqIlrs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[조윤희] 부활 사건]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37563044&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37563044&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 29 Mar 2024 07:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-)두둥-엄청난 사건이 발생했습니다 [사진: 초록뱀미디어·스튜디오S] 조윤희 부활 사건└&nbsp;배우 조윤희 씨가SBS 새 금토드라마 &lt;7인의 부활&gt;로돌아온 사건이다.  이 사건보통이 아닌···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjlfMjI5/MDAxNzExNjc3NzI4MjQ1.8uw_5HWMYRfhSLy8_aLM9TaSJrnv28V-hIZb3CPeFs8g.3fuiqTVF-hS3YwuTlPVzBmp2sb9WrM_WqGYGC4VODVgg.JPEG/Ifa1ZeYG_7Dp-yJ8srRpTrbYED5E.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
