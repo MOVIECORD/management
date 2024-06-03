@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 07:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 08:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동현] 나는 아직도... 그날에 살아...]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37928526&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37928526&amp;memberNo=28456565</guid>
+            <pubDate>Mon, 03 Jun 2024 08:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요!&nbsp; sidusHQ입니다. 지난&nbsp;5월&nbsp;4일&nbsp;진행된&nbsp;2024 동현 팬미팅&nbsp;&lt;DDD:&nbsp;A&nbsp;Day’s&nbsp;Dream&nbsp;Diary&gt;&nbsp; 기억하시나요?&nbsp; 전 아직도 그날에 머물러 있답니다(팬미팅 후유증 때문에 미치겠어요) 우리 다시 그날을 곱···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDNfMTYx/MDAxNzE3Mzc3OTU3NDc4.sk8dWL5ccc0a7qGJAAOQaBFh3C_dc-Qczlu9_1smalkg.onTiks7HOi140eVaPbogawdCwqp8l5toKeJ5C9fd2u0g.JPEG/IyqGXuVaW4XMSMK1V7KbXlQ8_FL8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박기웅] 제 토요일은 이제 누가 책임 지나요]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37897221&amp;memberNo=28456565</link>
@@ -159,14 +167,6 @@
             <pubDate>Sat, 01 Jun 2024 08:24:09 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 수요일, CGV 여의도에서 청룡영화상 핸드프린팅 행사가 열렸습니다!행사가 시작되고 혜윤 배우의 등장에 모두가 시.선.집.중청룡영화상 핸드프린팅 행사는 2022년 제43회 청룡영화상 수상자들과 함께 했는데···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjdfMjM5/MDAxNjk4Mzg5MDIwNjc4.Rqj5MwGeSzRj_RTLIgsTXmtcdIv5oeRPcobhQXnkPN0g.NvVB56eq63QoTdGMMSw1LQz96LxSWsuEq6BR2xAUJjMg.JPEG/IDfGu18y01T0uGza6qA21qNVQ7f0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김혜윤] 보노와 함께라면~!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36698445&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36698445&amp;memberNo=28456565</guid>
-            <pubDate>Sat, 01 Jun 2024 08:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[다들 한글날 잘 보내셨나요? 휴일 끝 일상 시작에 힘든 여러분들을 위해 선물을 준비했습니다! 우리 혜윤 배우가 보노 스프의 새로운 모델이 되었어요! 본격적인 촬영 현장으로 가볼까요?촬영 준비하는 혜윤 배우 등···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDRfMTMy/MDAxNjk2NDA3NTUzMzEy.SqQ6d5HNVSq8hQEB05Y-Nrf3gN4j8PXERqTRnzxCNUsg.awxkXcqHrLJmYtOFd-hZSZl8S4moRcgvLdmTaSxmzBMg.JPEG/Iym5oQZUzJZbshJDIQjrGmXHnQ9A.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
