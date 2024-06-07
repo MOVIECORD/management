@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 07:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 08:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫사랑 기억 조작 레전드 김민주 선배]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37953634&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37953634&amp;memberNo=22903361</guid>
+            <pubDate>Fri, 07 Jun 2024 08:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[혹시 3학년에 전학 온 선배 얘기 들었어? 이름이 오윤진이던데첫날부터 아주 반을 뒤집어 놨다던데?뭘로? ㄴ 미모로청순함이면 청순함...귀여움이면 귀여움...쿨시크 냉미녀 모먼트까지...그 날 이후로 저강고등학교···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDdfNjcg/MDAxNzE3NzMxMjQ1MDEx.UZSqzC4Z7upJQajJ2hEFTGct-65c2kG5ss5utjBMioEg.K6nV8kui4rrHgrfIFm9YNs_xD_s3RQ9exFTXKo_VTfgg.JPEG/IKtyf_WfHbuLQiXpHJBY3G1YPsX8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상큼함이 눈앞에 [수지]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37822980&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Nov 2023 05:18:28 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 추워진 날씨,창 밖을 바라보며 따뜻한 코코아가 먹고 싶은 계절하지만, 그보다 더 달콤한♥ 숮 ♥오늘은 여러분을 위해 수지의 사진을 가득 들고 왔습니다수지와 함께 로맨틱한 하루 :) . .···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjdfMjQw/MDAxNzAxMDYxMzg1ODQy.q4jzyxoKSI_kFWF3Sw0n5bD03MPTTv_skdCsNALSD4sg.E2tx1e2FMLRPrmPBtIKtEXjmkALtId1BHnodgZzQZhsg.JPEG/IyATjOQrTCK_acoILW5Kwfo0aMn0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남지현] 하이쿠키 레시피 풉니다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36931278&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36931278&amp;memberNo=22903361</guid>
-            <pubDate>Thu, 23 Nov 2023 10:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[매주 월-목요일 늦은 밤이면 찾아와 하루의 피로를 날려준 &lt;하이쿠키&gt; 가 오늘 막을 내렸습니다 (˃̣̣̣̣︿˂̣̣̣̣ )한 입만 먹어도 욕망을 실현시켜 주는 의문의 쿠키, 하이쿠키에 얽힌 이들의 이야기 &amp;lt···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjNfNzYg/MDAxNzAwNzIwODA1MjI0.L_poEPLUaDroZv3kv-0cDMalJuGG_4PMndg-TuGap2cg.aTfC-17Rez9f4bl5_Qw6yKOlh0mEbYd3DwSyBmSJmNAg.JPEG/IGo8Rs9UZRQpreJUZJWuFwjhpYxY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
