@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jun 2024 09:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jun 2024 10:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배정남, 부산 가면 승요가 되]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37945890&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37945890&amp;memberNo=29770009</guid>
+            <pubDate>Sat, 08 Jun 2024 10:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[승리의 기운 불어 넣어 줄 포스트!!! 로고만 봐도 웅장해지는 기분 키동이만 느끼는 것은 아니죠..? #응원팀_자유 #이기는편_우리편오늘 키동이가 출동한 곳!부산! 사직구장입니다!!배정남 배우가 시구자로 나선 240···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDVfODUg/MDAxNzE3NTc2OTA4NDQ3.GRDRkULg9ujlpQIX0wkLwDcJy0_tBMzKxuIucKvd_Fsg.pcWZG1rDXZBW3FngYeSu0pvcqL5hj8EhUkjZRYIQZ04g.JPEG/IZ2PMwRCybPiErx1ZUs-iMO8MN-U.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영수 태우고 튀어!(feat.수범이)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37876174&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 06 Dec 2023 14:17:30 GMT</pubDate>
             <content:encoded><![CDATA[여러분 안녕하세요! 키동입니다!많은 분들이 키동어워즈 1부에 뜨거운 관심을 보내주셨는데요 ♥ 그래서 준비한 2023 연말 결산 키동어워즈 2부! 그전에~ 다들 1부는 1일 1회독 완료하셨죠?(찌릿) 키···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDZfMTI5/MDAxNzAxODU2NDM5NzEx.fj1v6oAGaZePQyQDrzyG0l3ph2cW28rMbt9eS5zTfncg.-g6Zn_367oUcHqG9yjtPQjqvWVe5zgBSlmgjw4V5D5cg.PNG/I6Zpef7HxHRVA3chBlJLKKXcrlMU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선화의 낮과 밤]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36993282&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36993282&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 05 Dec 2023 14:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 여러분! 키동입니다! 오늘은 키동이 낮이나 밤이나 하루가 멀다 하고 열일을 이어가는 배우의 하루를 밀착 취재해보려 합니다!과연 어떤 배우일까요~?주인공은 바로 한선화 배우입니다! 도착하자마자 무···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDVfNzEg/MDAxNzAxNzY0ODYyMTUz.reCnukk5T7N2m65WkdKKyXldihoeu3qOrfp5Aru7BkMg.1oeWhSk9JYZvuAaRkQi2cq0IFpEMcZDb_OKTEJqZD60g.JPEG/I9l2cWrE_EkY_sylatOfRHmHl_w0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
