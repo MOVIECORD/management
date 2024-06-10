@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 07:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 08:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이 사랑할 문가영]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37964683&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37964683&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 10 Jun 2024 08:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[앞으로 더더더 대성할 배우가 뮤직비디오 촬영을 한다고해서, 키동이가 다녀왔습니다!! 모야모야 문가영 배우 가수 변신?! 세상 혼자 사는 우아함 뭔데이번 포스트 딱 3장만 봤을 뿐인데, 대박 포스트 스멜에 심장이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDlfMTMz/MDAxNzE3OTQyMDMwMzQ4.4WU59CnlmdOlXb7ugTql7FYKqNc12YvFGdOPCeWJPtAg.SJM7-U_jlyMm0L3RLcawcgR2wnx-wS0PBSrYCfSfSVwg.JPEG/IiQLT6LmN7D7GOE96spNoNd3SAdk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배정남, 부산 가면 승요가 되]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37945890&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 14 Dec 2023 14:17:46 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 추워진 날씨 다시 돌아온 겨울길거리 거닐다가 따끈한 붕어빵이나 호떡이 먹고 싶은 계절 따뜻한 집 안에서 창 밖을 보며 코코아 한 잔이 마시고 싶은 계절하지만 그 어느 것보다도 달콤한 건 우리의 &amp;hearts···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTRfMTk1/MDAxNzAyNTQ0MjEwMDEx.Ug_BZaIz_CfNne809eSfuzNDig2XBiy7LrvgiCx0Oy4g.MGv3pxxMsu1Mr-I-_DnXWymzD4wKsc_mTVfgvBBMhscg.JPEG/IH_Si8XhNWZ6k0LoLkE3pGu0XGos.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 키동어워즈 2부]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36999365&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36999365&amp;memberNo=29770009</guid>
-            <pubDate>Wed, 06 Dec 2023 14:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 안녕하세요! 키동입니다!많은 분들이 키동어워즈 1부에 뜨거운 관심을 보내주셨는데요 ♥ 그래서 준비한 2023 연말 결산 키동어워즈 2부! 그전에~ 다들 1부는 1일 1회독 완료하셨죠?(찌릿) 키···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDZfMTI5/MDAxNzAxODU2NDM5NzEx.fj1v6oAGaZePQyQDrzyG0l3ph2cW28rMbt9eS5zTfncg.-g6Zn_367oUcHqG9yjtPQjqvWVe5zgBSlmgjw4V5D5cg.PNG/I6Zpef7HxHRVA3chBlJLKKXcrlMU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
