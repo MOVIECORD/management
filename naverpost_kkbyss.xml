@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 06:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 07:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[장다아]의 나른한 오후]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37989197&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37989197&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 13 Jun 2024 07:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-D갑자기 찾아온 더위에나른나른한 오후를 보내고 계시다면 [사진: 싱글즈] [사진: 싱글즈] •*.+.º◦+*∴◦'싱글즈' 6월 호와 함께한배우 장다아 씨의 화보를 볼 시간입니···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTJfMTYz/MDAxNzE4MTU5MzI5MTk1.vHnzgUEEkS9Ry7VbKER_8KIgvj-lTauAdTPQ6RQWxy8g.0vpIrunQVEWF6h3YyQST-5RA7SCBUI1oO9XprmiwgKsg.JPEG/ImPTe5vCbqJvfDO6XamJ8Zwe92nQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[채수빈] 지금 하이재킹 상황이야]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37982601&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 15 Apr 2024 11:16:57 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입...아니 오늘은 박물관의&nbsp;큐레이터로 변신한콩레이터 입니다 :-) 오늘 여러분이 감상하실 전시명은 ‘이 동 욱(LEE DONG WOOK)’입니다 앗, 기둥에 기대고 있어서조각상인 줄 아셨다고요? 정확···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTFfMTA0/MDAxNzEyODAxMjAwMTIz.Xj6lMIt8_idSOhNBJUENU3WjtrkawVw5PhYdSBok5F8g.zcWza_ODSYDnZiwLrccBvmVL8854j2niJ9-lx8mpUzAg.JPEG/I2F9xozu-8-Oujie7uArMee4KHnc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[송승헌] 조각상이 걸어 다닙니다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37641897&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37641897&amp;memberNo=35839671</guid>
-            <pubDate>Sun, 14 Apr 2024 05:58:26 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요!따뜻해진 봄 날씨와 함께아주 따끈따끈한 소식을 들고&nbsp;찾아온킹콩지기입니다 :-) 지난 10일(수) 개최된'아시아 스타 엔터테이너 어워즈 2024'시상식에 배우 송승헌 씨가 떴다!  ♪♪&nbsp;후끈후끈 열기···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTRfMTY3/MDAxNzEzMDYzMTA4MTU2.7r6SBiS9njK0owRXSwHP6KWZQHhWbTULjjbD9oK93C8g.fvY8znxdt0JakIj_dLWLrgzCi-EhHuZQn_HhwT6K8Jkg.JPEG/IpipDeddGlaqs1keohmXFrZnUPZE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
