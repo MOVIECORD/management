@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 08:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 09:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 집 고양이 카메라 좋아해]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38087368&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38087368&amp;memberNo=21724264</guid>
+            <pubDate>Tue, 02 Jul 2024 09:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[여기공개되자마자 화제가 된화보가 있습니다&nbsp; 파격적인&nbsp;숏컷으로 나타나우리를 한 번 놀라게 했다가 화보를 너무 잘 찍어서두 번 놀라게 한 바로 그 화보&nbsp; 화보 천재 만재 소희 배우의7월 아레나 비하인드!다들 각오···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDFfOTgg/MDAxNzE5ODAzNDE0Mjg0.80n02NkUiIdQUpJiezZ066zu_1RpdPjkg-rQ9rDtAk4g.c055W2KRlgpRYqsXpOfMzpB-h53_AeU_12MPU70qFAkg.JPEG/I-cU8O3lI1E6erPY3OAWE_CBmLjk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BH엔터테인먼트]
 7월의 BH ON AIR]]></title>
@@ -160,14 +168,6 @@
             <pubDate>Thu, 08 Feb 2024 07:17:34 GMT</pubDate>
             <content:encoded><![CDATA[방송 단 2회 만에&nbsp;화제로 떠오른JTBC 새 수목드라마 &lt;끝내주는 해결사&gt;의 이지아 드라마도 끝내주더니화보까지 끝내주는 지아&nbsp;(♡ᴗ♡) 얼핏 봐도 각 나오는 오늘 화보 대박각 흰 민소매에 청바지 입기해피비 워···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDdfMjkz/MDAxNzA3Mjg5MTcxNzYx.spi3044X6cqRK0obpF0sBO_Ys_zt8UfqhUEEt9zFApQg.nfml_RfnBy8z6ImpD704_meZoiQKqa_pDvntDPt-Z2kg.JPEG/IpsQ739A5VmQOHFD6oLPmP6bCMIs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BH엔터테인먼트]
-2월의 BH ON AIR]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37284041&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37284041&amp;memberNo=21724264</guid>
-            <pubDate>Sat, 03 Feb 2024 05:16:29 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDJfNDAg/MDAxNzA2ODU0NDYyODE3.On5DYtW6T5v1Fe5e29A1NFd8dIWXkMfvuzMsnCcn_5Eg.-cTImoZyeYWfVYzcpivApyR4WsFEYGVkNQhVOXimj7kg.JPEG/IgLfLvoulVj9m3gq-v19QpNYi6kY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

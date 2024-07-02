@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 08:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 09:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김지연] 주의보]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38095933&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38095933&amp;memberNo=35839671</guid>
+            <pubDate>Tue, 02 Jul 2024 09:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-)여러분 혹시 그 소식 들으셨나요? [사진: Y 매거진] [사진: Y 매거진] [사진: Y 매거진] 'Y 매거진' 14호와 함께한배우 김지연 씨 화보로 인해김지연 주의보가 발령됐다고 합···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDFfMjc4/MDAxNzE5ODIyODYyMjk5.V2rBM3_QKv6KBacjTjS4NsYILl3UJslYsPl23R9TuSwg.t3WgLMbx-pTewfdlTW7I_1peIPbQHOMsZRSV0M8VgHEg.JPEG/I5gvRZRYiSxsborveXV-H74FmiK0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[송승헌]을 조심하세요]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38088758&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 24 May 2024 11:19:11 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지..ㄱ.. 아니 콩네비게이션입니다 :-) 오늘 여러분의 목적지는 내일(25일, 토) 개최될ෆ ෆ ෆ ෆ ෆ ෆ ෆ ෆ ෆ ෆ 2024 송승헌 팬미팅 IN JAPAN 너에게로 가는 길 ෆ ෆ ෆ ෆ ෆ ෆ ෆ ෆ ෆ ෆ잠깐! 그···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjRfOTIg/MDAxNzE2NTI5NjI0MDMx.xVIHnba_r-mvtRkqoSr72738BFkvos0IZIOWH1py5VMg.4X82_lWymA0bDLcaVi9l4H1GOxMkZrUqWxEXKXMwUbgg.JPEG/IV-7esZWI3DKyvCrR-G5dJ3FVMZM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[조윤희]의 마지막 부활]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37841011&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37841011&amp;memberNo=35839671</guid>
-            <pubDate>Sun, 19 May 2024 03:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[띠로리- SBS &lt;7인의 탈출&gt;부터 다음 시즌인 &lt;7인의 부활&gt;까지배우 조윤희 씨와 함께한 시간들이바로 어제(18일, 토)대단원의 막을 내렸습니다 도합 17주라는 긴 시간 동안'고명지' 역으로&nbsp;매회 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MThfNTQg/MDAxNzE2MDExNzgyOTQ1.YwWJFLWeT1TSqU_B9Z7OpUpecOSmNSJOsMXvZsNUzMQg.Jq4I_oKOc8RbtZfuVMTR4m0C_otlX5AG-ojyLiHX7xUg.JPEG/I1-8zQT3BSdhMSfsWdwQF31UO9a0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
