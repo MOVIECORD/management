@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 07:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 08:26:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[채수빈]의 비행]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38102337&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38102337&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 03 Jul 2024 08:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다 :) [사진: 보그 코리아] [사진: 보그 코리아] 오늘은'보그 코리아' 7월 호와 함께낯선 비행을 떠난배우 채수빈 씨의 포스트로 찾아왔습니다 티켓 발권 도와드릴 수 있게여권 먼···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDJfOTgg/MDAxNzE5OTA1ODAyMzE4.rQugitH3YtPMwFeSaTASQWgvNQc4sjHpNK8QT4kbwhEg.yJS8ZYmVjbgAZV61cdCQeHrMxn0lmiQWxgtFTPqsp0kg.JPEG/IhShL3fD8ZnKIEJSPMX1zxhdqx7Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김지연] 주의보]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38095933&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 26 May 2024 04:25:23 GMT</pubDate>
             <content:encoded><![CDATA[두근두근♥ 연애 프로그램 &lt;소요천국&gt;에 오신 걸 환영합니다멀리서부터 시선을 사로잡는 출연진 소개부터 할게요안소요 / 배우 JTBC 수목드라마 &lt;비밀은 없어&gt; '조희선' 역 출연"저는 안소요···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjZfMTkg/MDAxNzE2Njg4MDk4NTIx.0i6pA6RvgGZOJeZlq02E7calYcBgZ5i0fCAlogTpvxsg.SeeF6FR4nEWLSJYQzNZTk9O0DXeDp5ZwxYh6n0UEBNEg.JPEG/IGG7v1GpxO77N8w4BIAx22RcqiGI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[송승헌]에게로 가는 길]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37875788&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37875788&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 24 May 2024 11:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지..ㄱ.. 아니 콩네비게이션입니다 :-) 오늘 여러분의 목적지는 내일(25일, 토) 개최될ෆ ෆ ෆ ෆ ෆ ෆ ෆ ෆ ෆ ෆ 2024 송승헌 팬미팅 IN JAPAN 너에게로 가는 길 ෆ ෆ ෆ ෆ ෆ ෆ ෆ ෆ ෆ ෆ잠깐! 그···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjRfOTIg/MDAxNzE2NTI5NjI0MDMx.xVIHnba_r-mvtRkqoSr72738BFkvos0IZIOWH1py5VMg.4X82_lWymA0bDLcaVi9l4H1GOxMkZrUqWxEXKXMwUbgg.JPEG/IV-7esZWI3DKyvCrR-G5dJ3FVMZM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
