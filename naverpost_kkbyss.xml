@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 07:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 08:27:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[송승헌] 정의 구현 히어로]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38126077&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38126077&amp;memberNo=35839671</guid>
+            <pubDate>Mon, 08 Jul 2024 08:26:45 GMT</pubDate>
+            <content:encoded><![CDATA["강하리가 무슨 정의 구현 히어로냐?""달라 강하리는.강하리 행동엔 언제나 연민이 있었어"그렇습니다!tvN &lt;플레이어2: 꾼들의 전쟁&gt;에서매회 악인들을 통쾌하게 응징하며강하리식 정의 구현···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDhfMjg1/MDAxNzIwNDIzNTY4NDA4.LFn515evCY2uL7iUqwM4MwLBggA8pUrI00rv12_SYh8g.JFjPIYcC9caQxeNlyISd2grDCA7sf8jR8DCQ0uIohfMg.JPEG/IFWAr6YsujdxoO5NNjXiWgx0bZMg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김경남]과 프로필의 '커넥션']]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38120316&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Jun 2024 11:19:05 GMT</pubDate>
             <content:encoded><![CDATA[꺄!!!!!드.디.어 tvN &lt;놀라운 토요일&gt;에배우 송승헌 씨가 떴습니다  첫 방문임에도 불구하고여유로운 미소와 함께놀토 가족들과 인사를 나눴는데요하지만 ※긴급 상황※ 마피아 출몰처음 보는 시스템(?)이 등장···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDVfMTk2/MDAxNzE3NTY2Nzg2MzM0.UedR8svT0Eku-4w3btp1xaPSdFoYCXN9Cy-kxlAY9R0g.rY5TBA4_ZcsAMTkJiBJ-dA8WHRnNCrb_FQjqL4j03FIg.JPEG/IW0DCKDpOPXcgM02armNKuporcoY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[채수빈] 1타 강사 ⛧특강⛧]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37944499&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37944499&amp;memberNo=35839671</guid>
-            <pubDate>Wed, 05 Jun 2024 08:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 킹콩지기입니다 :) 방긋 웃고 있는 오늘의 주인공 배우 채수빈 씨 ( ˶ˆᗜˆ˵ )스페셜하게~ 촬영 영역 1타 강사에 빛나는 수빈 씨의 노하우를 알아보겠습니다이건 촬영할 때 꼭 나온···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDNfMzMg/MDAxNzE3NDIwMDIwMjcw.ZDcM4bsSIrOItornmyOBBOxeyd7SCAnRak6ERYKf94cg.7WOmKkUoQPjDsKISmhlqjmbx6MFYx6hLtwkzxiDMe2kg.JPEG/IR3q5Q7H_C2KGHieMH0JA_RCgGDw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
