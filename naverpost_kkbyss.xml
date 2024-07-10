@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 03:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 04:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[송승헌]의 마지막 작전]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38136704&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38136704&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 10 Jul 2024 04:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 킹콩지기입니다 :)바로 어제(9일, 화) 배우 송승헌 씨와 함께한 tvN 월화드라마 &lt;플레이어2: 꾼들의 전쟁&gt;의 이야기가 막을 내렸는데요매번 감탄을 자아내는 작전 설계와 감쪽같은 위···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDlfNTMg/MDAxNzIwNTAxNDgyMDA4.yVDKC65hLgIfhZugA0QCdIdfnb3fZn8LKkVvBWqVp4Mg.3wCBABQWmKQN9osZB_TeYuk7bi-sTgfqrLs1BO5elrQg.JPEG/IXchlRl54JO0ZVtAgj3QdcWk9qj0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[송승헌] 정의 구현 히어로]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38126077&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 10 Jun 2024 07:19:46 GMT</pubDate>
             <content:encoded><![CDATA[지난주 첫 방송된&nbsp;tvN 월화드라마&nbsp;&lt;플레이어2: 꾼들의 전쟁&gt;에서 치밀한 작전 설계와&nbsp;빌런 응징으로 브레인 사기꾼 '강하리' 캐릭터를제대로 보여준&nbsp;배우 송승헌 씨&nbsp;- ̗̀ෆ(˶'ᵕ'˶)ෆ ̖́- &nbsp;자, ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDlfMjg0/MDAxNzE3OTI5MzMxMjc1.IuU_ZvCmuNHHQUHwHLHnA5sWdWAtGsaO0g3NJW4RTuYg.FoebeB8PNiaPR2kxRWR3cZet-NCITAwLBkvYFExyDKIg.JPEG/IdTS10MYYCNVcjBVEVFjfWIMhvnk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[송승헌] 마피아 in the 놀토]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37956069&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37956069&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 07 Jun 2024 11:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[꺄!!!!!드.디.어 tvN &lt;놀라운 토요일&gt;에배우 송승헌 씨가 떴습니다  첫 방문임에도 불구하고여유로운 미소와 함께놀토 가족들과 인사를 나눴는데요하지만 ※긴급 상황※ 마피아 출몰처음 보는 시스템(?)이 등장···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDVfMTk2/MDAxNzE3NTY2Nzg2MzM0.UedR8svT0Eku-4w3btp1xaPSdFoYCXN9Cy-kxlAY9R0g.rY5TBA4_ZcsAMTkJiBJ-dA8WHRnNCrb_FQjqL4j03FIg.JPEG/IW0DCKDpOPXcgM02armNKuporcoY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
