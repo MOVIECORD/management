@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 07:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 08:26:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[장다아] 잼얘 포스트]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38176153&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38176153&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 18 Jul 2024 08:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :D오늘은&nbsp;배우 장다아 씨의&nbsp;잼(있는)얘(기) 포스트를 들고 왔습니다  도대체 뭐가 그렇게 재밌는 건데요!?라고 물으신다면 다아 씨 얼굴이요.라고 답해드리는 게 인지상정 볼캡으로 가릴···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MTdfMjM0/MDAxNzIxMjEwMDA5OTQ2.RkiJhNWDzPW03prKlSuUlHlyzyDwNoFq8RaOqaeQ88gg.7iw_IKeo-caD2VdA6qhQWPr6DcRWtHhdqzLzDNkozAsg.JPEG/IlcAM4rsJFHqYL7-cVfHcrhPE2-Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱] 박사님의 연구 성과 보고]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38166093&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 15 Jun 2024 02:34:46 GMT</pubDate>
             <content:encoded><![CDATA[배우 신현수, 손우현, 한민, 신승호, 유현수가 모이면? 다섯 가지의 매력이팡!팡!&nbsp;터지는&nbsp;콩알탄이 됩니다&nbsp; 보기만 해도 웃음이 터지는&nbsp;콩알탄탄!&nbsp;비하인드 지금 바로 쏩니다! (˵╹ω╹)╦̵̵̿╤──&nbsp;♥♥ 이곳은 어느 한 연습···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTRfNzcg/MDAxNzE4MzU1MTc0Mjk0.q-CP6eCzOxQ82BFkj1J_9lUHyV111un1gVfDUTVCRrcg.Jbc5v2Kw0HUQaWz0A4Y3un9LuHXyHXsY1BfthRWd78gg.JPEG/IOYms32xPKOZwqSj6OPAlinDuTfY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[장다아]의 나른한 오후]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37989197&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37989197&amp;memberNo=35839671</guid>
-            <pubDate>Thu, 13 Jun 2024 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-D갑자기 찾아온 더위에나른나른한 오후를 보내고 계시다면 [사진: 싱글즈] [사진: 싱글즈] •*.+.º◦+*∴◦'싱글즈' 6월 호와 함께한배우 장다아 씨의 화보를 볼 시간입니···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTJfMTYz/MDAxNzE4MTU5MzI5MTk1.vHnzgUEEkS9Ry7VbKER_8KIgvj-lTauAdTPQ6RQWxy8g.0vpIrunQVEWF6h3YyQST-5RA7SCBUI1oO9XprmiwgKsg.JPEG/ImPTe5vCbqJvfDO6XamJ8Zwe92nQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
