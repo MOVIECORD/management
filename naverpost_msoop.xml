@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 07:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 08:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[수지]만 보고 살래요]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38195557&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38195557&amp;memberNo=22903361</guid>
+            <pubDate>Mon, 22 Jul 2024 08:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[여러분, 절대 밖을 보지 마세요 오직 ♥수지♥ 만 보고 사는 거예요 얼마나 행복해요~ 표정으로 말하는 수지 마임 하는 수지 뭘 해도 귀여운 수지까지 보고만 있으면 시간이 뚝딱- 수지만 보기에도 하루가 모자라잖아···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MjJfMTIg/MDAxNzIxNjIxOTI4ODI0.hjZJRLbbBE6pUSQNoH-B8N7LEDstEjr9rY5CxyNBoqog.KbCVoZt-SNAcvCwCNk6LEnjlp-ObGFdAdszHMTZWY5Ig.JPEG/Ip8faazvAXJBOHtmuusGhBHGMhMY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파리 가서 또 레전드 찍어온 [공유]]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38165109&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 21 Dec 2023 08:22:48 GMT</pubDate>
             <content:encoded><![CDATA[바로 어제(20일) 혜진 배우가 출연한디즈니+의 오리지널 시리즈 &lt;사운드트랙&nbsp;#2&gt;⟡모든 에피소드 공개⟡ &lt;사운드트랙 #2&gt; 에는'진경'&nbsp;테라피가 있다?! 지금부터 함께 보시죠-! ᚹ ——-.･···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjBfNjMg/MDAxNzAzMDY2MzExNTYz.N5DLdVIwCOHBCj0DbESiDUWvySX32SLKNqjSmB32tlwg.b6IeoX1bfV-ldedLs7RawqQZiuRKkE8srLomGui-JWkg.JPEG/IZYWchn95JAjryypnRMAkYfiW65w.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 제철 ဣ김민주ဣ]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37038271&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37038271&amp;memberNo=22903361</guid>
-            <pubDate>Thu, 14 Dec 2023 08:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[겨울이면 놓칠 수 없다는 겨울 제철&nbsp;4가지-! 방어&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;굴&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;귤&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;김민주 얼굴~❥ 봄여름가을 민주 모두 최고지만 이번만큼은 겨울 민주가 단연 최고라고 외쳐봅니다..! 겨울의 서늘···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTNfMjUz/MDAxNzAyNDQ5ODM2MTg0.OkeiqU8wWrlgwEFm_Y3Qmk09Ns6ZCAd6GywwA-SMUHQg.JmsI4uQTvnlekT7z_rLPKHyQXWQO9l5GViTGdmUpIRwg.JPEG/I9YuSAG9WNjikWrooBWEJWUw-nTI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
