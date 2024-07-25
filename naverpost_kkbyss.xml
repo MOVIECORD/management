@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 10:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 11:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[장다아] 첫 시상식 후기]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38242414&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38242414&amp;memberNo=35839671</guid>
+            <pubDate>Thu, 25 Jul 2024 11:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-)지난 19일(금),인생 첫 시상식으로 제3회 청룡시리즈어워즈에 참석한 배우가 있다는데요! 그 주인공은 바로 배우 장다아 씨축하합니다 짝짝짝 많은 사랑을 받았던티빙 오리지널 시리즈···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MjVfMjM5/MDAxNzIxODcyNjc4ODEz.8ae-IUDFuXDMfDGqs2nhlGNNTI46HB8NisutyuRXoXAg.Yv14HqWkte0KpPDFv7O0ZJotn1sepccC6Y0GuvcR8Oog.JPEG/IyqrVnrUOV4juQ7B_oFrj4q-MAQo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이동욱]의 복숭아 농장 체험]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38213754&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 21 Jun 2024 06:29:01 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다 :) 본 포스트는 꼬리의 꼬리를 무는 그날의 &lt;하이재킹&gt; 이야기 콘셉트입니다 (※ 과몰입 대환영 ※)갑자기 웬 포스터냐고? 오늘(21일, 금)이 배우 채수빈 씨가 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTlfMjky/MDAxNzE4ODA2MzcxMzc5.xfnc45WkLkHq2HsFN6Ugn9PCC7lUGchKBvCE1rzW2BMg.axWoCZmwVZYkchWFiuXXcTIfpyj-uaZAKWXAxWTH3d8g.JPEG/INJsrxp0W2b2s8qe5UY4sr_ZAps4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[송승헌] 화보 사기꾼]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38030769&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38030769&amp;memberNo=35839671</guid>
-            <pubDate>Thu, 20 Jun 2024 08:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[삐용삐용 신고가 접수됐습니다 콩경찰관 출동 ε=┌(;･_･)┘ 신고 내용 화보 사기꾼이 나타났어요'아레나 옴므 플러스' 6월 호 화보에서 레전드 갱신한 배우 송승헌 씨 당신을 화보 사기꾼으로 체포합···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MThfNzIg/MDAxNzE4Njk1NzE3OTQ2.3LmY-KtkaThjAz0Z_-FgYt_UlO66PbQUrrLDtAForvQg.qVN-IYPeusS24pMEAKZgpquxm_XyoXiWtEX3pZQnbfQg.JPEG/IMoXjAcKYlb76bFsOvOSg7DhSJOU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
