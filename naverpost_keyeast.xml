@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 08:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jul 2024 09:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[한선화]랑 놀아줄 사람?!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38287650&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38287650&amp;memberNo=29770009</guid>
+            <pubDate>Mon, 29 Jul 2024 09:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[(대화 시작하는 한국인 특) 아니.... 이번 주 '놀아주는 여자' 마지막 방송인 거... 맞아?아직 키동이는.. '물복 웅니' 선화 배우 보내줄 준비 안되었는데..아직 6월 12일, 첫 방송했던 그날의 기억이 생생···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MjlfMTI2/MDAxNzIyMjM3MzQwODE4.5KdywuEpteejn_XuSHXU2lAu1KabxqMcGhxSwdtkYF8g.ScQdfCYIhPlvjMde3-FxPKOgVFur6dsKietYBXBoYCUg.JPEG/IM72PAk0Z9jevL02OR-T9zyj0oCQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘부터 [김리예]쁨!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38181773&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 05 Feb 2024 14:16:27 GMT</pubDate>
             <content:encoded><![CDATA[크으으으으으~~~ 속에서 뜨거운 것이 끓어 오른다,,,!!!주말마다 안방을 (시청자들의 속을) 뒤집어 놓으신 이 분비열한 웃음과 표정으로 전 여친 화 돋우는 건 기본뻔뻔하고 일말의 양심에 가책도 없이 나쁜···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDVfMjA0/MDAxNzA3MTI3MjczMjQ1.3qSB8LDpNkFbDIvBnYue69W-31uP3PMI2K4m-jnw8xQg.N9Cnes1RMPkaVYbaMAzAymVyiO6nm3KR8Rx-BhJ2Ywsg.JPEG/Ia-YT8k-4SLbHsJ7ydpjZQ_p6VMU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['장윤주'라는 고유명사]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37269308&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37269308&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 30 Jan 2024 14:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 키동이 찾은 이곳! 바로 지난 24일(수)에 개봉한 영화 '시민덕희' 덕벤져스 배우들의 화보 촬영 현장을 찾아온 것인데요~ 빠밤!!영화에서와는 사뭇 다른 모습으로 키동을 맞이하고 있던 우리 '덕벤져스···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMzBfMTcw/MDAxNzA2NjA0OTg2NzA0.nOD4xdYyPYRZIuWulH60NS-78NNt60oPhuUeXtgqRIQg.2lBEklqtsE6H1U_aQCk1OJCCqYUDP5R4JTYj6GHgVkYg.JPEG/IWeitVJlKklII16iuZa6vkXeyapo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
