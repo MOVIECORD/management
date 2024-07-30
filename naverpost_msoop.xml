@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매니지먼트숲</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 07:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 08:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 남지현 처음 봄]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38289186&amp;memberNo=22903361</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38289186&amp;memberNo=22903361</guid>
+            <pubDate>Tue, 30 Jul 2024 08:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[혹시 이런 사람 봤어? 웃을 때면&nbsp;하늘에서 햇살이 내려와~ 보기만 해도 달~콤 상~콤 ꒰딸기 요정꒱이잖아 .ᐟ .ᐟ 키치한 매력에 힙한 무드까지 아낌없이 보여주는 사람..  &lt;굿파트너&gt; 결방의 아쉬움을 달래주는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MjlfMjg3/MDAxNzIyMjQzNDk2OTc5.GkaCclF5UvboS0VA2GTBHjtzuHC1eIe_iRoulQ96zAIg.RrjAQAjGily4iPZXe6Qbdh7B-LZ8uCwM3tVtOwnzvVgg.JPEG/I4Dj5rhxIokJetpnBZSMGO3vaKyU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[수지]만 보고 살래요]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38195557&amp;memberNo=22903361</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 08 Jan 2024 08:24:26 GMT</pubDate>
             <content:encoded><![CDATA[2024년 새해를 여는 한복 수지! 한복의 美.. 수지 한복.. 고유명사로 지정이 시급합니다  2023 한복웨이브 사업에 수지 배우가 함께하게 됐는데요, 지난달에는 뉴욕 타임스퀘어 전광판을 통해 전 세계에 한복의 아름···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDRfMTMy/MDAxNzA0MzMyNzA3MjU3.NaNz8Awnhj1Lsc4DXLtVUNMEOhCVO4CzMm-nNS9VCq8g.CxqGpHOlz_N1C4-EuGOmAHV_wPcNgChqqrNXiV-v0aEg.JPEG/INd1pggoQm53wUN5H7UZuUaD_rGg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전혜진] 매일매일 '진경' 테라피]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37071348&amp;memberNo=22903361</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37071348&amp;memberNo=22903361</guid>
-            <pubDate>Thu, 21 Dec 2023 08:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[바로 어제(20일) 혜진 배우가 출연한디즈니+의 오리지널 시리즈 &lt;사운드트랙&nbsp;#2&gt;⟡모든 에피소드 공개⟡ &lt;사운드트랙 #2&gt; 에는'진경'&nbsp;테라피가 있다?! 지금부터 함께 보시죠-! ᚹ ——-.･···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjBfNjMg/MDAxNzAzMDY2MzExNTYz.N5DLdVIwCOHBCj0DbESiDUWvySX32SLKNqjSmB32tlwg.b6IeoX1bfV-ldedLs7RawqQZiuRKkE8srLomGui-JWkg.JPEG/IZYWchn95JAjryypnRMAkYfiW65w.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
