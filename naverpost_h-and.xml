@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jul 2024 12:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 13:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고도를 기다리는 곽동연을 기다리며]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38321410&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38321410&amp;memberNo=51396641</guid>
+            <pubDate>Wed, 31 Jul 2024 13:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 블리터입니다&nbsp;(~˙∇˙)~ 사진 : 파크컴퍼니 오늘&nbsp;준비한&nbsp;포스트는 연극&nbsp;&lt;'고도를&nbsp;기다리며'를&nbsp;기다리며&gt;&nbsp;무대로&nbsp;향한 곽동연의&nbsp;얼루어&nbsp;코리아&nbsp;8월호&nbsp;화보&nbsp;비하인드 시작부터 GOAT한 분위기 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MzFfMjI3/MDAxNzIyNDE3Mjc3NzE3.LAec98u5YUnPcsVlbBQMgMYEr-QIajSSbxfQFXwB_3Qg.QDO-vXJhIfLhCFf2fBUCh7MXVtfWLFHSCEb0aMj2-f8g.JPEG/ImOnc07erqU9gFInznP5f3YUC2cA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예쁜 천우희 옆에 귀여운 천우희]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38183234&amp;memberNo=51396641</link>
@@ -157,14 +165,6 @@
             <pubDate>Sat, 01 Jun 2024 08:24:14 GMT</pubDate>
             <content:encoded><![CDATA[“수정 배우 너무 예뻐요”“아까부터 말했어요”"예쁘다고 계속 얘기했어요!!"이제는 말하기도 입 아픈 '화보 장인' 정수정 배우의고전적 ⇆ 트렌디한 매력 가득했던 &lt;보그코리아&amp;···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDRfMzAw/MDAxNjk5MDY2Nzk1MjU3.yVXU1gCbFq9YlIQ94Bd2uWOlUmH9Fud_mrNa4fD9-OQg.lxO-RuA5AZjPpsh06bmGgIA-ddE-OE5SDeZV4Ko2gSwg.JPEG/IRmoHwoppqknu4szl3pg1xBS4eNc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠시라도 우리는 천우희]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36780369&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36780369&amp;memberNo=51396641</guid>
-            <pubDate>Sat, 01 Jun 2024 08:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[티저부터 예사롭지 않더니공개되자마자 많은 이들의 심장을 쿵-하게 만들었던 그 주인공 ♥성시경X나얼 &lt;잠시라도 우리&gt; MV 속에서이별한 후에도 여전히 상대를 그리워하는 여자를 연기한 천우희 배우시···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjZfNDMg/MDAxNjk4Mjk5NTA0MzY5.2FgCNUPfKN8epkG9iSSoAY-OLoUS36WPnnlK3py5Jg8g.OPr1Q6qHOHRjx63NnnuN80h-zU-dILba9JbdmmJsnEgg.JPEG/IkIwySWcIA9LwxwmfAegbLD-a3qc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
