@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ BH엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 07:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 08:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BH엔터테인먼트]
+8월의 BH ON AIR]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38332770&amp;memberNo=21724264</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38332770&amp;memberNo=21724264</guid>
+            <pubDate>Thu, 01 Aug 2024 08:26:27 GMT</pubDate>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MDFfMTYw/MDAxNzIyNDk4MDA0NDI0.vBAO_EeJhZ4lHM2S0lKUTb4_l9QkQKR4De89B6K2vA4g.ZnXnN1p1cX4cQra8L0JMr4PpA2IDaphJB4LDQeMVJ2wg.JPEG/IhToc5UkpYX0bFcwRo4vGrtmXeQw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이희준은 원래 잘생겼음(증거 첨부)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38110246&amp;memberNo=21724264</link>
@@ -160,14 +168,6 @@
             <pubDate>Tue, 02 Apr 2024 09:18:52 GMT</pubDate>
             <content:encoded><![CDATA[여러분그거 아시나요?&nbsp;  BH에는남들보다 조금 일찍봄이 왔다는 사실? 그 이유는 바로&nbsp; 짜잔 ❁&nbsp;봄을 닮은&nbsp;❁채연 덕분! 봄날의 햇살같은화사한 채연의 미소에&nbsp;  보고만 있어도싱그러운 기분이 드는 요즘!⊹⁺⸜(ᐡ⸝ɞ̴̶̷ ·̮···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDhfMjgx/MDAxNzA5ODY4ODc1Mzc0.HZMACXwXHGZCzNru54IAmr5RjcICpTPS-SF_K0kVOjMg.BboDR7oaZ2eqGoMNBdVYyhXtooSAUhj_7j9oFG9fLN0g.JPEG/IjTu_calUQaL78puWMFFJ1dj1x9U.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BH엔터테인먼트]
-3월의 BH ON AIR]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37432091&amp;memberNo=21724264</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37432091&amp;memberNo=21724264</guid>
-            <pubDate>Tue, 05 Mar 2024 09:17:52 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDVfMTAx/MDAxNzA5NjEwMjI0OTUy.eY4PxyAvpn5AZusJFdnw_vCI4ht8Bo2h58Dr_xdEZIEg.-cKNFT37wq6ntn2T8iXhmOZQVa-b_FhyARij1gmUT5Ig.JPEG/IWbJDiz4xOAHLVXik8tM_xPydLxk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
