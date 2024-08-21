@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 07:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 08:28:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[조윤희] '늘봄가든'에 초대합니다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38609355&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38609355&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 21 Aug 2024 08:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다'늘봄가든'에 오신 여러분 환영합니다! [사진: (주)바이포엠스튜디오, (주)제이앤씨미디어그룹] 곤지암&nbsp;정신병원,&nbsp;경북 영덕횟집에&nbsp;이은&nbsp;대한민국&nbsp;3대&nbsp;흉가&nbsp;늘봄가든에서&nbsp;일어난&nbsp;···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MjBfMTYg/MDAxNzI0MTY1OTYwNjY4.ZfGi1hGCU1VxldcS_bphgQBC_EaRYspAtZ0rHy_kxacg.FY-9W4p3tM53nBuoSJDdA1enPfEw5d8I07p23nH9qNog.JPEG/IU0sr8iO6M9eBwkB0hqHO-LN5xnE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[조윤희]와 여름 나기]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38531952&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 05 Jul 2024 08:25:25 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-)여러분 준비되셨나요? [사진: 쇼노트] [사진: 쇼노트] 뮤지컬 &lt;젠틀맨스 가이드&gt;에서'몬티 나바로' 역으로첫 무대에 오를 배우 김범 씨 만나기 D-1준비됐으면&nbsp;소리 질러···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDRfNzEg/MDAxNzIwMDc1MzQxMTc2.8z212OuQGaVuXk5yfHpL-kgOxzS9IZAEQRo--vYxiCAg.d4XZRoJ6-RurRmXGbf3M-xg9H_fvnCQV4D9yquk_tO0g.JPEG/IXnxwzZa_Y1SwYhNBuxr3o4MQ1Dk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[콩알탄] 럭키콩알탄 데이]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38107785&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38107785&amp;memberNo=35839671</guid>
-            <pubDate>Thu, 04 Jul 2024 07:20:50 GMT</pubDate>
-            <content:encoded><![CDATA['콩알탄' 포스트에 들어오신&nbsp;오늘 여러분의 운세는'럭키콩깍지'&nbsp;입니다 보기만 해도 행운이 가득 ♥배우 신현수, 손우현, 한민, 신승호, 유현수 씨의'콩알탄' 비하인드 함께 보러 가요! 리더···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDRfMTMw/MDAxNzIwMDU4Nzk4NzMx.-Xj-usBRmtwQj6NqQ2zEwVba1HslyqYFLJoKHcFFp8Mg.RFRYTbTIFLh1migaH4_J8IgRyTZPe5T1IuD-Lsb4b30g.JPEG/IDbRjdyFz6MMZh41iu5F2C_ACf1c.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
