@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 04:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 05:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김지연] 엑스포 개최]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38742112&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38742112&amp;memberNo=35839671</guid>
+            <pubDate>Wed, 28 Aug 2024 05:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-) '제6회 뉴시스 한류엑스포'에서김지연 엑스포가 동시에 열렸다는 소식에한달음에 달려가 보았습니다 먼저 인터뷰 중인배우 김지연 씨를 마주쳤는데요 K-콘텐츠, K-POP이전 세···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MjdfMTc0/MDAxNzI0NzI4MDA4MjY0.aLqqvdeHcqefnR6a7rY5uVdsp7bTDq0WJRoNi7KcHsYg.2wHyiTfCWnqp1LmiRASTnecUvOLr4c6DjLj7UHaMNDMg.JPEG/IT8InwTJRkFHzdUHKljrYqLUn3wg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이광수] 마지막 룰렛]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38634650&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 07 Jul 2024 04:23:51 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 킹콩지기입니다 :)바로 어제(6일, 토) 종영한SBS 금토드라마 &lt;커넥션&gt;에서 [사진: SBS 금토드라마 &lt;커넥션&gt;] 성공에 대한 야망,&nbsp;그 이면에&nbsp;질투심과 열등감을 감추고 있는 약육강식의 포식···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDdfMTI2/MDAxNzIwMzE3Mjg4NDU4.IQHSV0nN1hvfB7I1wHXzGu6-d4k3qd4bgGPxjxMaDF4g.J5qs_4Bf-5nLkMSLtDm34ZoTz8TT8BRbsz8fGLBqNOgg.JPEG/IP0NjzJubpjx1rDgrPCIGzoxAeWE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[손우현] <젠틀맨스 가이드> 개봉박두]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38118239&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38118239&amp;memberNo=35839671</guid>
-            <pubDate>Sat, 06 Jul 2024 07:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다 :)★★★★★ 경 ★★★★★ 축 ★★★★★ 배우 손우현 뮤지컬 &lt;젠틀맨스 가이드&gt; 첫 공연 D-1 ★★★★★★★★★★★★★★★★★★&lt;젠틀맨스 가이드&gt;는 1900년대 초반 영국 런던을 배경으로 가난한 청···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDVfMzcg/MDAxNzIwMTQ2MDgzODc5.0hZ4NP7dgjaxoJpA2JbSi-0Ie1HODd-YRfjYURdjp2Mg.6mlPp_gdQ_kh-tTVvBEaXXkCip9xZXGk58MyEbOByocg.JPEG/Ibmj9wvd80sYrNk6aIjWIomdKkBo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
