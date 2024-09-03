@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ sidusHQ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 08:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 09:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[나현] 여러분. 어서 와요.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38766544&amp;memberNo=28456565</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38766544&amp;memberNo=28456565</guid>
+            <pubDate>Tue, 03 Sep 2024 09:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[다들 이 썸네일 보고 들어온 거 알아요. "어서와요 ㅇ.&lt; ♥︎"   안녕하세요sidusHQ 입니다.&nbsp;오늘 준비한 포스팅의 주인공은 바로바로남양유업 초코에몽 웹드라마&lt;친하게? 아니 달콤하게&gt;에서유이 역···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MjlfOTIg/MDAxNzI0OTE3MjY5MDEx.PLHzvLQIG2VVBsEtOGXWQ23zMNqM55L6mojYz2xGSSwg.UCSjs2vZul3nEy2cpC31J3rZ_NxTh0L8QfrPYOOBpgUg.JPEG/IpDxypzvPGknzGokJG8-XGtTXqsE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[임주은] 이 여자를 어떡하면 좋죠?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38329013&amp;memberNo=28456565</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Jun 2024 08:24:09 GMT</pubDate>
             <content:encoded><![CDATA[지난 11월 25일2023 BYUNGHUN'S BIRTHDAY PARTY [병헌의 겨울날]우리 너무 행복했잖아요...♥ 그날의 비하인드 전해드립니다 ☆。*。☆ ☆。*。☆지금은 리허설 중! 일할 때는 J답게 꼼꼼히 체크하는 병헌 배우인데요···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDFfMTAz/MDAxNzAxNDE4MjYxMDQy.MluHD7FZrlBDxI2mvKwxZvCCmhY_YOTpLQeUJNfaOG4g.Gw0FoiJ442TPv2ReHaGF2ttyKGmJvsCVmu79PgR_Jl4g.JPEG/IxEyIcl7xfkP217B1q8HzV73RK_4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[임주은] 겨울하면 생각나는 것은?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36912855&amp;memberNo=28456565</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36912855&amp;memberNo=28456565</guid>
-            <pubDate>Sat, 01 Jun 2024 08:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[KBS2 주말 드라마 &lt;효심이네 각자도생&gt; 본방사수하고 계시나요?대한민국 최고의 앵커이자 회장 따님으로 가지고 싶은 건 가져야 직성이 풀리는 최수경 역할을 맡은 주은 배우 &lt;효심이네 각자도생&gt; 촬영 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjBfNDUg/MDAxNzAwNDU2NDgyNzMx.e1Gt93ZMTQjaKM71lZ6OKqTwViSa8MLE5IMbecAETX8g.UgCf7VVlVjRwKCsMXnFZBrC3qkWfS5bAMW3WrB_e2CMg.JPEG/IQSmhuzwLiiMl5OwHTRAFbYY7x10.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
