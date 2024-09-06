@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 09:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 10:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손꼽아 기다리던 [현빈]매직✨]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38591971&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38591971&amp;memberNo=32146648</guid>
+            <pubDate>Fri, 06 Sep 2024 10:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST POST] HYUN BIN ♥여러분 잘 지내고 계신가요! 올해 유독 뜨거웠던 여름이었기에 많은 분들이 손꼽아 기다리고 기다리시는 그것을(...!) 베스트리가 준비해 보았습니다. 선조들의 지혜를 엿볼 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MjBfOTYg/MDAxNzI0MTM3Nzk2NzQ2.EBtFs5gbsVg62It04pbYjpN9AWmJ4ttduR50qBT2cjAg.R4fAfoxGsFw47eKCQQFt6mff7EoJ7ONeSAKQoRmtDZkg.JPEG/IIMsQXJA19f2vtMPz5eIjdqzcNIM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[VAST zip]
 분위기 무슨 일이야,
@@ -163,14 +171,6 @@
             <pubDate>Mon, 13 Nov 2023 22:17:57 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST]HYUN BIN♥네, 여러분 또 돌아왔어요-'현'며들 수밖에 없는 그 시간이요 이 사진을 보고 어떻게 빠지지 않을 수가 있나요 하루를 여는 이 아침. 잠시 명상을 하는 순간에도 멋지고 기지개를 켜는 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDVfMjAy/MDAxNjg4NTM4NzQyNjgz.xPtPK744FC5pXQpIBQszRl6siHiwAiF0JS6F-wDcjFMg.woqZ39hkUmGArm6lCfkGuxV0e1LujrCnZN3UAHh3e6gg.JPEG/IyiGo9lgwJyxPPP-NknEFbPz7Cm8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이런 모델이 실제로 존재한다고?๑°⌓°๑]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36151810&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36151810&amp;memberNo=32146648</guid>
-            <pubDate>Mon, 13 Nov 2023 22:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST]SHIN DO HYUN♥여러분, 요새 엄청 핫한 모델이 있다믄서요?&nbsp;머리부터 발끝까지 매력이 흘러넘치다 못해모두를 스며들게 만든 그런 모델이 있다기에베스트리가 단독으로 취재해 보았습니다.그 현장- 바로 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjZfMTk0/MDAxNjg3NzU5MDQzMTAy.mzwyyMu2J3SLIl9s3arm4pElVSMRT433NcVBArgwv0kg.ngka7CHuMMeAXC5rmw7mpVq4em9LPeogTIRp22imy30g.JPEG/I2ZuHkFFlO9t6AlO71bu0SniQgaE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
