@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 키이스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 10:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 11:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강력한 매력의 [김동욱]]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38863920&amp;memberNo=29770009</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38863920&amp;memberNo=29770009</guid>
+            <pubDate>Fri, 06 Sep 2024 11:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[올해 수능 금지곡은 '강매강 송'이 될 것이 확실합니다! UV(유세윤, 뮤지)와 컬래버레이션 한 '강매강 송' 들어보셨나요? 어제(5일) 열린 '강매강' 제작 발표회에서 김동욱과 아이들 프로젝트! '강···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MDNfMjIx/MDAxNzI1MzUxMzkwMjI5.NNHOxLgKm_XNRE89DsFCd56oMOXZCbDeK4GKf5tMsHog.dvv8Gful0DKaM6sI4eo2BqhuVOss6ckRuYCEvaigTL0g.JPEG/IMvyolDPUBzEyk64Jn5-FdJTBGjg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스며드는 중!! [김리예] 오예!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38458704&amp;memberNo=29770009</link>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 08 May 2024 11:17:36 GMT</pubDate>
             <content:encoded><![CDATA[ㄱ나니? 작년 여름..!! 키동이가 자랑했던 얼굴!키동이의 자랑 황보운 배우가비오(BE'O)의 '밤새' 프리퀄 버전 뮤직비디오에 주인공으로 출연했습니다!뮤직비디오에도 프리퀄이 있다구? 비오의 '밤새'는 연인···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDdfODEg/MDAxNzE1MDgyMjIwNTY4.9A5lPMlz99hbpVj043chjcCoOFrIKHOfy5K3ogI9aBwg.MPjWwaBMKYVu5Fz2czFY1dwDJ0eOd6WzmY_suiSFFBcg.JPEG/IJQbfv4RdJGZ5uxZ2Yo_FDREXgGM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예능 작가로 변신[한 나]]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37773309&amp;memberNo=29770009</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37773309&amp;memberNo=29770009</guid>
-            <pubDate>Tue, 07 May 2024 11:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[그래! 수목 드라마! 너로 정했다!안녕하십니까?지난주 첫 방송된 JTBC 수목드라마 '비밀은 없어' 넷플릭스 오늘 대한민국의 TOP 10 시리즈 1위!까지시청해 주신 여러분 고맙습니다.앞으로도 쭉~~ 수요일, 목요일 그···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDdfMjIy/MDAxNzE1MDU5NDE2NjI0.02spAHprNMCOKAddvcwMaAkN7QOmbQ8hfFs5jh2qWoYg.tFYVCN1FXMsAdNtxjHoU2pjEKcr6fEnPm2NHqelCkRYg.JPEG/IymSFPw94rtWi15IF5mMYzVsGvwg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
