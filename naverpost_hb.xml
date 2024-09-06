@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ HB엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 08:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 09:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리의 심장은 지키지 못했'지은']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38938790&amp;memberNo=3247896</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38938790&amp;memberNo=3247896</guid>
+            <pubDate>Fri, 06 Sep 2024 09:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[동영상  버튼을 누르면 현재 화면에서 재생됩니다. 엄마친구아들 김지은, 딸을 지켜주지 못한 아빠 윤지온에 걱정의 잔소리 | tvN 240831 방송 naver.me 매주 볼수록 빠져드는 연기력으로우리들의 심장은 지키지 못···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MDVfMjI3/MDAxNzI1NTM2ODgzMjAx.SV6V1kIDPvW6sSKYuuOXI45qawUF6QCcgfYWPgSycAUg.55OYOd7ALUEsmUvbqiQ26WyCQz64JoPL-PaBp-tBt-kg.JPEG/IcSgEZ-AwK2bCxR52OAoCsl4W3Nc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안재현의 잠시 실내합니다!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38843940&amp;memberNo=3247896</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 22 Dec 2023 08:23:03 GMT</pubDate>
             <content:encoded><![CDATA[여.러.분제가 이렇게 '멍'해진 이유... 다들 눈치 채셨나요...?&lt;웰컴투 삼달리&gt; 속 윤서 배우의 처음 보는 모습에 놀란 치비...화 한번 안 내는 천사 of 천사이신 우리 윤서 배우가 이렇게 180도 바뀐다고...?···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjFfMTk0/MDAxNzAzMTUwMjIxMjg4.Nkj9XesYkcZDEC63RCX7mRvdXcw6IhkwEVGQh7SbbgAg.e35z1J2mMbJHKE4c59MqudCbqBnZ7xZizQ8kFquETLAg.GIF/I4r_ZwpcC66GNg1VhCfIkHdvjv80.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[조윤서] 사진 작가 데뷔...?!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37019616&amp;memberNo=3247896</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37019616&amp;memberNo=3247896</guid>
-            <pubDate>Fri, 15 Dec 2023 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! ★ 치비 짱큰 등장 ★ 윤서 배우가 사진 작가로 변신했다고 하여, 조윤서 작가님을 포착하고자 달려 갔는데요! 사진 작가 조윤서 모먼트.jpg 지금 바로 GO!자연광+조윤서=♥ 윤서 배우와 자연광은 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTVfMjY5/MDAxNzAyNjI5MTkwNzQ3.vc8YePuuX0L0mXqRFC56MRpTQshHbbrNE2NH6_K5QPEg.eJNcrtS44sgrRS2Xnh9UI36Gzn7jQf8V6MrWY9q2tdEg.JPEG/IafLxd2_Q483lhFpSJRRr3BSwcVY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
