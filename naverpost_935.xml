@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 935엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Sep 2024 04:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 05:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박주현] <무쇠소녀단> 포스터 촬영 비하인드]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38861847&amp;memberNo=36232354</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38861847&amp;memberNo=36232354</guid>
+            <pubDate>Sat, 07 Sep 2024 05:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 기다리고 기다리던박주현 배우의 첫&nbsp; 예능 고정 프로그램인 tvN&nbsp; &lt;무쇠소녀단&gt;이 첫 방송을 앞두고 있습니다~!! &lt;무쇠소녀단&gt;은 예능 프로그램 사상 최초로 여자 배우들이 다 함께 철인 3종 경기···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MDNfMTI0/MDAxNzI1MzQ2ODU1MDQ5.ii1hHpk9nYvcJfTag-4vz6UhFhDmePi6OR7GJ7dn5jAg.4FzKeYouzNTGmaZisfNSoj5a2v__v_r_fVFLN5HJGq8g.JPEG/IEAkquyYKM-P0OXGTfHZxBpP-_hc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[한성민] <코스모폴리탄> 화보 촬영 비하인드]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38628591&amp;memberNo=36232354</link>
@@ -160,14 +168,6 @@
             <pubDate>Mon, 13 Nov 2023 22:17:35 GMT</pubDate>
             <content:encoded><![CDATA[그래요,&nbsp;얼굴 잘하는 배우 배우 남궁민 입니다 풀샷은 장르미가 물씬 클로즈업은 그냥 美가 흠씬 남궁민(a.k.a 남궁미)&nbsp;배우의 낮과 밤&nbsp;다 밝히는 근본 비주얼 가득한 화보 촬영 비하인ㄷ 아니 굳이 설명은 생략할게요···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjJfMTU1/MDAxNjc3MDQ5ODA3MDA0.gFESTdKlNhIsSDfZs0ygKmS1-IfE6_rRQwKNZcdGIsog.ZegRnirIZQ40cjKxXXDeJNw4KG92MoRWAilnn8PiWTUg.JPEG/IWhbKpC3CJ1BPKlcBedHnTfwa-Us.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박주현] 반드시 오고야 말 행복 ⊰✿]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35201055&amp;memberNo=36232354</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35201055&amp;memberNo=36232354</guid>
-            <pubDate>Mon, 13 Nov 2023 22:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[❝ 달이 떴다고 전화를 주시다니요 ❞ ❝&nbsp;짠! 콜?&nbsp;❞막걸리 만큼이나 끊기 어려운 소랑이와의 이별 이상한 행성 조선에 똑하고 떨어졌던수상한 궁합쟁이 누군가에겐 사고뭉치 혹은 사기꾼 또 누군가에겐 사랑의 전령사 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjBfMTMw/MDAxNjc0MjIxODkzMDUw.DMVml_FAz3to2NIV5vxXiG95kq89YT9DEo5C2THd8UQg.61KAYD8nL-fPVdWZ6OnBh0ofETxd-d4HooV4luBRuTUg.JPEG/IJ0yR4ytScZ8j_bgkaB890TltbLU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
