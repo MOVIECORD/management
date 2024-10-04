@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에이치앤드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 08:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 09:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ᰔ사실 천우희는 아주 유명한 화보 맛집임ᰔ]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39404787&amp;memberNo=51396641</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39404787&amp;memberNo=51396641</guid>
+            <pubDate>Fri, 04 Oct 2024 09:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[사진 출처: 엘르 코리아 천우희 화보는블리터 심장을 그냥 막 찢어......다들 비하인드 기다리셨죠?그 기다림에 부응하는 블리터가 되겠습니다⸜(&nbsp;˙&nbsp;˘&nbsp;˙)⸝♡ 이런 컷 하나 보여드려야만비하인드&nbsp;같잖아요♥ 근데...이미···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMDJfMzIg/MDAxNzI3ODU1MDYwODc3.ulGtllpanZfBr7gEBF78mYQDxRd4Wx67Qah-m7VP8cog.tf0edmtzWyHeyZwkwAsC2oKGOt6YKqlGxzefJlyZfh8g.JPEG/IZY-g-R51wxxuiSSUqYFha0V4m54.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무대 천재 곽동연]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38982774&amp;memberNo=51396641</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Jun 2024 08:24:14 GMT</pubDate>
             <content:encoded><![CDATA[빈둥이 친구들 안녕~ 한 주간 잘 지냈나요?첫 등장부터 위트 있는 대사 팡팡 역대급 케미 팡팡 터트리며 미친 존재감 뿜어낸 주인공JTBC 새 토일드라마 &lt;닥터슬럼프&gt;에서 이제 막 개원한 성형외과 의사이자너···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDJfMjI2/MDAxNzA2ODU1Njk4ODI1.BIbiuyEjl23gSgtXLeLO1gc2vxxROz2eZotlg63yUmMg.rdF94zNBhVEorFY1X8Q1a21w_AzKdgv3nbkUC-rg_bgg.JPEG/I36bjy6s0X6YUuPrmb30Uf3RpkSM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 해피엔드는 소이현]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37078901&amp;memberNo=51396641</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37078901&amp;memberNo=51396641</guid>
-            <pubDate>Sat, 01 Jun 2024 08:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[더 멋있고더 세련된 모습으로 돌아온 소이현성공만을 좇던 한 여자가 믿었던 사람들의 배신으로 충격적인 진실을 마주하는 휴먼 심리 스릴러 드라마 TV CHOSUN &lt;나의 해피엔드&gt;예중, 예고, 미대 졸업 후 유학···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjlfNDQg/MDAxNzAzODUxMjcxODc0.aA1gaijpG1bcoyqSwHzUo9Rhx9Fxmb3aqem6bgyCp3Eg.Zay3dNAKoHRnb7jwTrIkX8mH-_ZonXL4jKeZ3WUn0Tgg.JPEG/I0YjFwFldo2b6fdLmoV4yGmpdxEY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
