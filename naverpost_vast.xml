@@ -4,9 +4,19 @@
         <title>네이버 포스트 ─ VAST엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 08:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 09:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[VAST zip]
+가을 제철
+♥신도현♥]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39455496&amp;memberNo=32146648</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39455496&amp;memberNo=32146648</guid>
+            <pubDate>Tue, 08 Oct 2024 09:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[[VAST zip]가을 제철 ♥신도현♥      가을에 놓쳐서는 안 될 가을 제철 4대장대하, 꽃게, 배그리고 신도현 미모...♡가을 향기 몰고 온 도현 배우의 비하인드함께 보시죠:)               가을 향기 제대로 몰고 온도···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMDdfMjE2/MDAxNzI4Mjc5NTE3MDg4.be1KcnwKAXdQBTdVvr61jY9hwg8QhZfJVRKD16VD0a8g.Oq4fIUeDNZYnWFPxwzeKNNKKCSDVtxSnbOlzlUmX_tkg.JPEG/I2wYyMfmPP0lVBkVVybMghYeeuVc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손꼽아 기다리던 [현빈]매직✨]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38591971&amp;memberNo=32146648</link>
@@ -163,14 +173,6 @@
             <pubDate>Mon, 13 Nov 2023 22:17:57 GMT</pubDate>
             <content:encoded><![CDATA[[VAST POST]HYUN BIN♥ 보기만 해도 고개를 살짝 돌리기만 해도 멋짐이 흘러넘쳐 바다를 이루는 사람 말도 안 되는 비주얼로입덕에 확신을 주는 [장본인]그런 현빈 배우의 광고 촬영 비하인드지금 바로 시작합니다 앉···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjZfNDQg/MDAxNjkwMzYxMTE3Nzcx.Pa2XwheAeSfUMcz2oN1Bbghl8U9kcxwYfS_Fy9k46gUg.R7LfbbCoK2e4rBQnwl-6dt7_ji-0R-ZBvcxYaSTVAQ4g.JPEG/IBXh8HcZ81tNWOMl7ga_LdM81BpY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['현'며들 시간이에요, 고개를 들어주세요]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36199857&amp;memberNo=32146648</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36199857&amp;memberNo=32146648</guid>
-            <pubDate>Mon, 13 Nov 2023 22:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[[VAST POST]HYUN BIN♥네, 여러분 또 돌아왔어요-'현'며들 수밖에 없는 그 시간이요 이 사진을 보고 어떻게 빠지지 않을 수가 있나요 하루를 여는 이 아침. 잠시 명상을 하는 순간에도 멋지고 기지개를 켜는 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDVfMjAy/MDAxNjg4NTM4NzQyNjgz.xPtPK744FC5pXQpIBQszRl6siHiwAiF0JS6F-wDcjFMg.woqZ39hkUmGArm6lCfkGuxV0e1LujrCnZN3UAHh3e6gg.JPEG/IyiGo9lgwJyxPPP-NknEFbPz7Cm8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
