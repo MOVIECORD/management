@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 07:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 08:31:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[손우현] <테베랜드>로 이렇게 왔노라]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=40856150&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=40856150&amp;memberNo=35839671</guid>
+            <pubDate>Tue, 19 Nov 2024 08:31:21 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :) 섬섬옥수&nbsp;손손옥수(?)의 주인공누군지 아시겠나요? 배우 손우현 씨가연극 &lt;테베랜드&gt;로 돌아왔습니다 혹시, 설마 하다가결국 기다리고 기다려온&lt;테베랜드&gt;로 이렇게 왔노···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMTJfMTM1/MDAxNzMxMzkwMDc1ODQ2.Ti9tn-NBpP74vVwLkyPW8D2oH8btIvEYNnPBKYPFU2Yg.vzKQcWEWSdygYoLexo_hQOq89XVy7iJOSs5o0OBXlXMg.JPEG/IAvDg-4Rcd-4tcyOewrMrW_ZfLlk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[추소정] 나랑 <결혼해YOU>]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=40805475&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 05 Sep 2024 08:28:24 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다 :) 홀스(Horse) + 연석(YeonSeok) = 홀리 몰리(Holy Moly) 예상치 못한 조합으로&nbsp;포스트의 시작부터감탄하게 만든 배우&nbsp;유연석&nbsp;씨 네, 오늘은 매거진 '에스콰이어' 9월 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MDRfMjgz/MDAxNzI1NDE0NzM0Mjg4.eqhJecqFgTua_o4S-pZKDaZ9_EMXJe4b2e72rqQbZfIg.f6XwQtRDolzC9AaG5ku_gA2jO4-mcKxsYmeGdRjSwtIg.JPEG/I9Rc1ZOAQUCaQCNXM1OVgu4IIuvA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이동욱] 출장 중입니다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38785466&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38785466&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 30 Aug 2024 05:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :) - 출장 중 -급한 용무는 연락 주세요XXX-1106-1106  오늘은 열일하는 배우&nbsp;이동욱 씨를 따라서함께 출장을 가보려 합니다(&nbsp;˶ˆᗜˆ˵&nbsp;) 잠깐! 동욱 씨, 짐 챙기셨죠? ⋆⁺₊⋆&nbsp;이동욱 멋'···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MjlfNzcg/MDAxNzI0OTI2MjMyODg1.OcwFdhVmc9-DTbjbQY2B7Ule635mfdnS9JspD4voymEg.2jdu6_tbZFb4EneR0SwsubOOv3B7Vnevxiyc0Lb_rcAg.JPEG/IpyRy-9SwZDaxqBV7wDmBL13FptI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
