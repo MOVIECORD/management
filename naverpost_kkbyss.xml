@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 11:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 12:45:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이동욱] 왕자님이 사라졌다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=44043624&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=44043624&amp;memberNo=35839671</guid>
+            <pubDate>Mon, 23 Dec 2024 12:45:07 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 킹콩지기입니다:) 지난 10월, 배우 이동욱 씨가 그림자만 남기고 사라졌다는 충격적인 소식(?)에 모두가 아주 깜~~~짝 놀라고 말았는데요사라진 동욱 씨가 나타난 곳은 바로 데뷔 25주년 팬···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMjNfMTY1/MDAxNzM0OTUwMzIwNTM2.6ifx0hNfDW6FDmF9nRDwtMpHWwMD89eaRSL8CASnu9Mg.aG7MpbOWqwPsFc8WrAeg44v1oQBl0dmxTRdU6Y-Eb4Ag.JPEG/IKYWNkDBAgCKAquRg12EyzyeR2OE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[채수빈] 홍희주 성장기]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=43648583&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 16 Nov 2024 04:30:10 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 킹콩지기입니다 :) 청춘의 열정이 가득 담긴 배우 신현수, 손우현, 한민, 신승호, 유현수 씨의 '콩알탄 시즌2' 비하인드 지금 바로 공개합니다 ̗̀( ˶' ３'˶) ̖́-시즌2에도 여전한 청량 비주···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMTVfMjc0/MDAxNzMxNjY2NzQzODcy.2drE-VfQJprlg4gTEESNN_QR8eAn-tDxEaXr1Bw4L_8g.ktDmI0H3Tf1ydBeO6GZw6xP2ILtSP3b6JwD14Wp-41Yg.JPEG/ITtbFCPzOQAITu_uqa5SaRrXeL74.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유연석, 채수빈]이 거신 전화는...☎]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=40661023&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=40661023&amp;memberNo=35839671</guid>
-            <pubDate>Fri, 15 Nov 2024 08:30:18 GMT</pubDate>
-            <content:encoded><![CDATA[뚜루 뚜루루 뚜루뚜루 여보세요?!네, 배우 유연석, 채수빈 씨가 함께 출연하는 MBC 새 금토드라마 &lt;지금 거신 전화는&gt;입니다 (´⊙‸⊙`) 네? 유연석, 채수빈 씨요?!! 이 두 사람이 한 드라마에 나···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMTNfMiAg/MDAxNzMxNDk3MjYwMDY4.F_EBJ9GPykN_gzN7sXzXOVqXZ6WQnAM5PmAxJvDvD7Ug.C4i9CnJCnhECHEXmc69MtfmcQOMqT2LSSo4wnxqY97Eg.JPEG/I5SARSKbeICPNHRQnFPuSPuUEKlM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
