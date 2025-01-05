@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 킹콩 by 스타쉽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jan 2025 05:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2025 06:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[유연석] 지금 못 다한 이야기를...]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=45617203&amp;memberNo=35839671</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=45617203&amp;memberNo=35839671</guid>
+            <pubDate>Sun, 05 Jan 2025 06:30:57 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :) 어제(4일, 토) 대단원의 막을 내린 MBC &lt;지금 거신 전화는&gt; 나 이제 어떻게 살라고! 무슨 재미로 살라고!! 이 아쉬운 마음을 가득 담아 지금 못 다한 이야기는 배우···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNTAxMDNfMjI1/MDAxNzM1OTE0NDYzMDA5.-zlpBDRdJEC90J8Ko5sy1-MTpjTxwgX38nOnaZW-Fuog.aX1ZVT0JFrs_BwrzLuA7747YcuNGUZrOjrHqPrlblecg.JPEG/I5KhEKKoiSVzJiUR76vL5h8M2Fu8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김지연]의 연말 파티]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=44600287&amp;memberNo=35839671</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 25 Nov 2024 08:32:36 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :-) 오늘은 핸썸 가이 한 분을 소개하려고 해요그 주인공은 배우 신승호 씨그의 풀네임이 신핸썸가이인 이유 중 하나, 우월한 기럭지거기에다 체크 셔츠 하나 툭 걸쳤을 뿐인데 MT 같···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMjVfNDgg/MDAxNzMyNTA0NTY0OTQ2.OSzhxtKzsmev74m7z7da1yIt_ftojctO_hL5_fSutXEg.W4ziL7tik9HyiWhG1TEnJriCmsVkwFNuFq4FtC7yzKQg.JPEG/ILEljLgPQqAMtyaeAEQNfjTlrQ7U.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유연석, 채수빈]표 로맨스릴러 미쳤네(positive)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=41105009&amp;memberNo=35839671</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=41105009&amp;memberNo=35839671</guid>
-            <pubDate>Sat, 23 Nov 2024 08:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 킹콩지기입니다 :) 어제(22일, 금) 첫 방송한 MBC 새 금토드라마 &lt;지금 거신 전화는&gt; 재미있게 보셨나요?등장과 함께 시선을 집중시킨 美친 비주얼(positive)의 쀼 백사언(···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMjNfMTkz/MDAxNzMyMzM2MjM5OTIx.NENw0Y2Bc2ALflFzu5MpGC9bjBK-nrgpbNg0dcjh8Kcg.hq3u0dwr107kBDB53SHNBTyzNPc9OsAInxg0WD60_pQg.JPEG/IrXFXtMGsMDpj0tG3Txq980j8Oao.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
